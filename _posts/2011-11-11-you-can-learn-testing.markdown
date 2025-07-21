@@ -14,11 +14,11 @@ expert?”.
 
 To become great in your profession, you need to learn a lot. This seems obvious. Jos van Rooyen wrote an article in
 Dutch entitled
-“[Hoe goed zijn we als tester?](http://www.computable.nl/artikel/ict_topics/development/3661558/1277180/hoe-goed-zijn-we-als-tester.html){:target="\_blank"}”
+“[Hoe goed zijn we als tester?](https://www.computable.nl/artikel/ict_topics/development/3661558/1277180/hoe-goed-zijn-we-als-tester.html){:target="\_blank"}”
 (How good are we as testers?). In this article he writes: “Many people call themselves professional tester without
 having a solid foundation. Yes, we follow the ISTQB Foundation, etc. and think that we are professional.” I fully agree
 with this.
-[Lesson 272](http://books.google.nl/books?id=n88imf9m25kC&pg=PA226&lpg=PA226&dq=if+you+can+get+a+black+belt+in+two+weeks+avoid&source=bl&ots=9twt6XPomN&sig=oF79p5HjzlNwd3ZB_CHJbgqwf30&hl=nl&ei=wSWzTuXhHcedOrqZ6PUB&sa=X&oi=book_result&ct=result&resnum=2&ved=0CDoQ6AEwAQ#v=onepage&q=if%20you%20can%20get%20a%20black%20belt%20in%20two%20weeks%20avoid&f=false){:target="\_blank"}
+[Lesson 272](https://books.google.nl/books?id=n88imf9m25kC&pg=PA226&lpg=PA226&dq=if+you+can+get+a+black+belt+in+two+weeks+avoid&source=bl&ots=9twt6XPomN&sig=oF79p5HjzlNwd3ZB_CHJbgqwf30&hl=nl&ei=wSWzTuXhHcedOrqZ6PUB&sa=X&oi=book_result&ct=result&resnum=2&ved=0CDoQ6AEwAQ#v=onepage&q=if%20you%20can%20get%20a%20black%20belt%20in%20two%20weeks%20avoid&f=false){:target="\_blank"}
 in the book Lessons Learned in Software Testing: “If you can get a black belt in only two weeks, avoid fights”. You have
 to learn and practice a lot to become good at your profession. But that goes for everything: just think of sports or
 music.

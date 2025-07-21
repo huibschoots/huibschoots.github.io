@@ -22,7 +22,7 @@ After an inventory and a “dot-vote” the topic “Great Testers” received t
 column, thanks guys!
 
 In this Dutch article on
-[talent, personal qualities, skills and competencies](http://patrickschriel.nl/2011/07/06/talentontwikkeling-persoonlijke-kwaliteiten-vaardigheden-en-competenties/){:target="\_blank"},
+[talent, personal qualities, skills and competencies](https://patrickschriel.nl/2011/07/06/talentontwikkeling-persoonlijke-kwaliteiten-vaardigheden-en-competenties/){:target="\_blank"},
 Patrick Schriel says: “A skill is the ability to be able to perform an act or solve a problem. Competencies are
 knowledge and skills, they are not innate, but are caused by intense and deliberate practice “. With skills I think of
 being able to apply a particular test technique, or being able to work with certain systems, etc. But for a tester key
@@ -40,7 +40,7 @@ find curiosity also very important. Or as Richard Feynman put it:
 information, how does this work? He constantly is
 [asking questions](https://www.practitest.com/resource-center/blog/a-good-tester-asks-good-questions/){:target="\_blank"}
 to understand. I remember the following quotes from the
-[rapid software testing](http://www.rapid-software-testing.com){:target="\_blank"} training: “A tester’s responsibility
+[rapid software testing](https://www.rapid-software-testing.com){:target="\_blank"} training: “A tester’s responsibility
 to remain unsure when everybody is sure” and “Testing is about questioning and learning under conditions of fundamental
 uncertainty”. A tester knows that things can be different (Jerry Weinberg). And in Potsdam Michael Bolton added “a good
 tester is able to see the complexity of things that seem simple and the simplicity of things that appear complex.”
@@ -67,7 +67,7 @@ Of course knowledge is important. But curiosity and the ability to learn quickly
 knowledge and therefore makes it less important. A good tester has knowledge of the following (in order of importance)
 testing, IT and domain. But attitude, skills and qualities for a tester are far more important! It was Lasse Koskela who
 talked about the
-“[Least qualified implementer](http://csis.pace.edu/~grossman/dcs/XR4-PromiscuousPairing.pdf){:target="\_blank"}” in his
+“[Least qualified implementer](https://csis.pace.edu/~grossman/dcs/XR4-PromiscuousPairing.pdf){:target="\_blank"}” in his
 keynote at the Agile Testing Days. This is the principle that in an agile team someone with the right skills but the
 least knowledge picks up the work item in order to get the whole team as much as possible at the same level of
 knowledge. Interesting! I want to read more about this.
