@@ -172,7 +172,7 @@ Last update 28 June 2025
 
 ---
 
-### Testing Skills
+### [Testing Skills](#skills)
 
 -   [WHOSE – Skills book](https://whose.associationforsoftwaretesting.org/index.php?title=Main_Page)
 -   [Trying to Teach Testing Skills and Judgment](https://www.thetesteye.com/papers/TryingToTeachTestingSkillsAndJudgment.pdf)
@@ -262,7 +262,7 @@ Last update 28 June 2025
 
 ---
 
-### Test Ideas
+### [Test Ideas](#ideas)
 
 -   [How to come up with test ideas](https://erik.brickarp.se/2016/08/how-to-come-up-with-test-ideas.html) by Erik
     Brickarp
@@ -913,7 +913,7 @@ What to learn more about storytelling? Have a look [here](https://www.huibschoot
 
 ---
 
-### (Social) Science
+### (Social) [Science](#science)
 
 -   What testing can learn from social science – Part [1](https://www.huibschoots.nl/wordpress/?p=1173),
     [2](https://www.huibschoots.nl/wordpress/?p=1216), [3](https://www.huibschoots.nl/wordpress/?p=1250),
@@ -983,7 +983,7 @@ What to learn more about storytelling? Have a look [here](https://www.huibschoot
 
 ---
 
-### Learning
+### [Learning](#learn)
 
 -   [Secrets of a Buchaneer Scholar](https://www.amazon.com/Secrets-Buccaneer-Scholar-Self-Education-Pursuit-Lifetime-)
     (book) by James Bach
@@ -1027,7 +1027,7 @@ What to learn more about storytelling? Have a look [here](https://www.huibschoot
 
 ---
 
-### Thinking
+### [Thinking](#think)
 
 -   [How Thinking Works](https://youtu.be/dUqRTWCdXt4) (video) by Dr. Derek Cabrera
 -   [How to think, not what to think](https://youtu.be/6dluwVks444) (video) by Jesse Richardson
@@ -1069,7 +1069,7 @@ What to learn more about storytelling? Have a look [here](https://www.huibschoot
 
 ---
 
-### Visualisation
+### [Visualisation](#visual)
 
 -   [Thinking Visually In Software Testing](https://www.youtube.com/watch?v=K4hvAbN2QbE "Thinking visually in SW Testing")
     by Alan Richardson (video)
@@ -1098,7 +1098,7 @@ What to learn more about storytelling? Have a look [here](https://www.huibschoot
 -   [Hand-Sketching: Things You Didn’t Know Your Doodles Could Accomplish](https://www.smashingmagazine.com/2013/10/things-you-can-accomplish-with-hand-sketching-doodling/)
     by Laura Busche ([Sketchnote](https://twitter.com/ruudcox/status/406353042284363776/photo/1) by Ruud Cox)
 -   [Sketching & Drawing Lessons](https://www.instructables.com/id/Sketching-Drawing-Lessons/)
--   [The Sketchnote Podcasts](https://The Sketchnote Podcast) by Mike Rohde
+-   [The Sketchnote Podcasts](https://sketchnotearmy.com/podcast) by Mike Rohde
 
 ---
 
@@ -1245,7 +1245,7 @@ What to learn more about storytelling? Have a look [here](https://www.huibschoot
     Clokie
 -   [I started listing resources & guides](https://dancedwiththesoftware.blogspot.nl/2014/02/i-started-listing-resources-guides.html)
     by Tony Bruce
--   [Mobile Testing Pathway](https://Mobile Testing Pathway) by Katrina Clokie
+-   [Mobile Testing Pathway](https://katrinatester.blogspot.com/2015/08/mobile-testing-pathway.html) by Katrina Clokie
 -   [API, Web Services & Microservices Testing Pathway](https://katrinatester.blogspot.nl/2015/09/api-web-services-microservices-testing.html)
     by Katrina Clokie
 -   [Continuous Delivery Testing Pathway](https://katrinatester.blogspot.nl/2015/09/continuous-delivery-testing-pathway.html)
