@@ -194,11 +194,11 @@ I wonder if people who pass the exam know about these AND more important practic
 
 Some more posts that discuss great testers:
 
--   [Becoming a world class tester](http://www.ebaytechblog.com/2013/01/31/becoming-a-world-class-tester/){:target="\_blank"}
--   [What makes a good software tester?](http://msdn.microsoft.com/en-us/magazine/dd252951.aspx){:target="\_blank"}
--   [10 Things you can do to become a better tester](http://blog.utest.com/10-things-you-can-do-to-become-a-better-tester/2013/05/){:target="\_blank"}
--   [What makes a good tester?](http://qablog.practitest.com/2008/12/what-makes-a-good-tester/){:target="\_blank"}
--   [10 features a perfect software tester should have](http://testility.com/blog/2013/08/10-features-a-perfect-software-tester-should-have/){:target="\_blank"}
+-   [Becoming a world class tester](https://www.ebaytechblog.com/2013/01/31/becoming-a-world-class-tester/){:target="\_blank"}
+-   [What makes a good software tester?](https://msdn.microsoft.com/en-us/magazine/dd252951.aspx){:target="\_blank"}
+-   [10 Things you can do to become a better tester](https://blog.utest.com/10-things-you-can-do-to-become-a-better-tester/2013/05/){:target="\_blank"}
+-   [What makes a good tester?](https://qablog.practitest.com/2008/12/what-makes-a-good-tester/){:target="\_blank"}
+-   [10 features a perfect software tester should have](https://testility.com/blog/2013/08/10-features-a-perfect-software-tester-should-have/){:target="\_blank"}
 
 And last but not least: have a look at the
 [Testers syllabus](https://www.satisfice.com/images/testsyllabus.pdf){:target="\_blank"} by James Bach. An awesome
