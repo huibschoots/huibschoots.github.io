@@ -124,7 +124,7 @@ Last update 28 June 2025
     by Kristjan Uba
 -   [How do I become a great manager?](https://www.quora.com/How-do-I-become-a-great-manager/answer/Jurgen-Appelo){:target="\_blank"}
     by Jurgen Appelo
--   Also see the [Testing Skills](#skills) and [learning](#learn) section on this page
+-   Also see the [Testing Skills](#testing-skills) and [learning](#learning) section on this page
 -   [Testing Education: Curriculum](https://erik.brickarp.se/2015/03/testing-education-curriculum.html){:target="\_blank"}
     by Erik Brickarp
 -   [Black Ops Testing Videos](https://blackopstesting.com/page/videos/){:target="\_blank"} by Tony, Alan, Steve & James
@@ -172,7 +172,7 @@ Last update 28 June 2025
 
 ---
 
-### [Testing Skills](#skills)
+### Testing Skills
 
 -   [WHOSE – Skills book](https://whose.associationforsoftwaretesting.org/index.php?title=Main_Page)
 -   [Trying to Teach Testing Skills and Judgment](https://www.thetesteye.com/papers/TryingToTeachTestingSkillsAndJudgment.pdf)
@@ -237,8 +237,8 @@ Last update 28 June 2025
 -   [Technical and Non-Technical Testing Skills](https://www.steveo1967.blogspot.nl/2015/05/technical-and-non-technical-testing.html)
     by John Stevenson
 -   [Getting Ahead By Being Inefficient](https://fs.blog/2019/01/getting-ahead-inefficient/) on Farnam Street
--   Also see the [social science](#science) section on this page
--   Also see the [thinking](#think) & [learning](#learn) section on this page
+-   Also see the [social science](#science-and-social-science) section on this page
+-   Also see the [thinking](#thinking) & [learning](#learning) section on this page
 
 ---
 
@@ -262,7 +262,7 @@ Last update 28 June 2025
 
 ---
 
-### [Test Ideas](#ideas)
+### Test Ideas
 
 -   [How to come up with test ideas](https://erik.brickarp.se/2016/08/how-to-come-up-with-test-ideas.html) by Erik
     Brickarp
@@ -365,7 +365,7 @@ Last update 28 June 2025
 -   [RiskStorming – Maping Risks with TestSphere](https://thatsthebuffettable.blogspot.nl/2017/11/riskstorming-maping-risks-with.html)
     by Marcel Gehlen
 -   [RiskStorming online](https://riskstormingonline.com/)
--   Also see the [Test Ideas](#ideas) and [Visualisation](#visual) sections on this page
+-   Also see the [Test Ideas](#test-ideas) and [Visualisation](#visualisation) sections on this page
 
 ---
 
@@ -664,7 +664,7 @@ Last update 28 June 2025
 
 ---
 
-### Agile & Agile testing
+### Agile & agile testing
 
 -   [Modern Agile](https://modernagile.org/)
 -   [Badass Agile](https://badassagile.com/)
@@ -913,7 +913,7 @@ What to learn more about storytelling? Have a look [here](https://www.huibschoot
 
 ---
 
-### (Social) [Science](#science)
+### Science and Social Science
 
 -   What testing can learn from social science – Part [1](https://www.huibschoots.nl/wordpress/?p=1173),
     [2](https://www.huibschoots.nl/wordpress/?p=1216), [3](https://www.huibschoots.nl/wordpress/?p=1250),
@@ -983,7 +983,7 @@ What to learn more about storytelling? Have a look [here](https://www.huibschoot
 
 ---
 
-### [Learning](#learn)
+### Learning
 
 -   [Secrets of a Buchaneer Scholar](https://www.amazon.com/Secrets-Buccaneer-Scholar-Self-Education-Pursuit-Lifetime-)
     (book) by James Bach
@@ -1027,7 +1027,7 @@ What to learn more about storytelling? Have a look [here](https://www.huibschoot
 
 ---
 
-### [Thinking](#think)
+### Thinking
 
 -   [How Thinking Works](https://youtu.be/dUqRTWCdXt4) (video) by Dr. Derek Cabrera
 -   [How to think, not what to think](https://youtu.be/6dluwVks444) (video) by Jesse Richardson
@@ -1069,7 +1069,7 @@ What to learn more about storytelling? Have a look [here](https://www.huibschoot
 
 ---
 
-### [Visualisation](#visual)
+### Visualisation
 
 -   [Thinking Visually In Software Testing](https://www.youtube.com/watch?v=K4hvAbN2QbE "Thinking visually in SW Testing")
     by Alan Richardson (video)
@@ -1102,7 +1102,7 @@ What to learn more about storytelling? Have a look [here](https://www.huibschoot
 
 ---
 
-### Automation & Tool aided testing
+### Automation & Tool Assisted Testing
 
 -   [Test Automation University](https://testautomationu.applitools.com/)
 -   [Automation in Testing](https://automationintesting.com/)
