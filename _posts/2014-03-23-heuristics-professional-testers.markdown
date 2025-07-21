@@ -7,7 +7,8 @@ image:
     path: /assets/img/proftesters.png
 ---
 
-Via Twitter [Helena Jeret-Mäe](https://thepainandgainofedwardbear.wordpress.com/){:target="\_blank"} asked this question:
+Via Twitter [Helena Jeret-Mäe](https://thepainandgainofedwardbear.wordpress.com/){:target="\_blank"} asked this
+question:
 “[What are your criteria for professionalism for testers in CDT community?](https://twitter.com/HelenaJ_M/statuses/426720314383687680){:target="\_blank"}”.
 Later via Email she updated her question to: _“So the updated version of my question is what are the heuristics for
 recognizing professional testers in your opinion? I changed “criteria” to heuristics… it’s less categorical. And I’ll
@@ -47,11 +48,11 @@ Every project is different too and to be successful in finding the right profess
 characteristics may be important. There are many characteristics to be considered so to be able to recognize
 professional testers heuristics can be used. Heuristics are fallible methods for solving a problem or making a decision,
 shortcuts to reduce complex problem or rules of thumb. They are used to determine good enough feasible solutions for
-difficult problems within reasonable time. On [Wikipedia](https://en.wikipedia.org/wiki/Heuristic){:target="\_blank"} I found this
-definition: “_Heuristics are experience-based techniques for problem solving, learning, and discovery that give a
-solution that is not guaranteed to be optimal. Where the exhaustive search is impractical, heuristic methods are used to
-speed up the process of finding a satisfactory solution via mental shortcuts to ease the cognitive load of making a
-decision._”
+difficult problems within reasonable time. On [Wikipedia](https://en.wikipedia.org/wiki/Heuristic){:target="\_blank"} I
+found this definition: “_Heuristics are experience-based techniques for problem solving, learning, and discovery that
+give a solution that is not guaranteed to be optimal. Where the exhaustive search is impractical, heuristic methods are
+used to speed up the process of finding a satisfactory solution via mental shortcuts to ease the cognitive load of
+making a decision._”
 
 ## My heuristics for recognizing professional testers
 
@@ -105,10 +106,10 @@ demands training, practice and some more practice.
 
 Have a look at some blog post by Michael Bolton:
 
--   [Test project estimation rapid way](http://www.developsense.com/blog/2007/01/test-project-estimation-rapid-way/){:target="\_blank"}
--   [Test estimation is really negotiation](http://www.developsense.com/blog/2009/08/test-estimation-is-really-negotiation/){:target="\_blank"}
--   [Why is testing taking so long](http://www.developsense.com/blog/2009/11/why-is-testing-taking-so-long-part-1/){:target="\_blank"}
--   [Project estimation and black swans](http://www.developsense.com/blog/2010/10/project-estimation-and-black-swans/){:target="\_blank"}
+-   [Test project estimation rapid way](https://www.developsense.com/blog/2007/01/test-project-estimation-rapid-way/){:target="\_blank"}
+-   [Test estimation is really negotiation](https://www.developsense.com/blog/2009/08/test-estimation-is-really-negotiation/){:target="\_blank"}
+-   [Why is testing taking so long](https://www.developsense.com/blog/2009/11/why-is-testing-taking-so-long-part-1/){:target="\_blank"}
+-   [Project estimation and black swans](https://www.developsense.com/blog/2010/10/project-estimation-and-black-swans/){:target="\_blank"}
 
 ## 10) They use test cases and test documentation wisely.
 
@@ -165,8 +166,8 @@ mentioned in the list below. As stated earlier it depends on the context which s
 -   Test design / Designing experiments
 -   Observation
 
-Have a look at the [Exploratory Testing Dynamics](https://www.satisfice.com/rst-appendices.pdf){:target="\_blank"} in the
-RST appendices where several lists of skills are listed.
+Have a look at the [Exploratory Testing Dynamics](https://www.satisfice.com/rst-appendices.pdf){:target="\_blank"} in
+the RST appendices where several lists of skills are listed.
 
 ## 16) They have sufficient technical skills
 

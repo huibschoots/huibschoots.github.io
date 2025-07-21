@@ -94,4 +94,4 @@ Part 3: [How to become a software testing expert?](/posts/become-software-testin
 ## Comments from the original Wordpress blog:
 
 > Jack Martin - March 7, 2016 at 11:58 am Very informative post and it was quite helpful to me. I also wrote something
-> similar lines on good software tester – http://bit.ly/1RsCwuR
+> similar lines on good software tester – https://bit.ly/1RsCwuR

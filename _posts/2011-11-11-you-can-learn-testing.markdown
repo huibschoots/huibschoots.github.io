@@ -39,26 +39,26 @@ many skills.
 To become an expert, knowledge is important. Knowledge you can gain in many ways and you must never stop learning!
 “Stagnation means decline,” they say and especially in IT this is true for me. But applying this knowledge is often
 difficult. Experience is of great importance. James Bach said in his presentation
-[Becoming a Software Testing Expert](http://www.satisfice.com/presentations/bste.pdf){:target="\_blank"} “Do not confuse
-experience with expertise.” You can have years of experience, but how do you know that you have gained the right
+[Becoming a Software Testing Expert](https://www.satisfice.com/presentations/bste.pdf){:target="\_blank"} “Do not
+confuse experience with expertise.” You can have years of experience, but how do you know that you have gained the right
 experience? How do you know if you do it “right”? Because let’s face it: there is a lot to be improved in our projects.
 We have to do much better, but how do we achieve that? And how do we know what we can improve?
 
 **Learning**  
-Looking at the [different stages](http://en.wikipedia.org/wiki/Four_stages_of_competence){:target="\_blank"} of
+Looking at the [different stages](https://en.wikipedia.org/wiki/Four_stages_of_competence){:target="\_blank"} of
 competence in a learning process: you start unconsciously incompetent. So you need to find out where you can improve.
 Through feedback from others, but also by looking for new knowledge and experience, you find out what else you can
 learn. In Part 3, I will discuss where and how you can gain knowledge and experience. But we also learn by
-[making mistakes](http://www.scottberkun.com/essays/44-how-to-learn-from-your-mistakes/){:target="\_blank"}. Preferably
-in a [safe environment](http://literacy.kent.edu/Oasis/Pubs/creasafe.htm){:target="\_blank"}. We learn from feedback and
-evaluations. In the agile world, [retrospectives](http://agilemanifesto.org/principles.html){:target="\_blank"} are
+[making mistakes](https://www.scottberkun.com/essays/44-how-to-learn-from-your-mistakes/){:target="\_blank"}. Preferably
+in a [safe environment](https://literacy.kent.edu/Oasis/Pubs/creasafe.htm){:target="\_blank"}. We learn from feedback
+and evaluations. In the agile world, [retrospectives](https://agilemanifesto.org/principles.html){:target="\_blank"} are
 common and often used. In a retrospective the team identifies what went well and what can be improved.
 
 **Coaching**  
 For juniors coaching is essential. But not only for newcomers, for anyone who wants to learn, who wants to develop, a
 coach has added value. Antony Marcano wrote a
-[nice article](http://antonymarcano.com/blog/2011/05/software-teams-can-jump/){:target="\_blank"} in which he says: “One
-thing that I notice is that while the teams are being coached, they do amazing things. They are more happy, more
+[nice article](https://antonymarcano.com/blog/2011/05/software-teams-can-jump/){:target="\_blank"} in which he says:
+“One thing that I notice is that while the teams are being coached, they do amazing things. They are more happy, more
 productive, fast to improve as if there are no limits to what they can achieve”. In many organizations, I notice that
 coaching is not often used. Here Marcano says: “So, if you have a professional software team without a coach, consider,
 are you really helping your business save money by going it alone? Or, like the professional sports team, is having a
