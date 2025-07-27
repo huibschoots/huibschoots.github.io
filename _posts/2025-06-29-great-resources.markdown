@@ -124,7 +124,7 @@ Last update 28 June 2025
     by Kristjan Uba
 -   [How do I become a great manager?](https://www.quora.com/How-do-I-become-a-great-manager/answer/Jurgen-Appelo){:target="\_blank"}
     by Jurgen Appelo
--   Also see the [Testing Skills](#skills) and [learning](#learn) section on this page
+-   Also see the [Testing Skills](#testing-skills) and [learning](#learning) section on this page
 -   [Testing Education: Curriculum](https://erik.brickarp.se/2015/03/testing-education-curriculum.html){:target="\_blank"}
     by Erik Brickarp
 -   [Black Ops Testing Videos](https://blackopstesting.com/page/videos/){:target="\_blank"} by Tony, Alan, Steve & James
@@ -365,7 +365,7 @@ Last update 28 June 2025
 -   [RiskStorming – Maping Risks with TestSphere](https://thatsthebuffettable.blogspot.nl/2017/11/riskstorming-maping-risks-with.html)
     by Marcel Gehlen
 -   [RiskStorming online](https://riskstormingonline.com/)
--   Also see the [Test Ideas](#ideas) and [Visualisation](#visual) sections on this page
+-   Also see the [Test Ideas](#test-ideas) and [Visualisation](#visualisation) sections on this page
 
 ---
 
