@@ -1245,7 +1245,7 @@ What to learn more about storytelling? Have a look [here](https://www.huibschoot
     Clokie
 -   [I started listing resources & guides](https://dancedwiththesoftware.blogspot.nl/2014/02/i-started-listing-resources-guides.html)
     by Tony Bruce
--   [Mobile Testing Pathway](https://Mobile Testing Pathway) by Katrina Clokie
+-   [Mobile Testing Pathway](https://katrinatester.blogspot.com/2015/08/mobile-testing-pathway.html) by Katrina Clokie
 -   [API, Web Services & Microservices Testing Pathway](https://katrinatester.blogspot.nl/2015/09/api-web-services-microservices-testing.html)
     by Katrina Clokie
 -   [Continuous Delivery Testing Pathway](https://katrinatester.blogspot.nl/2015/09/continuous-delivery-testing-pathway.html)
