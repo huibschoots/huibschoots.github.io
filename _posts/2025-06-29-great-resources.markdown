@@ -237,8 +237,8 @@ Last update 28 June 2025
 -   [Technical and Non-Technical Testing Skills](https://www.steveo1967.blogspot.nl/2015/05/technical-and-non-technical-testing.html)
     by John Stevenson
 -   [Getting Ahead By Being Inefficient](https://fs.blog/2019/01/getting-ahead-inefficient/) on Farnam Street
--   Also see the [social science](#science) section on this page
--   Also see the [thinking](#think) & [learning](#learn) section on this page
+-   Also see the [Science and Social Science](#science-and-social-science) section on this page
+-   Also see the [thinking](#thinking) & [learning](#learning) section on this page
 
 ---
 
@@ -913,7 +913,7 @@ What to learn more about storytelling? Have a look [here](https://www.huibschoot
 
 ---
 
-### (Social) Science
+### Science and Social Science
 
 -   What testing can learn from social science – Part [1](https://www.huibschoots.nl/wordpress/?p=1173),
     [2](https://www.huibschoots.nl/wordpress/?p=1216), [3](https://www.huibschoots.nl/wordpress/?p=1250),
