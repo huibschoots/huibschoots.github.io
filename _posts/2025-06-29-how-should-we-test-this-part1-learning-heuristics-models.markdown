@@ -142,6 +142,6 @@ our wall of models to quickly understand what they were talking about.
 ## More on models
 
 -   [Mental Models. The Best Way to Make Intelligent Decisions](https://fs.blog/mental-models/#building_a_latticework_of_mental_models){:target="\_blank"}
--   [Many models - better test ideas by Rikard Edgren](http://thetesteye.com/blog/2012/02/many-models-better-test-ideas/){:target="\_blank"}
+-   [Many models - better test ideas by Rikard Edgren](https://thetesteye.com/blog/2012/02/many-models-better-test-ideas/){:target="\_blank"}
 
 ---

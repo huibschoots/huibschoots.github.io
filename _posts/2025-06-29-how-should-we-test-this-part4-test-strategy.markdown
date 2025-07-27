@@ -64,7 +64,7 @@ In the
 there are even 12 considerations called "Twelve Test Strategy Entry Points".
 
 Another list which is worth mentioning here is the
-[FIBLOTS mnemonic](http://scott-barber.blogspot.com/2011/09/model-workloads-for-performance-testing.html){:target="\_blank"}.
+[FIBLOTS mnemonic](https://scott-barber.blogspot.com/2011/09/model-workloads-for-performance-testing.html){:target="\_blank"}.
 Scott Barber created it years ago: it was created for use in performance testing, but it works in any form of testing.
 
 -   <b>Frequent</b>: Common application usage.
@@ -203,8 +203,8 @@ overview for yourself and your team and the stakeholders.
 
 -   [Creating a Test Strategy](https://www.huibschoots.nl/wordpress/?p=2726){:target="\_blank"}
 -   [Ask Me Anything: Test Strategies](https://club.ministryoftesting.com/t/ask-me-anything-test-strategies/36305){:target="\_blank"}
--   [Test Strategy example by Rikard Edgren](http://thetesteye.com/examples/Example_WorkRaveTestStrategy.pdf){:target="\_blank"}
--   [Test Analysis example (from which you can easily create a strategy) by Rikard Edgren](http://thetesteye.com/examples/ScreenPluck_TestAnalysis.pdf){:target="\_blank"}
+-   [Test Strategy example by Rikard Edgren](https://thetesteye.com/examples/Example_WorkRaveTestStrategy.pdf){:target="\_blank"}
+-   [Test Analysis example (from which you can easily create a strategy) by Rikard Edgren](https://thetesteye.com/examples/ScreenPluck_TestAnalysis.pdf){:target="\_blank"}
 
 ---
 

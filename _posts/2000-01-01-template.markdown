@@ -5,8 +5,9 @@ date: 2000-01-01 00:00:00 +0100
 categories: [category]
 tags: tag # TAG names should always be lowercase
 <!-- pin: true -->
-image:
+<!-- image:
     path: /assets/img/image.png
+-->
 ---
 
 ---

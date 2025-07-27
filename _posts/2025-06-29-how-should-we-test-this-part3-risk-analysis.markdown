@@ -218,7 +218,7 @@ activities during a sprint:
 
 -   [Michael Bolton on Risk Analysis](https://www.youtube.com/watch?v=g97mMeC9EIE){:target="\_blank"}
 -   [Risk Heuristics](https://www.developsense.com/resources/RiskHeuristics.pdf){:target="\_blank"}
--   [Software Quality Characteristics by the test eye](http://thetesteye.com/posters/TheTestEye_SoftwareQualityCharacteristics.pdf){:target="\_blank"}[^1]
+-   [Software Quality Characteristics by the test eye](https://thetesteye.com/posters/TheTestEye_SoftwareQualityCharacteristics.pdf){:target="\_blank"}[^1]
 -   [Test Sphere & Risk Storming](https://www.ministryoftesting.com/testsphere/riskstorming){:target="\_blank"}[^2]
 
 ---

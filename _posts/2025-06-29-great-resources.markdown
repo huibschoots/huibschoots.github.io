@@ -1098,7 +1098,7 @@ What to learn more about storytelling? Have a look [here](https://www.huibschoot
 -   [Hand-Sketching: Things You Didn’t Know Your Doodles Could Accomplish](https://www.smashingmagazine.com/2013/10/things-you-can-accomplish-with-hand-sketching-doodling/)
     by Laura Busche ([Sketchnote](https://twitter.com/ruudcox/status/406353042284363776/photo/1) by Ruud Cox)
 -   [Sketching & Drawing Lessons](https://www.instructables.com/id/Sketching-Drawing-Lessons/)
--   [The Sketchnote Podcasts](https://The Sketchnote Podcast) by Mike Rohde
+-   [The Sketchnote Podcasts](https://sketchnotearmy.com/podcast) by Mike Rohde
 
 ---
 
