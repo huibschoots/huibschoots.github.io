@@ -52,3 +52,4 @@ image:
 43. Anathema – A Natural Disaster
 44. Transatlantic – Bridge Across Forever
 45. Rhapsody Of Fire – Triumph Or Agony
+46. Kino - Picture

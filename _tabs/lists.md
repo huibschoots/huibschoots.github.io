@@ -6,5 +6,6 @@ order: 4
 
 I love lists. Here are some:
 
--   [Albums](/posts/mindset-the-book/)
+-   [Albums](/posts/list-albums/)
+-   [Board & Card Games](/posts/list-boardgames/)
 -   More to come!
