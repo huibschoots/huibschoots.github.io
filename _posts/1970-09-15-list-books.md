@@ -14,20 +14,24 @@ image:
 1. Taking testing seriously - James Bach & Michael Bolton
 2. How to be an explorer of the world – Keri Smith
 3. Mindset – Carol Dweck
-4. Loving what is – Byron Katie
+4. How minds change: The Surprising Science of Belief, Opinion, and Persuasion - David McRaney
 5. Seven habits of highly effective people – Stephen Covey
 6. Thinking Fast and slow – Daniel Kahneman
 7. Are your lights on? – Jerry Weinberg & Donald Gause
 8. Tacit and Explicit knowledge – Harry Collins
 9. Peopleware: Productive Projects and Teams – Timothy Lister & Tom DeMarco
-10. The Black Swan – Nassim Nicholas Taleb
+10. Loving what is – Byron Katie
 11. Drive – Daniel Pink
-12. How doctors think -­ Jerome Groopman
+12. How doctors think - Jerome Groopman
 13. How to solve it – G. Polya
 14. Maverick! – Ricardo Semler
 15. Start with why – Simon Sinek
 16. Whoever Tells the Best Story Wins – Annette Simmons
 17. Made to Stick – Dan Heath & Chip Heath
+18. The Black Swan – Nassim Nicholas Taleb
+19. Crucial Conversations: Tools for Talking When Stakes Are High - Kerry Patterson, Joseph Grenny, Ron McMillan, Al Switzler
+20. Expolore it! - Elisabeth Hendrickson
+
 
 Also see my list of books for software testers here.
 
