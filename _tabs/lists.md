@@ -8,4 +8,5 @@ I love lists. Here are some:
 
 -   [Albums](/posts/list-albums/)
 -   [Board & Card Games](/posts/list-boardgames/)
+-   [Books](/posts/list-books/)
 -   More to come!

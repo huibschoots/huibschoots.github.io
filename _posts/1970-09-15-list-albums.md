@@ -4,8 +4,10 @@ date: 1970-09-15 00:00:00 +0100
 categories:
 tags: # TAG names should always be lowercase
 image:
-    path: /assets/img/albums.webp
+    path: /assets/img/albums.jpg
 ---
+
+[Photo by Tima Miroshnichenko](https://www.pexels.com/photo/woman-choosing-vinyl-record-6827245/){:target="\_blank"}
 
 1. Marillion – Misplaced Childhood
 2. Pearl Jam – Ten
