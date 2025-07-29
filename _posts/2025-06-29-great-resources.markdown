@@ -1,6 +1,6 @@
 ---
 title: Great Resources
-description: Great Resources on Software Testing & Qaulity Engineering.
+description: Great Resources on Software Testing & Quality Engineering.
 date: 2025-06-28 11:00:00 +0100
 categories: [Great Resources]
 tags: greatresources links information # TAG names should always be lowercase

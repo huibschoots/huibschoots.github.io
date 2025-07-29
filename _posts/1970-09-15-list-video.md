@@ -11,15 +11,16 @@ image:
 
 -   Daniel Kahneman - [Thinking fast and slow](https://youtu.be/CjVQJdIrDJ0){:target="\_blank"}
 -   Nassim Taleb and Daniel Kahneman – [Antifragility](https://youtu.be/MMBclvY_EMA){:target="\_blank"}
--   Brené Brown – [The power of vulnerability](https://www.ted.com/talks/brene_brown_on_vulnerability){:target="\_blank"}
-    / [Listening to shame](https://www.ted.com/talks/brene_brown_listening_to_shame){:target="\_blank"}
+-   Brené Brown –
+    [The power of vulnerability](https://www.ted.com/talks/brene_brown_on_vulnerability){:target="\_blank"} /
+    [Listening to shame](https://www.ted.com/talks/brene_brown_listening_to_shame){:target="\_blank"}
 -   Daniel Pink – [Drive](https://www.youtube.com/watch?v=LFlvor6ZHdY){:target="\_blank"} /
     [The puzzle of motivation](https://youtu.be/rrkrvAUbU9Y){:target="\_blank"}
 -   Simon Sinek –
     [How great leaders inspire action](https://www.ted.com/talks/simon_sinek_how_great_leaders_inspire_action){:target="\_blank"}
 -   Tony Robbins –
-    [Why we do what we do](https://www.ted.com/talks/tony_robbins_asks_why_we_do_what_we_do){:target="\_blank"} Ken
-    Robinson –
+    [Why we do what we do](https://www.ted.com/talks/tony_robbins_asks_why_we_do_what_we_do){:target="\_blank"}
+-   Ken Robinson –
     [Do schools kill creativity](https://www.ted.com/talks/ken_robinson_says_schools_kill_creativity){:target="\_blank"}
     /
     [Bring on the learning revolution](https://www.ted.com/talks/sir_ken_robinson_bring_on_the_revolution){:target="\_blank"}
