@@ -5,7 +5,7 @@ date: 2025-06-29 14:00:00 +0100
 categories: [Test Strategy]
 tags: strategy risk reporting models # TAG names should always be lowercase
 image:
-    path: /assets/img/teststrategy.jpg
+    path: /assets/img/teststrategy.png
 ---
 
 [Photo by energepic.com](https://www.pexels.com/photo/woman-sitting-in-front-of-macbook-313690/){:target="\_blank"}
