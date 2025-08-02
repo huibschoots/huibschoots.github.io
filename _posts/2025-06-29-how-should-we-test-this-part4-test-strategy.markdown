@@ -212,4 +212,6 @@ overview for yourself and your team and the stakeholders.
 [^1]:
     An oracle is a heuristic principle or mechanism by which someone recognizes a problem. If we perceive a problem,
     it’s because an oracle is telling us that there’s a problem. The better oracles and information we have, the easier
-    it becomes to test a product! More on oracles [here]
+    it becomes to test a product! More on oracles
+    [here](https://developsense.com/blog/2012/04/all-oracles-are-heuristic){:target="\_blank"} and
+    [here](https://developsense.com/blog/2015/09/oracles-from-the-inside-out){:target="\_blank"}

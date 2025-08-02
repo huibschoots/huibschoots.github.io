@@ -68,7 +68,7 @@ uncertainty? You're not entirely reassured. What if something goes wrong? What i
 of a system glitch? Or your phone needs a reinstall, and all your photos vanish? What if, suddenly, you can’t work at
 all?
 
-The quality[^2] of software is crucial. It takes a lot to make good software work. Not only the software itself must be
+The quality of software is crucial. It takes a lot to make good software work. Not only the software itself must be
 good, but also the processes around it, the machines and networks it runs on, the people who work on it and with it.
 Many different aspects have an influence. Collaboration, communication and teamwork are decisive. This forms the basis
 for successful departments, projects, and teams. You see this all around you: where professional people work well

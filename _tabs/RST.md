@@ -1,15 +1,17 @@
 ---
 # the default layout is 'page'
-icon: fas fa-info-circle
+icon: fa-bug
 order: 5
 ---
 
-### What is Rapid Software Testing
+<blockquote class="prompt-info">Because testing (and any engineering activity) is a solution to a very difficult problem, it must be tailored to the context of the project; and therefore, testing is a human activity that requires a great deal of skill to do well. That’s why we must study it seriously. We must practice our craft. Context-driven testers strive to become the Jedi Knights of testing. -- James Bach</blockquote>
 
-![RST book cover](/assets/img/RSTlogo.png){: width="400" .right}Why do we test? We test to develop a comprehensive understanding of the product and the risks around it. We test to find
-problems that threaten the value of the product, or that threaten the on-time, successful completion of any kind of
-development work. We test to help the business, managers, and developers decide whether the product they’ve got is the
-product they want.
+### What is Rapid Software Testing?
+
+![RST book cover](/assets/img/RSTlogo.png){: width="400" .right}Why do we test? We test to develop a comprehensive
+understanding of the product and the risks around it. We test to find problems that threaten the value of the product,
+or that threaten the on-time, successful completion of any kind of development work. We test to help the business,
+managers, and developers decide whether the product they’ve got is the product they want.
 
 Above all, we test because it is the responsible thing to do. We have a duty of care toward our teams, our
 organizations, our customers, and society itself. Releasing poorly tested software would be a breach of that duty.
@@ -37,9 +39,10 @@ RST is also based on and related to
 by Cem Kaner, James Bach, and Bret Pettichord as well as the self-education and independent thinking approach to life
 depicted in James’ book, [Secrets of a Buccaneer-Scholar](https://amzn.to/2Gip8ib){:target="\_blank"}
 
-([source: Rapid Software Testing website](https://rapid-software-testing.com/about-rapid-software-testing/){:target="\_blank"}
+Source:
+[Rapid Software Testing website](https://rapid-software-testing.com/about-rapid-software-testing/){:target="\_blank"}
 
-### Why RST
+### Why I am an RST teacher
 
 ### The Book
 
@@ -81,4 +84,6 @@ integrated it into my public Great Resources list. This curated collection of li
 resources is something I’ve been maintaining for many years. It has consistently been the most popular part of my
 website.
 
-The RST reading list is here: The great resoruces list is here:
+-   [The RST reading list](/posts/mindset-the-book/){:target="\_blank"}
+-   [The great resources list ](/posts/mindset-the-book/){:target="\_blank"}
+-   [The RST YouTube channel](https://youtube.com/@rapid_software_testing){:target="\_blank"}
