@@ -1,6 +1,6 @@
 ---
 title: HSWTT? Part 3 - Risk Analysis
-description: Part 3 in "How should we test this?" on Risk Analysis 
+description: Part 3 in "How should we test this?" on Risk Analysis
 date: 2025-06-29 13:00:00 +0100
 categories: [Test Strategy]
 tags: strategy risk reporting models # TAG names should always be lowercase
