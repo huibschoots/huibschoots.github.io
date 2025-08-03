@@ -9,166 +9,150 @@ image:
     path: /assets/img/greatresources.png
 ---
 
-[Photo by Tima Miroshnichenko](https://www.pexels.com/photo/books-on-brown-wooden-shelf-9572370/){:target="\_blank"}
+[Photo by Tima Miroshnichenko](https://www.pexels.com/photo/books-on-brown-wooden-shelf-9572370/){:target="_blank"}
 
-<blockquote class="prompt-info">On this page you will find Great Resources on Software Testing and Quality Engineering I recommend. Do you know a
-    great resource that should be here? Let me know via LinkedIn or e-mail (contacts are at the bottom of the left sidebar).</blockquote>
+<blockquote class="prompt-info">On this page you will find Great Resources on Software Testing and Quality Engineering I recommend. Do you know a great resource that should be here? Let me know via LinkedIn or e-mail (contacts are at the bottom of the left sidebar).</blockquote>
     
 Last update 28 June 2025
 
 ### Testing & What is Testing
 
 -   10 most common questions asked about software testing answered by Lee Hawkins:
-    1.  [Why is software testing important?](https://therockertester.wordpress.com/2020/11/12/common-search-engine-questions-about-testing-1-why-is-software-testing-important/){:target="\_blank"}
-    2.  [How does software testing impact software quality?](https://therockertester.wordpress.com/2020/11/23/common-search-engine-questions-about-testing-2-how-does-software-testing-impact-software-quality/){:target="\_blank"}
-    3.  [When should software testing activities start?](https://therockertester.wordpress.com/2020/12/03/common-search-engine-questions-about-testing-3-when-should-software-testing-activities-start/){:target="\_blank"}
-    4.  [How is software testing done?](https://therockertester.wordpress.com/2020/12/16/common-search-engine-questions-about-testing-4-how-is-software-testing-done/){:target="\_blank"}
-    5.  [Can you automate software testing?](https://therockertester.wordpress.com/2021/01/05/common-search-engine-questions-about-testing-5-can-you-automate-software-testing/){:target="\_blank"}
-    6.  [Is software testing easy?](https://therockertester.wordpress.com/2021/01/13/common-search-engine-questions-about-testing-6-is-software-testing-easy/){:target="\_blank"}
-    7.  [Is software testing a good career?](https://therockertester.wordpress.com/2021/01/26/common-search-engine-questions-about-testing-7-is-software-testing-a-good-career/){:target="\_blank"}
-    8.  [Can I learn software testing on my own?](https://therockertester.wordpress.com/2021/01/31/common-search-engine-questions-about-testing-8-can-i-learn-software-testing-on-my-own/){:target="\_blank"}
-    9.  [Which software testing certification is the best?](https://therockertester.wordpress.com/2021/02/04/common-search-engine-questions-about-testing-9-which-software-testing-certification-is-the-best/){:target="\_blank"}
-    10. [What will software testing look like in 2021?](https://therockertester.wordpress.com/2021/02/11/common-search-engine-questions-about-testing-10-what-will-software-testing-look-like-in-2021/){:target="\_blank"}
--   [Testing is…](https://www.developsense.com/blog/2014/10/testing-is/ "Testing is…"){:target="\_blank"} by Michael
-    Bolton
--   [What is a tester?](https://www.developsense.com/blog/2015/06/what-is-a-tester/){:target="\_blank"} by Michael
-    Bolton
--   [Excellent Software Testing](https://www.linkedin.com/pulse/excellent-software-testing-ingo-philipp){:target="\_blank"}
+    1.  [Why is software testing important?](https://therockertester.wordpress.com/2020/11/12/common-search-engine-questions-about-testing-1-why-is-software-testing-important/){:target="_blank"}
+    2.  [How does software testing impact software quality?](https://therockertester.wordpress.com/2020/11/23/common-search-engine-questions-about-testing-2-how-does-software-testing-impact-software-quality/)`{:target="_blank"}
+    3.  [When should software testing activities start?](https://therockertester.wordpress.com/2020/12/03/common-search-engine-questions-about-testing-3-when-should-software-testing-activities-start/){:target="_blank"}
+    4.  [How is software testing done?](https://therockertester.wordpress.com/2020/12/16/common-search-engine-questions-about-testing-4-how-is-software-testing-done/){:target="_blank"}
+    5.  [Can you automate software testing?](https://therockertester.wordpress.com/2021/01/05/common-search-engine-questions-about-testing-5-can-you-automate-software-testing/){:target="_blank"}
+    6.  [Is software testing easy?](https://therockertester.wordpress.com/2021/01/13/common-search-engine-questions-about-testing-6-is-software-testing-easy/){:target="_blank"}
+    7.  [Is software testing a good career?](https://therockertester.wordpress.com/2021/01/26/common-search-engine-questions-about-testing-7-is-software-testing-a-good-career/){:target="_blank"}
+    8.  [Can I learn software testing on my own?](https://therockertester.wordpress.com/2021/01/31/common-search-engine-questions-about-testing-8-can-i-learn-software-testing-on-my-own/){:target="_blank"}
+    9.  [Which software testing certification is the best?](https://therockertester.wordpress.com/2021/02/04/common-search-engine-questions-about-testing-9-which-software-testing-certification-is-the-best/){:target="_blank"}
+    10. [What will software testing look like in 2021?](https://therockertester.wordpress.com/2021/02/11/common-search-engine-questions-about-testing-10-what-will-software-testing-look-like-in-2021/){:target="_blank"}
+-   [Testing is…](https://www.developsense.com/blog/2014/10/testing-is/ "Testing is…"){:target="_blank"} by Michael Bolton
+-   [What is a tester?](https://www.developsense.com/blog/2015/06/what-is-a-tester/){:target="_blank"} by Michael Bolton
+-   [Excellent Software Testing](https://www.linkedin.com/pulse/excellent-software-testing-ingo-philipp){:target="_blank"}
     by Ingo Philipp
--   [Open letter to EuroStar organizers: testing introduction](https://thetesteye.com/blog/2013/03/open-letter-to-eurostar-organizers-testing-introduction/){:target="\_blank"}
-    by Rikard Edgren
--   [Phased vs Threaded Testing](https://medium.com/@AWGHodder/phased-vs-threaded-testing-c4a16057ca28){:target="\_blank"}
+-   [Open letter to EuroStar organizers: testing introduction](https://thetesteye.com/blog/2013/03/open-letter-to-eurostar-organizers-testing-introduction/){:target="_blank"} by Rikard Edgren
+-   [Phased vs Threaded Testing](https://medium.com/@AWGHodder/phased-vs-threaded-testing-c4a16057ca28){:target="_blank"}
     by Aaron Hodder
--   [Testing explained](https://www.slideshare.net/karennjohnson/digital-qa-summit-karen-n-johnson-testing-explained){:target="\_blank"}
+-   [Testing explained](https://www.slideshare.net/karennjohnson/digital-qa-summit-karen-n-johnson-testing-explained){:target="_blank"}
     by Karen Johnson
--   [Software Testing? What? Why?](https://www.eviltester.com/blog/eviltester/2019-03-06-what-is-testing-and-why-do-we-test/){:target="\_blank"}
+-   [Software Testing? What? Why?](https://www.eviltester.com/blog/eviltester/2019-03-06-what-is-testing-and-why-do-we-test/){:target="_blank"}
     by Alan Richardson
--   [What is testing?](https://arborosa.org/2015/06/14/what-is-testing/){:target="\_blank"} by Jean-Paul Varwijk (aka
-    Arborosa)
--   [Testing vs checking](https://www.developsense.com/blog/2009/08/testing-vs-checking/){:target="\_blank"} by Michael
-    Bolton
--   [Testing and checking refined](https://www.satisfice.com/blog/archives/856){:target="\_blank"} by James Bach
--   [Open lecture on Software Testing](https://www.youtube.com/watch?v=ILkT_HV9DVU){:target="\_blank"} (video) by James
+-   [What is testing?](https://arborosa.org/2015/06/14/what-is-testing/){:target="_blank"} by Jean-Paul Varwijk (aka Arborosa)
+-   [Testing vs checking](https://www.developsense.com/blog/2009/08/testing-vs-checking/){:target="_blank"} by Michael Bolton
+-   [Testing and checking refined](https://www.satisfice.com/blog/archives/856){:target="_blank"} by James Bach
+-   [Open lecture on Software Testing](https://www.youtube.com/watch?v=ILkT_HV9DVU){:target="_blank"} (video) by James
     Bach
--   [Why testers should look for problems and not defects](https://www.developsense.com/blog/2014/04/ive-had-it-with-defects/){:target="\_blank"}
+-   [Why testers should look for problems and not defects](https://www.developsense.com/blog/2014/04/ive-had-it-with-defects/){:target="_blank"}
     by Michael Bolton
--   [How to get what you really want from Testing](https://www.developsense.com/presentations/2014-06-Dublin-HowToGetWhatYouReallyWantFromTesting.pdf){:target="\_blank"}
+-   [How to get what you really want from Testing](https://www.developsense.com/presentations/2014-06-Dublin-HowToGetWhatYouReallyWantFromTesting.pdf){:target="_blank"}
     by Michael Bolton
--   [State of Software Testing](https://youtu.be/cIXPKw-KhiY?si=Rxsq60pxmpKZtddT){:target="\_blank"} (video) by Fiona
+-   [State of Software Testing](https://youtu.be/cIXPKw-KhiY?si=Rxsq60pxmpKZtddT){:target="_blank"} (video) by Fiona
     Charles & Jerry Weinberg
--   [Proving Our Worth: Quantifying the Value of Testing](https://www.youtube.com/watch?v=019NT3O-wQg "Proving Our Worth: Quantifying the Value of Testing"){:target="\_blank"}
+-   [Proving Our Worth: Quantifying the Value of Testing](https://www.youtube.com/watch?v=019NT3O-wQg "Proving Our Worth: Quantifying the Value of Testing"){:target="_blank"}
     (video) by Lee Copeland
--   [How to Talk to a CIO About Software Testing (If You Really Have to…)](https://youtu.be/CurOi7jKJ1M){:target="\_blank"}
+-   [How to Talk to a CIO About Software Testing (If You Really Have to…)](https://youtu.be/CurOi7jKJ1M){:target="_blank"}
     (video) by Keith Klain
--   [Dr. Strangecareer: or how I learned to stop worrying and love the software testing industry](https://qualityremarks.com/dr-strangecareer-or-how-i-learned-to-stop-worrying-and-love-the-software-testing-industry/){:target="\_blank"}
+-   [Dr. Strangecareer: or how I learned to stop worrying and love the software testing industry](https://qualityremarks.com/dr-strangecareer-or-how-i-learned-to-stop-worrying-and-love-the-software-testing-industry/){:target="_blank"}
     by Keith Klain
--   [Reinventing Testers and Testing to prepare for the Future](https://testpappy.wordpress.com/2016/06/01/reinventing-testers-and-testing-to-prepare-for-the-future/){:target="\_blank"}
+-   [Reinventing Testers and Testing to prepare for the Future](https://testpappy.wordpress.com/2016/06/01/reinventing-testers-and-testing-to-prepare-for-the-future/){:target="_blank"}
     by Patrick Prill
--   [8 reasons why software testing is harder than development](https://james-willett.com/2016/10/8-reasons-why-software-testing-is-harder-than-development/){:target="\_blank"}
+-   [8 reasons why software testing is harder than development](https://james-willett.com/2016/10/8-reasons-why-software-testing-is-harder-than-development/){:target="_blank"}
     by James Willett
--   [Software Testing Definitions and Models – How and Why to Create your own Definition](https://blog.eviltester.com/2016/12/software-testing-definitions-and-models.html){:target="\_blank"}
+-   [Software Testing Definitions and Models – How and Why to Create your own Definition](https://blog.eviltester.com/2016/12/software-testing-definitions-and-models.html){:target="_blank"}
     by Alan Richardson
--   [10 Commandments for Ethical Software Testers](https://youtu.be/aQHt4Pao2Vs){:target="\_blank"} (video) by Fiona
+-   [10 Commandments for Ethical Software Testers](https://youtu.be/aQHt4Pao2Vs){:target="_blank"} (video) by Fiona
     Charles
 
 ###### Books
 
--   [Perfect Software and other illusions about testing](https://www.amazon.com/Perfect-Software-Other-Illusions-Testing/dp/0932633692){:target="\_blank"}
+-   [Perfect Software and other illusions about testing](https://www.amazon.com/Perfect-Software-Other-Illusions-Testing/dp/0932633692){:target="_blank"}
     (book) by Jerry Weinberg
--   [Lessons Learned in Software Testing](https://www.amazon.com/Lessons-Learned-Software-Testing-Context-Driven/dp/0471081124){:target="\_blank"}
+-   [Lessons Learned in Software Testing](https://www.amazon.com/Lessons-Learned-Software-Testing-Context-Driven/dp/0471081124){:target="_blank"}
     (book) by Cem Kaner, James Bach and Brett Pettichord
--   [Testing Computer Software](https://www.amazon.com/Testing-Computer-Software-2nd-Kaner/dp/0471358460){:target="\_blank"}
+-   [Testing Computer Software](https://www.amazon.com/Testing-Computer-Software-2nd-Kaner/dp/0471358460){:target="_blank"}
     (book) by Cem Kaner, Jack Falk, Hung Q. Nguyen
--   [Beautiful Testing](https://www.amazon.com/Beautiful-Testing-Professionals-Software-Practice/dp/0596159811){:target="\_blank"}
+-   [Beautiful Testing](https://www.amazon.com/Beautiful-Testing-Professionals-Software-Practice/dp/0596159811){:target="_blank"}
     (book) by Tim Riley, Adam Goucher
--   [Foundations of Software Testing: A BBST Workbook](https://www.amazon.com/Foundations-Software-Testing-Cem-Kaner/dp/0989811921){:target="\_blank"}
+-   [Foundations of Software Testing: A BBST Workbook](https://www.amazon.com/Foundations-Software-Testing-Cem-Kaner/dp/0989811921){:target="_blank"}
     (book) by Cem Kaner & Rebecca Fiedler
--   [Quality Software Management](https://www.amazon.com/Quality-Software-Management-Systems-Thinking/dp/0932633226){:target="\_blank"}
+-   [Quality Software Management](https://www.amazon.com/Quality-Software-Management-Systems-Thinking/dp/0932633226){:target="_blank"}
     (books: vol 1 – 4) – Jerry Weinberg
--   [Software Testing as a Martial Art](https://leanpub.com/softwaretestingasamartialart){:target="\_blank"} (book) by
+-   [Software Testing as a Martial Art](https://leanpub.com/softwaretestingasamartialart){:target="_blank"} (book) by
     David Greenlees
 
 ---
 
 ### Becoming a (great) tester
 
--   [To The New Tester](https://www.satisfice.com/blog/archives/958){:target="\_blank"} by James Bach
--   [Testers: Get Out of the Quality Assurance Business](https://www.developsense.com/blog/2010/05/testers-get-out-of-the-quality-assurance-business/){:target="\_blank"}
+-   [To The New Tester](https://www.satisfice.com/blog/archives/958){:target="_blank"} by James Bach
+-   [Testers: Get Out of the Quality Assurance Business](https://www.developsense.com/blog/2010/05/testers-get-out-of-the-quality-assurance-business/){:target="_blank"}
     by Michael Bolton
--   [New to software testing? Read this…](https://medium.com/testjutsu/new-to-software-testing-read-this-567814dd352d){:target="\_blank"}
+-   [New to software testing? Read this…](https://medium.com/testjutsu/new-to-software-testing-read-this-567814dd352d){:target="_blank"}
     by Ben Kelly
--   [How to Train Up a New Software Tester](https://dojo.ministryoftesting.com/lessons/how-to-train-up-a-new-software-tester){:target="\_blank"}
+-   [How to Train Up a New Software Tester](https://dojo.ministryoftesting.com/lessons/how-to-train-up-a-new-software-tester){:target="_blank"}
     by Claire Reckless
--   [Becoming a World-Class Tester](https://www.ebaytechblog.com/2013/01/31/becoming-a-world-class-tester/){:target="\_blank"}
+-   [Becoming a World-Class Tester](https://www.ebaytechblog.com/2013/01/31/becoming-a-world-class-tester/){:target="_blank"}
     by Ilari Henrik Aegerter
--   [Heuristics for recognizing professional testers](https://www.huibschoots.nl/wordpress/?p=1666){:target="\_blank"}
+-   [Heuristics for recognizing professional testers](https://www.huibschoots.nl/wordpress/?p=1666){:target="_blank"}
     by Huib Schoots
--   [Resources for a Beginner Tester](https://docs.google.com/document/d/1-fV3l-XPfjaeuHN0-d67dUi1yKYoyHJI4iMz2FfrwFQ/edit){:target="\_blank"}
+-   [Resources for a Beginner Tester](https://docs.google.com/document/d/1-fV3l-XPfjaeuHN0-d67dUi1yKYoyHJI4iMz2FfrwFQ/edit){:target="_blank"}
     by Helena Jeret-Mäe
--   [What makes a good tester?](https://qablog.practitest.com/2008/12/what-makes-a-good-tester/){:target="\_blank"} by
+-   [What makes a good tester?](https://qablog.practitest.com/2008/12/what-makes-a-good-tester/){:target="_blank"} by
     Joel Montvelisky
--   [Flying tester](https://flyingtester.blogspot.se/2013/10/after-recent-discussion-with-another.html){:target="\_blank"}
+-   [Flying tester](https://flyingtester.blogspot.se/2013/10/after-recent-discussion-with-another.html){:target="_blank"}
     by Allen Johnson
--   [So, You Want To Be a Tester?](https://testerstories.com/2019/03/so-you-want-to-be-a-tester/){:target="\_blank"} by
+-   [So, You Want To Be a Tester?](https://testerstories.com/2019/03/so-you-want-to-be-a-tester/){:target="_blank"} by
     Jeff Nyland
--   [Becoming a Software Testing Expert](https://youtu.be/3FTwaojNkXw){:target="\_blank"} (video) by James Bach
--   [A testers syllabus](https://www.satisfice.com/images/testsyllabus.pdf){:target="\_blank"} by James Bach
--   [Responsible tester](https://www.satisfice.com/blog/archives/1364){:target="\_blank"} by James Bach
--   [No More Second Class Testers!](https://www.jrothman.com/articles/2004/01/no-more-second-class-testers/){:target="\_blank"}
+-   [Becoming a Software Testing Expert](https://youtu.be/3FTwaojNkXw){:target="_blank"} (video) by James Bach
+-   [A testers syllabus](https://www.satisfice.com/images/testsyllabus.pdf){:target="_blank"} by James Bach
+-   [Responsible tester](https://www.satisfice.com/blog/archives/1364){:target="_blank"} by James Bach
+-   [No More Second Class Testers!](https://www.jrothman.com/articles/2004/01/no-more-second-class-testers/){:target="_blank"}
     by Johanna Rothman
--   [How to get started in software testing – a few resources](https://thesocialtester.co.uk/how-to-get-started-in-software-testing-a-few-resources/){:target="\_blank"}
+-   [How to get started in software testing – a few resources](https://thesocialtester.co.uk/how-to-get-started-in-software-testing-a-few-resources/){:target="_blank"}
     by Rob Lambert
--   [The Difference Between Professionals and Amateurs](https://jamesclear.com/professionals-and-amateurs){:target="\_blank"}
+-   [The Difference Between Professionals and Amateurs](https://jamesclear.com/professionals-and-amateurs){:target="_blank"}
     by James Clear
--   [What I expect from my testers](https://kristjanuba.wordpress.com/2015/02/19/what-i-expect-from-my-testers/){:target="\_blank"}
+-   [What I expect from my testers](https://kristjanuba.wordpress.com/2015/02/19/what-i-expect-from-my-testers/){:target="_blank"}
     by Kristjan Uba
--   [How do I become a great manager?](https://www.quora.com/How-do-I-become-a-great-manager/answer/Jurgen-Appelo){:target="\_blank"}
+-   [How do I become a great manager?](https://www.quora.com/How-do-I-become-a-great-manager/answer/Jurgen-Appelo){:target="_blank"}
     by Jurgen Appelo
 -   Also see the [Testing Skills](#testing-skills) and [learning](#learning) section on this page
--   [Testing Education: Curriculum](https://erik.brickarp.se/2015/03/testing-education-curriculum.html){:target="\_blank"}
+-   [Testing Education: Curriculum](https://erik.brickarp.se/2015/03/testing-education-curriculum.html){:target="_blank"}
     by Erik Brickarp
--   [Black Ops Testing Videos](https://blackopstesting.com/page/videos/){:target="\_blank"} by Tony, Alan, Steve & James
--   [Why would I need excuses?](https://dancedwiththesoftware.blogspot.nl/2013/01/why-would-i-need-excuses.html){:target="\_blank"}
+-   [Black Ops Testing Videos](https://blackopstesting.com/page/videos/){:target="_blank"} by Tony, Alan, Steve & James
+-   [Why would I need excuses?](https://dancedwiththesoftware.blogspot.nl/2013/01/why-would-i-need-excuses.html){:target="_blank"}
     by Tony Bruce
--   [How do you become a great tester?](https://katrinatester.blogspot.nl/2015/08/how-do-you-become-great-tester.html){:target="\_blank"}
+-   [How do you become a great tester?](https://katrinatester.blogspot.nl/2015/08/how-do-you-become-great-tester.html){:target="_blank"}
     by Katrina Clokie
--   [How to practice software testing](https://erik.brickarp.se/2015/08/practice-software-testing.html){:target="\_blank"}
+-   [How to practice software testing](https://erik.brickarp.se/2015/08/practice-software-testing.html){:target="_blank"}
     by Erik Brickarp
--   [10 ways software testers can win autonomy and earn respect](https://techbeacon.com/10-ways-software-testers-can-win-autonomy-earn-respect){:target="\_blank"}
+-   [10 ways software testers can win autonomy and earn respect](https://techbeacon.com/10-ways-software-testers-can-win-autonomy-earn-respect){:target="_blank"}
     by Jennifer deJong Lent
--   [Smarter Testing Through Smarter Testers](https://vimeo.com/144830621){:target="\_blank"} (video) by Christin
+-   [Smarter Testing Through Smarter Testers](https://vimeo.com/144830621){:target="_blank"} (video) by Christin
     Wiedermann
--   [The Power of Doubt – Becoming a Software Skeptic](https://testsidestory.com/2016/11/16/the-power-of-doubt-becoming-a-software-skeptic-paper/){:target="\_blank"}
+-   [The Power of Doubt – Becoming a Software Skeptic](https://testsidestory.com/2016/11/16/the-power-of-doubt-becoming-a-software-skeptic-paper/){:target="_blank"}
     (paper) by Zeger van Hese
--   [The Danger of the Technocrat Tester](https://testerstories.com/2016/04/the-danger-of-the-technocrat-tester/){:target="\_blank"}
+-   [The Danger of the Technocrat Tester](https://testerstories.com/2016/04/the-danger-of-the-technocrat-tester/){:target="_blank"}
     by Jeff Nyman
 
 ---
 
 ### Hiring (testers)
 
--   [How to Find, Interview and Hire Great Software Testers](https://blog.gurock.com/postings/interview-recruit-testers/3575/)
-    by Simon Knight
--   EuroStar Webinar
-    “[Hiring Professional testers](https://testhuddle.com/resource/hiring-professional-testers/ "Hiring Professional testers")
-    by Huib Schoots
--   [Heuristics for recognizing professional testers](https://www.huibschoots.nl/wordpress/?p=1666) by Huib Schoots
--   [To The Hiring Managers and Recruiters (of Software Testers)](https://www.ministryoftesting.com/2015/08/to-the-hiring-managers-and-recruiters-of-software-testers/)
-    by Rosie Sherry
--   [Recruiting Software Testers](https://www.testingeducation.org/BBST/foundations/Kaner_JobsRev6.pdf) by Cem Kaner
--   [Writing job description for testers](https://observanttester.blogspot.nl/2011/02/writing-job-description-for-tester-part.html)
-    (part I and II) by Thomas Ponnet
--   [Hiring Geeks That Fit](https://leanpub.com/hiringgeeks) (book) by Johanna Rothman
--   [Finding the Geek Who Fits](https://pragprog.com/magazines/2013-03/finding-the-geek-who-fits) by Johanna Rothman
--   [Agile Hiring: It’s a Team Sport](https://www.slideshare.net/johannarothman/agile-hiring-its-a-team-sport) by
+-   [How to Find, Interview and Hire Great Software Testers](https://www.testrail.com/blog/interview-recruit-testers/){:target="_blank"} by Simon Knight
+-   EuroStar Webinar [Hiring Professional testers](https://testhuddle.com/resource/hiring-professional-testers/){:target="_blank"} by Huib Schoots
+-   [Heuristics for recognizing professional testers](https://www.huibschoots.nl/wordpress/?p=1666){:target="_blank"} by Huib Schoots
+-   [To The Hiring Managers and Recruiters (of Software Testers)](https://www.ministryoftesting.com/articles/to-the-hiring-managers-and-recruiters-of-software-testers){:target="_blank"} by Rosie Sherry
+-   [Recruiting Software Testers](https://kaner.com/pdfs/QWjobs.pdf){:target="_blank"} by Cem Kaner
+-   [Writing job description for testers - Part I](https://observanttester.blogspot.nl/2011/02/writing-job-description-for-tester-part.html){:target="_blank"} and [Part II](https://observanttester.blogspot.com/2011/02/writing-job-description-for-tester-part_16.html){:target="_blank"} by Thomas Ponnet
+-   [Hiring Geeks That Fit](https://leanpub.com/hiringgeeks){:target="_blank"} (book) by Johanna Rothman
+-   [Finding the Geek Who Fits](https://medium.com/pragmatic-programmers/finding-the-geek-who-fits-five-tips-for-hiring-as-an-agile-team-485fa685804c){:target="_blank"} by Johanna Rothman
+-   [Agile Hiring: It’s a Team Sport](https://www.slideshare.net/johannarothman/agile-hiring-its-a-team-sport){:target="_blank"} by
     Johanna Rothman
--   [Irrelevant interview questions](https://www.facebook.com/permalink.php?story_fbid=10151920630645073&id=111442000072)?
-    by Michael Bolton & Rex Black
--   [How Can We Interview Testers Better](https://www.mkltesthead.com/2015/08/how-can-we-interview-testers-better.html)?
-    by Michael Larsen
--   How We Hire Engineers – [Part 1: Our screener](https://blog.intercom.io/how-we-hire-engineers-part-1/) –
-    [Part 2: Culture Contribution](https://blog.intercom.io/how-we-hire-engineers-part-2-culture-contribution/) by Brian
-    White
+-   [How Can We Interview Testers Better](https://www.mkltesthead.com/2015/08/how-can-we-interview-testers-better.html){:target="_blank"} by Michael Larsen
+-   [How We Hire Engineers: Culture Contribution](https://blog.intercom.io/how-we-hire-engineers-part-2-culture-contribution/){:target="_blank"} by Pratik Bothra & David Shuffelton
 
 ---
 
@@ -440,6 +424,7 @@ Last update 28 June 2025
 
 ### Rapid Software Testing
 
+- [Rapid Software Testing Website](https://rapid-software-testing.com/)
 -   [Rapid Software Testing](https://www.satisfice.com/info_rst.shtml) by Satisfice
 -   [Rapid Software Testing](https://www.developsense.com/courses.html) by Developsense
 -   Premises of Rapid Software Testing by Michael Bolton –
@@ -449,7 +434,7 @@ Last update 28 June 2025
 -   [Rapid Software Testing – skilled software testing unleashed](https://testsidestory.com/2013/03/11/rapid-software-testing-skilled-software-testing-unleashed-2/)
     by Zeger van Hese
 -   [Rapid Software Testing – a context-driven test approach](https://leanmagazine.net/testing/rapid-software-testing-a-context-driven-test-approach/)
-    By Kristoffer Nordström
+    By Ardiana Spahija
 -   [Rapid Software Testing vs Rapid Software Testing](https://pascaldufour.wordpress.com/2012/05/28/rapid-software-testing-vs-rapid-software-testing/)
     by Pascal Dufour
 -   [How I got to Rapid Software Testing…](https://martialtester.wordpress.com/2012/05/10/how-i-got-to-rapid-software-testing/)
@@ -1337,18 +1322,162 @@ What to learn more about storytelling? Have a look [here](https://www.huibschoot
 -   [Esther Derby](https://www.estherderby.com/blog/)
 -   [Beaglesays: A Nose For Testing](https://beaglesays.blog/) – Paul Seaman
 -   [Question Able](https://testing.pejgan.se/) – Lena Pejgan
--   [Testing Curator](https://blog.testingcurator.com/) – Matt Hutchison
--   [Angie Jones](https://angiejones.tech/)
--   [Trish Khoo](https://trishkhoo.com/blog/)
+-   [Angie Jones](https://angiejones.tech/){:target="_blank"}
+-   [Trish Khoo](https://trishkhoo.com/blog/){:target="_blank"}
 -   [Anne-Marie Charrett](https://www.annemariecharrett.com/)
--   [Mike Talks](https://medium.com/@MikeTalks)
--   [Testing Thoughts](https://testingthoughts.com/blog) – Paul Holland
--   [Thoughts from the test eye](https://thetesteye.com/blog/) – Rikard Edgren, Henrik Emilsson, Martin Jansson
--   [The Pain and Gain of Edward Bear](https://thepainandgainofedwardbear.wordpress.com/) – Helena Jeret-Mäe
--   [Katrina the Tester](https://katrinatester.blogspot.com/) – Katrina Clokie
+-   [Mike Talks](https://medium.com/@MikeTalks){:target="_blank"}
+-   [Testing Thoughts](https://testingthoughts.com/blog){:target="_blank"} – Paul Holland
+-   [Thoughts from the test eye](https://thetesteye.com/blog/){:target="_blank"} – Rikard Edgren, Henrik Emilsson,
+    Martin Jansson
+-   [The Pain and Gain of Edward Bear](https://thepainandgainofedwardbear.wordpress.com/){:target="_blank"} – Helena
+    Jeret-Mäe
+-   [Katrina the Tester](https://katrinatester.blogspot.com/){:target="_blank"} – Katrina Clokie
 
 ---
 
-> On this page you will find Great Resources on Software Testing and Quality Engineering I recommend. Do you know a
-> great resource that should be here? Let me know via LinkedIn or e-mail (contacts are at the bottom of the left
-> sidebar). {: .prompt-info }
+### Rapid Software Testing Reading List
+
+<blockquote class="prompt-info">If you took an RST class or read the book, here are some additional materials that would be good for you to survey.
+</blockquote>
+
+# RST Appendices & learn more
+-   [RST Appendices](https://www.satisfice.com/download/rst-appendices){:target="_blank"} is full of (sometimes old but still useful) examples and articles. Don’t read all of it, find what is useful for you.
+-   The "[Learn more](https://rapid-software-testing.com/learn_more/){:target="_blank"}" section on the RST website
+
+# RST classics
+-   [Heuristic Test Strategy Model](https://www.satisfice.com/download/heuristic-test-strategy-model){:target="_blank"}<br>
+    This document is included in the RST Appendices. Even if you choose to read nothing else, do have a look at this.
+
+-   [Exploratory Testing 3.0](https://www.satisfice.com/blog/archives/1509){:target="_blank"}<br> The way you think of
+    exploratory testing might not be the way we think of it. Here's how we think and talk about exploratory testing in
+    Rapid Software Testing — and why we're considering not talking about it.
+
+-   [Testing and Checking Refined](http://www.satisfice.com/blog/archives/856){:target="_blank"}<br> There's a big
+    difference between testing — learning about a product through experiencing, exploring, and experimenting — and
+    checking, which is a part of testing that can be automated.<br> Joep Schuurkes view on this:
+    [What’s the word for the part of testing that’s not checking?](https://smallsheds.garden/blog/2015/whats-the-word-for-the-part-of-testing-thats-not-checking/){:target="_blank"}
+
+-   Test cases are not testing: towards a culture of test performance<br>This article talks about testing as a
+    performance. Giving great insights in why testing is so much more then test cases. It helps you get rid of the test
+    cases addiction. [Article](https://www.satisfice.com/download/test-cases-are-not-testing){:target="_blank"} &
+    [Video](https://www.youtube.com/watch?v=JLVP_Z5AoyM){:target="_blank"}
+
+- The Premises of Rapid Software Testing Rapid Software Testing is based on several premises that relate to the general
+context of development work, to our social responsibilities and duty of care, and to practical limitations on what we
+can achieve. The premises are outlined and explained [here](https://www.developsense.com/blog/2012/09/premises-of-rapid-software-testing-part-1/){:target="_blank"}.
+
+- How RST is Different from “Factory-Style” Testing? Rapid Software Testing differs from "traditional" approaches to
+testing. [Here](https://www.satisfice.com/download/how-rst-is-different-from-factory-style-testing){:target="_blank"} are several ways in which that plays out.
+
+# Automation
+- Paul Holland and I did a keynote called “[automation addiction](https://youtu.be/ZcwxzvGWFc0){:target="_blank"}”. Where we talk about what bad practices we see in automation in testing and how to improve. 
+
+# Testing Story
+- Three blogs by Michael Bolton on the testing story: [How is the testing going?](https://developsense.com/blog/2018/02/how-is-the-testing-going){:target="_blank"}, [Braiding The Stories](http://www.developsense.com/blog/2012/02/braiding-the-stories/){:target="_blank"}, [Delivering the News](http://www.developsense.com/blog/2012/02/delivering-the-news-test-reporting-part-3/){:target="_blank"}<br>
+- [Delivering Information vs. Delivering Meta-Information](https://elizabethzagroba.com/posts/2021/delivering_information_vs_delivering_meta_information/){:target="_blank"} by Elizabeth Zagroba<br>
+- [What is Good Evidence?](https://youtu.be/i8he7Rejn5s){:target="_blank"} video by Griffin Jones
+- [Not “right”, but as good as I can do](https://clarotesting.wordpress.com/2013/09/24/not-right-but-as-good-as-i-can-do/){:target="_blank"} by James Christie
+- Let’s stop talking about testing, let’s start thinking about value. [This blogpost](http://www.huibschoots.nl/wordpress/?p=2763){:target="_blank"} by me and Alex Schladebeck
+
+# Models
+- [Many models – Better test ideas](http://thetesteye.com/blog/2012/02/many-models-better-test-ideas/){:target="_blank"}
+- [The Best Way to Make Intelligent Decisions](https://fs.blog/mental-models/){:target="_blank"}
+- [How I use modelling in software testing](https://www.annemariecharrett.com/how-i-use-modelling-in-software-testing/){:target="_blank"} by Anne-Marie Charrett
+- [Visual Test Models & State Transition Diagrams](https://katrinatester.blogspot.com/2015/01/visual-test-models-state-transition.html){:target="_blank"} by Katrina Clockie
+
+# Heuristics
+- [The Essence of Heuristics](https://www.satisfice.com/blog/archives/462){:target="_blank"} by James Bach
+- [Heuristics for Understanding Heuristics](https://developsense.com/blog/2012/04/heuristics-for-understanding-heuristics){:target="_blank"} by Michael Bolton
+- [Heuristics applied when opening a safe lock](https://mkedemo.wordpress.com/2021/05/10/heuristics-applied-when-opening-a-safe-lock/){:target="_blank"} by Maria Kedemo
+- [Mind the gap!](https://www.ministryoftesting.com/articles/ce0dc29c?s_id=14720365){:target="_blank"} by Richard Bradshaw & Sarah Deery
+- [Micro heuristics](https://www.schladebeck.de/microheuristics/){:target="_blank"} by Alex Schladebeck
+
+# Test Strategy
+- An example on how to create test strategy: [Creating a Test Strategy](http://www.huibschoots.nl/wordpress/?p=2726){:target="_blank"} by Huib Schoots
+- [Ask me anything: Test Strategy](https://www.ministryoftesting.com/ask-me-anythings/e72f820b?s_id=14720293){:target="_blank"} by Huib Schoots on Ministry of Testing
+- [Ask me anything: Test Strategy](https://club.ministryoftesting.com/t/ask-me-anything-test-strategies/36305){:target="_blank"}(Questions answered at the MoT club)
+- Two great examples of how to do analysis and create a thorough Test Strategy by Rikard Edgren: [WorkRave Test Strategy](http://thetesteye.com/examples/Example_WorkRaveTestStrategy.pdf){:target="_blank"} and [Screen Pluck Test Analysis](http://thetesteye.com/examples/ScreenPluck_TestAnalysis.pdf){:target="_blank"}
+- How to create a product coverage outline? In [this video](http://youtu.be/NUojNfDjIjw){:target="_blank"} I explain and show how you can create a PCO.
+- How to conduct [heuristic risk analysis](http://www.satisfice.com/articles/hrbt.pdf){:target="_blank"} by James Bach
+- [Reasons to Repeat tests](http://www.satisfice.com/repeatable.shtml){:target="_blank"} by James Bach
+- [When do we stop? Are we there yet?](https://www.annemariecharrett.com/yet/){:target="_blank"} by Anne-Marie Charrett
+- [When do we stop a test?](https://developsense.com/blog/2009/09/when-do-we-stop-test){:target="_blank"} by Michael Bolton
+
+# Test design
+- [How to come up with test ideas](http://erik.brickarp.se/2016/08/how-to-come-up-with-test-ideas.html){:target="_blank"} is a blogpost by Erik Brickarp with various tools, tips and sources to improve your ability to generate test ideas.
+- More inspiration on test ideas [here](#test-ideas).
+- [Little black book on Test Design](http://www.thetesteye.com/papers/TheLittleBlackBookOnTestDesign.pdf){:target="_blank"} by Rikard Edgren
+
+# Critical thinking & asking questions
+- [Critical thinking for testers](http://www.developsense.com/presentations/2017-03-TestBash-CriticalThinkingforTesters.pdf){:target="_blank"} slides by Michael Bolton
+- [Context-Free Questions for Testing](http://www.developsense.com/blog/2010/11/context-free-questions-for-testing/){:target="_blank"} by Michael Bolton
+
+- Learning & skills for testers. My blogpost called [A Road to awesomeness](https://www.huibschoots.nl/wordpress/?p=2466){:target="_blank"}. My Mind Map with important skills for testers is [here](http://www.dropbox.com/s/ij0ga0r2zzlfi9v/Awesome%20Tester.xmind?dl=0){:target="_blank"}.
+
+# Testability
+- [Heuristics of Software Testability](https://www.satisfice.com/download/heuristics-of-software-testability){:target="_blank"} by James Bach
+- [Team Guide to Software Testability](http://leanpub.com/softwaretestability){:target="_blank"} by Ash Winter and Rob Meaney
+- [Testability awakens: moving testability into new dimensions](https://mkedemo.files.wordpress.com/2015/12/testability-awakenstestingtrapeze-2015-december.pdf){:target="_blank"} by Maria Kedemo
+
+# Software Quality attributes by the Test Eye
+[English](http://thetesteye.com/posters/TheTestEye_SoftwareQualityCharacteristics.pdf){:target="_blank"}
+[Dutch](http://dewt.files.wordpress.com/2013/03/thetesteye_softwarekwaliteitkenmerken1.pdf){:target="_blank"}
+
+# Exploring
+- [All roads lead to Exploratory Testing](https://www.womentesters.com/all_roads_lead_to_et/){:target="_blank"} by Alex Schladebeck
+- [Explore It? Explore It!](https://youtu.be/9FKY1Is0lgs){:target="_blank"} video by Elisabeth Hendrickson
+- [Exploratory Testing Index](https://maaretp.com/ETI.html){:target="_blank"} by Maaret Pyhäjärvi
+- [Session-based testing](https://www.satisfice.com/download/session-based-test-management){:target="_blank"} by Jon Bach
+- [A Journey in Test Engineering Leadership: Applying Session-Based Test Management](https://www.infoq.com/articles/session-based-test-management/){:target="_blank"} by Djuka Selendic
+- [Session Based Test Management](https://vimeo.com/275859274){:target="_blank"} video by James Lyndsay
+- [Touring Heuristics](http://www.michaeldkelly.com/blog/2005/9/20/touring-heuristic.html){:target="_blank"} by Michael Kelly
+- [Of Testing Tours and Dashboards](http://www.developsense.com/blog/2009/04/of-testing-tours-and-dashboards/){:target="_blank"} by Michael Bolron
+- [Testing tours – what is there more to add?](https://altom.com/testing-tours-add/){:target="_blank"} by Alexandra Casapu
+
+# Regression Testing
+- [A heuristic for regression testing](http://karennicolejohnson.com/2009/11/a-heuristic-for-regression-testing/){:target="_blank"} by Karen Nicole Johnson
+- [Regression Testing and Discipline](https://developsense.com/blog/2020/10/regression-testing-and-discipline){:target="_blank"} by Michael Bolton
+- [Regression Obsession](https://developsense.com/blog/2019/08/regression-obsession){:target="_blank"} by Michael Bolton
+
+# Oracles
+- [Oracles from the inside out](https://www.developsense.com/blog/2015/09/oracles-from-the-inside-out/){:target="_blank"} by Michael Bolton
+- [FEW HICCUPPS](https://www.developsense.com/blog/2012/07/few-hiccupps/){:target="_blank"} by Michael Bolton
+
+# Estimation
+[why Is Testing Taking So Long?](https://www.developsense.com/blog/2009/11/why-is-testing-t{:target="_blank"}aking-so-long-part-1/) by Michael Bolton
+
+# Tools
+- [Perlclip](http://www.satisfice.com/tools.shtml){:target="_blank"} by James Bach
+- More tools [here](#tools){:target="_blank"} 
+
+# Getting better
+- [A concise list](https://www.satisfice.com/download/elements-of-excellent-testing){:target="_blank"} of the skills, dynamics, and work products of excellent testing.
+- [TestOpsy](https://www.kenst.com/the-testopsy/){:target="_blank"} by Chris Kenst
+- [TestOpsy](https://bit.ly/testopsyhuibandalex){:target="_blank"} Slides of a workshop by Alex and me
+- [Bad Habits During Testing Activities](https://altom.com/bad-habits-during-testing-activities-2/){:target="_blank"} by Alexandra Casapu
+
+# Other beauties
+- Michael Bolton identifies problems with the notion of "manual testing" in [this video](https://www.youtube.com/watch?v=DBzz04M01r8){:target="_blank"}
+- [Context-driven Test improvement](http://www.huibschoots.nl/wordpress/?p=2543){:target="_blank"} by Huib Schoots & Joep Schuurkes
+- [Pairing (with Developers)](https://www.ministryoftesting.com/articles/c5ea46db?s_id=14583105){:target="_blank"}
+- [Context-driven testing](https://context-driven-testing.com/){:target="_blank"} The official website of Context-driven Testing school of thoughts. It is made and maintained by Cem Kaner, one of the founders of CDT
+
+# Even more resources
+- [list of great stuff](https://developsense.com/resources){:target="_blank"} by Michael Bolton
+
+# Books
+- Taking testing seriously! The Rapid Software Testing approach - James Bach & Michael Bolton
+- Lessons learned in software testing - Kaner, Bach & Pettichord
+- Perfect Software: And Other Illusions about Testing - Jerry Weinberg (about mindset and thinking about testing)
+- Explore it! - Elisabeth Hendrickson (about exploratory testing)
+- How to be an explorer of the world - Keri Smith (about exploration)
+- How to break Software - James Whittaker (about attacks)
+- How to break web software & How to break SW security are also good. Don’t buy his book on Exploratory Testing.
+- You are not so smart - David McRaney (about biases)
+- Tacit and explicit knowledge - Harry Collins (about tacit & explicit knowledge)
+- Discussion of the Method - Billy Vaughan Koen (about the engineering method & heuristics)
+- Thinking, Fast and Slow - Daniel Kahneman (about system 1 & 2 thinking)
+- The Leprechauns of Software Engineering – Laurent Bossavit (about myths in the SW industry)
+- The Secrets of Consulting: A Guide to Giving and Getting Advice Successfully - Jerry Weinberg (about being a credible consultant)
+- Becoming a Technical Leader: An Organic Problem-solving Approach – Jerry Weinberg (about formal & informal leadership in the tech industry)
+- Are Your Lights On?: How to Figure Out What the Problem Really is - Donald Gause & Jerry Weinberg (about problem solving)

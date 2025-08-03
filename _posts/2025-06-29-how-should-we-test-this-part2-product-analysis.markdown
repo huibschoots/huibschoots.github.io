@@ -8,7 +8,7 @@ image:
     path: /assets/img/hswtt_2.png
 ---
 
-[Photo by energepic.com](https://www.pexels.com/photo/woman-sitting-in-front-of-macbook-313690/){:target="\_blank"}
+[Photo by energepic.com](https://www.pexels.com/photo/woman-sitting-in-front-of-macbook-313690/){:target="_blank"}
 
 <blockquote class="prompt-info">This blog series explores a central question in software testing: “How should we test this?” (HSWTT?) We'll start with some foundational concepts that shape how we approach testing: learning, modelling, and heuristics. From there, the series dives into practical thinking tools: how to learn about the product (Product Analysis), how to identify important potential problems (Risk Analysis) and how to search for those problems effectively (Test Strategy). Finally, we’ll look at how to communicate what we’ve found in a meaningful way (Reporting).</blockquote>
 
@@ -39,7 +39,7 @@ first before looking at the requirements).
 
 Software is complex and the biggest part is invisible. Take care to cover all of it that matters, not just the parts
 that are easy to see. You could consider using SFDIPOT (Product elements from the
-[Heuristic Test Strategy Model](https://www.satisfice.com/download/heuristic-test-strategy-model){:target="\_blank"})
+[Heuristic Test Strategy Model](https://www.satisfice.com/download/heuristic-test-strategy-model){:target="_blank"})
 during the creation of a PCO. Products have many dimensions. Each category, listed below, represents an important and
 unique element to be considered. It includes things users see, and things they don’t see:
 
@@ -84,8 +84,8 @@ you create a PCO.
 
 ## More on Product Coverage Outlines:
 
--   [Many examples of PCOs](https://developsense.com/resources/pcos.pdf){:target="\_blank"}
--   [My video where I create a PCO and explain what I do](https://www.youtube.com/watch?v=NUojNfDjIjw){:target="\_blank"}
+-   [Many examples of PCOs](https://developsense.com/resources/pcos.pdf){:target="_blank"}
+-   [My video where I create a PCO and explain what I do](https://www.youtube.com/watch?v=NUojNfDjIjw){:target="_blank"}
 
 ---
 
@@ -97,4 +97,4 @@ you create a PCO.
 [^2]:
     Touring = is a tactic where the tester explores and investigates a product like touring a city on holiday, using
     different aspects to guide and focus the investigation like structure, data or documentation. More on tours
-    [here](https://developsense.com/blog/2009/04/of-testing-tours-and-dashboards){:target="\_blank"}
+    [here](https://developsense.com/blog/2009/04/of-testing-tours-and-dashboards){:target="_blank"}

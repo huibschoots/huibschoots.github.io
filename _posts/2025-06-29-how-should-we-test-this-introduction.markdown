@@ -8,7 +8,7 @@ image:
     path: /assets/img/hswtt_i.png
 ---
 
-[Photo by energepic.com](https://www.pexels.com/photo/woman-sitting-in-front-of-macbook-313690/){:target="\_blank"}
+[Photo by energepic.com](https://www.pexels.com/photo/woman-sitting-in-front-of-macbook-313690/){:target="_blank"}
 
 <blockquote class="prompt-info">This blog series explores a central question in software testing: “How should we test this?” (HSWTT?) We'll start with some foundational concepts that shape how we approach testing: learning, modelling, and heuristics. From there, the series dives into practical thinking tools: how to learn about the product (Product Analysis), how to identify important potential problems (Risk Analysis) and how to search for those problems effectively (Test Strategy). Finally, we’ll look at how to communicate what we’ve found in a meaningful way (Reporting).</blockquote>
 
@@ -43,9 +43,9 @@ to 90% of what we do is done automatically, without thinking. We have to put our
 
 ## Thinking paradigms
 
-Only recently via [Professor Dr. Tanja Vos](https://www.linkedin.com/in/tanja-e-j-vos-4812ba/){:target="\_blank"} did I
+Only recently via [Professor Dr. Tanja Vos](https://www.linkedin.com/in/tanja-e-j-vos-4812ba/){:target="_blank"} did I
 discover two distinct paradigms for understanding knowledge:
-[Rationalism and Empiricism](https://www.sciencedirect.com/science/article/pii/S0167642318300030){:target="\_blank"}.
+[Rationalism and Empiricism](https://www.sciencedirect.com/science/article/pii/S0167642318300030){:target="_blank"}.
 Empiricism emphasizes learning through experience, observation, and iterative experimentation. It values direct
 interaction with software, user behavior, and continuous feedback loops. In contrast, Rationalism is rooted in logic,
 reasoning, and formal methods. It relies on systematic processes and abstract theories to design and prove software
@@ -89,7 +89,7 @@ complete. Different people can look at the same things and see different quality
 Software development is complex. It is really hard to fully and deeply understand what a system should do. Because there
 are many requirements, but also because we deal with customers who don't know exactly what they want or can't explain it
 well. IT teams don't always understand the business well. We also must deal with a
-[VUCA](https://en.wikipedia.org/wiki/VUCA){:target="\_blank"} world: complexity, confusion, changes, new insights, and
+[VUCA](https://en.wikipedia.org/wiki/VUCA){:target="_blank"} world: complexity, confusion, changes, new insights, and
 half answers. As a result, we face considerable risk. Making software is a continuous process of research and
 development. Business and IT work together to find suitable solutions, solve problems and prevent them. It is a
 challenging puzzle to make the translation between what people want and what machines can do. Therefore software
@@ -97,8 +97,8 @@ development is about learning and dealing with risks.
 
 Complexity is a serious and often undervalued problem in software development. Being aware of it, is the first step. We
 need to reduce complexity continuously: by working agile we deal with complexity, but also by building our systems
-modular using microservices helps. [Team Topologies](https://teamtopologies.com/){:target="\_blank"} introduced the
-concept of [cognitive load](https://itrevolution.com/articles/cognitive-load/){:target="\_blank"} to me. It made me
+modular using microservices helps. [Team Topologies](https://teamtopologies.com/){:target="_blank"} introduced the
+concept of [cognitive load](https://itrevolution.com/articles/cognitive-load/){:target="_blank"} to me. It made me
 realize that in many cases we expect our teams to deal with too much information and complexity and this is asking for
 problems! Modeling and visualization is a great way to make complex things easier to understand.
 
@@ -130,4 +130,4 @@ The in next blog we will dive into learning.
     rules, RST is a mindset and a skill set. It is a way to understand testing; it is a set of things a tester knows how
     to do; and it includes approaches to effective leadership in testing.
 
-    Source: [Rapid Software Testing Website](https://rapid-software-testing.com/){:target="\_blank"}
+    Source: [Rapid Software Testing Website](https://rapid-software-testing.com/){:target="_blank"}

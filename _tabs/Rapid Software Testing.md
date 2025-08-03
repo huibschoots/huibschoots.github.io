@@ -1,6 +1,6 @@
 ---
 # the default layout is 'page'
-icon: fa-bug
+icon: fa fa-bug
 order: 5
 ---
 
@@ -35,14 +35,12 @@ laureates Herbert Simon, Richard Feynman, and Daniel Kahneman. If you admire the
 resonates in the methodology and classroom experiences that we provide.
 
 RST is also based on and related to
-[Lessons Learned in Software Testing: A Context-Driven Approach](https://www.amazon.com/exec/obidos/ASIN/0471081124/satisinc){:target="\_blank"},
+[Lessons Learned in Software Testing: A Context-Driven Approach](https://www.amazon.com/exec/obidos/ASIN/0471081124/satisinc){:target="_blank"},
 by Cem Kaner, James Bach, and Bret Pettichord as well as the self-education and independent thinking approach to life
-depicted in James’ book, [Secrets of a Buccaneer-Scholar](https://amzn.to/2Gip8ib){:target="\_blank"}
+depicted in James’ book, [Secrets of a Buccaneer-Scholar](https://amzn.to/2Gip8ib){:target="_blank"}
 
 Source:
-[Rapid Software Testing website](https://rapid-software-testing.com/about-rapid-software-testing/){:target="\_blank"}
-
-### Why I am an RST teacher
+[Rapid Software Testing website](https://rapid-software-testing.com/about-rapid-software-testing/){:target="_blank"}
 
 ### The Book
 
@@ -51,7 +49,7 @@ seriously! The Rapid Software Testing approach". It is a MUST READ for everybody
 excellent tester.
 
 This journey started in Early 2021 when my dear friend
-[Marius A. Frâncu](https://www.linkedin.com/in/marius-adrian-francu/){:target="\_blank"} and I initiated an RST
+[Marius A. Frâncu](https://www.linkedin.com/in/marius-adrian-francu/){:target="_blank"} and I initiated an RST
 community book project. We invited friends and practitioners of Rapid Software Testing to contribute and asked James and
 Michael Bolton write a chapter about the RST approach. One chapter became two, then three… and eventually seven! It grew
 into a comprehensive and passionate deep dive into the context-driven testing philosophy that is so close to my heart.
@@ -74,7 +72,7 @@ James wrote about the book on Linkedin:
 -   https://www.linkedin.com/posts/james-bach-6188a811_software-testing-for-serious-people-activity-7116398657276428288-rBi1
 -   https://www.linkedin.com/posts/james-bach-6188a811_apparently-i-wrote-more-book-than-wiley-expected-activity-7347877290116096000-noYK
 
-You can pre-order/buy the book [here on Amazon](https://www.amazon.nl/-/en/James-Bach/dp/1394253192){:target="\_blank"}
+You can pre-order/buy the book [here on Amazon](https://www.amazon.nl/-/en/James-Bach/dp/1394253192){:target="_blank"}
 
 ### Reading List (part of great resources)
 
@@ -84,6 +82,6 @@ integrated it into my public Great Resources list. This curated collection of li
 resources is something I’ve been maintaining for many years. It has consistently been the most popular part of my
 website.
 
--   [The RST reading list](/posts/mindset-the-book/){:target="\_blank"}
--   [The great resources list ](/posts/mindset-the-book/){:target="\_blank"}
--   [The RST YouTube channel](https://youtube.com/@rapid_software_testing){:target="\_blank"}
+-   [The RST reading list](/posts/great-resources/){:target="_blank"}
+-   [The great resources list ](/posts/great-resources/#rapid-software-testing-reading-list){:target="_blank"}
+-   [The RST YouTube channel](https://youtube.com/@rapid_software_testing){:target="_blank"}

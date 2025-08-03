@@ -8,7 +8,7 @@ image:
     path: /assets/img/teststrategy.png
 ---
 
-[Photo by energepic.com](https://www.pexels.com/photo/woman-sitting-in-front-of-macbook-313690/){:target="\_blank"}
+[Photo by energepic.com](https://www.pexels.com/photo/woman-sitting-in-front-of-macbook-313690/){:target="_blank"}
 
 <blockquote class="prompt-info">This blog series explores a central question in software testing: “How should we test this?” (HSWTT?) We'll start with some foundational concepts that shape how we approach testing: learning, modelling, and heuristics. From there, the series dives into practical thinking tools: how to learn about the product (Product Analysis), how to identify important potential problems (Risk Analysis) and how to search for those problems effectively (Test Strategy). Finally, we’ll look at how to communicate what we’ve found in a meaningful way (Reporting).</blockquote>
 
@@ -60,11 +60,11 @@ while ago:
 6. What has already been tested?
 
 In the
-[upcoming book on RST](https://www.amazon.com/-/en/Taking-Testing-Seriously-Software-Approach/dp/1394253192){:target="\_blank"}
+[upcoming book on RST](https://www.amazon.com/-/en/Taking-Testing-Seriously-Software-Approach/dp/1394253192){:target="_blank"}
 there are even 12 considerations called "Twelve Test Strategy Entry Points".
 
 Another list which is worth mentioning here is the
-[FIBLOTS mnemonic](https://scott-barber.blogspot.com/2011/09/model-workloads-for-performance-testing.html){:target="\_blank"}.
+[FIBLOTS mnemonic](https://scott-barber.blogspot.com/2011/09/model-workloads-for-performance-testing.html){:target="_blank"}.
 Scott Barber created it years ago: it was created for use in performance testing, but it works in any form of testing.
 
 -   <b>Frequent</b>: Common application usage.
@@ -98,7 +98,7 @@ Example Test Strategy Table:
 | Magazzini Alimentari Riuniti | Giovanni Rovelli |   Italy |
 
 James Bach introduced Risk-Task lists already years ago. Some examples can be found in the
-[RSTE appendices](https://www.satisfice.com/download/rst-appendices){:target="\_blank"}.
+[RSTE appendices](https://www.satisfice.com/download/rst-appendices){:target="_blank"}.
 
 Notes:
 
@@ -146,8 +146,8 @@ strategy discussion in refinements.
 
 Two great sources to learn more about testability:
 
--   [Heuristics of Software Testability by James Bach](https://www.satisfice.com/download/heuristics-of-software-testability){:target="\_blank"}
--   [Team Guide to Software Testability by Ash Winter and Rob Meaney](https://leanpub.com/softwaretestability){:target="\_blank"}
+-   [Heuristics of Software Testability by James Bach](https://www.satisfice.com/download/heuristics-of-software-testability){:target="_blank"}
+-   [Team Guide to Software Testability by Ash Winter and Rob Meaney](https://leanpub.com/softwaretestability){:target="_blank"}
 
 ## What if I do not have time to create a Test Strategy?
 
@@ -202,10 +202,10 @@ overview for yourself and your team and the stakeholders.
 
 ## More on Test Strategy
 
--   [Creating a Test Strategy](https://www.huibschoots.nl/wordpress/?p=2726){:target="\_blank"}
--   [Ask Me Anything: Test Strategies](https://club.ministryoftesting.com/t/ask-me-anything-test-strategies/36305){:target="\_blank"}
--   [Test Strategy example by Rikard Edgren](https://thetesteye.com/examples/Example_WorkRaveTestStrategy.pdf){:target="\_blank"}
--   [Test Analysis example (from which you can easily create a strategy) by Rikard Edgren](https://thetesteye.com/examples/ScreenPluck_TestAnalysis.pdf){:target="\_blank"}
+-   [Creating a Test Strategy](https://www.huibschoots.nl/wordpress/?p=2726){:target="_blank"}
+-   [Ask Me Anything: Test Strategies](https://club.ministryoftesting.com/t/ask-me-anything-test-strategies/36305){:target="_blank"}
+-   [Test Strategy example by Rikard Edgren](https://thetesteye.com/examples/Example_WorkRaveTestStrategy.pdf){:target="_blank"}
+-   [Test Analysis example (from which you can easily create a strategy) by Rikard Edgren](https://thetesteye.com/examples/ScreenPluck_TestAnalysis.pdf){:target="_blank"}
 
 ---
 
@@ -213,5 +213,5 @@ overview for yourself and your team and the stakeholders.
     An oracle is a heuristic principle or mechanism by which someone recognizes a problem. If we perceive a problem,
     it’s because an oracle is telling us that there’s a problem. The better oracles and information we have, the easier
     it becomes to test a product! More on oracles
-    [here](https://developsense.com/blog/2012/04/all-oracles-are-heuristic){:target="\_blank"} and
-    [here](https://developsense.com/blog/2015/09/oracles-from-the-inside-out){:target="\_blank"}
+    [here](https://developsense.com/blog/2012/04/all-oracles-are-heuristic){:target="_blank"} and
+    [here](https://developsense.com/blog/2015/09/oracles-from-the-inside-out){:target="_blank"}

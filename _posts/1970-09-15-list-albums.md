@@ -7,7 +7,7 @@ image:
     path: /assets/img/albums.jpg
 ---
 
-[Photo by Tima Miroshnichenko](https://www.pexels.com/photo/woman-choosing-vinyl-record-6827245/){:target="\_blank"}
+[Photo by Tima Miroshnichenko](https://www.pexels.com/photo/woman-choosing-vinyl-record-6827245/){:target="_blank"}
 
 1. Marillion – Misplaced Childhood
 2. Pearl Jam – Ten

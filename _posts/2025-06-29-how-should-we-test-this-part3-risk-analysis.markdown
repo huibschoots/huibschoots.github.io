@@ -214,10 +214,10 @@ activities during a sprint:
 
 ## More on risk analysis
 
--   [Michael Bolton on Risk Analysis](https://www.youtube.com/watch?v=g97mMeC9EIE){:target="\_blank"}
--   [Risk Heuristics](https://www.developsense.com/resources/RiskHeuristics.pdf){:target="\_blank"}
--   [Software Quality Characteristics by the test eye](https://thetesteye.com/posters/TheTestEye_SoftwareQualityCharacteristics.pdf){:target="\_blank"}[^1]
--   [Test Sphere & Risk Storming](https://www.ministryoftesting.com/testsphere/riskstorming){:target="\_blank"}[^2]
+-   [Michael Bolton on Risk Analysis](https://www.youtube.com/watch?v=g97mMeC9EIE){:target="_blank"}
+-   [Risk Heuristics](https://www.developsense.com/resources/RiskHeuristics.pdf){:target="_blank"}
+-   [Software Quality Characteristics by the test eye](https://thetesteye.com/posters/TheTestEye_SoftwareQualityCharacteristics.pdf){:target="_blank"}[^1]
+-   [Test Sphere & Risk Storming](https://www.ministryoftesting.com/testsphere/riskstorming){:target="_blank"}[^2]
 
 ---
 
@@ -229,4 +229,4 @@ activities during a sprint:
 [^2]:
     Please be aware that Risk Storming is just a way to get risk analysis started. It cannot replace risk analysis in
     teams, but it can be a good way to get your team going. There is also an
-    [online version](https://app.riskstormingonline.com/){:target="\_blank"}
+    [online version](https://app.riskstormingonline.com/){:target="_blank"}

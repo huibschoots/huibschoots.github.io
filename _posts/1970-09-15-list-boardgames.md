@@ -7,7 +7,7 @@ image:
     path: /assets/img/boardgames.jpg
 ---
 
-[Photo by DS stories](https://www.pexels.com/photo/group-of-colorful-human-shape-wooden-blocks-6990407/){:target="\_blank"}
+[Photo by DS stories](https://www.pexels.com/photo/group-of-colorful-human-shape-wooden-blocks-6990407/){:target="_blank"}
 
 1. Brass: Birmingham
 2. Century (Spice Road, A New World & Eastern Wonders)

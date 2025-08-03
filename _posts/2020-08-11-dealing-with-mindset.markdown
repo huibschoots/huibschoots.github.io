@@ -8,8 +8,8 @@ image:
 ---
 
 In our [first blog post](/posts/mindset-the-book/) in this series on mindset
-[Nicole](https://www.facebook.com/c.rufus){:target="\_blank"} and I summarized the book
-[“Mindset” by Carol Dweck](https://www.amazon.com/Mindset-Updated-Changing-Fulfil-Potential/dp/147213995X){:target="\_blank"}.
+[Nicole](https://www.facebook.com/c.rufus){:target="_blank"} and I summarized the book
+[“Mindset” by Carol Dweck](https://www.amazon.com/Mindset-Updated-Changing-Fulfil-Potential/dp/147213995X){:target="_blank"}.
 In our [second blog post](/posts/perfection-and-burnout/) we shared our personal history with growth and fixed mindsets.
 This blog post we talk about how we dealt and currently deal with our mindsets. We also talk about how we changed the
 way we think.

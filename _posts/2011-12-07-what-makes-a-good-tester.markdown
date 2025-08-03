@@ -17,12 +17,12 @@ testing expert?” Part 1 can be found [here](https://www.huibschoots.nl/wordpre
 The question “what makes a good tester?” keeps us busy. This was demonstrated by the attention this subject received at
 different conferences. At EuroSTAR Susan Windsor gave a well attended presentation about this topic called “How to
 Create Good Testers”. During the Agile Testing Days,
-[a group of passionate and renowned agilist and testers got together to discuss various test subjects while enjoying beer and pizza](https://www.huibschoots.nl/wordpress/?p=387){:target="\_blank"}.
+[a group of passionate and renowned agilist and testers got together to discuss various test subjects while enjoying beer and pizza](https://www.huibschoots.nl/wordpress/?p=387){:target="_blank"}.
 After an inventory and a “dot-vote” the topic “Great Testers” received the most votes. That gave great input for this
 column, thanks guys!
 
 In this Dutch article on
-[talent, personal qualities, skills and competencies](https://patrickschriel.nl/2011/07/06/talentontwikkeling-persoonlijke-kwaliteiten-vaardigheden-en-competenties/){:target="\_blank"},
+[talent, personal qualities, skills and competencies](https://patrickschriel.nl/2011/07/06/talentontwikkeling-persoonlijke-kwaliteiten-vaardigheden-en-competenties/){:target="_blank"},
 Patrick Schriel says: “A skill is the ability to be able to perform an act or solve a problem. Competencies are
 knowledge and skills, they are not innate, but are caused by intense and deliberate practice “. With skills I think of
 being able to apply a particular test technique, or being able to work with certain systems, etc. But for a tester key
@@ -36,11 +36,11 @@ What makes a good tester? It depends on the context. Every project is different,
 each test has different requirements. Lisa Crispin said during the meeting in Potsdam: “Most important is attitude, we
 will teach them the skills”. And I totally agree. Passion for the job to me is vital. In the attitude of a tester, I
 find curiosity also very important. Or as Richard Feynman put it:
-“[The Pleasure of Finding Things Out](https://dai.ly/x8x6204){:target="\_blank"}“. A tester is always looking for
+“[The Pleasure of Finding Things Out](https://dai.ly/x8x6204){:target="_blank"}“. A tester is always looking for
 information, how does this work? He constantly is
-[asking questions](https://www.practitest.com/resource-center/blog/a-good-tester-asks-good-questions/){:target="\_blank"}
+[asking questions](https://www.practitest.com/resource-center/blog/a-good-tester-asks-good-questions/){:target="_blank"}
 to understand. I remember the following quotes from the
-[rapid software testing](https://www.rapid-software-testing.com){:target="\_blank"} training: “A tester’s responsibility
+[rapid software testing](https://www.rapid-software-testing.com){:target="_blank"} training: “A tester’s responsibility
 to remain unsure when everybody is sure” and “Testing is about questioning and learning under conditions of fundamental
 uncertainty”. A tester knows that things can be different (Jerry Weinberg). And in Potsdam Michael Bolton added “a good
 tester is able to see the complexity of things that seem simple and the simplicity of things that appear complex.”
@@ -67,7 +67,7 @@ Of course knowledge is important. But curiosity and the ability to learn quickly
 knowledge and therefore makes it less important. A good tester has knowledge of the following (in order of importance)
 testing, IT and domain. But attitude, skills and qualities for a tester are far more important! It was Lasse Koskela who
 talked about the
-“[Least qualified implementer](https://csis.pace.edu/~grossman/dcs/XR4-PromiscuousPairing.pdf){:target="\_blank"}” in his
+“[Least qualified implementer](https://csis.pace.edu/~grossman/dcs/XR4-PromiscuousPairing.pdf){:target="_blank"}” in his
 keynote at the Agile Testing Days. This is the principle that in an agile team someone with the right skills but the
 least knowledge picks up the work item in order to get the whole team as much as possible at the same level of
 knowledge. Interesting! I want to read more about this.

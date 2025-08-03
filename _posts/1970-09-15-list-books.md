@@ -7,7 +7,7 @@ image:
     path: /assets/img/books.jpg
 ---
 
-[Photo by Pixabay](https://www.pexels.com/photo/open-books-on-grass-field-415078/){:target="\_blank"}
+[Photo by Pixabay](https://www.pexels.com/photo/open-books-on-grass-field-415078/){:target="_blank"}
 
 ### Work related books - International
 

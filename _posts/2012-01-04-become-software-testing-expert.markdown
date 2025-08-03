@@ -24,18 +24,18 @@ tester has test, technical and domain knowledge (in that order of importance).
 
 Without passion no change and no progress said Ferry Bezem of Twynstra Gudde in his article ("Passie voor je werk is
 besmettelijk" which is no longer online).
-“[How passion for your job can lead to success](https://itmanagersinbox.com/1559/how-passion-for-your-job-can-lead-to-success/){:target="\_blank"}"
+“[How passion for your job can lead to success](https://itmanagersinbox.com/1559/how-passion-for-your-job-can-lead-to-success/){:target="_blank"}"
 is one of the other many articles I found when I googled “passion in your work”. To become succesfull, you need to find
 out who you are and where you get energy. To become good, you need to have passion for your profession.
-[This article](https://www.personal-development.com/chuck/passion.htm){:target="\_blank"} explains how to “develop”
+[This article](https://www.personal-development.com/chuck/passion.htm){:target="_blank"} explains how to “develop”
 passion. In addition attitude or mentality are important as well. With the right attitude, you will be successful for
 sure! And don’t forget: you can change your attitude!
 
 ## Critical thinking
 
 Testing for me is questioning a product in order to evaluate it. A tester does this by learning everything there is to
-learn about the product and [analyze](https://en.wikipedia.org/wiki/Analysis){:target="\_blank"} this information.
-[Critical thinking](https://en.wikipedia.org/wiki/Critical_thinking){:target="\_blank"} is an essential competency of a
+learn about the product and [analyze](https://en.wikipedia.org/wiki/Analysis){:target="_blank"} this information.
+[Critical thinking](https://en.wikipedia.org/wiki/Critical_thinking){:target="_blank"} is an essential competency of a
 tester. But how many testers train it? On a well known Dutch book site I searched for books on critical thinking. What
 struck me was that there are several books on critical thinking for medical personal to find. And that sounds actually
 quite logical: medics diagnose patients, testers do the same for their “patients”: the test object!
@@ -55,7 +55,7 @@ Every novice tester in the Netherlands starts with TMap or ISTQB. With that fact
 class where the basics of software testing are taught is a good start. But too often that’s it. We like to guide our
 testing with process models: ISTQB and TMAP are full of them. But the reality is often more complex and testers get in
 trouble when the situation is slightly different as they are used to. The choice of a particular tool, technique or
-method depends on the [context](https://www.context-driven-testing.com/){:target="\_blank"}. TMap Next claims to be an
+method depends on the [context](https://www.context-driven-testing.com/){:target="_blank"}. TMap Next claims to be an
 adaptive method, but do you remember how much time was spent on this topic in your class? And how adaptive are you
 yourself? Do you use the same template over and over? Do you simply copy the test plan for the next release using a
 search and replace?
@@ -63,35 +63,35 @@ search and replace?
 ## Learn, practice and training
 
 I learned very much by critical reading. There are many
-[free software test magazines](https://simonsaysnomore.wordpress.com/2011/09/11/free-magazines/){:target="\_blank"} and
+[free software test magazines](https://simonsaysnomore.wordpress.com/2011/09/11/free-magazines/){:target="_blank"} and
 there are many great books on software testing. The internet is an excellent source of (often free) information. There
 are many videos available of presentations at meetings and conferences. On my blog I keep a list of
 [great resources](/posts/great-resources) for testers. Lynn McKee has a
-[similar list](https://www.qualityperspectives.ca/resources/){:target="\_blank"}. Or start reading blogs,
-[twitter or X now](https://www.practitest.com/resource-center/blog/top-20-twitter-influencers/){:target="\_blank"} can
+[similar list](https://www.qualityperspectives.ca/resources/){:target="_blank"}. Or start reading blogs,
+[twitter or X now](https://www.practitest.com/resource-center/blog/top-20-twitter-influencers/){:target="_blank"} can
 inform you about new interesting blogs and other things worth reading.
 
-Try [weekend testing](https://weekendtesting.com/){:target="\_blank"} or a
-[testing dojo](https://www.shino.de/2010/04/16/testing-dojos/){:target="\_blank"} to practice your skills. Join a local
+Try [weekend testing](https://weekendtesting.com/){:target="_blank"} or a
+[testing dojo](https://www.shino.de/2010/04/16/testing-dojos/){:target="_blank"} to practice your skills. Join a local
 software test community or organize your own gathering with a group of testers who want to meet and learn. At several
 employers I introduced intervision meetings for testers. I also founded
-[DEWT](https://dewt.wordpress.com/){:target="\_blank"} with a group of passionate colleagues: like-minded people who like
+[DEWT](https://dewt.wordpress.com/){:target="_blank"} with a group of passionate colleagues: like-minded people who like
 to challenge and inspire each other. We spend many hours discussing our profession and we certainly do not always agree.
 We discuss and practice in a safe environment and learn from each other.
 
 ## Try something different
 
 Have you been a software tester for years and are you planning to spice up your resume with another certificate? Then
-maybe the [BBST training](https://www.associationforsoftwaretesting.org/training/courses/foundations/){:target="\_blank"}
+maybe the [BBST training](https://www.associationforsoftwaretesting.org/training/courses/foundations/){:target="_blank"}
 is something for you. Let me warn you in advance: this training will give you no certificate and it requires you to
 study and do exercises almost daily for a month. If you really want to learn, you need to invest a lot of time. Malcolm
-Gladwell claims in his book [Outliers](https://en.wikipedia.org/wiki/Outliers_%28book%29){:target="\_blank"} that the key
+Gladwell claims in his book [Outliers](https://en.wikipedia.org/wiki/Outliers_%28book%29){:target="_blank"} that the key
 to success in any field is practicing 10,000 hours. Try a training that changes your view on testing:
-[Rapid Software Testing](https://www.rapid-software-testing.com){:target="\_blank"} for example. This training has
+[Rapid Software Testing](https://www.rapid-software-testing.com){:target="_blank"} for example. This training has
 changed my view of my profession and [inspired me](https://www.huibschoots.nl/wordpress/?p=86) tremendously. Visiting
 [conferences](https://www.huibschoots.nl/wordpress/?p=263) can be very inspiring and instructive. Join
-[TestNet](https://www.testnet.org/){:target="\_blank"} or another (online) testing community like
-[Ministry of Testing](https://www.ministryoftesting.com/){:target="\_blank"} and get inspired. You have plenty of choice!
+[TestNet](https://www.testnet.org/){:target="_blank"} or another (online) testing community like
+[Ministry of Testing](https://www.ministryoftesting.com/){:target="_blank"} and get inspired. You have plenty of choice!
 
 ## Learning from others
 
@@ -99,8 +99,8 @@ I enjoy working with others. As I observe, I ask questions or explain my view on
 from our colleagues in projects … and vice versa! And I’m not just talking about fellow testers. A programmer can build
 a tool or script in only a few hours that can save testers days of work. By doing unit tests together, we gain insight
 in what developers test and how they do it. Try working together:
-[pair programming](https://en.wikipedia.org/wiki/Pair_programming){:target="\_blank"} or
-[pair testing](https://en.wikipedia.org/wiki/Pair_testing){:target="\_blank"} can be a powerful tool. Unfortunately, it
+[pair programming](https://en.wikipedia.org/wiki/Pair_programming){:target="_blank"} or
+[pair testing](https://en.wikipedia.org/wiki/Pair_testing){:target="_blank"} can be a powerful tool. Unfortunately, it
 has a negative image, because it seems to double the effort. But I think it can be beneficial. The added value is
 mastering the details of a job easier, fewer mistakes, faster learning, team building, cooperation and fun.
 

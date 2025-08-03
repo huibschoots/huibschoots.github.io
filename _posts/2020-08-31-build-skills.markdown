@@ -8,9 +8,9 @@ image:
 ---
 
 This is the last part in a four-part series of blogposts on mindset. In part 1
-[Mindset – The book](/posts/mindset-the-book/) [Nicole](https://www.facebook.com/c.rufus){:target="\_blank"} and I
+[Mindset – The book](/posts/mindset-the-book/) [Nicole](https://www.facebook.com/c.rufus){:target="_blank"} and I
 summarized the book
-["Mindset"](https://www.amazon.com/Mindset-Updated-Changing-Fulfil-Potential/dp/147213995X){:target="\_blank"}. In part
+["Mindset"](https://www.amazon.com/Mindset-Updated-Changing-Fulfil-Potential/dp/147213995X){:target="_blank"}. In part
 2 [Looking Back on Perfection and Burnout](/posts/perfection-and-burnout/), we talked about how we suffered from our
 fixed mindsets. In part 3 [Dealing with mindsets](/posts/dealing-with-mindset/), we shared stories on how we dealt with
 our mindsets. In this last blogpost we want to help others deal with their own mindset. We share how you can find out
@@ -44,7 +44,7 @@ _Graph by Nigel Holmes (https://nigelholmes.com/)_
 _Graph by Learner Lab (https://thelearnerlab.com/growth-mindset/)_
 
 There are also many videos you can watch. On the website of
-[Mindset Works](https://www.mindsetworks.com/Videos){:target="\_blank"} you will find a page full of links to amazing
+[Mindset Works](https://www.mindsetworks.com/Videos){:target="_blank"} you will find a page full of links to amazing
 videos.
 
 One of the most important things to take away while learning about mindset is simply the fact that traits are not fixed
@@ -123,7 +123,7 @@ Don’t expect too much and realize it will take time and effort to change your 
 Find a way that suits you.
 
 > Scott Jeffrey made
-> [a great list of questions](https://scottjeffrey.com/change-your-fixed-mindset/#Questions_that_Activate_a_Growth_Mindset){:target="\_blank"}
+> [a great list of questions](https://scottjeffrey.com/change-your-fixed-mindset/#Questions_that_Activate_a_Growth_Mindset){:target="_blank"}
 > that might help you activate a growth mindset:
 
 - What can I learn from this?
@@ -163,7 +163,7 @@ takes effort, but it will open up all sorts of doors to new opportunities.
 
 **_We love to hear from you_**\
 Good luck working on your mindset. We are curious to learn how it goes for you. If you want to share your stories, need some
-help or just want to talk, let us know. We are happy to talk to you! Find us on LinkedIn ([Huib](https://www.linkedin.com/in/huibschoots/){:target="\_blank"}
-and [Nicole](https://www.linkedin.com/in/nicole-errante/){:target="\_blank"}). Start today, don’t think it will get better
+help or just want to talk, let us know. We are happy to talk to you! Find us on LinkedIn ([Huib](https://www.linkedin.com/in/huibschoots/){:target="_blank"}
+and [Nicole](https://www.linkedin.com/in/nicole-errante/){:target="_blank"}). Start today, don’t think it will get better
 by itself. Because it won’t. It requires work. A lot of work. But it will make your life a whole lot easier. If you need
 some support in your journey, just reach out.

@@ -10,14 +10,14 @@ image:
 I am fascinated by mindset. As a lifelong learner I have read piles of books, done many courses and been to over a 100
 conferences. When I started coaching people I learned about the power of thoughts. I took a learning pathway in coaching
 that consisted of 15 days training in a two year period and I learned about how to be a good coach. But I learned even
-more about myself. In 2019 I started working with [bureau Idee](https://www.hoogbegaafd-idee.nl){:target="\_blank"} and
+more about myself. In 2019 I started working with [bureau Idee](https://www.hoogbegaafd-idee.nl){:target="_blank"} and
 learned how to work on my own mindset. Until then I never fully realised the impact of my thoughts and inner beliefs on
 my behaviour and mental health. You can read more about that journey [here on my blog](/posts/mastering-my-mindset/).
 
 One of the most interesting books I have read is
-[Mindset – Changing the way you think to fulfil your potential](https://www.amazon.com/Mindset-Updated-Changing-Fulfil-Potential/dp/147213995X){:target="\_blank"}
+[Mindset – Changing the way you think to fulfil your potential](https://www.amazon.com/Mindset-Updated-Changing-Fulfil-Potential/dp/147213995X){:target="_blank"}
 by Professor dr. Carol Dweck. Me and my learning buddy
-[Nicole Errante](https://www.facebook.com/c.rufus){:target="\_blank"} read the book together as part of our learning
+[Nicole Errante](https://www.facebook.com/c.rufus){:target="_blank"} read the book together as part of our learning
 pact. This blog post is our summary of the book. In our next blog post we will discuss our personal experiences with
 growth and fixed mindsets.
 

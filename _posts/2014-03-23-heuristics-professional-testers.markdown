@@ -7,14 +7,14 @@ image:
     path: /assets/img/proftesters.png
 ---
 
-Via Twitter [Helena Jeret-Mäe](https://thepainandgainofedwardbear.wordpress.com/){:target="\_blank"} asked this question:
-“[What are your criteria for professionalism for testers in CDT community?](https://twitter.com/HelenaJ_M/statuses/426720314383687680){:target="\_blank"}”.
+Via Twitter [Helena Jeret-Mäe](https://thepainandgainofedwardbear.wordpress.com/){:target="_blank"} asked this question:
+“[What are your criteria for professionalism for testers in CDT community?](https://twitter.com/HelenaJ_M/statuses/426720314383687680){:target="_blank"}”.
 Later via Email she updated her question to: _“So the updated version of my question is what are the heuristics for
 recognizing professional testers in your opinion? I changed “criteria” to heuristics… it’s less categorical. And I’ll
 leave the term “professionalism” up to you as well – I don’t know exactly what you meant by it.”_
 
 In my talk
-“[How to become a great tester](https://www.huibschoots.nl/downloads/How%20to%20become%20a%20great%20tester%20-%20CopenhagenContext%202014%20-%20Huib%20Schoots.pdf){:target="\_blank"}”
+“[How to become a great tester](https://www.huibschoots.nl/downloads/How%20to%20become%20a%20great%20tester%20-%20CopenhagenContext%202014%20-%20Huib%20Schoots.pdf){:target="_blank"}”
 at Copenhagen Context Conference last January I talked about testers and their skills. I said that most testers don’t
 know what they’re doing and can’t explain effectively what value they add. I have seen many testers who use the same
 approach over and over again. If I ask them to name test techniques, they can only name a few. If I ask them to explain
@@ -32,13 +32,13 @@ Let me now answer the questions asked, have done enough ranting for now…
 
 Professionalism is what it means to be a professional and what is expected of them. Professional testing is complex and
 diverse and has several dimensions: knowledge, skills, experience, attitude, ethics and values. I wrote a blog post
-“[What makes a good tester?](https://www.huibschoots.nl/wordpress/?p=433){:target="\_blank"}” in 2011 on this topic and
+“[What makes a good tester?](https://www.huibschoots.nl/wordpress/?p=433){:target="_blank"}” in 2011 on this topic and
 I have a broader view on this topic now although everything I wrote then still counts. In my earlier blog posts I didn’t
 mention values and ethics and I now think they are extremely important. James Bach writes about them in his blog post
-“[Thoughts Toward The Ethics of Testing](https://www.satisfice.com/blog/archives/771){:target="\_blank"}”. A great
+“[Thoughts Toward The Ethics of Testing](https://www.satisfice.com/blog/archives/771){:target="_blank"}”. A great
 practical example of ethics and values is Rapid Testing. Look at the “the premises of Rapid Testing” and “the themes of
 Rapid Testing” both can be found in the
-[slides of Rapid Software Testing](https://www.satisfice.com/rst.pdf){:target="\_blank"}.
+[slides of Rapid Software Testing](https://www.satisfice.com/rst.pdf){:target="_blank"}.
 
 [![](https://www.huibschoots.nl/wordpress/wp-content/uploads/2014/03/Dilbert.jpg)](https://www.huibschoots.nl/wordpress/wp-content/uploads/2014/03/Dilbert.jpg)
 
@@ -47,7 +47,7 @@ Every project is different too and to be successful in finding the right profess
 characteristics may be important. There are many characteristics to be considered so to be able to recognize
 professional testers heuristics can be used. Heuristics are fallible methods for solving a problem or making a decision,
 shortcuts to reduce complex problem or rules of thumb. They are used to determine good enough feasible solutions for
-difficult problems within reasonable time. On [Wikipedia](https://en.wikipedia.org/wiki/Heuristic){:target="\_blank"} I found this
+difficult problems within reasonable time. On [Wikipedia](https://en.wikipedia.org/wiki/Heuristic){:target="_blank"} I found this
 definition: “_Heuristics are experience-based techniques for problem solving, learning, and discovery that give a
 solution that is not guaranteed to be optimal. Where the exhaustive search is impractical, heuristic methods are used to
 speed up the process of finding a satisfactory solution via mental shortcuts to ease the cognitive load of making a
@@ -63,7 +63,7 @@ Professional testers can explain what testing is, what value they add and how th
 
 Testing is difficult and to be successful, testers needs to be persistent in learning and in their work. Passion helps
 them to be become real professionals. Watch
-[this video where Steve Jobs talks about passion](https://www.youtube.com/watch?v=PznJqxon4zE){:target="\_blank"}
+[this video where Steve Jobs talks about passion](https://www.youtube.com/watch?v=PznJqxon4zE){:target="_blank"}
 
 ## 3) They consider context first and continuously.
 
@@ -105,18 +105,18 @@ demands training, practice and some more practice.
 
 Have a look at some blog post by Michael Bolton:
 
--   [Test project estimation rapid way](https://www.developsense.com/blog/2007/01/test-project-estimation-rapid-way/){:target="\_blank"}
--   [Test estimation is really negotiation](https://www.developsense.com/blog/2009/08/test-estimation-is-really-negotiation/){:target="\_blank"}
--   [Why is testing taking so long](https://www.developsense.com/blog/2009/11/why-is-testing-taking-so-long-part-1/){:target="\_blank"}
--   [Project estimation and black swans](https://www.developsense.com/blog/2010/10/project-estimation-and-black-swans/){:target="\_blank"}
+-   [Test project estimation rapid way](https://www.developsense.com/blog/2007/01/test-project-estimation-rapid-way/){:target="_blank"}
+-   [Test estimation is really negotiation](https://www.developsense.com/blog/2009/08/test-estimation-is-really-negotiation/){:target="_blank"}
+-   [Why is testing taking so long](https://www.developsense.com/blog/2009/11/why-is-testing-taking-so-long-part-1/){:target="_blank"}
+-   [Project estimation and black swans](https://www.developsense.com/blog/2010/10/project-estimation-and-black-swans/){:target="_blank"}
 
 ## 10) They use test cases and test documentation wisely.
 
 The context determines what test documentation you should make and what kind of documentation is useful. Quite recently
 a great (and long) article by James Bach and Aaron Hodder
-“[Test cases are not testing: Toward a culture of test performance](https://www.satisfice.com/download/test-cases-are-not-testing){:target="\_blank"}”.
+“[Test cases are not testing: Toward a culture of test performance](https://www.satisfice.com/download/test-cases-are-not-testing){:target="_blank"}”.
 Also Fiona Charles has written some interesting stuff about test documentation in her article the
-[Breaking the Tyranny of Form](https://quality-intelligence.blogspot.nl/2012/06/breaking-tyranny-of-form-part-1.html){:target="\_blank"}.
+[Breaking the Tyranny of Form](https://quality-intelligence.blogspot.nl/2012/06/breaking-tyranny-of-form-part-1.html){:target="_blank"}.
 
 ## 11) They continuously study their craft seriously, practice a lot and practice “deliberate practice”.
 
@@ -131,8 +131,8 @@ how to do my work. Professional testers know how to push back and are able to ex
 
 ## 13) They are curious and like to learn new things.
 
-Testers find [pleasure in finding things out](https://www.youtube.com/watch?v=MoCVUtYMmDs){:target="\_blank"}. A good
-read is [the curious behaviour](https://www.ministryoftesting.com/2013/11/the-curious-behaviour/){:target="\_blank"} by
+Testers find [pleasure in finding things out](https://www.youtube.com/watch?v=MoCVUtYMmDs){:target="_blank"}. A good
+read is [the curious behaviour](https://www.ministryoftesting.com/2013/11/the-curious-behaviour/){:target="_blank"} by
 Guy Mason: “_a curious mind is one that could be described as an active, engaged and inquisitive mind. Such a mind
 frequently seeks out new information, enjoys discovering what there is to discover and enjoys the process that comes
 along with this goal.“_
@@ -165,7 +165,7 @@ mentioned in the list below. As stated earlier it depends on the context which s
 -   Test design / Designing experiments
 -   Observation
 
-Have a look at the [Exploratory Testing Dynamics](https://www.satisfice.com/rst-appendices.pdf){:target="\_blank"} in the
+Have a look at the [Exploratory Testing Dynamics](https://www.satisfice.com/rst-appendices.pdf){:target="_blank"} in the
 RST appendices where several lists of skills are listed.
 
 ## 16) They have sufficient technical skills
@@ -184,7 +184,7 @@ A real professional knows what he or she can do and when to ask for help. They d
 afraid to make mistakes. I guess that would be the 17th heuristic in the list.
 
 BTW: I googled “code of ethics software testing” and found the
-[ISTQB Code of Ethics for test professionals](https://www.istqb.org/about-us/istqb%C2%AE-code-of-ethics-for-test-professionals.html){:target="\_blank"}.
+[ISTQB Code of Ethics for test professionals](https://www.istqb.org/about-us/istqb%C2%AE-code-of-ethics-for-test-professionals.html){:target="_blank"}.
 I wonder if people who pass the exam know about these AND more important practice them… What about you?
 
 ---
@@ -193,14 +193,14 @@ I wonder if people who pass the exam know about these AND more important practic
 
 Some more posts that discuss great testers:
 
--   [Becoming a world class tester](https://www.ebaytechblog.com/2013/01/31/becoming-a-world-class-tester/){:target="\_blank"}
--   [What makes a good software tester?](https://msdn.microsoft.com/en-us/magazine/dd252951.aspx){:target="\_blank"}
--   [10 Things you can do to become a better tester](https://blog.utest.com/10-things-you-can-do-to-become-a-better-tester/2013/05/){:target="\_blank"}
--   [What makes a good tester?](https://qablog.practitest.com/2008/12/what-makes-a-good-tester/){:target="\_blank"}
--   [10 features a perfect software tester should have](https://testility.com/blog/2013/08/10-features-a-perfect-software-tester-should-have/){:target="\_blank"}
+-   [Becoming a world class tester](https://www.ebaytechblog.com/2013/01/31/becoming-a-world-class-tester/){:target="_blank"}
+-   [What makes a good software tester?](https://msdn.microsoft.com/en-us/magazine/dd252951.aspx){:target="_blank"}
+-   [10 Things you can do to become a better tester](https://blog.utest.com/10-things-you-can-do-to-become-a-better-tester/2013/05/){:target="_blank"}
+-   [What makes a good tester?](https://qablog.practitest.com/2008/12/what-makes-a-good-tester/){:target="_blank"}
+-   [10 features a perfect software tester should have](https://testility.com/blog/2013/08/10-features-a-perfect-software-tester-should-have/){:target="_blank"}
 
 And last but not least: have a look at the
-[Testers syllabus](https://www.satisfice.com/images/testsyllabus.pdf){:target="\_blank"} by James Bach. An awesome
+[Testers syllabus](https://www.satisfice.com/images/testsyllabus.pdf){:target="_blank"} by James Bach. An awesome
 document which lists many important skills and areas of knowledge. It inspired me read about and study different areas.
 
 ---

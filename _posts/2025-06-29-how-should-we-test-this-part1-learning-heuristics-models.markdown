@@ -8,7 +8,7 @@ image:
     path: /assets/img/hswtt_1.png
 ---
 
-[Photo by energepic.com](https://www.pexels.com/photo/woman-sitting-in-front-of-macbook-313690/){:target="\_blank"}
+[Photo by energepic.com](https://www.pexels.com/photo/woman-sitting-in-front-of-macbook-313690/){:target="_blank"}
 
 <blockquote class="prompt-info">This blog series explores a central question in software testing: “How should we test this?” (HSWTT?) We'll start with some foundational concepts that shape how we approach testing: learning, modelling, and heuristics. From there, the series dives into practical thinking tools: how to learn about the product (Product Analysis), how to identify important potential problems (Risk Analysis) and how to search for those problems effectively (Test Strategy). Finally, we’ll look at how to communicate what we’ve found in a meaningful way (Reporting).</blockquote>
 
@@ -21,7 +21,7 @@ solved by one person or within one discipline. Collaboration, critical and creat
 to see relationships, all these aspects are therefore becoming increasingly important in software development.
 
 Chopping learning in smaller pieces makes things easier to understand. Iterative work is a natural process. We call this
-[evolutionary design](https://modernagile.org/){:target="\_blank"}: "A strategy to add value quickly by growing
+[evolutionary design](https://modernagile.org/){:target="_blank"}: "A strategy to add value quickly by growing
 something over time from a primitive but complete entity to a higher level of sophistication".
 
 This is how people learn: we must accept that deep learning is a confusing process at first, but it gets better quickly.
@@ -37,7 +37,7 @@ confusing process at first, but it gets rapidly better.
 
 <blockquote class="prompt-info">Booting is the process of starting a computer, specifically with regard to starting its software. The process involves a chain of stages, in which at each stage, a smaller, simpler program loads and then executes the larger, more complicated program of the next stage. It is in this sense that the computer "pulls itself up by its bootstraps"; i.e., it improves itself by its own efforts.<br>
 </blockquote>
-Source: [https://en.wikipedia.org/wiki/Bootstrapping#Computing](https://en.wikipedia.org/wiki/Bootstrapping#Computing){:target="\_blank"}
+Source: [https://en.wikipedia.org/wiki/Bootstrapping#Computing](https://en.wikipedia.org/wiki/Bootstrapping#Computing){:target="_blank"}
 
 This is very similar in how we learn: we start with understanding small parts and while we progress these small parts of
 knowledge or expertise helps us understand larger, more complicated knowledge. Step by step we learn the complex things
@@ -78,7 +78,7 @@ A heuristic has four definite signatures that make it easy to recognize:<br>
    Method</code></blockquote>
 
 The most important set of heuristics I use is the
-[Heuristic Test Strategy Model](https://www.satisfice.com/download/heuristic-test-strategy-model){:target="\_blank"}
+[Heuristic Test Strategy Model](https://www.satisfice.com/download/heuristic-test-strategy-model){:target="_blank"}
 (HTSM). This model is full of guideword heuristics: words or labels that help you access the full spectrum of your
 knowledge and experience as you analyze something. The HTSM is a model which consists of four sets of heuristics:
 
@@ -95,9 +95,9 @@ would be very expensive or impossible.
 
 ## More on heuristics
 
--   [The Essence of Heuristics](https://www.satisfice.com/blog/archives/462){:target="\_blank"}
--   [Heuristics for understanding heuristics](https://www.developsense.com/blog/2012/04/heuristics-for-understanding-heuristics/){:target="\_blank"}
--   [A collection of Testing Mnemonics made by Del Dewar](https://findingdeefex.files.wordpress.com/2015/05/testingmnemonics1.jpg){:target="\_blank"}
+-   [The Essence of Heuristics](https://www.satisfice.com/blog/archives/462){:target="_blank"}
+-   [Heuristics for understanding heuristics](https://www.developsense.com/blog/2012/04/heuristics-for-understanding-heuristics/){:target="_blank"}
+-   [A collection of Testing Mnemonics made by Del Dewar](https://findingdeefex.files.wordpress.com/2015/05/testingmnemonics1.jpg){:target="_blank"}
 
 ## Models
 
@@ -112,18 +112,18 @@ something works in your head. We cannot keep all details of a product in our bra
 complex into understandable and organizable chunks.
 
 Mental models helps understand life. Mental models about testing help you do better testing. For instance, the
-[RST framework](https://www.satisfice.com/download/a-rapid-software-testing-framework){:target="\_blank"} is a model of
+[RST framework](https://www.satisfice.com/download/a-rapid-software-testing-framework){:target="_blank"} is a model of
 how testing works.
-[Elements of excellent testing](https://www.satisfice.com/download/elements-of-excellent-testing){:target="\_blank"} is
+[Elements of excellent testing](https://www.satisfice.com/download/elements-of-excellent-testing){:target="_blank"} is
 a model of what testing is, what it involves and what a tester does. The
-[heuristic test strategy model](https://www.satisfice.com/download/heuristic-test-strategy-model){:target="\_blank"}
+[heuristic test strategy model](https://www.satisfice.com/download/heuristic-test-strategy-model){:target="_blank"}
 helps you think better about test strategy.
 
 Visual models help you think and talk about your testing. There are many, many models you can use to visualize important
 things in your work: (whiteboard) sketches, a bunch of stickies on the wall, UML, data flow diagrams, data models,
 activity diagrams, state diagrams, process flow diagrams, architecture diagrams, context diagrams, use cases,
 wireframes, swim lanes, mind maps,
-[product ecology](https://ruudcox.wordpress.com/2013/10/25/an-example-of-a-product-ecology-for-testers/){:target="\_blank"},
+[product ecology](https://ruudcox.wordpress.com/2013/10/25/an-example-of-a-product-ecology-for-testers/){:target="_blank"},
 product coverage outline, and many more. I use drawings all the time. I cannot explain stuff without drawing or pointing
 to a visual model of some kind. I like to use all kinds of models in refinements and risk analysis sessions. The models
 help understanding because we can point to something while talking.
@@ -141,7 +141,7 @@ our wall of models to quickly understand what they were talking about.
 
 ## More on models
 
--   [Mental Models. The Best Way to Make Intelligent Decisions](https://fs.blog/mental-models/#building_a_latticework_of_mental_models){:target="\_blank"}
--   [Many models - better test ideas by Rikard Edgren](https://thetesteye.com/blog/2012/02/many-models-better-test-ideas/){:target="\_blank"}
+-   [Mental Models. The Best Way to Make Intelligent Decisions](https://fs.blog/mental-models/#building_a_latticework_of_mental_models){:target="_blank"}
+-   [Many models - better test ideas by Rikard Edgren](https://thetesteye.com/blog/2012/02/many-models-better-test-ideas/){:target="_blank"}
 
 ---
