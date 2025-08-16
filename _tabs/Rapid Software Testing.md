@@ -1,14 +1,14 @@
 ---
 # the default layout is 'page'
 icon: fa fa-bug
-order: 5
+order: 4
 ---
 
 <blockquote class="prompt-info">Because testing (and any engineering activity) is a solution to a very difficult problem, it must be tailored to the context of the project; and therefore, testing is a human activity that requires a great deal of skill to do well. That’s why we must study it seriously. We must practice our craft. Context-driven testers strive to become the Jedi Knights of testing. -- James Bach</blockquote>
 
 ### What is Rapid Software Testing?
 
-![RST book cover](/assets/img/RSTlogo.png){: width="400" .right}Why do we test? We test to develop a comprehensive
+![RST logo](/assets/img/RSTlogo.png){: width="400" .right}Why do we test? We test to develop a comprehensive
 understanding of the product and the risks around it. We test to find problems that threaten the value of the product,
 or that threaten the on-time, successful completion of any kind of development work. We test to help the business,
 managers, and developers decide whether the product they’ve got is the product they want.
@@ -69,10 +69,9 @@ I also and reviewed many chapters and participated in writing sessions with Jame
 
 James wrote about the book on Linkedin:
 
--   https://www.linkedin.com/posts/james-bach-6188a811_software-testing-for-serious-people-activity-7116398657276428288-rBi1
--   https://www.linkedin.com/posts/james-bach-6188a811_apparently-i-wrote-more-book-than-wiley-expected-activity-7347877290116096000-noYK
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7116398654235570176?collapsed=1" height="719" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe><iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7347877287079383041?collapsed=1" height="264" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
 
-You can pre-order/buy the book [here on Amazon](https://www.amazon.nl/-/en/James-Bach/dp/1394253192){:target="_blank"}
+You can (pre-)order the book [here on Amazon](https://www.amazon.nl/-/en/James-Bach/dp/1394253192){:target="_blank"}
 
 ### Reading List (part of great resources)
 
@@ -82,6 +81,6 @@ integrated it into my public Great Resources list. This curated collection of li
 resources is something I’ve been maintaining for many years. It has consistently been the most popular part of my
 website.
 
--   [The RST reading list](/posts/great-resources/){:target="_blank"}
+-   [The RST reading list](/posts/great-resources/#rapid-software-testing-reading-list){:target="_blank"}
 -   [The great resources list ](/posts/great-resources/#rapid-software-testing-reading-list){:target="_blank"}
 -   [The RST YouTube channel](https://youtube.com/@rapid_software_testing){:target="_blank"}

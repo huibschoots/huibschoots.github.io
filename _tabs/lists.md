@@ -1,7 +1,7 @@
 ---
 # the default layout is 'page'
 icon: fa-solid fa-list
-order: 4
+order: 6
 ---
 
 I love lists. Here are some:

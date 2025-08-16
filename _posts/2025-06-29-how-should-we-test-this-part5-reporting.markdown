@@ -53,33 +53,40 @@ they are. They make informed decisions about quality possible because they provi
 
 This actionable information is structured by the testing story. This story must make sense of the test process, test
 progress and results by rendering information into a compelling story for your stakeholders (which includes yourself).
-The testing story consists of three parts: 1. A story about the status of the PRODUCT 2. A story about how you TESTED
-it 3. A story about the VALUE of the testing
+The testing story consists of three parts:
 
-    1. The product story informs our clients how the product is doing: what works and what fails. Michael Bolton says: “It is a qualitative report about a product requires us to relate the nature of the product, the people who matter, and the presence or absence of value, risks, and problems for those people. Qualitative information makes it possible for our clients to make informed decisions about quality.” 22
-    2. The testing story gives warrant to the product story. The testing story is about the coverage we obtained and how we collected the information about the product.
-    3. The story about the quality of our testing tells our stakeholder how happy they should be with our testing, what risk have been mitigated and which risks are still open.
+1. A story about the status of the **PRODUCT**
+The product story informs our clients how the product is doing: what works and what fails. [Michael Bolton says](https://www.developsense.com/blog/2012/02/braiding-the-stories/){:target="_blank"}: “It is a qualitative report about a product requires us to relate the nature of the product, the people who matter, and the presence or absence of value, risks, and problems for those people. Qualitative information makes it possible for our clients to make informed decisions about quality.”
+
+2. A story about how you **TESTED** it
+The testing story gives warrant to the product story. The testing story is about the coverage we obtained and how we collected the information about the product.
+
+3. A story about the **VALUE** of your testing
+The story about the quality of our testing tells our stakeholder how happy they should be with our testing, what risk have been mitigated and which risks are still open.
 
 Stop talking about testing (only), talk about the product, risks, and value. Give your stakeholders a clear summary of
 the overall status of the project using words NOT metrics. Show product coverage using coverage outlines. Only highlight
 bugs that may impact the business and explain why. And finally, do not include meaningless counts of test cases but
 instead talk about effort (spend and remaining)
 
-More on Reporting and storytelling: • Braiding The Stories:
-https://www.developsense.com/blog/2012/02/braiding-the-stories/ • Breaking the test case addiction – Test reporting:
-https://www.developsense.com/blog/2020/06/breaking-the-test-case-addiction-part-10/ • Let’s stop talking about testing,
-let’s start thinking about value - https://www.huibschoots.nl/wordpress/?p=2763 • The Science Behind the Art of
-Storytelling: https://www.harvardbusiness.org/the-science-behind-the-art-of-storytelling/
+## More on Reporting and storytelling:
+- [Braiding The Stories](https://www.developsense.com/blog/2012/02/braiding-the-stories/){:target="_blank"} - Michael Bolton
+- [Breaking the test case addiction – Test reporting](https://www.developsense.com/blog/2020/06/breaking-the-test-case-addiction-part-10/){:target="_blank"} - Michael Bolton
+- [Let’s stop talking about testing, let’s start thinking about value](https://www.huibschoots.nl/wordpress/?p=2763){:target="_blank"} - Alex Schladebeck & Huib Schoots
+- [The Science Behind the Art of Storytelling](https://lanipeterson.com/wp-content/uploads/2021/02/The-Science-Behind-teh-Art-of-Storytelling.docx.pdf){:target="_blank"} - Lani Peterson
 
-Closure: when have we tested enough? To determine if a team has tested enough, is a social question. Do we as a team
+## Closure
+when have we tested enough? To determine if a team has tested enough, is a social question. Do we as a team
 have enough confidence or trust in our work? Does de product owner have enough trust in the product? Unfortunately,
 there is no objective method or algorithm for answering this question.
 
 Telling the testing story helps you (and your team and stakeholders) to decide if you have tested enough. There is more
-to it to be able to decide if you have tested good enough23, if you have tested enough24 or you can stop testing25.
+to it to be able to decide if you have [tested good enough](https://www.satisfice.com/download/a-framework-for-good-enough-testing, "A Framework for Good Enough Testing"){:target="_blank"}, if you have [tested enough](https://www.satisfice.com/blog/archives/6203, "How Much is Enough? Testing as Story-Telling"){:target="_blank"} or you can [stop testing](https://www.developsense.com/blog/2009/09/when-do-we-stop-test/, "When Do We Stop a Test?"){:target="_blank"}.
 
 How do you know that the product is good enough? That no major problems have been overlooked? Well, you never know.
-There is no way to be sure. But how do you decide that your team is in good shape? • If you know enough about the
-product to judge it • and you feel that the known problems are not serious enough • and you think that there are
-(probably) no hidden remaining (serious) problems • and you can explain why you know enough • and your quality story is
-convincing.
+There is no way to be sure. But how do you decide that your team is in good shape?
+- If you know enough about the product to judge it
+- and you feel that the known problems are not serious enough
+- and you think that there are (probably) no hidden remaining (serious) problems
+- and you can explain why you know enough
+- and your quality story is convincing.

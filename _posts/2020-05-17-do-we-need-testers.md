@@ -11,7 +11,8 @@ image:
 
 Last week I did a talk at Agile, Testing & DevOps Showcase in Amsterdam. My topic was “Testing in modern times“.
 
-<SLIDES HERE>
+<iframe src="/assets/files/test.pdf" width="400" height="250">
+</iframe>
 
 In agile and especially DevOps approaches the motto is: automated everything! Companies like Facebook claim they do not have testers at all. Microsoft only has SDET (software development engineers in Test), other companies are T-shaping developers to do the testing. New kid on the block is AI and machine learning, that will definitely replace testing I hear people claim. What is really happening globally?
 
@@ -23,10 +24,11 @@ In IT we need insights in risks. Risks and value. For that we need to learn cont
 
 So far the original post on linkedin. Recent events make me doubt if we ever get to a point where we do not need dedicated testers.
 
-Dan Ashby reacted on linkedin:
 
+Dan Ashby reacted on linkedin:
+'''
 "It's a really interesting question. My take: yes, we need testers... because we need skilled testing, and the Dev communities haven't kept up with what skilled testing is and how to do it. One thing too: Facebook use offshore testers (lots of them via a tester contracting company - I know people that work at FB and at the 3rd party testing company). Also MS have done a U-turn too, and they also employ testers again as well as SDETs. They also have test manager roles again too. Maybe lots of the big companies have hit that realisation that they needed good testing (and hence needed the testers who have those skills)? If so, hopefully the smaller companies that tend to imitate the big companies will soon follow suit. 😁"
-I like what he says here: “we need testers… because we need skilled testing.” Although there are some developers who have really good testing skills, many are not interested in testing nor learning to do skilled testing. So I think he has a point there. But dedicated testers alone do not solve the problem. We need better testers and better thinking about testing too! 
+I like what he says here: “we need testers… because we need skilled testing.” Although there are some developers who have really good testing skills, many are not interested in testing nor learning to do skilled testing. So I think he has a point there. But dedicated testers alone do not solve the problem. We need better testers and better thinking about testing too! '''
 
 I see a huge fixation on “test automation” and this is causing us to lose connection with the human, social purposes of software development and testing. The essence of software development is that during development, we learn about what we need, what the customer really wants and how the product we are building actually works. This is research and development, learning along the way, and needing sense making and feedback to get it right.
 
@@ -36,15 +38,16 @@ Test approaches like TMap and ISTQB are neglecting the human aspects of testing.
 
 Recently the new TMap book was published called “Quality for DevOps teams”. Reading how TMap deals with risk analysis and test strategy gives me goosebumps. The risk analysis is just a list of quality attributes with a simple calculation (possible impact x chance of failure) and based on the number we assigned a “risk class” (high, medium, low). And based on the risk class we assign the test intensity in dots. See for yourself what it looks like here and here. Now let’s look at some quotes from the book that made my eyes roll.
 
-Chapter 47 “Experience-based testing”
+## Chapter 47 “Experience-based testing”
 
 “Exploratory testing is an experience-based approach of testing, the most important approach of experience-based testing in our opinion. We distinguish coverage-based and experience-based testing. Others use terms like scripted testing and free-style testing, but we prefer the division in focus on either experience or coverage.”
+
 All testing that you do uses experience, because there is no way you can shut it off. And doing any test will give you some coverage. I guess they just do not know how to talk about coverage in a way that makes sense.  Why make this strict distinction in only two categories? There are so many more ways to classify test techniques (note: what TMap calls “approach” is called “technique” in BBST).  There is no strict distinction between test techniques. See slide 62 of BBST Test Design “Every test addresses all of these. A specific technique typically addresses 1 to 3 of them, leaving the rest to be designed into the individual test“. Personally I like the way BBST classifies techniques looking at the driving ideas behind the testing.
 
 “The main downside of applying error guessing is the lack of documentation. Therefore, tests are not reproducible. This may result in a developer not being able to investigate an anomaly, the tester not being able to retest a fix, and the test cannot be added to a regression test set.”
 Why do tests need to be reproducible? If a tester is capable of telling or showing the developer what goes wrong, you do not need any documentation. I think with enough product knowledge, it is not that difficult to retest. So we are solving a problem in the wrong way, aren’t we?
 
-Chapter 48 “Is there any value in unstructured testing?”
+## Chapter 48 “Is there any value in unstructured testing?”
 
 “Any testing lacking a plan containing what to do and what to expect of a system, or lacking preparation of the test, is unstructured. This is also called ad-hoc testing. Some people see a great advantage in unstructured testing because, as they say: “You can start testing right away.” That is, without “losing” any time on preparation.”
 The only structure TMap knows is plans and test cases. Structure is “the arrangement of and relations between the parts or elements of something complex”. Michael Bolton wrote about this here. Testing is about learning and learning involves mental models. TMap seems to have no attention at all about how people learn. Deep learning in the beginning is a confusing process, but it gets clearer along the way. By letting it rest (defocus), we give our brains the chance to process the learned information and integrate it with the models we have in our heads. So good (mental) models are important. These “mechanistic test approaches” forget the whole learning part.

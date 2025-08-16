@@ -1334,6 +1334,7 @@ What to learn more about storytelling? Have a look [here](https://www.huibschoot
 -   [Katrina the Tester](https://katrinatester.blogspot.com/){:target="_blank"} – Katrina Clokie
 
 ---
+![RST RL banner](/assets/img/RSTreadinglist.png){: .shadow }
 
 ### Rapid Software Testing Reading List
 
