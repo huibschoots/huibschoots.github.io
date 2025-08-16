@@ -9,8 +9,6 @@ image:
 ---
 
 
-<blockquote class="prompt-info">The first version of this blog was published on [linkedin](https://www.linkedin.com/pulse/do-we-need-testers-skilled-testing-yes-huib-schoots/) on February 5, 2020 titled “Do we need testers? No! Do we need skilled testing? Yes!”. I added my new insights to this blogpost.</blockquote>{:target="_blank"}
-
 Last week I did a talk at Agile, Testing & DevOps Showcase in Amsterdam. My topic was “Testing in modern times“.
 
 <SLIDES HERE>
@@ -53,3 +51,5 @@ The only structure TMap knows is plans and test cases. Structure is “the arran
 
 “When you have an IT system that is of good quality, the testers do their unstructured testing and don’t encounter any faults or failures. Can they now say the quality is good and that there are no significant risks? Did they really measure the quality and risks? No, the only thing they can truly say is they did “some” testing and didn’t find any problems. However, they cannot explain which requirements or quality risks have been covered. They are not even sure which parts of the system have been covered.”
 This is an interesting approach taken by TMap here which is called an “appeal to ignorance”. The testers cannot explain so the approach must be wrong! But is the approach the problem or are skills of the testers the problem here?
+
+<blockquote class="prompt-info">The first version of this blog was published on [linkedin](https://www.linkedin.com/pulse/do-we-need-testers-skilled-testing-yes-huib-schoots/) on February 5, 2020 titled “Do we need testers? No! Do we need skilled testing? Yes!”. I added my new insights to this blogpost.</blockquote>{:target="_blank"}

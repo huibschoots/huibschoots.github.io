@@ -4,15 +4,15 @@ date: 2011-12-07 00:00:00 +0100
 categories: [skills]
 tags: skills # TAG names should always be lowercase
 image:
-    path: /assets/img/proftesters.png
+    path: /assets/img/greattester3.png
 ---
-
-<blockquote class="prompt-info">This blog post was originally written as a column for Testtnewsonline (English) and Testnieuws (Dutch).</blockquote>
 
 ## What makes a good tester?
 
 This is the second of a series of three columns. The central themes of the columns is “how do I become a software
 testing expert?” Part 1 can be found [here](https://www.huibschoots.nl/wordpress/?p=373 "Part 1").
+
+<blockquote class="prompt-info">This blog post was originally written as a column for Testtnewsonline (English) and Testnieuws (Dutch).</blockquote>
 
 The question “what makes a good tester?” keeps us busy. This was demonstrated by the attention this subject received at
 different conferences. At EuroSTAR Susan Windsor gave a well attended presentation about this topic called “How to

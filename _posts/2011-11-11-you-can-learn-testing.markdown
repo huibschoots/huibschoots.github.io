@@ -4,13 +4,13 @@ date: 2011-11-11 00:00:00 +0100
 categories: [skills]
 tags: skills learning # TAG names should always be lowercase
 image:
-    path: /assets/img/proftesters.png
+    path: /assets/img/greattester2.png
 ---
-
-<blockquote class="prompt-info">This blog post was originally written as a column for Testtnewsonline (English) and Testnieuws (Dutch).</blockquote>
 
 This is the first in a series of three columns. The central theme of the columns is “how do I become a software testing
 expert?”.
+
+<blockquote class="prompt-info">This blog post was originally written as a column for Testtnewsonline (English) and Testnieuws (Dutch).</blockquote>
 
 To become great in your profession, you need to learn a lot. This seems obvious. Jos van Rooyen wrote an article in
 Dutch entitled

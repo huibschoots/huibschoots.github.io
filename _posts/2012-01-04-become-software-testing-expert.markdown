@@ -4,14 +4,14 @@ date: 2012-01-04 00:00:00 +0100
 categories: [skills]
 tags: skills # TAG names should always be lowercase
 image:
-    path: /assets/img/proftesters.png
+    path: /assets/img/greattester.png
 ---
-
-<blockquote class="prompt-info">This blog post was originally written as a column for Testtnewsonline (English) and Testnieuws (Dutch).</blockquote>
 
 This is the third and last part on the theme “How to become a software testing expert.” Part 1 “You can learn testing!”
 can be found [here](/posts/you-can-learn-testing) and Part 2 “What makes a good tester?” is
 [here](/posts/what-makes-a-good-tester).
+
+<blockquote class="prompt-info">This blog post was originally written as a column for Testtnewsonline (English) and Testnieuws (Dutch).</blockquote>
 
 In part one I said that if you want to be an expert software tester, you must qualify yourself in many skills. That
 through feedback, actively seeking and making mistakes, helps you find out where you can improve. And that coaching is a

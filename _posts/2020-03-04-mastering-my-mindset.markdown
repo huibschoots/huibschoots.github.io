@@ -5,7 +5,7 @@ categories: [Mindset]
 tags: mentalhealth mindset     # TAG names should always be lowercase
 <!-- pin: true -->
 image:
-  path: /assets/img/mym.jpg
+  path: /assets/img/mym.png
 ---
 
 People perceive me as extremely confident. One of my personal mentors once said: “you are fearless”. That is only the outside. Inside I am soft and insecure like most people are. I have fears, quite a few to be honest. My behavior and my inside weren’t congruent.

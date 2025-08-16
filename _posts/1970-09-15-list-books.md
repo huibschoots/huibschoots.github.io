@@ -30,7 +30,7 @@ image:
 17. Made to Stick – Dan Heath & Chip Heath
 18. The Black Swan – Nassim Nicholas Taleb
 19. Crucial Conversations: Tools for Talking When Stakes Are High - Kerry Patterson, Joseph Grenny, Ron McMillan, Al Switzler
-20. Expolore it! - Elisabeth Hendrickson
+20. Explore it! - Elisabeth Hendrickson
 
 
 Also see my list of books for software testers here.
@@ -38,7 +38,7 @@ Also see my list of books for software testers here.
 ### Work related books - Dutch
 
 1. Echte leiders dienen – Inge Nuijten
-2. Hoe wordt ik een rat – Joep Schrijvers
+2. Master your mindset - Michael Pilarczyk
 3. Storytelling in 12 stappen – Mieke Bouma
 4. Storypower – Annet Scheringa
 5. Echte leiders hebben een goed verhaal – Astrid Schutte
@@ -48,7 +48,8 @@ Also see my list of books for software testers here.
 9. Dromen, durven, doen – Ben Tiggelaar
 10. Coachingskalender – Marijke Lingsma, Aty Boers
 11. ‘t Is ook altijd wat! – Jeu Consten, Tjeu Van Heck
-12. Master your mindset - Michael Pilarczyk
+12. Hoe wordt ik een rat – Joep Schrijvers
+
 
 ---
 
