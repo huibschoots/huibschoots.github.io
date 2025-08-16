@@ -1,11 +1,11 @@
 ---
-title: HSWTT? Part 2 - Product Analysis
+title: How should we test this? Part 2 - Product Analysis
 description: Part 2 in "How should we test this?" on Product Analysis and how to learn what the product actually is.
 date: 2025-06-29 12:00:00 +0100
 categories: [Test Strategy]
 tags: strategy risk reporting models # TAG names should always be lowercase
 image:
-    path: /assets/img/hswtt_2.png
+    path: /assets/img/productanalysis.png
 ---
 
 [Photo by energepic.com](https://www.pexels.com/photo/woman-sitting-in-front-of-macbook-313690/){:target="_blank"}

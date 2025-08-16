@@ -1,5 +1,5 @@
 ---
-title: HSWTT? Part 3 - Risk Analysis
+title: How should we test this? Part 3 - Risk Analysis
 description: Part 3 in "How should we test this?" on Risk Analysis
 date: 2025-06-29 13:00:00 +0100
 categories: [Test Strategy]

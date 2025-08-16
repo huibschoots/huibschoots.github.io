@@ -1,14 +1,12 @@
 ---
-title: HSWTT? Part 1 - Learning
+title: How should we test this? Part 1 - Learning
 description: Part 1 in "How should we test this?" on learning, heuristics and models
 date: 2025-06-29 11:00:00 +0100
 categories: [Test Strategy]
 tags: strategy risk reporting models # TAG names should always be lowercase
 image:
-    path: /assets/img/hswtt_1.png
+    path: /assets/img/learning.png
 ---
-
-[Photo by energepic.com](https://www.pexels.com/photo/woman-sitting-in-front-of-macbook-313690/){:target="_blank"}
 
 <blockquote class="prompt-info">This blog series explores a central question in software testing: “How should we test this?” (HSWTT?) We'll start with some foundational concepts that shape how we approach testing: learning, modelling, and heuristics. From there, the series dives into practical thinking tools: how to learn about the product (Product Analysis), how to identify important potential problems (Risk Analysis) and how to search for those problems effectively (Test Strategy). Finally, we’ll look at how to communicate what we’ve found in a meaningful way (Reporting).</blockquote>
 

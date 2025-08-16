@@ -4,8 +4,10 @@ date: 2020-08-11 00:00:00 +0100
 categories: [Mindset]
 tags: mindset growth learning # TAG names should always be lowercase
 image:
-  path: /assets/img/mindset3.png
+  path: /assets/img/mindset3.jpg
 ---
+
+[Photo by Pixabay](https://www.pexels.com/photo/cairn-stones-and-body-of-water-in-distance-235990/){:target="_blank"}
 
 In our [first blog post](/posts/mindset-the-book/) in this series on mindset
 [Nicole](https://www.facebook.com/c.rufus){:target="_blank"} and I summarized the book

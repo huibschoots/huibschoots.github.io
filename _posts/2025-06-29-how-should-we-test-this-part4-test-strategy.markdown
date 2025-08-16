@@ -1,5 +1,5 @@
 ---
-title: HSWTT? Part 4 - Test Strategy
+title: How should we test this? Part 4 - Test Strategy
 description: Part 4 in "How should we test this?" on Test Strategy and making deliberate choices
 date: 2025-06-29 14:00:00 +0100
 categories: [Test Strategy]

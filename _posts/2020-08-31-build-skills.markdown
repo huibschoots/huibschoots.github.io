@@ -4,8 +4,10 @@ date: 2020-08-31 00:00:00 +0100
 categories: [Mindset]
 tags: mindset growth learning # TAG names should always be lowercase
 image:
-  path: /assets/img/mindset4.png
+  path: /assets/img/mindset4.jpg
 ---
+
+[Photo by lil artsy](https://www.pexels.com/photo/person-holding-clear-light-bulb-1314410/){:target="_blank"}
 
 This is the last part in a four-part series of blogposts on mindset. In part 1
 [Mindset – The book](/posts/mindset-the-book/) [Nicole](https://www.facebook.com/c.rufus){:target="_blank"} and I

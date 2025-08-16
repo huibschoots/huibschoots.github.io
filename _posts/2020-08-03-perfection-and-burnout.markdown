@@ -4,8 +4,10 @@ date: 2020-08-03 00:00:00 +0100
 categories: [Mindset]
 tags: mindset growth learning     # TAG names should always be lowercase
 image:
-  path: /assets/img/mindset2.png
+  path: /assets/img/mindset2.jpg
 ---
+
+[Photo by Hampton Lamoureux](https://www.pexels.com/photo/person-in-black-and-grey-raglan-hoodie-near-body-of-water-1119555/){:target="_blank"}
 
 In [our last blog post](/posts/mindset-the-book/) [Nicole](https://www.facebook.com/c.rufus){:target="_blank"} and I summarized the book [“Mindset – Changing the way you think to fulfill your potential”](https://www.amazon.com/Mindset-Updated-Changing-Fulfil-Potential/dp/147213995X){:target="_blank"} by professor Dr. Carol Dweck. In this blog post we share our personal history with growth and fixed mindsets. How we currently deal with our mindset and how we changed the way we think, is the topic for our next blog post.
 

@@ -1,5 +1,5 @@
 ---
-title: HSWTT? Part 5 - Reporting
+title: How should we test this? Part 5 - Reporting
 description: Part 5 in "How should we test this?" on reporting and getting feedback
 date: 2025-06-29 15:00:00 +0100
 categories: [Test Strategy]
