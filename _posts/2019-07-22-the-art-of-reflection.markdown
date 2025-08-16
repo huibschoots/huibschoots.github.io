@@ -51,7 +51,7 @@ Like learning, there are different levels of reflecting:
 
 ![McClelland's Iceberg](/assets/img/iceberg.png){: width="600" .normal}
 
-(image credit: [Dutch Vision Institute](http://dutchvisioninstitute.nl/professional-coaching/){:target="_blank"})
+(image credit: [Dutch Vision Institute](https://dutchvisioninstitute.nl/professional-coaching/){:target="_blank"})
 
 Above the waterline behaviour is perceptible and statements are audible. But opinions, beliefs, feelings and emotions are not visible; they are below the waterline. These invisible elements, however, are often the motives for visible behaviour. An important part of the reflection will therefore consist of researching these deeper layers of the Iceberg.
 
