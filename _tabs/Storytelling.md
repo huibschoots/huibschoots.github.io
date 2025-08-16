@@ -35,8 +35,8 @@ A human life is a journey, a collection of stories. An organization makes the sa
 
 ### Videos
 
-- Pat Soloman: [What is the Hero’s Journey?](http://youtu.be/x8XUVqjX_IA){:target="_blank"}
-- Matthew Winkler: [What makes a hero?](http://ed.ted.com/lessons/what-makes-a-hero-matthew-winkler){:target="_blank"}
+- Pat Soloman: [What is the Hero’s Journey?](https://youtu.be/x8XUVqjX_IA){:target="_blank"}
+- Matthew Winkler: [What makes a hero?](https://ed.ted.com/lessons/what-makes-a-hero-matthew-winkler){:target="_blank"}
 - Andrew Stanton: [The clues to a great story](https://www.youtube.com/watch?v=KxDwieKpawg){:target="_blank"}
 - Julian Friedmann: [The mystery of storytelling](https://www.youtube.com/watch?v=al3-Kl4BDUQ){:target="_blank"}
 - Suzanne Duncan: [The dark side of storytelling](https://www.youtube.com/watch?v=3SUIiF-ifIM){:target="_blank"}
@@ -44,7 +44,7 @@ A human life is a journey, a collection of stories. An organization makes the sa
 
 ### Books
 
-- [The Storyteller’s Secret](http://www.amazon.com/Storytellers-Secret-Speakers-Business-Legends/dp/1250071550){:target="_blank"} by Carmine Gallo
+- [The Storyteller’s Secret](https://www.amazon.com/Storytellers-Secret-Speakers-Business-Legends/dp/1250071550){:target="_blank"} by Carmine Gallo
 - [Storytelling Animal](https://www.amazon.com/Storytelling-Animal-Stories-Make-Human/dp/0544002342) by Jonathan Gottschall (look at [his TEDx talk](https://www.youtube.com/watch?v=Vhd0XdedLpY){:target="_blank"} too)
 - [Made to Stick](https://www.amazon.com/Made-Stick-Ideas-Survive-Others/dp/1400064287){:target="_blank"} by Chip Heath and Dan Heath
 - [Whoever tells the best story wins](https://www.amazon.com/Whoever-Tells-Best-Story-Wins/dp/0814409148){:target="_blank"} by Annette Simmons
