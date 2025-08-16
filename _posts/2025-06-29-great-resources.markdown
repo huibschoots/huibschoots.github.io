@@ -1352,7 +1352,7 @@ What to learn more about storytelling? Have a look [here](https://www.huibschoot
     exploratory testing might not be the way we think of it. Here's how we think and talk about exploratory testing in
     Rapid Software Testing — and why we're considering not talking about it.
 
--   [Testing and Checking Refined](http://www.satisfice.com/blog/archives/856){:target="_blank"}<br> There's a big
+-   [Testing and Checking Refined](https://www.satisfice.com/blog/archives/856){:target="_blank"}<br> There's a big
     difference between testing — learning about a product through experiencing, exploring, and experimenting — and
     checking, which is a part of testing that can be automated.<br> Joep Schuurkes view on this:
     [What’s the word for the part of testing that’s not checking?](https://smallsheds.garden/blog/2015/whats-the-word-for-the-part-of-testing-thats-not-checking/){:target="_blank"}
@@ -1373,14 +1373,14 @@ testing. [Here](https://www.satisfice.com/download/how-rst-is-different-from-fac
 - Paul Holland and I did a keynote called “[automation addiction](https://youtu.be/ZcwxzvGWFc0){:target="_blank"}”. Where we talk about what bad practices we see in automation in testing and how to improve. 
 
 # Testing Story
-- Three blogs by Michael Bolton on the testing story: [How is the testing going?](https://developsense.com/blog/2018/02/how-is-the-testing-going){:target="_blank"}, [Braiding The Stories](http://www.developsense.com/blog/2012/02/braiding-the-stories/){:target="_blank"}, [Delivering the News](http://www.developsense.com/blog/2012/02/delivering-the-news-test-reporting-part-3/){:target="_blank"}<br>
+- Three blogs by Michael Bolton on the testing story: [How is the testing going?](https://developsense.com/blog/2018/02/how-is-the-testing-going){:target="_blank"}, [Braiding The Stories](https://www.developsense.com/blog/2012/02/braiding-the-stories/){:target="_blank"}, [Delivering the News](https://www.developsense.com/blog/2012/02/delivering-the-news-test-reporting-part-3/){:target="_blank"}<br>
 - [Delivering Information vs. Delivering Meta-Information](https://elizabethzagroba.com/posts/2021/delivering_information_vs_delivering_meta_information/){:target="_blank"} by Elizabeth Zagroba<br>
 - [What is Good Evidence?](https://youtu.be/i8he7Rejn5s){:target="_blank"} video by Griffin Jones
 - [Not “right”, but as good as I can do](https://clarotesting.wordpress.com/2013/09/24/not-right-but-as-good-as-i-can-do/){:target="_blank"} by James Christie
-- Let’s stop talking about testing, let’s start thinking about value. [This blogpost](http://www.huibschoots.nl/wordpress/?p=2763){:target="_blank"} by me and Alex Schladebeck
+- Let’s stop talking about testing, let’s start thinking about value. [This blogpost](https://www.huibschoots.nl/wordpress/?p=2763){:target="_blank"} by me and Alex Schladebeck
 
 # Models
-- [Many models – Better test ideas](http://thetesteye.com/blog/2012/02/many-models-better-test-ideas/){:target="_blank"}
+- [Many models – Better test ideas](https://thetesteye.com/blog/2012/02/many-models-better-test-ideas/){:target="_blank"}
 - [The Best Way to Make Intelligent Decisions](https://fs.blog/mental-models/){:target="_blank"}
 - [How I use modelling in software testing](https://www.annemariecharrett.com/how-i-use-modelling-in-software-testing/){:target="_blank"} by Anne-Marie Charrett
 - [Visual Test Models & State Transition Diagrams](https://katrinatester.blogspot.com/2015/01/visual-test-models-state-transition.html){:target="_blank"} by Katrina Clockie
@@ -1393,35 +1393,35 @@ testing. [Here](https://www.satisfice.com/download/how-rst-is-different-from-fac
 - [Micro heuristics](https://www.schladebeck.de/microheuristics/){:target="_blank"} by Alex Schladebeck
 
 # Test Strategy
-- An example on how to create test strategy: [Creating a Test Strategy](http://www.huibschoots.nl/wordpress/?p=2726){:target="_blank"} by Huib Schoots
+- An example on how to create test strategy: [Creating a Test Strategy](https://www.huibschoots.nl/wordpress/?p=2726){:target="_blank"} by Huib Schoots
 - [Ask me anything: Test Strategy](https://www.ministryoftesting.com/ask-me-anythings/e72f820b?s_id=14720293){:target="_blank"} by Huib Schoots on Ministry of Testing
 - [Ask me anything: Test Strategy](https://club.ministryoftesting.com/t/ask-me-anything-test-strategies/36305){:target="_blank"}(Questions answered at the MoT club)
-- Two great examples of how to do analysis and create a thorough Test Strategy by Rikard Edgren: [WorkRave Test Strategy](http://thetesteye.com/examples/Example_WorkRaveTestStrategy.pdf){:target="_blank"} and [Screen Pluck Test Analysis](http://thetesteye.com/examples/ScreenPluck_TestAnalysis.pdf){:target="_blank"}
-- How to create a product coverage outline? In [this video](http://youtu.be/NUojNfDjIjw){:target="_blank"} I explain and show how you can create a PCO.
-- How to conduct [heuristic risk analysis](http://www.satisfice.com/articles/hrbt.pdf){:target="_blank"} by James Bach
-- [Reasons to Repeat tests](http://www.satisfice.com/repeatable.shtml){:target="_blank"} by James Bach
+- Two great examples of how to do analysis and create a thorough Test Strategy by Rikard Edgren: [WorkRave Test Strategy](https://thetesteye.com/examples/Example_WorkRaveTestStrategy.pdf){:target="_blank"} and [Screen Pluck Test Analysis](https://thetesteye.com/examples/ScreenPluck_TestAnalysis.pdf){:target="_blank"}
+- How to create a product coverage outline? In [this video](https://youtu.be/NUojNfDjIjw){:target="_blank"} I explain and show how you can create a PCO.
+- How to conduct [heuristic risk analysis](https://www.satisfice.com/articles/hrbt.pdf){:target="_blank"} by James Bach
+- [Reasons to Repeat tests](https://www.satisfice.com/repeatable.shtml){:target="_blank"} by James Bach
 - [When do we stop? Are we there yet?](https://www.annemariecharrett.com/yet/){:target="_blank"} by Anne-Marie Charrett
 - [When do we stop a test?](https://developsense.com/blog/2009/09/when-do-we-stop-test){:target="_blank"} by Michael Bolton
 
 # Test design
-- [How to come up with test ideas](http://erik.brickarp.se/2016/08/how-to-come-up-with-test-ideas.html){:target="_blank"} is a blogpost by Erik Brickarp with various tools, tips and sources to improve your ability to generate test ideas.
+- [How to come up with test ideas](https://erik.brickarp.se/2016/08/how-to-come-up-with-test-ideas.html){:target="_blank"} is a blogpost by Erik Brickarp with various tools, tips and sources to improve your ability to generate test ideas.
 - More inspiration on test ideas [here](#test-ideas).
-- [Little black book on Test Design](http://www.thetesteye.com/papers/TheLittleBlackBookOnTestDesign.pdf){:target="_blank"} by Rikard Edgren
+- [Little black book on Test Design](https://www.thetesteye.com/papers/TheLittleBlackBookOnTestDesign.pdf){:target="_blank"} by Rikard Edgren
 
 # Critical thinking & asking questions
-- [Critical thinking for testers](http://www.developsense.com/presentations/2017-03-TestBash-CriticalThinkingforTesters.pdf){:target="_blank"} slides by Michael Bolton
-- [Context-Free Questions for Testing](http://www.developsense.com/blog/2010/11/context-free-questions-for-testing/){:target="_blank"} by Michael Bolton
+- [Critical thinking for testers](https://www.developsense.com/presentations/2017-03-TestBash-CriticalThinkingforTesters.pdf){:target="_blank"} slides by Michael Bolton
+- [Context-Free Questions for Testing](https://www.developsense.com/blog/2010/11/context-free-questions-for-testing/){:target="_blank"} by Michael Bolton
 
-- Learning & skills for testers. My blogpost called [A Road to awesomeness](https://www.huibschoots.nl/wordpress/?p=2466){:target="_blank"}. My Mind Map with important skills for testers is [here](http://www.dropbox.com/s/ij0ga0r2zzlfi9v/Awesome%20Tester.xmind?dl=0){:target="_blank"}.
+- Learning & skills for testers. My blogpost called [A Road to awesomeness](https://www.huibschoots.nl/wordpress/?p=2466){:target="_blank"}. My Mind Map with important skills for testers is [here](https://www.dropbox.com/s/ij0ga0r2zzlfi9v/Awesome%20Tester.xmind?dl=0){:target="_blank"}.
 
 # Testability
 - [Heuristics of Software Testability](https://www.satisfice.com/download/heuristics-of-software-testability){:target="_blank"} by James Bach
-- [Team Guide to Software Testability](http://leanpub.com/softwaretestability){:target="_blank"} by Ash Winter and Rob Meaney
+- [Team Guide to Software Testability](https://leanpub.com/softwaretestability){:target="_blank"} by Ash Winter and Rob Meaney
 - [Testability awakens: moving testability into new dimensions](https://mkedemo.files.wordpress.com/2015/12/testability-awakenstestingtrapeze-2015-december.pdf){:target="_blank"} by Maria Kedemo
 
 # Software Quality attributes by the Test Eye
-[English](http://thetesteye.com/posters/TheTestEye_SoftwareQualityCharacteristics.pdf){:target="_blank"}
-[Dutch](http://dewt.files.wordpress.com/2013/03/thetesteye_softwarekwaliteitkenmerken1.pdf){:target="_blank"}
+[English](https://thetesteye.com/posters/TheTestEye_SoftwareQualityCharacteristics.pdf){:target="_blank"}
+[Dutch](https://dewt.files.wordpress.com/2013/03/thetesteye_softwarekwaliteitkenmerken1.pdf){:target="_blank"}
 
 # Exploring
 - [All roads lead to Exploratory Testing](https://www.womentesters.com/all_roads_lead_to_et/){:target="_blank"} by Alex Schladebeck
@@ -1430,12 +1430,12 @@ testing. [Here](https://www.satisfice.com/download/how-rst-is-different-from-fac
 - [Session-based testing](https://www.satisfice.com/download/session-based-test-management){:target="_blank"} by Jon Bach
 - [A Journey in Test Engineering Leadership: Applying Session-Based Test Management](https://www.infoq.com/articles/session-based-test-management/){:target="_blank"} by Djuka Selendic
 - [Session Based Test Management](https://vimeo.com/275859274){:target="_blank"} video by James Lyndsay
-- [Touring Heuristics](http://www.michaeldkelly.com/blog/2005/9/20/touring-heuristic.html){:target="_blank"} by Michael Kelly
-- [Of Testing Tours and Dashboards](http://www.developsense.com/blog/2009/04/of-testing-tours-and-dashboards/){:target="_blank"} by Michael Bolron
+- [Touring Heuristics](https://www.michaeldkelly.com/blog/2005/9/20/touring-heuristic.html){:target="_blank"} by Michael Kelly
+- [Of Testing Tours and Dashboards](https://www.developsense.com/blog/2009/04/of-testing-tours-and-dashboards/){:target="_blank"} by Michael Bolron
 - [Testing tours – what is there more to add?](https://altom.com/testing-tours-add/){:target="_blank"} by Alexandra Casapu
 
 # Regression Testing
-- [A heuristic for regression testing](http://karennicolejohnson.com/2009/11/a-heuristic-for-regression-testing/){:target="_blank"} by Karen Nicole Johnson
+- [A heuristic for regression testing](https://karennicolejohnson.com/2009/11/a-heuristic-for-regression-testing/){:target="_blank"} by Karen Nicole Johnson
 - [Regression Testing and Discipline](https://developsense.com/blog/2020/10/regression-testing-and-discipline){:target="_blank"} by Michael Bolton
 - [Regression Obsession](https://developsense.com/blog/2019/08/regression-obsession){:target="_blank"} by Michael Bolton
 
@@ -1447,7 +1447,7 @@ testing. [Here](https://www.satisfice.com/download/how-rst-is-different-from-fac
 [why Is Testing Taking So Long?](https://www.developsense.com/blog/2009/11/why-is-testing-t{:target="_blank"}aking-so-long-part-1/) by Michael Bolton
 
 # Tools
-- [Perlclip](http://www.satisfice.com/tools.shtml){:target="_blank"} by James Bach
+- [Perlclip](https://www.satisfice.com/tools.shtml){:target="_blank"} by James Bach
 - More tools [here](#tools){:target="_blank"} 
 
 # Getting better
@@ -1458,7 +1458,7 @@ testing. [Here](https://www.satisfice.com/download/how-rst-is-different-from-fac
 
 # Other beauties
 - Michael Bolton identifies problems with the notion of "manual testing" in [this video](https://www.youtube.com/watch?v=DBzz04M01r8){:target="_blank"}
-- [Context-driven Test improvement](http://www.huibschoots.nl/wordpress/?p=2543){:target="_blank"} by Huib Schoots & Joep Schuurkes
+- [Context-driven Test improvement](https://www.huibschoots.nl/wordpress/?p=2543){:target="_blank"} by Huib Schoots & Joep Schuurkes
 - [Pairing (with Developers)](https://www.ministryoftesting.com/articles/c5ea46db?s_id=14583105){:target="_blank"}
 - [Context-driven testing](https://context-driven-testing.com/){:target="_blank"} The official website of Context-driven Testing school of thoughts. It is made and maintained by Cem Kaner, one of the founders of CDT
 
