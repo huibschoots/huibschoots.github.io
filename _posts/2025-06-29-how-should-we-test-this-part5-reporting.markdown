@@ -17,33 +17,34 @@ problems that threaten the on-time, successful completion of the product?” is 
 reporting I do not mean a written report. Reporting can be done verbally or even in your head when you defocus for a
 while and think of what you have done.
 
+![Reporting as a concept](/assets/img/reporting_concept.png){: width="400"}
+
 Many testers do not even report and the organisation assumes that if the checks are all green, testing is done and the
 product is okay… Most test reports I have seen are not very good either. They talk about the status of the testing
 instead of the status of the product! They lack all the important information stakeholder want from the testing. They
 are full of useless metrics like test cases and bug counts. Stakeholders want information about the status of the
 product, about test coverage and about remaining risks.
 
-Coverage In RST we define coverage as: “Coverage is how thoroughly you have examined the product with respect to some
+### Coverage & Release Coverage Outlines
+In Rapid Software Testing we define coverage as: “Coverage is how thoroughly you have examined the product with respect to some
 model”. So, code coverage is how thoroughly you have examined the product with respect to some model of the code. Code
 coverage is the only kind of coverage you can quantify because you can count lines of code and the lines which are
-covered by some sort of check. But how do you measure the interesting types of coverage: • Product coverage: What
-aspects of the product did you look at? • Risk coverage: What risks have you tested for? • Requirements coverage: What
-requirements have you tested for?
+covered by some sort of check. But how do you measure the interesting types of coverage:
+- Product coverage: What aspects of the product did you look at?
+- Risk coverage: What risks have you tested for?
+- Requirements coverage: What requirements have you tested for?
 
 In many teams I see testers refer to their test cases and invite their customer to have a look at Jira or some other
-test cases management tool to see the coverage. Their report count test cases and describe bugs.
+test cases management tool to see the coverage. Their report count test cases and describe bugs. To be able to report on these kinds of coverage, you’ll need a model of the product. Your Product Coverage Outline (PCO) can be used for this. Paul Holland worked with his teams an created this [great example](https://bit.ly/slides-Paul-and-Huib-ATD2021 "Slides keynote Agile Testing Days 2021: Test Reporting - The Art of Storytelling"){:target="_blank"}
 
-To be able to report on these kinds of coverage, you’ll need a model of the product. Your Product Coverage Outline (PCO)
-can be used for this. Paul Holland worked with his teams an created this a great example21:
+![Test intensity](/assets/img/testintensity_categories.png){: width="600"}
+![Release Coverage Outline](/assets/img/releasecoverageoutline.png){: width="800"}
 
 Where you can see that this regression test of the App was done on two specific areas are tested with “more than sanity”
 and “common cases” where the rest of the app was sanity check or not tested at all. This mind map gives great insight in
 product coverage.
 
-## Release Covergae Outlines
-
-Paul Hollands talks about Release Outlines which are this kind of mind maps to report about the product before a
-release.
+Paul Holland calls it Release Coverage Outlines (RCO). They are similar to Product COverage Outlines (PCO, more about PCO see [part 2 - Product Analysis](/posts/how-should-we-test-this-part2-product-analysis){:target="_blank"}) but with less detail. Using a RCO stakeholders can quickly identify which parts of the product were tested with what intensity. RCOs can be also be used to present proposed test coverage before actual testing. This helps teams to discuss and determine the right and desired coverage.
 
 ## To Report on Testing is to Tell a Story
 
@@ -75,7 +76,7 @@ instead talk about effort (spend and remaining)
 - [Let’s stop talking about testing, let’s start thinking about value](https://www.huibschoots.nl/wordpress/?p=2763){:target="_blank"} - Alex Schladebeck & Huib Schoots
 - [The Science Behind the Art of Storytelling](https://lanipeterson.com/wp-content/uploads/2021/02/The-Science-Behind-teh-Art-of-Storytelling.docx.pdf){:target="_blank"} - Lani Peterson
 
-## Closure
+## Wrapping Up
 when have we tested enough? To determine if a team has tested enough, is a social question. Do we as a team
 have enough confidence or trust in our work? Does de product owner have enough trust in the product? Unfortunately,
 there is no objective method or algorithm for answering this question.
