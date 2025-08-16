@@ -11,28 +11,31 @@ image:
 
 Last week I did a talk at Agile, Testing & DevOps Showcase in Amsterdam. My topic was “Testing in modern times“.
 
-<iframe src="/assets/files/test.pdf" width="400" height="250">
+
+### Testing in modern times
+
+<iframe src="/assets/files/testing_in_modern_times.pdf" width="400" height="250">
 </iframe>
 
 In agile and especially DevOps approaches the motto is: automated everything! Companies like Facebook claim they do not have testers at all. Microsoft only has SDET (software development engineers in Test), other companies are T-shaping developers to do the testing. New kid on the block is AI and machine learning, that will definitely replace testing I hear people claim. What is really happening globally?
 
 Do we no longer need testers? I am not sure anymore. Why? Because testers have a bad name. If you cannot automate nowadays, you are no longer valuable, people say. That makes me sad. I think skilled testing is super important! Testing informs decisions about value, quality and risk by learning about the product (and a serious professional tester also will give you insight in the status of the project or team they are working in). Modern technology and tooling is reducing the need for dedicated testers. Not by replacing testers, but by reducing certain types of risks we used to test. More and more people are getting obsessed by “automate everything”. Sadly even some testers I meet are obsessed by trying to automate everything they do…
 
+### Valuable software
 How can we make valuable software for our clients? I believe that personal leadership and collaboration ultimately makes the difference. The quality of software is crucial nowadays. Therefore I like to focus on an integrated quality approach. As a tester, a mentor and a coach, I help people and teams learn effectively and continuously develop with attention to sustainable adaptability that leads to improving (team) results and way of working. It enables teams to create more customer value by building quality solutions!
 
 In IT we need insights in risks. Risks and value. For that we need to learn continuously. And I think we need smart people who do skilled testing, determined to find problems that matter. Teams need to create insight and overview in the risks we take by creating, releasing and using (IT) products. Often people with excellent testing skills excel in doing this… I hear new job titles as “Quality coach” and “Quality Engineer”. Is this the way to go? Well if that solves the problem of “automation obsession” and a lack of testing skills in teams? I am game. 
 
+### We will always need testers
 So far the original post on linkedin. Recent events make me doubt if we ever get to a point where we do not need dedicated testers.
 
-
 Dan Ashby reacted on linkedin:
-'''
-"It's a really interesting question. My take: yes, we need testers... because we need skilled testing, and the Dev communities haven't kept up with what skilled testing is and how to do it. One thing too: Facebook use offshore testers (lots of them via a tester contracting company - I know people that work at FB and at the 3rd party testing company). Also MS have done a U-turn too, and they also employ testers again as well as SDETs. They also have test manager roles again too. Maybe lots of the big companies have hit that realisation that they needed good testing (and hence needed the testers who have those skills)? If so, hopefully the smaller companies that tend to imitate the big companies will soon follow suit. 😁"
-I like what he says here: “we need testers… because we need skilled testing.” Although there are some developers who have really good testing skills, many are not interested in testing nor learning to do skilled testing. So I think he has a point there. But dedicated testers alone do not solve the problem. We need better testers and better thinking about testing too! '''
+> "It's a really interesting question. My take: yes, we need testers... because we need skilled testing, and the Dev communities haven't kept up with what skilled testing is and how to do it. One thing too: Facebook use offshore testers (lots of them via a tester contracting company - I know people that work at FB and at the 3rd party testing company). Also MS have done a U-turn too, and they also employ testers again as well as SDETs. They also have test manager roles again too. Maybe lots of the big companies have hit that realisation that they needed good testing (and hence needed the testers who have those skills)? If so, hopefully the smaller companies that tend to imitate the big companies will soon follow suit. 😁"
+I like what he says here: “we need testers… because we need skilled testing.” Although there are some developers who have really good testing skills, many are not interested in testing nor learning to do skilled testing. So I think he has a point there. But dedicated testers alone do not solve the problem. We need better testers and better thinking about testing too!
 
 I see a huge fixation on “test automation” and this is causing us to lose connection with the human, social purposes of software development and testing. The essence of software development is that during development, we learn about what we need, what the customer really wants and how the product we are building actually works. This is research and development, learning along the way, and needing sense making and feedback to get it right.
 
-This “Vision on the Future of Software Testing” has nothing to do with skilled testing. This shows that even an institute like ISTQB does not understand IT in general nor testing. That makes me so sad!
+This [Vision on the Future of Software Testing](/assets/files/ISTQB_The_Vision_on_the_Future_of_Software_Testing_Final.pdf){:target="_blank"} by ISTQB from 2019 has nothing to do with skilled testing. This shows that even an institute like ISTQB does not understand IT in general nor testing. That makes me so sad!
 
 Test approaches like TMap and ISTQB are neglecting the human aspects of testing. They try to approach testing with mechanistic thinking and are not dealing with the complexity and uncertainty that developing software and dealing with people brings. Leading test experts told me we cannot make testing too complicated or else testers will not understand.
 
