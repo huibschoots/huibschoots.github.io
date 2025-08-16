@@ -1,6 +1,6 @@
 ---
 title: Do we need testers?
-date: 2020-05-17 00:00:00 +0100
+date: 2020-05-17 00:10:00 +0100
 categories: [DevOps]
 tags: testing agile devops skills responsible # TAG names should always be lowercase
 <!-- pin: false -->
