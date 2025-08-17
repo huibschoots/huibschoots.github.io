@@ -63,7 +63,7 @@ The exercise in the workshop was defined as follows:
 
 ![Assignment slide 1](/assets/img/1.png){: width="600" .shadow}
 
-Product we used in the workshop is here: [tinyurl.com/SherlockES](tinyurl.com/SherlockES){:target="_blank"}
+Product we used in the workshop is here: [tinyurl.com/SherlockES](https://tinyurl.com/SherlockES){:target="_blank"}
 
 ![Assignment slide 1](/assets/img/2.png){: width="600" .shadow}
 
