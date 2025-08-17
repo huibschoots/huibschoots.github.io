@@ -207,68 +207,37 @@ document which lists many important skills and areas of knowledge. It inspired m
 
 ### Comments from the original Wordpress blog:
 
-> Bart - July 26, 2021 at 7:58 am Kind of Looking for sheep with say 16,5 legs…. Like it though
+> **Bart - July 26, 2021 at 7:58 am**
+Kind of Looking for sheep with say 16,5 legs…. Like it though
 
-> > Huib Schoots - July 26, 2021 at 9:12 am You don’t have to be an expert at everything mentioned. I would expect a
-> > decent level of skill in most of them. And decent as in: fit for the job/team you work in. A professional tester
-> > gets a lot of money for it, so I would argue that we may expect a lot.
+> > **Huib Schoots - July 26, 2021 at 9:12 am**
+You don’t have to be an expert at everything mentioned. I would expect a decent level of skill in most of them. And decent as in: fit for the job/team you work in. A professional tester gets a lot of money for it, so I would argue that we may expect a lot.
 
-> Testhexe.de - May 16, 2017 at 5:13 pm For whatever reason I fell across this, and did not recognize how old the
-> article is. How many of us are also and still experiencing professional testers only! But I wonder how to get them to
-> become test professionals, and what it really takes to reach that, time, convincing, learning, experience…. I have not
-> seen too many opportunities to take that time.
+> **Testhexe.de - May 16, 2017 at 5:13 pm**
+For whatever reason I fell across this, and did not recognize how old the article is. How many of us are also and still experiencing professional testers only! But I wonder how to get them to become test professionals, and what it really takes to reach that, time, convincing, learning, experience…. I have not seen too many opportunities to take that time.
 
-> > Huib Schoots - May 16, 2017 at 6:36 pm I have written a blog about how to become a test professional here: “A Road
-> > to Awesomeness“. And yes, it takes a lot. But to be(come) a real professional, you need to do a lot. Compare it with
-> > professional soccer players: they train every day! I am not sure if I understand what you mean with “I have not seen
-> > too many opportunities to take that time“. I think we can only encourage others to start learning and practicing to
-> > become real professionals. I wish organisations hiring these “testers by profession” would do a better job in
-> > recruitment and performance reviews to make it less easier to fake…
+> > **Huib Schoots - May 16, 2017 at 6:36 pm**
+I have written a blog about how to become a test professional here: “A Road to Awesomeness“. And yes, it takes a lot. But to be(come) a real professional, you need to do a lot. Compare it with professional soccer players: they train every day! I am not sure if I understand what you mean with “I have not seen too many opportunities to take that time“. I think we can only encourage others to start learning and practicing to become real professionals. I wish organisations hiring these “testers by profession” would do a better job in recruitment and performance reviews to make it less easier to fake…
 
-> emerrefe (@emerrefe) - October 24, 2016 at 5:52 pm Hi!! just FYI, “ISTQB Code of Ethics for test professionals” link
-> is missing.
+> **emerrefe (@emerrefe) - October 24, 2016 at 5:52 pm**
+Hi!! just FYI, “ISTQB Code of Ethics for test professionals” link is missing.
 
-> > Huib Schoots - October 24, 2016 at 7:08 pm Thanks! Fixed now.
+> > **Huib Schoots - October 24, 2016 at 7:08 pm** Thanks! Fixed now.
 
-> Dan Caseley April 11, 2014 at 9:08 am I consider that #17 is the greatest impediment to fulfilling #1-16 to your best
-> potential. Here’s a few snippets of inner monologue from my last 18 months: This way works, why change? What would my
-> stakeholder say if the risk didn’t pay off? I think I’ve thought of something new and I think it might work better or
-> in some way add value. If nobody else is doing it, they’ve probably already thought of it and discarded it. Now don’t
-> get me wrong, I’m no slouch. I pulled out my tools from #14 and got my crackpot ideas mooted by our community and used
-> it to overcome my self-imposed bias against change!
+> **Dan Caseley April 11, 2014 at 9:08 am**
+I consider that #17 is the greatest impediment to fulfilling #1-16 to your best potential. Here’s a few snippets of inner monologue from my last 18 months: This way works, why change? What would my stakeholder say if the risk didn’t pay off? I think I’ve thought of something new and I think it might work better or in some way add value. If nobody else is doing it, they’ve probably already thought of it and discarded it. Now don’t get me wrong, I’m no slouch. I pulled out my tools from #14 and got my crackpot ideas mooted by our community and used it to overcome my self-imposed bias against change!
 
-> Dorothy Graham - March 28, 2014 at 10:08 am This is great – thanks! A very interesting and thought-provoking list of
-> tester characteristics. My only quibble/comment is on 16) Technical skills – these are skills that testers “may need”
-> – I don’t think every tester needs to have them all, or even any of them. A good tester should recognise when they
-> need technical help, know where to go to get it (cf 5 & 14), and can explain what they need to be done. For example,
-> testers should be able to write and run automated tests without having technical skill in using a scripting language,
-> but that requires help from testware architects and automators to provide the automation infrastructure to allow that.
-> Knowing what tests to automate and what tests are better done manually is something else good testers should know.
+> **Dorothy Graham - March 28, 2014 at 10:08 am**
+This is great – thanks! A very interesting and thought-provoking list of tester characteristics. My only quibble/comment is on 16) Technical skills – these are skills that testers “may need” – I don’t think every tester needs to have them all, or even any of them. A good tester should recognise when they need technical help, know where to go to get it (cf 5 & 14), and can explain what they need to be done. For example,testers should be able to write and run automated tests without having technical skill in using a scripting language, but that requires help from testware architects and automators to provide the automation infrastructure to allow that. Knowing what tests to automate and what tests are better done manually is something else good testers should know.
 
-> Andrei Contan - March 26, 2014 at 1:41 pm A valid list, still we need to interact and handle all sorts of
-> personalities and different professionalism levels, which enables professionals to continue improve themselves. This
-> shouldn’t be restricted to testers only, it should make a big impact for developers also or any other role
+> **Andrei Contan - March 26, 2014 at 1:41 pm**
+A valid list, still we need to interact and handle all sorts of personalities and different professionalism levels, which enables professionals to continue improve themselves. This shouldn’t be restricted to testers only, it should make a big impact for developers also or any other role
 
-> Pete Walen - March 23, 2014 at 11:09 pm Nice list. I like it. While not specific to software testing, the Code of
-> Ethics of the Association for Computing Machinery (ACM) was adopted in 2006 by the Association for Software Testing as
-> “a series of principles to guide and govern practice among its membership.” ACM’s Code of Ethics can be found here:
-> https://www.acm.org/about/code-of-ethics Pete
+> **Pete Walen - March 23, 2014 at 11:09 pm**
+Nice list. I like it. While not specific to software testing, the Code of Ethics of the Association for Computing Machinery (ACM) was adopted in 2006 by the Association for Software Testing as “a series of principles to guide and govern practice among its membership.” ACM’s Code of Ethics can be found here: https://www.acm.org/about/code-of-ethics Pete
 
-> Nathalie - March 23, 2014 at 11:04 pm I’ve done a debate on SW Testing Ethics on euroSTAR in 2009 and wrote an article
-> about the outcomes (added with results from expoQA, PNsQC, tvik and some Dutch debates), it’s interesting to do the
-> debates and to hear the different perspectives. Too bad you seemed to missed it in your search… You can find the
-> article on funtestic.nl
+> **Nathalie - March 23, 2014 at 11:04 pm**
+I’ve done a debate on SW Testing Ethics on euroSTAR in 2009 and wrote an article about the outcomes (added with results from expoQA, PNsQC, tvik and some Dutch debates), it’s interesting to do the debates and to hear the different perspectives. Too bad you seemed to missed it in your search… You can find the article on funtestic.nl
 
-> Jacqueline (Jackie) - March 23, 2014 at 10:58 pm Yes, I guess I read the Code of Ethics when I took that ISTQB exam…
-> never thought about it again… now when rereading it, I like the bottom two best (COLLEAGUES and SELF), since they
-> practically make the first six void. I could write a full blog post on Codes of Ethics. They are often used to get
-> everybody within an organisation or a company on the same page. By nature, people are not on the same page, so what
-> are you trying to achieve? I think they are futile and – no offense – very American. Whenever I have to sign a Code of
-> Ethics, I feel like I’m not trusted, regarded upon as ‘evil by nature’. Signing them does not affect my behavior
-> (although studies have been done that prove the opposite), it is maybe only the rebel part of me that wants to rebel
-> more because of it. I can sign it and still behave like crap, and I can refuse to sign it and still behave like an
-> angel. And what are you going to do when I do not follow ‘the code’? Wave the signed copy in my face and patronizingly
-> tell me to behave? Dunno, just never really been a big fan of them… If you want people to behave (more) ethically, it
-> should be a joint effort, not a Code of Ethics. As for the blog post: luckily, you are not looking for sheep with 17
-> legs, but it is an interesting list of which quite a few points are often overlooked. Thanks for putting them out
-> there. Something I would like to add: they are not afraid to share their knowledge and are happy and willing to do so.
+> **Jacqueline (Jackie) - March 23, 2014 at 10:58 pm**
+Yes, I guess I read the Code of Ethics when I took that ISTQB exam… never thought about it again… now when rereading it, I like the bottom two best (COLLEAGUES and SELF), since they practically make the first six void. I could write a full blog post on Codes of Ethics. They are often used to get everybody within an organisation or a company on the same page. By nature, people are not on the same page, so what are you trying to achieve? I think they are futile and – no offense – very American. Whenever I have to sign a Code of Ethics, I feel like I’m not trusted, regarded upon as ‘evil by nature’. Signing them does not affect my behavior (although studies have been done that prove the opposite), it is maybe only the rebel part of me that wants to rebel more because of it. I can sign it and still behave like crap, and I can refuse to sign it and still behave like an angel. And what are you going to do when I do not follow ‘the code’? Wave the signed copy in my face and patronizingly tell me to behave? Dunno, just never really been a big fan of them… If you want people to behave (more) ethically, it should be a joint effort, not a Code of Ethics. As for the blog post: luckily, you are not looking for sheep with 17 legs, but it is an interesting list of which quite a few points are often overlooked. Thanks for putting them out there. Something I would like to add: they are not afraid to share their knowledge and are happy and willing to do so.
