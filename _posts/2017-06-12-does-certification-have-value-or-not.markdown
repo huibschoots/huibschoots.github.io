@@ -130,7 +130,6 @@ More links [here](/posts/great-resources/#standards-and-certification){:target="
 > **software testing- December 19, 2018 at 6:09 am**
 Certification course ensures that our knowledge is tested .Hence we are then certified the course.There are software testing certification courses which helps to get jobs as they ensures complete knowledge.
 
-
 > **Read July 10, 2018 at 9:18 am**
 Can’t deny that the certifications are the keys to open the door’s interviewers but not the X element to help you get that job :).
 
