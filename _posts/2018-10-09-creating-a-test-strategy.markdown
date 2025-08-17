@@ -160,7 +160,7 @@ Next steps will be talking to the product owner with my initial test strategy. I
 
 ### Used heuristics
 
-Below an abstract of the “[Software Quality Characteristics](http://thetesteye.com/posters/TheTestEye_SoftwareQualityCharacteristics.pdf){:target="_blank"}” by Testeye used as heuristics for creating this Test Strategy
+Below an abstract of the “[Software Quality Characteristics](https://thetesteye.com/posters/TheTestEye_SoftwareQualityCharacteristics.pdf){:target="_blank"}” by Testeye used as heuristics for creating this Test Strategy
 
 # Usability
 
