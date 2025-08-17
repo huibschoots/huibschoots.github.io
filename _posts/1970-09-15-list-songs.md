@@ -65,7 +65,7 @@ image:
 50. [Gwen Stefani – Wind it up](https://youtu.be/9sY-TsLXiDo){:target="_blank"}
 51. [Jason Mraz – I Won’t Give Up](https://youtu.be/O1-4u9W-bns){:target="_blank"}
 52. [Simon & Garfunkel – The sound of silence](https://youtu.be/NAEppFUWLfc){:target="_blank"}
-53. [Alannah Myles – Song instead of a kiss](http://youtu.be/2BsaxKucapY){:target="_blank"}
+53. [Alannah Myles – Song instead of a kiss](https://youtu.be/2BsaxKucapY){:target="_blank"}
 54. [Blind Gardian - Mirror Mirror](https://youtu.be/SVg8eP7KPNQ?si=U3jt9ErrhYgEKgXo){:target="_blank"}
 55. [Julia Sheer – Little Talks](https://youtu.be/yd-EqvY4HH8){:target="_blank"}
 56. [Within Temptation - See who I am](https://youtu.be/VMhhAzD5rvo?si=RKixaw0ayd1fDeti){:target="_blank"}
