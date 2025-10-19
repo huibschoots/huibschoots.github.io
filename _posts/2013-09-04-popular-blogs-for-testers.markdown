@@ -37,7 +37,7 @@ This is the “top 19” of most mentioned blogs. In the list are all blogs that
 | 	    |3|	Adam Knight|	        [https://www.a-sisyphean-task.com](https://www.a-sisyphean-task.com){:target="_blank"}|
 | 	    |3|	Anne-Marie Charrett|	[https://www.annemariecharrett.com/](https://www.annemariecharrett.com/){:target="_blank"}|
 | 	    |3|	Bob Marshall|	        [https://flowchainsensei.wordpress.com](https://flowchainsensei.wordpress.com){:target="_blank"}|
-| 	    |3|	Eric Jacobson|	        [https://www.testthisblog.com/](http://www.testthisblog.com/){:target="_blank"}|
+| 	    |3|	Eric Jacobson|	        [https://www.testthisblog.com/](https://www.testthisblog.com/){:target="_blank"}|
 | 	    |3|	Gojko Adzic|	        [https://gojko.net](https://gojko.net){:target="_blank"}|
 | 	    |3|	James Christie|	        [https://clarotesting.wordpress.com/](https://clarotesting.wordpress.com/){:target="_blank"}|
 | 	    |3|	James Lyndsay|	        [https://workroomprds.blogspot.com/](https://workroomprds.blogspot.com/){:target="_blank"}|
