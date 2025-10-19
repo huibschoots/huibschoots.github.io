@@ -49,7 +49,7 @@ Second was Markus Gärtner with a story about him coaching a colleague to become
 ![Dewt2](/assets/img/dewt2-14.jpg){: w="100"  h="100" .right } 
 The third presentation was about changing people to become more context-driven by Ray Oei. An interesting discussion developed about how to get people to change. We focus too much on the people who do not want to change instead of working with the people who do want to change. Pascal asked an interesting question which I put on twitter: “If all testers become context-driven overnight, are we happy?” James Bach replied: “Yes, we are happy if all testers become CDT” and “We are happy if all testers take seriously the world around them, and how it works, and dump authoritarianism”. To me it doesn’t really matters, I do hope that more people become CDT, but I prefer good software testing no matter how them call it.
 
-![Dewt2](/assets/img/dewt2-15.jpg){: w="100"  h="100" .right } 
+![Dewt2](/assets/img/dewt2-51.jpg){: w="100"  h="100" .right } 
 After the discussion Joris said he was attending the wrong peer conference since he expected a lot of discussion about testing instead of what he calls “people management”. An interesting question, but isn’t testing also a lot about people? Just an hour late we went for lunch and a walk in a wet forest. After the walk the group photo was taken.
 
 
