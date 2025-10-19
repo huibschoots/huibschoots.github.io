@@ -25,7 +25,7 @@ Iain was one of the trainers when I took BBST foundations last April and I start
 
 Pekka is an interesting guy. I “met” him via twitter and a while later I found his blog. Interesting stuff! Even Rex Black has commented recently on one of his posts. I still have to talk to him about Testing with the stars. Read about it on his blog. Very interesting concept.
 
-5 - Japan: Ben Kelly – [Testjutsu](http://testjutsu.com/){:target="_blank"} **(Unfortunately the blog is gone)**
+5 - Japan: Ben Kelly – [Testjutsu](https://testjutsu.com/){:target="_blank"} **(Unfortunately the blog is gone)**
 
 I met Ben in Sweden at Let’s Test in 2012 where he did a great presentation called The Testing Death. Ben is a thoughtful person of no so many words but still fun the hang around with. Give his blog a read. He isn’t very active recently but you still can find some jewels there.
 
@@ -45,7 +45,7 @@ Jari is hyperactive on twitter and loves puzzles! He creates his own very challe
 
 Darren is been around quite a while and isn’t very active lately. But he is the king of mind mapping in testing. His blog post “Mind Mapping 101” has 53 comments and is awesome, just like “Essential mind mapping: Rapid test design”. If you want to do something with mind mapping come to my tutorial on Agile Testing days OR read Darren’s blog. He by the way also writes about other topics.
 
-10 - Sweden: Johan Jonasson – [Testing Thoughts](http://blog.johanjonasson.com/){:target="_blank"}
+10 - Sweden: Johan Jonasson – [Testing Thoughts](https://blog.johanjonasson.com/){:target="_blank"}
 
 Not a very original name for a blog since [Shmuel Gershon](https://testing.gershon.info/){:target="_blank"} uses the same name for his great blog. [Update: Johan changed the name to: “Let’s talk testing”]. Johan is one of the people behind Let’s Test and after reading all the posts on the conference he must have thought he is able to do that too, well have a look yourself. I like his post on “Thinking Visually” very much.
 
@@ -67,7 +67,7 @@ Ilari lives in Switzerland and does online coaching like James and Anne-Marie an
 
 I met Duncan at Let’s Test in Sweden last May but before that we did BBST together and we are both in Miago-Do. Duncan is a polar bear: when everybody was cold in Sweden and was wearing jackets and sweaters, Duncan still walked around in shorts and on flip-flops. He wrote a nice post about working together on-line: “Collaboration In Testing”
 
-15 - UK: Tony Bruce – [Have you ever danced with the tester?](https://dancedwiththetester.blogspot.com/{:target="_blank"}
+15 - UK: Tony Bruce – [Have you ever danced with the tester?](https://dancedwiththetester.blogspot.com/){:target="_blank"}
 
 I met Tony last year at Test Bash and over dinner I found out he is a great guy. Cheerful, subtle and fun. Tony is the driving force behind the test gatherings in the UK. Meetups of testers in a bar with short talks and lots of beer! One of his last post is great: “Which do you have? A job or a career?”
 

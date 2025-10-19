@@ -33,7 +33,7 @@ Especially [the fifth part of the black swan series](https://developsense.com/bl
 Why are some people so obsessed by expected results? And why is there a need to have expected results to be able to plan testing? Expected results can be very helpful, but there is much more to quality then doing some tests with an expected result. A definition that I like is by Jerry Weinberg: “Quality is value to some person”. To understand this, you might want to read this blogpost called ["Quality: Not Merely The Absence Of Bugs"](https://developsense.com/blog/2009/02/quality-not-merely-absence-of-bugs){:target="_blank"} to understand that there is more to quality than the absence of bugs. Also have a look at the excellent free ebook [“The Little Black Book on Test Design”](https://www.thetesteye.com/papers/TheLittleBlackBookOnTestDesign.pdf) by Rikard Edgren. On page 2-6 he uses the [“testing potato”](https://thetesteye.com/blog/2009/12/in-search-of-the-potato/){:target="_blank"} to explain that there are more important aspects to the system than the requirements only.
 
 <blockquote class="prompt-info">"There is no defined scope for exploratory testing."</blockquote>
-In the exploratory testing I do in my projects there is a “scope”. I do targeted and focused testing using charters, sessions and planning my testing using a dashboard that resembles a scrum board. Have a look at the slides of my presentation [“Boosting the testing power with exploration“](/assets/files/Exploratory%20testing%20-%20Huib%20Schoots%20-%20Dutch%20Testing%20Day.pdf){:target="_blank"}.
+In the exploratory testing I do in my projects there is a “scope”. I do targeted and focused testing using charters, sessions and planning my testing using a dashboard that resembles a scrum board. Have a look at the slides of my presentation [“Boosting the testing power with exploration“](/assets/files/Exploratory-testing-Huib-Schoots-DutchTestingDay.pdf){:target="_blank"}.
 
 ![ET in control](/assets/img/et_rabo.png){: width="300" .left}
 
@@ -45,7 +45,7 @@ Using a coverage outline in a mind map or a simple spreadsheet, I keep track of 
 I am not sure if I understand what you are trying to point out here. Are you saying that the team is not in control when doing exploratory testing? My model above shows that you can be in control when doing exploratory testing when done right. Exploratory testing is NOT ad hoc or unstructured when done right. If you do it right you will have control!
 
 <blockquote class="prompt-info">"There is no measure of progress, as testers cannot determine when testing is enough."</blockquote>
-How do we determine how much testing is enough? [Stopping heuristics](https://www.developsense.com/articles/2008-02-HowMuchIsEnough.pdf){:target="_blank"} might help here. No matter how simple the system is we are building, there are simply to many variables to test everything. So testing is about making choices what to test and what not to test. Even with a huge amount of automated checks, we can not check/test everything (to understand the difference between testing and checking read this blog post called []"Testing and checking refined"](https://www.satisfice.com/blog/archives/856){:target="_blank"}). Testing is not about doing X test cases and when they all pass, you are done. Testing is providing information for managers to make good decisions. And when do managers have enough information to inform their decisions?
+How do we determine how much testing is enough? [Stopping heuristics](https://www.developsense.com/articles/2008-02-HowMuchIsEnough.pdf){:target="_blank"} might help here. No matter how simple the system is we are building, there are simply to many variables to test everything. So testing is about making choices what to test and what not to test. Even with a huge amount of automated checks, we can not check/test everything (to understand the difference between testing and checking read this blog post called ["Testing and checking refined"](https://www.satisfice.com/blog/archives/856){:target="_blank"}). Testing is not about doing X test cases and when they all pass, you are done. Testing is providing information for managers to make good decisions. And when do managers have enough information to inform their decisions?
 
 ### Agile testing quadrants
 
@@ -101,7 +101,7 @@ Dear Dele please read about testing and exploratory testing. Some good starting 
 
 > <code style="color : lightskyblue">Huib Schoots (Post author) - April 2, 2013 at 2:52 pm</code><br>
 
-> Dele wrote a new blog: [Response to Magnifiant: exploring software testing – Huib Schoots](http://www.scrumhint.com/index.php/blog/256-response-to-magnifiant-exploring-software-testing-huib-schoots){:target="_blank"}.
+> Dele wrote a new blog: [Response to Magnifiant: exploring software testing – Huib Schoots](https://www.scrumhint.com/index.php/blog/256-response-to-magnifiant-exploring-software-testing-huib-schoots){:target="_blank"}.
 
 > <code style="color : lightskyblue">Peter Varhol - April 1, 2013 at 12:21 pm</code><br>
 

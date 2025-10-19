@@ -9,7 +9,7 @@ image:
 
 ![SW kwaliteitkenmerken](/assets/img/swkwaliteitkenmerken.jpg){: width="150" .left}
 
-At EuroStar 2012 in Amsterdam, [Henrik Emilsson](){:target="_blank"} did a talk about the [Software Quality Characteristics poster](http://thetesteye.com/posters/TheTestEye_SoftwareQualityCharacteristics.pdf){:target="_blank"} made by [The Test Eye](http://thetesteye.com/){:target="_blank"}. After his talk he asked if someone was interested in translating this poster into other languages. Me and my DEWT colleagues happily picked up this gaunlet and we proudly present the Dutch translation: [Software Kwaliteit Kenmerken](/assets/files/DEWT_softwarekwaliteitkenmerken.pdf){:target="_blank"}. I use this checklist often when preparing my testing. Now available in the Dutch language!
+At EuroStar 2012 in Amsterdam, [Henrik Emilsson](){:target="_blank"} did a talk about the [Software Quality Characteristics poster](https://thetesteye.com/posters/TheTestEye_SoftwareQualityCharacteristics.pdf){:target="_blank"} made by [The Test Eye](https://thetesteye.com/){:target="_blank"}. After his talk he asked if someone was interested in translating this poster into other languages. Me and my DEWT colleagues happily picked up this gaunlet and we proudly present the Dutch translation: [Software Kwaliteit Kenmerken](/assets/files/DEWT_softwarekwaliteitkenmerken.pdf){:target="_blank"}. I use this checklist often when preparing my testing. Now available in the Dutch language!
 <br><br>
 
 ### Why use checklists?

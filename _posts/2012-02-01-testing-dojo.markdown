@@ -128,7 +128,7 @@ Click images to enlarge.
 
 > <code style="color : lightskyblue">Rosie Sherry - February 1, 2012 at 11:35 am</code><br>
 
-> I hear that Markus will be doing a TestingDojo at our TestBash - [https://www.ministryoftesting.com/training-events/testbash/](http://www.ministryoftesting.com/training-events/testbash/){:target="_blank} 🙂
+> I hear that Markus will be doing a TestingDojo at our TestBash - [https://www.ministryoftesting.com/training-events/testbash/](https://www.ministryoftesting.com/training-events/testbash/){:target="_blank} 🙂
 
 > I wonder how possible it is to video it and share the process, would it be too much hassle?
 

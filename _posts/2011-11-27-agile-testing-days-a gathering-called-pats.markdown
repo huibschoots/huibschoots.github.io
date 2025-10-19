@@ -4,7 +4,7 @@ date: 2011-11-27 00:00:00 +0100
 categories: [PeerConference]
 tags: agile atd skills learning peerconference # TAG names should always be lowercase
 image:
-    path: /assets/img/PATS2011.png
+    path: /assets/img/pats2011.png
 ---
 
 ![PATS 2011](/assets/img/pats.jpg){: width="300" .right}
