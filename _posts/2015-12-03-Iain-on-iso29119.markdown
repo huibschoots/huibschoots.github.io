@@ -1,0 +1,12 @@
+---
+title: Iain on ISO 29119…. absolutely fabulous!
+date: 2015-12-03 00:00:00 +0100
+categories: [Standards]
+tags: standards iso29119 # TAG names should always be lowercase
+image:
+    path: /assets/img/iso29119_2.png
+---
+
+At EuroStar Iain McCowatt did a absolutely fabulous "soapbox" speech on ISO29119. Must see!
+
+<iframe src="https://player.vimeo.com/video/144632999" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
