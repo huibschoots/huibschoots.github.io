@@ -1,7 +1,7 @@
 ---
 title: How should we test this? - Introduction
 description: Introduction to a series of blog posts on the question "How should we test this?"
-date: 2025-06-29 10:00:00 +0100
+date: 2025-10-21 10:00:00 +0100
 categories: [Test Strategy]
 tags: strategy risk reporting models # TAG names should always be lowercase
 image:
@@ -41,8 +41,7 @@ to 90% of what we do is done automatically, without thinking. We have to put our
 
 ## Thinking paradigms
 
-Only recently via [Professor Dr. Tanja Vos](https://www.linkedin.com/in/tanja-e-j-vos-4812ba/){:target="_blank"} did I
-discover two distinct paradigms for understanding knowledge:
+Only recently via [Professor Dr. Tanja Vos](https://www.linkedin.com/in/tanja-e-j-vos-4812ba/){:target="_blank"} did I discover two distinct paradigms for understanding knowledge:
 [Rationalism and Empiricism](https://www.sciencedirect.com/science/article/pii/S0167642318300030){:target="_blank"}.
 Empiricism emphasizes learning through experience, observation, and iterative experimentation. It values direct
 interaction with software, user behavior, and continuous feedback loops. In contrast, Rationalism is rooted in logic,
