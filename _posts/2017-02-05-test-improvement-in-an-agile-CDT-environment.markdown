@@ -49,4 +49,4 @@ The slides are of the meetup about our model are [here](/assets/files/CDT%20Test
 >> Thx Eddy! Let us know if you have any comments to make it better!
 
 > **Vikas Sarin - March 25, 2017 at 4:13 am**
->kanban!
+>kanban!!
