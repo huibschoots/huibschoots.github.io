@@ -24,7 +24,7 @@ order: 6
 - [Aqua: agile verbeteren voor teams](/assets/files/Aqua%20-%20agile%20Improvement%20-%20TestNet%20Zomerworkshops%202017%20-%20Huib%20Schoots.pdf){:target="_blank"}
 - [Creating insight and overview: dealing with complexity in testing](/assets/files/Creating%20insight%20and%20overview%20-%20Dealing%20with%20complexity%20in%20testing%20-%20Copenhagencontext%202017.pdf){:target="_blank"} with Ruud Cox
 - [Devops: een nieuwe koers of het eindpunt voor testers?](/assets/files/devops%20-%20een%20nieuwe%20koers%20of%20het%20eindpunt%20voor%20testers%20-%20TestNet%20Voorjaar%202017%20-%20JeanPaulVarwijk%20-%20HuibSchoots.pdf){:target="_blank"} with Jean-Paul Varwijk
-- [How the heck do I perform a Risk Analysis?](){:target="_blank"}
+- [How the heck do I perform a Risk Analysis?](/assets/files/How-the-heck-do-I-perform-a-Risk-Analysis-ATD2020-HuibSchoots-PaulHolland.pdf){:target="_blank"}
 - [Storytelling for test professionals](/assets/files/Slides%20Workshop%20Storytelling%20LTGW%202017%20Huib%20Schoots.pdf){:target="_blank"}
 - [Telling the testing story - storytelling for testers](/assets/files/Telling%20the%20testing%20story%20-%20storytelling%20for%20testers%20-%20Huib%20Schoots%20-%20TestNet%20Voorjaar%202015.pdf){:target="_blank"}
 - [Testopsy – dissecting your testing](/assets/files/TestOpsy%20-%20ATD%202017%20-%20Huib%20Schoots%20and%20Alex%20Schladebeck.pdf){:target="_blank"}
