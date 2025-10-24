@@ -26,7 +26,7 @@ What is the mission a maturity assessment? We think the assessment should be a p
 
 ### Result
 ![First draft of the game](/assets/img/Artikel_pic3-676x269.jpg){: width="400" .right}
-After a first try-out at the bank Joep worked, we let it rest for a while. After a couple of months we wrote [this article: "Testing maturity in an agile/CDT environment"](/assets/files/Test-Improvement-Huib-Schoots-Joep-Schuurkes.pdf){:target="_blank"}. It is the first version and it needs to be refined and polished. The heuristics lists are probably to long and need to be reduced. We think of this model as a [card game](https://www.dropbox.com/s/99o6tt1mj88i3wg/Cards%20Test%20Improvement.pdf?dl=0){:target="_blank"} that can be played with teams.
+After a first try-out at the bank Joep worked, we let it rest for a while. After a couple of months we wrote [this article: "Testing maturity in an agile/CDT environment"](/assets/files/Test-Improvement-Huib-Schoots-Joep-Schuurkes.pdf){:target="_blank"}. It is the first version and it needs to be refined and polished. The heuristics lists are probably to long and need to be reduced. We think of this model as a [card game](/assets/files/Cards_Test_Improvement.pdf){:target="_blank"} that can be played with teams.
 
 Currently we are also working on an agile version of this model, a card game for agile teams to assess their “maturity” to help them to find possible areas for improvements. More about that later.
 
@@ -36,7 +36,7 @@ We are curious about your thoughts. What do you think? Maybe you want to try the
 
 [Article](/assets/files/Test-Improvement-Huib-Schoots-Joep-Schuurkes.pdf){:target="_blank"} (pdf) – [Card game](/assets/files/Cards_Test_Improvement.pdf){:target="_blank"} (pdf) 
 
-The slides are of the meetup about our model are [here](/assets/files/CDT%20Test%20Improvement.pdf){:target="_blank"}.
+The slides are of the meetup about our model are [here](/assets/files/CDT-Test-Improvement.pdf{:target="_blank"}.
 
 ---
 
