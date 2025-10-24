@@ -34,7 +34,7 @@ Currently we are also working on an agile version of this model, a card game for
 
 We are curious about your thoughts. What do you think? Maybe you want to try the game? Feel free to try it out. We hope you will share your experiences with us.
 
-[Article](/assets/files/Test-Improvement-Huib-Schoots-Joep-Schuurkes.pdf){:target="_blank"} (pdf) – [Card game](/assets/files/Cards-Test-Improvement.pdf){:target="_blank"} (pdf) 
+[Article](/assets/files/Test-Improvement-Huib-Schoots-Joep-Schuurkes.pdf){:target="_blank"} (pdf) – [Card game](){:target="_blank"} (pdf) 
 
 The slides are of the meetup about our model are [here](/assets/files/CDT%20Test%20Improvement.pdf){:target="_blank"}.
 
