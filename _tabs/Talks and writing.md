@@ -25,7 +25,7 @@ order: 6
 - [Once upon a time - Stories that make you awesome](/assets/files/Keynote%20-%20Stories%20that%20make%20you%20awesome%20-%20ATD%202016%20-%20Alex%20Schladebeck%20and%20Huib%20Schoots.pdf){:target="_blank"} with Alex Schladebeck
 - [Set your Course: Future Roles and Trends in Testing](/assets/files/Set-your-course-HuibSchoots-LetsTest2013.pdf){:target="_blank"}
 - [Social sciences & the art of testing](/assets/files/Social-sciences-and-the-art-of-testing-CAST2014-Huib%20Schoots.pdf){:target="_blank"}
-- [Successful testing the continuous delivery process](){:target="_blank"}
+- [Successful testing the continuous delivery process](/assets/files/Continuous-Delivery-test-automation-day.pdf){:target="_blank"}
 - [Testability FTW!](/assets/files/Testability-FTW-Apil2016-HuibSchoots.pdf){:target="_blank"}
 - [TestClash mini](/assets/files/Testclash_Mini.pdf){:target="_blank"} with Pieter Withaar
 - [Testing in modern times – a story about Quality and Value](/assets/files/Testing%20in%20modern%20times%20-%20a%20story%20about%20Quality%20and%20Value%20-%20Oredev%202022.pdf){:target="_blank"}
