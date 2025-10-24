@@ -32,7 +32,7 @@ order: 6
 **Tutorials:**
 - [Aiming higher, leveling up your agile improvements](/assets/files/Aiming%20Higher%20-%20ATD%202017%20-%20Huib%20Schoots%20and%20Joep%20Schuurkes.pdf){:target="_blank"} with Joep Schuurkes
 - [Experiential Coaching](/assets/files/Flips%20-%20Experiential%20Coaching%20-%20ATD%202019.pdf){:target="_blank"} with Christina Davidian
-- [Software investigation & exploration – Supercharging your value](/assets/files/Software%20investigation%20and%20exploration%20-%20Supercharging%20your%20value%20-%20ATD%20USA%202019%20-%20Huib%20Schoots%20and%20Alex%20Schladeback.pdf){:target="_blank"} [2022 version](/assets/files/Software%20investigation%20&%20exploration%20%20-%20%20Supercharging%20your%20value%20-%20ATD%20USA%202022.pdf){:target="_blank"}] 
+- [Software investigation & exploration – Supercharging your value](/assets/files/Software%20investigation%20and%20exploration%20-%20Supercharging%20your%20value%20-%20ATD%20USA%202019%20-%20Huib%20Schoots%20and%20Alex%20Schladeback.pdf){:target="_blank"} [2022 version](/assets/files/Software%20investigation%20&%20exploration%20%20-%20%20Supercharging%20your%20value%20-%20ATD%20USA%202022.pdf){:target="_blank"}
 - [Storytelling - A personal journey into the wonderful world of storytelling](/assets/files/Workshop%20Storytelling%20-%20ATD%20USA%202018%20-%20Alex%20Schladebeck%20-%20Huib%20Schoots.pdf){:target="_blank"} with Alex Schladebeck
 - [The Magic of Sherlock Holmes – Test Strategy in a blink of an eye](/assets/files/magic-of-sherlock-holmes.pdf){:target="_blank"} with Pekka Marjamaki and special guest Carsten Feilberg
 
