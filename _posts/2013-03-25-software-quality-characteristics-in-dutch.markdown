@@ -22,8 +22,6 @@ The modern world has given us stupendous know-how. Yet avoidable failures contin
 ### Why use heuristics?
 [Heuristics](https://en.wikipedia.org/wiki/Heuristic){:target="_blank"} help you think better about certain topics.  In RST we say: “heuristics are fallible methods for solving problems”. They are like guidelines or rules of thumb. Some examples: “Pull on the handle, push on the plate”, “Don’t drink and drive”, “If it rains, take an umbrella” and “If you are having difficulty understanding a problem, try drawing a picture”. Heuristics are mental shortcuts that help you solve problems or makes decisions fast and with minimal mental effort. 
 
-I wrote about heuristics in my new blog [here](/posts/how-should-we-test-this-part1-learning-heuristics-models){:target="_blank"}.
-
 ### More on heuristics
 -   [The Essence of Heuristics](https://www.satisfice.com/blog/archives/462){:target="_blank"} by James Bach
 -   [Heuristics for Understanding Heuristics](https://www.developsense.com/blog/2012/04/heuristics-for-understanding-heuristics/){:target="_blank"} by Michael Bolton
