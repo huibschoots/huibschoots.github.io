@@ -37,17 +37,23 @@ order: 6
 - [TestClash mini](/assets/files/Testclash_Mini.pdf){:target="_blank"} with Pieter Withaar
 - [Testing in modern times – a story about Quality and Value](/assets/files/Testing%20in%20modern%20times%20-%20a%20story%20about%20Quality%20and%20Value%20-%20Oredev%202022.pdf){:target="_blank"}
 - [Testopsy: Dissecting your Testing](/assets/files/Testopsy-ETC2017-HuibSchoots.pdf){:target="_blank"}
+- [Toekomst van testen](/assets/files/Toekomst-testen%2020111004.pdf){:target="_blank"}
+- [Visibility of testers](/assets/files/Visibility-of-testers-AgileTDOpenAir2023-HuibSchoots.pdf){:target="_blank"}
 - [What is context-driven testing?](/assets/files/What-is-CDT-TestNet-Najaarsevenement2013-HuibSchoots.pdf){:target="_blank"}
 - [What testing can learn from social sciences](/assets/files/What-testing-can-learn-from-social-sciences-BTD2013.pdf){:target="_blank"}
 - [Where words fail music speaks](/assets/files/Where%20words%20fail%20music%20speaks%20-%20ATD%20Potsdam%202015%20-%20Huib%20Schoots%20&%20Alex%20Schladebeck.pdf){:target="_blank"} with Alex Schladebeck
 
 **Workshops & Tutorials**
+- [Agile Test Strategy - Responding to change](/assets/files/Agile-Test-Strategy-Responding-to-change.pdf){:target="_blank"} with Richard Bradshaw
 - [Aiming higher, leveling up your agile improvements](/assets/files/Aiming%20Higher%20-%20ATD%202017%20-%20Huib%20Schoots%20and%20Joep%20Schuurkes.pdf){:target="_blank"} with Joep Schuurkes- [Aqua: agile verbeteren voor teams](/assets/files/Aqua%20-%20agile%20Improvement%20-%20TestNet%20Zomerworkshops%202017%20-%20Huib%20Schoots.pdf){:target="_blank"}
 - [Creating insight and overview: dealing with complexity in testing](/assets/files/Creating%20insight%20and%20overview%20-%20Dealing%20with%20complexity%20in%20testing%20-%20Copenhagencontext%202017.pdf){:target="_blank"} with Ruud Cox
 - [Devops: een nieuwe koers of het eindpunt voor testers?](/assets/files/devops%20-%20een%20nieuwe%20koers%20of%20het%20eindpunt%20voor%20testers%20-%20TestNet%20Voorjaar%202017%20-%20JeanPaulVarwijk%20-%20HuibSchoots.pdf){:target="_blank"} with Jean-Paul Varwijk
 - [Experiential Coaching](/assets/files/Flips%20-%20Experiential%20Coaching%20-%20ATD%202019.pdf){:target="_blank"} with Christina Davidian
+- [Exploratory Testing Dojo](/assets/files/Testing-Dojo-NTD2014.pdf){:target="_blank}
 - [Fast feedback! Ideas to help your project test quicker ... ](/assets/files/Fast-Feedback-HuibSchoots-PascalDufour-AgileTestingDays2013.pdf){:target="_blank"} with Pascal Dufour
 - [How the heck do I perform a Risk Analysis?](/assets/files/How-the-heck-do-I-perform-a-Risk-Analysis-ATD2020-HuibSchoots-PaulHolland.pdf){:target="_blank"}
+- [How to Talk About Testing - Storytelling for Exploratory Testers](/assets/files/How-to-Talk-About-Testing-Storytelling-for-Exploratory-Testers-99min-MoT.pdf){:target="_blank"}
+- [Introduction to Creating Test Strategies](/assets/files/Introduction-to-creating-test-strategies-99min-MoT.pdf){:target="_blank"}
 - [Observe, model, design, test, report](https://www.dropbox.com/scl/fi/ejfz7r3y546ik5360ztuc/OBSERVE-MODEL-DESIGN-TEST-REPORT-v3.pdf?rlkey=itphz6ej2m73ccz3xfu9wti6p&st=6u0p3e0l&dl=0){:target="_blank"} with Ilari Aegerter
 - [Practical agile test strategy using heuristics](/assets/files/Workshop-Test-Strategy-AgileTestingDays2014-HuibSchoots.pdf){:target="_blank"}
 - [Software investigation & exploration – Supercharging your value](/assets/files/Software%20investigation%20and%20exploration%20-%20Supercharging%20your%20value%20-%20ATD%20USA%202019%20-%20Huib%20Schoots%20and%20Alex%20Schladeback.pdf){:target="_blank"} [2022 version](/assets/files/Software%20investigation%20&%20exploration%20%20-%20%20Supercharging%20your%20value%20-%20ATD%20USA%202022.pdf){:target="_blank"}
@@ -63,7 +69,5 @@ order: 6
 ![Bepaal je koers](/assets/img/bepaaljekoers.png){: .right width="100"}
 - [Determin your course / Bepaal je koers](/assets/files/testnet_bepaal_je_koers.epub){:target="_blank"}<br>
     Book written in 2012 for TestNet's 15 years annivesary. About the future and trends in Testing. Available in epub.
-
-
 
 -   More to come!
