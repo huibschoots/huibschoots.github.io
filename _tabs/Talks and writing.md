@@ -69,9 +69,9 @@ order: 6
 - [Determin your course / Bepaal je koers](/assets/files/testnet_bepaal_je_koers.epub){:target="_blank"}<br>
     Book written in 2012 for TestNet's 15 years annivesary. About the future and trends in Testing. Available in epub.
 - [https://www.testnet.org/artikelen/testen-is-dood-nee-he-toch-niet-alweer/](https://www.testnet.org/artikelen/testen-is-dood-nee-he-toch-niet-alweer/){:target="_blank"} in TestNet NieuwsMagazine
-- [Teststrategie met heuristieken](/assets/files/Teststrategie-met-heuristieken-TestNetNieuws-Huib-Schoots.pdf){:target=""_blank}
-- [Exploratief testen gedefinieerd... Hardnekkige mythes ontkracht](/assets/files/Exploratief-testen-gedefinieerd-TestNetNieuws-HuibSchoots.pdf){:target=""_blank} in TestNet NieuwsMagazine
-- [Wat is context-driven testen?](/assets/files/Wat-is-Context-driven-Testen-TestNetNieuws-HuibSchoots.pdf){:target=""_blank} in TestNet NieuwsMagazine
+- [Teststrategie met heuristieken](/assets/files/Teststrategie-met-heuristieken-TestNetNieuws-Huib-Schoots.pdf){:target="_blank"}
+- [Exploratief testen gedefinieerd... Hardnekkige mythes ontkracht](/assets/files/Exploratief-testen-gedefinieerd-TestNetNieuws-HuibSchoots.pdf){:target="_blank"} in TestNet NieuwsMagazine
+- [Wat is context-driven testen?](/assets/files/Wat-is-Context-driven-Testen-TestNetNieuws-HuibSchoots.pdf){:target="_blank"} in TestNet NieuwsMagazine
 - [Hiring Professional Testers](/assets/files/Testing-Circus-Vol5-Edition07-July-2014-Hiring-Professional-Testers-Huib.pdf){:target="_blank"} in Testing Circus
 - [Test-Driven Development: Good or Bad?](/assets/files/agilerecord_june2014.pdf){:target="_blank"} in Agile Record
 - [Is It All in a Day’s Job?](/assets/files/agilerecord_17_schoots.pdf){:target="_blank"} in Agile Record
@@ -85,5 +85,5 @@ order: 6
 - [It`s all about personal skill development](https://www.a1qa.com/blog/its-all-about-personal-skill-develop/){:target="_blank"}
 - [Testing to me is never a dull job](https://www.a1qa.com/blog/testing-to-me-is-never-a-dull-job-interview-with-huib-schoots-part-1/){:target="_blank"}
 - [Interview with Testers: Huib Schoots](/assets/files/Testing-Circus-Vol5-Edition07-July-2014-Interview-Huib.pdf){:target="_blank"}
-- [Ask the Tester: Huib Schoots](/assets/files/STPQATEST062012.pdf){:target=""_blank}
+- [Ask the Tester: Huib Schoots](/assets/files/STPQATEST062012.pdf){:target="_blank"}
 - [Let's Test Prequel with Huib Schoots](https://www.shino.de/2012/03/18/lets-test-prequel-with-huib-schoots/){:target="_blank"}
