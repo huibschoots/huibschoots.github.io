@@ -43,7 +43,8 @@ order: 6
 
 **Workshops & Tutorials**
 - [Agile Test Strategy - Responding to change](/assets/files/Agile-Test-Strategy-Responding-to-change.pdf){:target="_blank"} with Richard Bradshaw
-- [Aiming higher, leveling up your agile improvements](/assets/files/Aiming%20Higher%20-%20ATD%202017%20-%20Huib%20Schoots%20and%20Joep%20Schuurkes.pdf){:target="_blank"} with Joep Schuurkes- [Aqua: agile verbeteren voor teams](/assets/files/Aqua%20-%20agile%20Improvement%20-%20TestNet%20Zomerworkshops%202017%20-%20Huib%20Schoots.pdf){:target="_blank"}
+- [Aiming higher, leveling up your agile improvements](/assets/files/Aiming%20Higher%20-%20ATD%202017%20-%20Huib%20Schoots%20and%20Joep%20Schuurkes.pdf){:target="_blank"} with Joep Schuurkes
+- [Aqua: agile verbeteren voor teams](/assets/files/Aqua%20-%20agile%20Improvement%20-%20TestNet%20Zomerworkshops%202017%20-%20Huib%20Schoots.pdf){:target="_blank"}
 - [Creating insight and overview: dealing with complexity in testing](/assets/files/Creating%20insight%20and%20overview%20-%20Dealing%20with%20complexity%20in%20testing%20-%20Copenhagencontext%202017.pdf){:target="_blank"} with Ruud Cox
 - [Devops: een nieuwe koers of het eindpunt voor testers?](/assets/files/devops%20-%20een%20nieuwe%20koers%20of%20het%20eindpunt%20voor%20testers%20-%20TestNet%20Voorjaar%202017%20-%20JeanPaulVarwijk%20-%20HuibSchoots.pdf){:target="_blank"} with Jean-Paul Varwijk
 - [Experiential Coaching](/assets/files/Flips%20-%20Experiential%20Coaching%20-%20ATD%202019.pdf){:target="_blank"} with Christina Davidian
@@ -61,7 +62,7 @@ order: 6
 - [Testopsy – dissecting your testing](/assets/files/TestOpsy%20-%20ATD%202017%20-%20Huib%20Schoots%20and%20Alex%20Schladebeck.pdf){:target="_blank"}
 - [Test Strategie met behulp van heuristieken](/assets/files/Teststrategie-met-heuristieken-TestNetNieuws-Huib-Schoots.pdf){:target="_blank"}
 - [The Magic of Sherlock Holmes – Test Strategy in a blink of an eye](/assets/files/magic-of-sherlock-holmes.pdf){:target="_blank"} with Pekka Marjamaki and special guest Carsten Feilberg
-- [Thinking and working visually for software testers](/assets/files/Thinking-and-working-visually-for-software-testers-LetsTest2013.pdf){:target="_blank"} Wwith Jean-Paul Varwijk
+- [Thinking and working visually for software testers](/assets/files/Thinking-and-working-visually-for-software-testers-LetsTest2013.pdf){:target="_blank"} with Jean-Paul Varwijk
 
 **Writing**
 ![Bepaal je koers](/assets/img/bepaaljekoers.png){: .right width="100"}
