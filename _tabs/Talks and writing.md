@@ -8,8 +8,6 @@ order: 6
 
 <span style="color:red">**UNDER CONSTRUCTION: more talks and writings will be added**</span>
 
-- [](){:target="_blank"}
-
 **Talks & Keynotes**
 - [A road to Awesomeness - Great Resources](/assets/files/Great-resources-a-road-to-awesomeness-TestBashManchester2016-HuibSchoots%20-Updated%20-version.pdf){:target="_blank"}
 - [Automation Addiction](/assets/files/Automation%20Addiction%20-%20ATD%202023%20-%20Paul%20Holland%20and%20Huib%20Schoots.pdf){:target="_blank"} with Paul Holland
@@ -19,15 +17,19 @@ order: 6
 - [Buzzwords & skills - Importance of basic tester skills](/assets/files/Buzzwords-and-skills-AgileTDOpenAir2023-HuibSchoots.pdf){:target="_blank"}
 - [CDT in an agile context – a happy marriage?](/assets/files/Happy-Marriage-TestBash2014-HuibSchoots.pdf){:target="_blank"}
 - [Changing the context](/assets/files/Changing-the-context-ATD2012.pdf){:target="_blank"}
+- [Creating a Culture of Learning](/assets/files/Creating-a-culture-of-learning-VincentWijnen-HuibSchoots-ATD2022.pdf){:target="_blank"} with Vincent Wijnen
 - [Dealing with context change](/assets/files/Dealing-With-Context-Change-HuibSchoots-CopenhagenContext2015.pdf){:target="_blank"}
 - [Exploratory Testing Explained](/assets/files/ET%20Explained%20-%20ExpoQA%202018%20-%20Huib%20Schoots.pdf){:target="_blank"} with special Guest Santhosh Tuppad
 - [Get off the hamster wheel and start adding value!](/assets/files/Get%20off%20the%20hamster%20wheel%20and%20start%20adding%20value%20-%20Huib%20Schoots%20-%20Alex%20Schladebeck%20-%20ATD%202018.pdf){:target="_blank"} with Alex Schladebeck
 - [Hiring Professional testers](/assets/files/Hiring-professional-testers-Webinar%20EuroStar2014.pdf){:target="_blank"}
 - [How to become a great tester](/assets/files/How-to-become-a-great-tester-EuroSTAR2013-HuibSchoots.pdf){:target="_blank"}
+- [How to NOT waste time](/assets/files/How-to-not-waste-time-OnlineTestConf2022-HuibSchoots.pdf){:target="_blank"}
 - [Jedi Mind Tricks for Testers](/assets/files/JediMindTricks%20-%20TestBash%20Manchester%20-%20Alex%20Schladebeck%20-%20Huib%20Schoots.pdf){:target="_blank"} with Alex Schladebeck
+- [Just how big are the differences in the testing profession?](/assets/files/Just-how-big-are-the-differences-in-testing-TestNetVoorjaarevenement2024-RikMarselis-HuibSchoots.pdf){:target="_blank"} with Rik Marselis
 - [Let’s stop talking about testing, let’s start thinking about value](/assets/files/Let’s%20stop%20talking%20about%20Testing,%20let’s%20start%20thinking%20about%20value%20-%20ExpoQA%202018%20-%20Alex%20Schladebeck%20and%20Huib%20Schoots.pdf){:target="_blank"} with Alex Schladebeck
 - [Mythbusters](/assets/files/Mythbusters-AgileTestingDayNL-HuibSchoots-AlexSchladebeck.pdf){:target="_blank"} with Alex Schladebeck
 - [Once upon a time - Stories that make you awesome](/assets/files/Keynote%20-%20Stories%20that%20make%20you%20awesome%20-%20ATD%202016%20-%20Alex%20Schladebeck%20and%20Huib%20Schoots.pdf){:target="_blank"} with Alex Schladebeck
+- [Quality Acceleration - Delivering quality software at speed](/assets/files/Quality-Acceleration-delivering-quality-software-at-speed-Inflectracon2020-HuibSchoots.pdf){:target="_blank"}
 - [Set your Course: Future Roles and Trends in Testing](/assets/files/Set-your-course-HuibSchoots-LetsTest2013.pdf){:target="_blank"}
 - [Social sciences & the art of testing](/assets/files/Social-sciences-and-the-art-of-testing-CAST2014-Huib%20Schoots.pdf){:target="_blank"}
 - [Successful testing the continuous delivery process](/assets/files/Continuous-Delivery-test-automation-day.pdf){:target="_blank"}
