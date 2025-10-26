@@ -122,5 +122,5 @@ Good luck on your journey to awesomeness!
 ### References
 
 - The slides I used in Manchester are [here](https://www.slideshare.net/slideshow/a-road-to-awesomeness-67557165/67557165){:target="_blank"}
-- The updated slides are [here](https://www.dropbox.com/scl/fi/z42i0lqeiwsjiayywf6lv/Great-Resources-A-Road-to-Awesomeness-TestBash-Manchester-2016-Huib-Schoots-Updated-Version.pdf?rlkey=o0njiwe2a7usuwqf5tjogdgbi&st=wvniqzjp&dl=0){:target="_blank"}
+- The updated slides are [here](/assets/files/Great-resources-a-road-to-awesomeness-TestBashManchester2016-HuibSchoots%20-Updated%20-version.pdf){:target="_blank"}
 - All talks at TestBash are recorded. My talk is [here](https://www.ministryoftesting.com/testbash-sessions/a-road-to-awesomeness-huib-schoots){:target="_blank"}
