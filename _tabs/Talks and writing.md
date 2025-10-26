@@ -4,9 +4,7 @@ icon: fa-solid fa-microphone
 order: 6
 ---
 
-<blockquote class="prompt-info">On this page you will find the slides of my talks, keynotes, workshops and tutorials. You will also find articles and other written I have been invloved in.</blockquote>
-
-<span style="color:red">**UNDER CONSTRUCTION: more talks and writings will be added**</span>
+<blockquote class="prompt-info">On this page you will find the slides of my talks, keynotes, workshops and tutorials. You will also find articles and other writtings I have been invloved in.</blockquote>
 
 **Talks & Keynotes**
 - [A road to Awesomeness - Great Resources](/assets/files/Great-resources-a-road-to-awesomeness-TestBashManchester2016-HuibSchoots%20-Updated%20-version.pdf){:target="_blank"}
@@ -69,5 +67,22 @@ order: 6
 ![Bepaal je koers](/assets/img/bepaaljekoers.png){: .right width="100"}
 - [Determin your course / Bepaal je koers](/assets/files/testnet_bepaal_je_koers.epub){:target="_blank"}<br>
     Book written in 2012 for TestNet's 15 years annivesary. About the future and trends in Testing. Available in epub.
-
--   More to come!
+- [https://www.testnet.org/artikelen/testen-is-dood-nee-he-toch-niet-alweer/](https://www.testnet.org/artikelen/testen-is-dood-nee-he-toch-niet-alweer/){:target="_blank"} in TestNet NieuwsMagazine
+- [Teststrategie met heuristieken](/assets/files/Teststrategie-met-heuristieken-TestNetNieuws-Huib-Schoots.pdf){:target=""_blank}
+- [Exploratief testen gedefinieerd... Hardnekkige mythes ontkracht](/assets/files/Exploratief-testen-gedefinieerd-TestNetNieuws-HuibSchoots.pdf){:target=""_blank} in TestNet NieuwsMagazine
+- [Wat is context-driven testen?](/assets/files/Wat-is-Context-driven-Testen-TestNetNieuws-HuibSchoots.pdf){:target=""_blank} in TestNet NieuwsMagazine
+- [Hiring Professional Testers](/assets/files/Testing-Circus-Vol5-Edition07-July-2014-Hiring-Professional-Testers-Huib.pdf){:target="_blank"} in Testing Circus
+- [Test-Driven Development: Good or Bad?](/assets/files/agilerecord_june2014.pdf){:target="_blank"} in Agile Record
+- [Is It All in a Day’s Job?](/assets/files/agilerecord_17_schoots.pdf){:target="_blank"} in Agile Record
+- [Thoughts on Distributed Teams](/assets/files/agilerecord_15_schoots.pdf){:target="_blank"} in Agile Record
+- [Keeping up?](/assets/files/agilerecord_14_schoots.pdf){:target="_blank"} in Agile Record
+- [Creating my own flow with personal kanban](/assets/files/agilerecord_13_schoots.pdf){:target="_blank"} in Agile Record
+- [Software development is all about people](/assets/files/agilerecord_12_schoots.pdf){:target="_blank"} in Agile Record
+- [Lead yourself!](/assets/files/agilerecord_10_schoots.pdf){:target="_blank"} in Agile Record
+- [An agile testing future](/assets/files/agilerecord_09_schoots.pdf){:target="_blank"} in Agile Record
+- [Interview met workshop Master Huib Schoots](/assets/files/Interview_Huib_Schoots_TNN_2015.pdf){:target=""_blank}
+- [It`s all about personal skill development](https://www.a1qa.com/blog/its-all-about-personal-skill-develop/){:target=""_blank}
+- [Testing to me is never a dull job](https://www.a1qa.com/blog/testing-to-me-is-never-a-dull-job-interview-with-huib-schoots-part-1/){:target=""_blank}
+- [Interview with Testers: Huib Schoots](/assets/files/Testing-Circus-Vol5-Edition07-July-2014-Interview-Huib.pdf){:target=""_blank}
+- [Ask the Tester: Huib Schoots](/assets/files/STPQATEST062012.pdf){:target=""_blank}
+- [Let's Test Prequel with Huib Schoots](https://www.shino.de/2012/03/18/lets-test-prequel-with-huib-schoots/){:target=""_blank}
