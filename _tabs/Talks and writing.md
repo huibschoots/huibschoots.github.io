@@ -81,9 +81,9 @@ order: 6
 - [Software development is all about people](/assets/files/agilerecord_12_schoots.pdf){:target="_blank"} in Agile Record
 - [Lead yourself!](/assets/files/agilerecord_10_schoots.pdf){:target="_blank"} in Agile Record
 - [An agile testing future](/assets/files/agilerecord_09_schoots.pdf){:target="_blank"} in Agile Record
-- [Interview met workshop Master Huib Schoots](/assets/files/Interview_Huib_Schoots_TNN_2015.pdf){:target=""_blank}
-- [It`s all about personal skill development](https://www.a1qa.com/blog/its-all-about-personal-skill-develop/){:target=""_blank}
-- [Testing to me is never a dull job](https://www.a1qa.com/blog/testing-to-me-is-never-a-dull-job-interview-with-huib-schoots-part-1/){:target=""_blank}
-- [Interview with Testers: Huib Schoots](/assets/files/Testing-Circus-Vol5-Edition07-July-2014-Interview-Huib.pdf){:target=""_blank}
+- [Interview met workshop Master Huib Schoots](/assets/files/Interview_Huib_Schoots_TNN_2015.pdf){:target="_blank"}
+- [It`s all about personal skill development](https://www.a1qa.com/blog/its-all-about-personal-skill-develop/){:target="_blank"}
+- [Testing to me is never a dull job](https://www.a1qa.com/blog/testing-to-me-is-never-a-dull-job-interview-with-huib-schoots-part-1/){:target="_blank"}
+- [Interview with Testers: Huib Schoots](/assets/files/Testing-Circus-Vol5-Edition07-July-2014-Interview-Huib.pdf){:target="_blank"}
 - [Ask the Tester: Huib Schoots](/assets/files/STPQATEST062012.pdf){:target=""_blank}
-- [Let's Test Prequel with Huib Schoots](https://www.shino.de/2012/03/18/lets-test-prequel-with-huib-schoots/){:target=""_blank}
+- [Let's Test Prequel with Huib Schoots](https://www.shino.de/2012/03/18/lets-test-prequel-with-huib-schoots/){:target="_blank"}
