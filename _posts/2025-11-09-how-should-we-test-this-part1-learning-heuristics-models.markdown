@@ -1,7 +1,7 @@
 ---
 title: How should we test this? Part 1 - Learning
 description: Part 1 in "How should we test this?" on learning, heuristics and models
-date: 2025-09-11 11:00:00 +0100
+date: 2025-11-09 11:00:00 +0100
 categories: [Test Strategy]
 tags: strategy risk reporting models heuristics learning # TAG names should always be lowercase
 image:
