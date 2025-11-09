@@ -1,0 +1,61 @@
+---
+title: RST – Part 2
+date: 2011-07-07 00:00:00 +0100
+categories: [skills]
+tags: skills # TAG names should always be lowercase
+image:
+    path: /assets/img/rst2.png
+---
+
+I updated the first part of my write-up about RST a little. You can find that post [here](/posts/rst-rapid-software-testing){:target="_blank"}.
+
+### Heuristic test strategy model
+
+An important part of the RST course is the [Heuristic Test Strategy Model (HTSM)](https://www.satisfice.com/download/heuristic-test-strategy-model){:target="_blank"} and [Oracles](https://developsense.com/blog/2012/07/few-hiccupps){:target="_blank"}. Teaching us [the mnemonics](https://en.wikipedia.org/wiki/Mnemonic){:target="_blank"} that list the heuristics. It is fun learning how these can be remembered easily: the dumber the mnemonic, the more memorable it is…
+
+**HICCUPPS (Oracles)**<br>
+Nothing to explain here I think
+<blockquote class="prompt-info">Update 2025: it is called A FEW HICCUPPS now</blockquote>
+
+**SFDPOT (Product Elements)**<br>
+Still not very funny, just meaning San Francisco Depot
+<blockquote class="prompt-info">Update 2025: it is called SFDIPOT now, see HTSM</blockquote>
+
+**CIDTESTD (Project Environment)**<br>
+Kid Tested and mother approved! From a [cereals commercial](https://en.wikipedia.org/wiki/Kix_(cereal){:target="_blank"}) we don’t know in the Netherlands
+<blockquote class="prompt-info">Update 2025: it is called MIDTESTD now, see HTSM)</blockquote>
+
+**CRUSSPIC STMPL (Quality Criteria)**<br>
+The Eastern European hockey player, rocket scientist, ballet dancer, poet and politician.
+<blockquote class="prompt-info">Update 2025: it is called CRUCSCPID now, see HTSM. I like to call it CRISP DUCC)</blockquote>.
+
+**FDSFSCURA (Test Techniques)**<br>
+The cry of roman soldiers storming into battle: “My sandals hurt!”. [Here](https://developsense.com/blog/2007/02/fdsfscura){:target="_blank"} is how Michael explains it.
+
+If you want to know what the letters mean, just watch this video I shot during class.
+
+{% include embed/youtube.html id='A8YKsVV7AaI' %}
+
+### Test Strategy and test plans
+
+After the impressive part on the heuristic test strategy model, test strategy and test plans were discussed some more. With a nice defintions of a (test) plan:
+**Plan** (set of ideas that guide your test proces) = **Strategy** (set of ideas that guide your test design) + **Logistics** (set of ideas that guide your resources to fulfill the strategy)
+
+**“Usability is often a testability problem”**
+
+Of course I have thought of testabilty before. I also can remember several occasions where I have asked developers to help me with scripts or tooling to do my work more efficient and more rapid. On the other hand are testers asking for testabilty enough? Testers can make their work far more efficient by collaborating with developers. Ask yourself the question: “how often do I discuss testing with developers?” In agile development this is becoming common practise more and more, but shouldn’t all testing be facilitated by good tooling? It will help testing become more Rapid. Let the computer do the counting (in logging)!
+
+The faster we can test, the more chance we have to find bugs. Bad testibilty gives bugs a chance to hide and therefore it is a serious issue. RST gave me insight in the importance of testability and while studying [the appendices](https://www.satisfice.com/download/rst-appendices){:target="_blank"} of the course material, I found some nice heuristics ([Heuristics of Software Testability by James Bach](https://www.satisfice.com/download/heuristics-of-software-testability){:target="_blank"}, [Satisfice](https://www.satisfice.com/){:target="_blank"}, Inc.) testers can use to gain insight in testabilty: Controlability, Observability, Avalability, Simplicity, Stability and Information. While reading I realized that this is an obvious list, but I can’t remember a single project I did or have seen where testers were aware of all these factors that influence their work.
+
+### Safety language & Testing stories
+Another eye opener was safety language! Testers tend to be very precise. Results are compared in detail, using 5 decimals if possible. And after a couple of tests we say: it works! Since I attended Michael’s TestFraming tutorial at TestNet in July, I already knew the importance of telling the good stories:
+1. The product story, about how the product works, what fails and what might fail.
+2. The testing story, about how we have tested the product, what we want to test and what we won’t test at all.
+3. The story about how good testing was, the testability of the product and the risks and costs.
+
+This subject also came up during the intervision session we had last week at work, where 6 colleagues who went to EuroStar last year shared their experiences and take aways. One of the topics discussed were “elevator pitches”, the importance of presenting and effective communication.
+
+### Accuracy verus precision
+“Sometimes we testers spent to much time to find precise answers as accurate answers would do.” The difference between accuracy and precision is nicely demonstrated on [wikipedia](https://en.wikipedia.org/wiki/Accuracy_and_precision){:target="_blank"}. I like the target analogy very much. Another thing I took away as an open door, but very true and not applied too often: in testing we should let the risk define the level of accuracy and precision needed.
+
+A quote to finalize this post: **“Testing is about questioning and learning under conditions of fundamental uncertainty“**.

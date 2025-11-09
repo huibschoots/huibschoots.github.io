@@ -1,0 +1,58 @@
+---
+title: A new job!!
+date: 2012-11-02 00:00:00 +0100
+categories: [New Job]
+tags:  atd eurostar testnet dutchestingday # TAG names should always be lowercase
+image:
+    path: /assets/img/newjob.png
+---
+
+Yesterday I had my last working day at Rabobank Interntional. I am starting as a agile test consultant at codecentric ([www.codecentric.nl](https://www.codecentric.nl){:target="_blank"}). Unfortunately at Rabobank I can’t do what I want, what I aspire and what I am good at. I was looking for a role as “principal test consultant”. I want to work as a consultant, trainer and coach. Improve people, teams and organizations! My strength lies in sharing the passion for testing, improve, create, learn, teach. I feel comfortable in a role as “technical leader”, where I can and may interfere with the strategic and tactical decisions about testing but also do hands-on stuff to help testers get better. And such a job isn’t available (yet) within Rabo.
+
+### Codecentric
+Codecentric is a small agile consultancy company in the Netherlands. In the Netherlands there are 12 people, they no wait… we have another 150 people in other countries in Europe. Codecentric is expert in developing and improving IT solutions. We believe in a new way of working, trust, equality, focus, passion, pleasure and expertise to ensure a higher result. Codecentric specializes in agile and Scrum, architecture, performance management/monitoring, Java software development and agile testing. I chose codecentric because they are real experts in everything they do. And they see being an expert as a fundamental choice. They place high demands on each member of the team. Codecentric uses the 4 +1 model work: 1 day per week for the gathering and sharing knowlegde and expertise. I simply love this way of continuously investing in people.
+
+### Sabbatical?
+In November I will be “in between jobs” or in transition. I like to call it a sabbatical, but I will definitely not be idle the whole month. Next week I will be at EuroStar: looking forward seeing a lot of (international) testing friends and making new ones. Sunday evening there will a gathering in the Novotel where some geek testers get together to do some lightning talks and have fun (and beers). I will be attending the tutorials by [Rikard Edgren](https://www.linkedin.com/in/rikard-edgren-6bb4612/){:target="_blank"} and [Michael D Kelly](https://www.linkedin.com/in/michaeldkelly/){:target="_blank"}. I will be track chair on Tuesday afternoon and will do my own talk on Wednesday called ["Changing the context"](/assets/files/Changing-the-context-EuroStar2012.pdf){:target="_blank"}. Hope to see you there!
+
+November 18 – 22 I will be in Potsdam Germany to attend Agile Testing Days. I will fly in on Saturday to attend [Potslightning](https://gate-workshop.de/potslightning/){:target="_blank"} on Sunday. If you are in town, come and join us! Monday I will do a [tutorial on Mind Mapping](/assets/files/Mindmaps-tutorial-ATD-2012.pdf){:target="_blank"} with [Jean-Paul](https://www.linkedin.com/in/jeanpaulvarwijk/){:target="_blank"}. Hope it will be as awesome as it was at TestNet where we did a [half day try-out](/assets/files/Mindmaps-tutorial-TestNet2012.pdf){:target="_blank"}. The conference program looks awesome, I am sure I will enjoy many great talks. On Thursday I will do my own talk ["Changing the Context"](/assets/files/Changing-the-context-ATD2012.pdf){:target="_blank"} so don’t leave the conference too early 😉
+
+The last week of my “sabbatical” will be full of testing activity as well: hosting a game night at TestNet, doing a testing dojo at Bartosz, having a brainstorm off-site with the TestNet board and do a talk at the Dutch Testing Day about [exploratory testing](/assets/files/Exploratory-testing-Huib-Schoots-DutchTestingDay.pdf){:target="_blank"}. Hope to see you there as well.
+
+---
+
+### Comments from the original Wordpress blog:
+
+> <code style="color : lightskyblue">Ben Kelly - November 4, 2012 at 2:35 am</code><br>
+
+> Congrats, mate.
+All the best with it. Looking forward to hearing all about it.
+
+> <code style="color : lightskyblue">Darren McMillan - November 2, 2012 at 10:33 pm</code><br>
+
+> Sounds like you’ve found a fantastic little place to work at! I hope you fulfill your dreams there.
+
+> <code style="color : lightskyblue">Joep Schuurkes - November 2, 2012 at 3:53 pm
+
+> Congratulations! Sounds like you found the job you were looking for!
+I would have enjoyed working with you at Rabobank International, though. 😉
+
+> <code style="color : lightskyblue">Andy Glover - November 2, 2012 at 12:30 pm
+
+> Congrats on the new job. Sounds like a great opportunity.
+
+> See you at EuroSTAR.
+
+> <code style="color : lightskyblue">Thomas Ponnet - November 2, 2012 at 11:36 am
+
+> Congratulations and good luck, Huib!
+
+> Codecentric looked interesting for me half a year ago as well but I’d rather stay in one place than travelling around Europe. Sounds like that’s just what you want. Hope to see you again in the near future, I enjoyed our chats last year.
+
+> <code style="color : lightskyblue">Jan Jaap Cannegieter - November 2, 2012 at 11:25 am
+
+> I wish you all the best with your new job and I hope this job brings you everything you are looking for in a job. A funny detail, this week I booked a course organized by Codecentric; RST in April.
+
+> <code style="color : lightskyblue">Johan Jonasson - November 2, 2012 at 11:19 am
+
+> Good luck Huib! Sounds like an interesting company.

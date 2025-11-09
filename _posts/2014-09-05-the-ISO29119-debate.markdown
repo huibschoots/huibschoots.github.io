@@ -1,0 +1,125 @@
+---
+title: The ISO29119 debate
+date: 2014-09-05 00:00:00 +0100
+categories: [Standards]
+tags: standard iso29119 context-driven # TAG names should always be lowercase
+image:
+    path: /assets/img/iso29119_1.png
+---
+
+On Linkedin David Morgan started an interesting discussion titled: “ISO/IEC/IEEE 29119 – why the fear and opprobrium“. In this discussion [Cor van Rijn](https://www.linkedin.com/in/cor-van-rijn-a300744/){:target="_blank"} asked me this question:
+
+>“@Huib,your comment gives the impression that you do not believe in standards,
+Please enlighten me and let me know what are the DISadvantages to standards.
+Personally I am a strong believer in standards, given that they are applied in a matter that is suitable to the environment and the problem (so with regards to complexity, size and risk) and that they should be used as a guideline and that issues that are not relevant should be omitted, due to your consideration and specific situation.
+In that respect I would like to refer to the IEEE standards for software test documentation where this idea is phrased explicitly in the text of the standard.“
+
+Much has been said about ISO 29119 the last weeks. For some background, please have a look at the many things said online in [my collection of resources on the controversy](/posts/ISO29119-Test-standard-or-misguided-path){:target="_blank"}.
+
+So what is wrong with this ISO 29119 standard?
+
+- The standard is not available publicly. How can I comply to or even discuss a standard that is not publicly available?
+- ISO is an commercial organisation. The standard is a form of “[rent-seeking](https://www.developsense.com/blog/2014/08/rising-against-the-rent-seekers/){:target="_blank"}“. One form of rent-seeking is using regulations or standards in order to create or manipulate a market for consulting, training, and certification.
+- The standard embodies a document heavy test process which is unnecessary and therefor in many situations waste. Didn’t history show us that [documentation and processes are important but that there are more important things we should consider](https://agilemanifesto.org/){:target="_blank"}?
+- The standard doesn’t speak about the most important thing in testing: skills! The word skill is used 8 times in the first three parts of the standard (270 pages!) and not once it has been made clear WHICH skills are needed. Only that you need to get the right skills to do the job.
+- There is much wrong with the content. For instance: the writers don’t understand exploratory testing AT ALL. I wish I could quote the standard, but it is copyrighted. <span style="color:red">[Edit: it turns out I can quote the standard, so I edited this blog post and added some quotes (in blue) from the ISO 29119 standard, part 1-3]</span>. Here are some examples: (HS is my comments to the quotes)
+    * **Example 1:** The definition on page 7 in part 1: <span style="color:blue">“exploratory testing experience-based testing in which the tester spontaneously designs and executes tests based on the tester’s existing relevant knowledge, prior exploration of the test item (including the results of previous tests), and heuristic “rules of thumb” regarding common software behaviours and types of failure. Note 1 to entry: Exploratory testing hunts for hidden properties (including hidden behaviours) that, while quite possibly benign by themselves, could interfere with other properties of the software under test, and so constitute a risk that the software will fail.”</span>
+    HS: Spontaneously? Like magic? Or maybe using skills? There are many, many more heuristics I use while testing. And most important: I miss learning in this definition. Testing is all about learning. ET doesn’t only hunt for hidden properties, it is about learning about the product tested.
+
+    * **Example 2:** The advantages and disadvantages of scripted and unscripted testing on page 33 in part 1:
+    <span style="color:blue">“Disadvantages Unscripted Testing
+    Tests are not generally repeatable.”</span>
+    HS: Why are the test not repeatable? I take notes. If needed I can repeat ANY test I do. I think it is not an interesting question if tests are repeatable or not. Although I do not understand the constant pursuit for repeatable tests. To me that is old school thinking. More interesting is to teach testers about [reasons to repeat tests](https://www.satisfice.com/repeatable.shtml){:target="_blank"}.
+    <span style="color:blue">“The tester must be able to apply a wide variety of test design techniques as required, so more experienced testers are generally more capable of finding defects than less experienced testers.”</span>
+    HS: Duh! Isn’t that the case in ANY testing?
+    <span style="color:blue">“Unscripted tests provide little or no record of what test execution was completed. It can thus be difficult to measure the dynamic test execution process, unless tools are used to capture test execution.”</span>
+    HS: Bullocks! I take notes of what has been tested and I dare to say that my notes are more valuable than a pile of test cases saying passed or failed. It is not about test execution completed, it is about coverage achieved. In my experience exploratory testers are way better in reporting their REAL coverage and tell a good story about their testing. Even if tools are used to capture test execution, how would you measure the execution process? Count the minutes on the video?
+
+    * **Example 3:** Test execution on page 37 in part 2:
+    <span style="color:blue">“8.4.4.1 Execute Test Procedure(s) (TE1) This activity consists of the following tasks:
+    a) One or more test procedures shall be executed in the prepared test environment.
+    NOTE 1 The test procedures could have been scripted for automated execution, or could have been recorded in a test specification for manual test execution, or could be executed immediately they are designed as in the case of exploratory testing.
+    b) The actual results for each test case in the test procedure shall be observed.
+    c) The actual results shall be recorded.
+    NOTE 2 This could be in a test tool or manually, as indicated in the test case specification.
+    NOTE 3 Where exploratory testing is performed, actual results can be observed, and not recorded.”</span>
+    HS: Why should I record every actual result? That’s a lot of work and administration. But wait, if I do exploratory testing, I don’t have to do that? *sigh*
+
+- I think there is no need for this standard. I have gone through the arguments used in favour of this standard in the slides of a talk by Stuart Reid (convener of ISO JTC1/SC7 WG26 (Software Testing) developing the new ISO 29119 Software Testing standard) held at SIGIST in 2013 and Belgium Testing Days in 2014:
+
+![Stuart Reid @ BTD 2014](/assets/img/stuartreid1.jpg){: width="200" .left}
+“Confidence in products”? Sure, with a product standard maybe. But testing is not a product or a manufactory process! “Safety from liability”? So this standard is to cover my ass? Remember that a well designed process badly executed will still result in bad products. Guidelines and no “best practice”? I wish it would, but practice shows that these kind of standards become mandatory and best practice very soon…<br>
+<br>
+![Stuart Reid @ BTD 2014](/assets/img/stuartreid2.jpg){: width="200" .left}
+Common terminology is dangerous. Read Michael Bolton posts about it [here](https://www.developsense.com/blog/2011/06/common-languages-aint-so-common/){:target="_blank"} and [here](https://www.developsense.com/blog/2011/11/smoke-testing-vs-sanity-testing/){:target="_blank"}. To be able to truly understand each other, we need to ask questions and discuss in depth. Shallow agreement about a definition will result in problems. Professional qualifications and certification schemes? We have those and they didn’t help, did they? Benchmarks of “good industry practice” are context dependant. The purpose of a standard is to describe stuff context-free. So how can a standard be used as a benchmark? Ah! Best practice after all?
+
+![Stuart Reid @ BTD 2014](/assets/img/stuartreid3.jpg){: width="200" .left}
+Who is demanding this standard? And please tell me why they want it. There will always be conflicts in definitions and processes. We NEED different processes to do our job well in the many different contexts we work in. A baseline for the testing discipline? Really? Without mentioning any context? What the current industry practice is lacking are skills! We need more excellent testers. The only way to become excellent is to learn, practice and get feedback from mentors and peers. That is how it works. Buyers are unclear what good test practice is? How does that work with selecting a doctor or a professional soccer player? Would you look at their certifications and standards used or is there something else you would do?
+
+I do believe in standards. I am very happy that there are standards: mostly standards for products, not processes. [Testing is a performance](https://www.satisfice.com/download/test-cases-are-not-testing){:target="_blank"} and not a pile of documents and a process you can standardise. I think there is a very different process needed to test a space shuttle, a website and a computer chip producing machine.
+
+I wish that standards would be guidelines, but reality shows standards become mandatory often. [This post by Pradeep Soundararajan](https://moolya.com/blog/testing-stories/an-open-letter-to-the-president-of-the-international-organization-for-standardization-about-iso-29119/){:target="_blank"} gives you some examples. That is why I think this standard should be stopped.
+
+Finally, let’s have a look at what the ISO claims on the “[https://www.softwaretestingstandard.org/](https://www.softwaretestingstandard.org/){:target="_blank"}” website:
+
+>“ISO/IEC/IEEE 29119 Software Testing is an internationally agreed set of standards for software testing that can be used within any software development life cycle or organisation. By implementing these standards, you will be adopting the only internationally-recognised and agreed standards for software testing, which will provide your organisation with a high-quality approach to testing that can be communicated throughout the world. ”.
+
+Really? I think it is simply not true. First of all, since [the petition against the standard](https://www.ipetitions.com/petition/stop29119){:target="_blank"} is signed by hundreds of people from all over the world and [over 30 people blogged about it](/posts/ISO29119-Test-standard-or-misguided-path){:target="_blank"}, I guess the standard is not really internationally agreed. And second: how will it provide my (clients) organisation with a high-quality approach? Again: the quality of any approach lies in the skills and the mindset of the people doing the actual work.
+
+I think this standard is wrong and I signed [the petition](https://www.ipetitions.com/petition/stop29119){:target="_blank"} and [the manifesto](https://karennicolejohnson.com/2014/08/my-thoughts-on-testing-certifications/){:target="_blank"}. I urge you to do the same.
+
+<blockquote class="prompt-info">This post was edited after Esko Arajärvi (https://www.linkedin.com/in/eskoarajarvi/) told me I can quote text from the standard. ISO is governed by law of Switzerland and their Federal Act of October 9, 1992 on Copyright and Related Rights (status as of January 1, 2011) says in article 25: Quotations.<br>
+1 Published works may be quoted if the quotation serves as an explanation, a reference or an illustration, and the extent of the quotation is justified for such purpose.<br>
+2 The quotation must be designated as such and the source given. Where the source indicates the name of the author, the name must also be cited.</blockquote>
+
+---
+
+### Comments from the original Wordpress blog:
+
+<code style="color : lightskyblue">Michael Phillips -October 3, 2014 at 4:42 pm</code><br>
+>I’ve been thinking about the standards, the consequences and how this would work for someone like myself, with my particular personality traits. I’m convinced that really good testers should be able to think in a rebellious fashion; if you´re testing a system that protects kids against criminals, it helps to be able to think like a criminal who wants to exploit loopholes. If you’re testing a system that supports airport security, it helps if you can think like a guy who wants to harm passengers, while being an honest, peaceful guy. If you´re testing business rules, sometimes you need to think about how to break them so as to protect your client against evil people in the big bad world who would break the rules for their own advantage. Some people have this capacity, but what kind of people can think like a criminal while acting honestly? Are they the kind of people who want to spend hours or days trawling through long lists of standards and writing long documents in a standardised template or reading long books about standards to pass some multi-choice exam, demonstrating their ability to conform? I don’t think so; I think they’re more likely to be averse to that kind of thing, and precisely because they’re rebellious by nature, they can be very effective testers. Anything that discourages the ‘noble rebel’ from joining the testing craft is in my opinion a bad idea.
+
+<code style="color : lightskyblue">Michael Phillips - September 17, 2014 at 9:15 pm</code><br>
+>“The atmosphere of officialdom would kill anything that breathes the air of human endeavour, would extinguish hope and fear alike in the supremacy of paper and ink.” Joseph Conrad. I think Conrad expresses my feelings about ‘standards’ and ‘best practises’ perfectly.
+
+<code style="color : lightskyblue">Jaap - September 12, 2014 at 3:53 am</code><br>
+> [https://www.iso.org/iso/home/about.htm](https://www.iso.org/iso/home/about.htm){:target="_blank"} : ISO (International Organization for Standardization) is an independent, non-governmental membership organization and the world’s largest developer of voluntary International Standards.
+I believe that this means that the statement above means that the ISO standards are not mandatory. Up to any individual tester, or testing body whether they want to comply.
+
+<code style="color : lightskyblue">Jim Hazen - September 8, 2014 at 5:19 pm</code><br>
+
+> Huib, Not that I am supporting the new standard, which I’m not. But one thing that I’ve seen of these recent discussions is all the criticism and complaining without trying to provide some type of solution or redirection to a better answer for the ISO standard.
+
+>The testing community, in my opinion, has an inherent problem of not being able to agree on certain things (process, methods, definition and vocabulary) and basically shooting itself in the foot because of it. I know in the past some have tried to come up with ‘common’ criteria (process, methods, education, vocabulary along with meaningful definitions, and guildelines for use) and it hasn’t gone so well due to various factors (like certain people not wanting to agree to some type of ‘standard’).
+
+>My recommendation is that the community as a whole, all the different schools (or factions as they can act like), need to bench the ego’s and try to work together to form some type of common guidelines for our work. They don’t have to be set in stone, but like some like to call this line of work an artform, there are some basic rules that need to be observed so that we have a reference point to start from and then go and be creative after that.
+
+>Both science and art have basic principles & rules on which we build and formulate new ones. I think we need to get the horse back in front of the cart again and then move forward. Not much of a total solution, but it is a start.
+
+<code style="color : lightskyblue">Huib Schoots (Post author) - September 8, 2014 at 11:58 pm</code><br>
+>>Thank for you comment Jim, but we do not agree. What is exactly the problem you are trying to solve with this ISO 29119 standard? Okay, the community doesn’t agree of certain things. But what is the problem with that? And why are we shooting ourselves in the foot?
+
+>>It is really not an ego thing. At least it is not to me. I do not need common criteria and I don’t think we will ever agree on certain things like process, methods, definitions and vocabulary. Have you seen the stuff Michael Bolton wrote about [common language](https://www.developsense.com/blog/2011/06/common-languages-aint-so-common/){:target="_blank"}?
+
+>>To what “basic principles & rules on which we build” are you referring? Can you give me some examples? I think scientist do not agree on many things, that is what helps science progress…
+
+>>Finally, I am not only against the standard, I am against anything that tries to diminish my craft to trivial processes, standardised documents and mechanistic recipes we call test techniques. I am for many things but above all for excellent testing. Referring to Michael again, in his [FAQ about the 29119 controversy](https://www.developsense.com/blog/2014/09/frequently-asked-questions-about-the-29119-controversy/){:target="_blank"} he created a great list of things I would highly recommend. This is stuff I use in my work every day. For your convenience I have copied it here:
+“Some other things I’m for: [the premises of Rapid Software Testing](https://www.developsense.com/blog/2012/09/premises-of-rapid-software-testing-part-1/){:target="_blank"}; the [Rapid Testing framework](https://www.satisfice.com/images/RapidTestingFramework.pdf){:target="_blank"}; studying [the structures of exploratory testing](https://www.developsense.com/resources.html#exploratory){:target="_blank"}; the [Heuristic Test Strategy Model](https://www.satisfice.com/tools/htsm.pdf){:target="_blank"}; a set of [commitments for testers to make to their clients](https://www.satisfice.com/blog/archives/652){:target="_blank"}; practicing the [skill of test framing](https://www.developsense.com/blog/2010/09/test-framing/){:target="_blank"}; [excellent reporting](https://www.developsense.com/blog/2012/02/braiding-the-stories/){:target="_blank"}; and a lot of other things.”
+
+>>Why do we need one document, standard or book to contain all the wisdom of our craft? We don’t judge carpenters or other craftsmen on their certificates or compliance to a standard, do we?
+
+<code style="color : lightskyblue">Pepijn van de Vorst - September 6, 2014 at 10:40 pm</code><br>
+
+>Great article Huib. I totally agree. I think it might be even worse: people adhering to standards often underestimate the importance and value of creativity, curiosity, open mindedness and skills to look beyond the specifications based on domain knowledge, common sense and logic. Using a standard doesn’t say much about the value they add to a project.
+
+<code style="color : lightskyblue">Dani Almog - September 6, 2014 at 1:34 pm</code><br>
+
+>I am not a religious person. But I do act in my professional activities (as a tester) like one. I do follow some skills developed and educated in my accumulated previous experience – sorry no prayers.
+One can have any of the monotheist belief (Cristian, Muslim, Jew or any other) it does not necessarily means he is the only righteous one. For each of us the truth lies in different culture, location, skills, and standards. Any attempt to enforce one religion upon us, sounds and smells like opposing freedom and may lead to unnecessary bloodshed. In addition to being obviously not fitted to a specific needs.
+
+>In my opinion, having on specific standard imposing on the testing profession reflect the same. For me personally – I do need to establish criteria and rules in my testing activities, the ruling I adapt will be fitted (hopefully) to my own specific professional environment. I wish all of us could relate to the new standards as a possible recommendation and not as new religion (we already have too many extremists in this world).
+
+
+<code style="color : lightskyblue">Huib Schoots (Post author) - September 8, 2014 at 11:03 pm</code><br>
+
+>>Thank you for your comment Dani. We agree that we have to deal with different cultures, locations and skills. I don’t believe in standards for a cognitive, creative activity like software testing. If the new standards were a possible recommendation, I would have less problems with it. But as said in my blog, history teaches us that standards will become mandatory somewhere, somehow. The current ISO 29119 is wrong and has to be stopped.
