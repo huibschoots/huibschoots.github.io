@@ -20,7 +20,7 @@ The Product Owner (PO) is responsible for maximizing the value of the product an
 - Adaptability: Continuously adapts to changes and new insights to mitigate risks and improve the product.
 
 ![Magic](/assets/img/Test-Automation.webp){: width="300" .right}
-Recently there was a survey on [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7292666987741130753){:target="_blank"} on who is responsible for Quality. Although the team is responsible for doing the work, the PO is responsible for the product quality, since they decide about what work needs to be done and what the priorities are. POs play a vital role in building quality products. To be able to explain this well, let’s first look at how software development works.
+Recently there was a survey on [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7292666987741130753){:target="_blank"} on who is responsible for Quality. Although the team is responsible for doing the work, the PO is responsible for the product quality! They decide on product goals, what the priorities are and which user needs (and non-functionals) will be taken into account. POs play a vital role in building quality products. To be able to explain this well, let’s first look at how software development works.
 
 ### Software development in the VUCA world
 Software development must deal with the VUCA world:
