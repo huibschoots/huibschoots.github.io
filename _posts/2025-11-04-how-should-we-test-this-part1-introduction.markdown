@@ -1,6 +1,6 @@
 ---
-title: How should we test this? - Introduction
-description: Introduction to a series of blog posts on the question "How should we test this?"
+title: How should we test this? Part 1 - Introduction
+description: Part 1, an introduction to a series of blog posts on the question "How should we test this?"
 date: 2025-11-04 10:00:00 +0100
 categories: [Test Strategy]
 tags: strategy risk reporting models quality # TAG names should always be lowercase
