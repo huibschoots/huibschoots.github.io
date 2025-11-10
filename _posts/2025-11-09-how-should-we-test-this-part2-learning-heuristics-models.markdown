@@ -95,8 +95,9 @@ would be very expensive or impossible.
 
 ## More on heuristics
 
--   [The Essence of Heuristics](https://www.satisfice.com/blog/archives/462){:target="_blank"}
--   [Heuristics for understanding heuristics](https://www.developsense.com/blog/2012/04/heuristics-for-understanding-heuristics/){:target="_blank"}
+-   [The Essence of Heuristics by James Bach](https://www.satisfice.com/blog/archives/462){:target="_blank"}
+-   [Heuristics for understanding heuristics by Michael Bolton](https://www.developsense.com/blog/2012/04/heuristics-for-understanding-heuristics/){:target="_blank"}
+-   [From Templates to Heuristics: Enhancing Thought Work by Mario Kedemo](https://mkedemo.wordpress.com/2025/10/13/from-templates-to-heuristics-enhancing-knowledge-work/){:target="_blank"}
 -   [A collection of Testing Mnemonics made by Del Dewar](https://findingdeefex.files.wordpress.com/2015/05/testingmnemonics1.jpg){:target="_blank"}
 
 ## Models
