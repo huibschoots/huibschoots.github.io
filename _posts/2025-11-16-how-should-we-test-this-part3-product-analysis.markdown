@@ -12,7 +12,7 @@ image:
 
 How should we test this:
 - [Part 1 - Introduction](/posts/how-should-we-test-this-part1-introduction/){:target="_blank"}
-- [Part 2 - Learning](/posts/how-should-we-test-this-part2-learning/){:target="_blank"}
+- [Part 2 - Learning](/posts/how-should-we-test-this-part2-learning-heuristics-models){:target="_blank"}
 
 
 ## Part 3: Product Analysis with a Product Coverage Outline
