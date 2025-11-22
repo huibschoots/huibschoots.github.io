@@ -12,4 +12,5 @@ I love lists. Here are some:
 -   [Books](/posts/list-books/)
 -   [Inspirational videos](/posts/list-video/)
 -   [TV Series](/posts/list-series)
+-   [Movies](/posts/list-movies)
 -   More to come!
