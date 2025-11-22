@@ -552,7 +552,7 @@ Last update 28 June 2025
 -   [Reporting session based testing](https://katrinatester.blogspot.co.uk/2014/03/reporting-session-based-testing.html){:target="_blank"}
     by Katrina Clokie
 -   [Session Based Testing in an Agile Project](https://youtu.be/uAoVamEjmbM){:target="_blank"} (podcast) by AST
--   [Session Based Testing in Agile/DevOps Environments](https://www.talesoftesting.com/blog/session-based-testing-in-agiledevops-environments){:target="_blank"}
+-   [Session Based Testing in Agile/DevOps Environments](https://talesoftesting.com/session-based-testing-in-agile-devops-environments/){:target="_blank"}
     by Lalitkumar Bhamare
 -   [Session types](https://simonsaysnomore.wordpress.com/2016/01/31/i-made-a-promise/){:target="_blank"} by Peter “Simon” Schrijver:
     -   [Intake Sessions](https://simonsaysnomore.wordpress.com/2016/02/12/session-based-test-intake-session/){:target="_blank"}
@@ -1126,8 +1126,8 @@ What to learn more about storytelling? Have a look [here](/Storytelling/){:targe
 ### Tools
 
 -   [Perlclip by James Bach](https://www.satisfice.com/download/perlclip){:target="_blank"}
--   [What tools should I learn](https://dojo.ministryoftesting.com/lessons/what-tools-should-i-learn){:target="_blank"} by Mark
-    Winteringham
+-   [What tools should I learn](https://dojo.ministryoftesting.com/lessons/what-tools-should-i-learn){:target="_blank"} by Mark Winteringham
+-   [Using Bookmarklets to Supercharge Your Testing Power](https://testingtitbits.com/web-testing-hack-using-bookmarklets-to-supercharge-your-testing-power/){:target="_blank"} by Rahul Parwal
 -   Simple Test Data generators:
     -   [TestDataHub](https://testdatahub.com/){:target="_blank"}
     -   [Generate data](https://www.generatedata.com/){:target="_blank"}
