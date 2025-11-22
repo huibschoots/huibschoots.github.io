@@ -11,5 +11,5 @@ I love lists. Here are some:
 -   [Board & Card Games](/posts/list-boardgames/)
 -   [Books](/posts/list-books/)
 -   [Inspirational videos](/posts/list-video/)
--   [TV Series](/post/series)
+-   [TV Series](/posts/series)
 -   More to come!
