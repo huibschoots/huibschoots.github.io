@@ -152,16 +152,24 @@ Finally, many teams do not have a systematic method to carry out risk analysis a
 
 Here are some suggestions to do risk analysis:
 
--   Brainstorm a list of risks and rank them in order of importance
--   Use a list of heuristics and/or a checklist
--   Consider creating and maintaining a product risk list and a project risk list, especially if no one else on the team
-    is doing it
+-   Brainstorm a list of risks
+-   Classify the identified risks into categories. Use these categories to dive deeper and come up with more risks.
+-   Change your perspective and vary the circumstances:
+    - Think from the perspective of different stakeholders: user, administrator, hacker, regulator, marketer.
+    - Use personas or extreme users (child, elderly, digitally challenged, power user).
+    - Ask questions like: “What could go wrong for someone who…?”
+    - Consider risks in different configurations: browsers, devices, versions, languages, time zones.
+    - Simulate adverse conditions: low battery, poor Wi-Fi, full memory, system delays.
+    - Treat time as a variable: what happens after days/weeks/months?
+-   Discuss your list with other people in other roles or with knowledge as diverse as possible
+-   Use a list of heuristics and/or an inspiration/checklist
+-   Rank the risks in order of importance
+-   Consider creating and maintaining a product risk list and a project risk list, especially if no one else on the team is doing it
 -   Use visualisations and models such as a product coverage outline, architectural overviews, flow diagrams or data
     models while discussing risks
 -   Ask the questions listed below
 -   Use the four-part risk story below to elaborate on the risks
--   Compare the risk list to coverage and quality criteria areas in the Heuristic Test Strategy Model, and/or your own
-    taxonomies
+-   Compare the risk list to coverage and quality criteria areas in the Heuristic Test Strategy Model, and/or your own taxonomies
 -   Research known problems and patterns previously found in your team/department/organisation
 -   Think about value too: what is important to the stakeholders? What is used often? What is critical to the system?
 
