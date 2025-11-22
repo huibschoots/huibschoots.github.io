@@ -10,7 +10,12 @@ image:
 
 <blockquote class="prompt-info">This blog series explores a central question in software testing: “How should we test this?” (HSWTT?) We'll start with some foundational concepts that shape how we approach testing: learning, modelling, and heuristics. From there, the series dives into practical thinking tools: how to learn about the product (Product Analysis), how to identify important potential problems (Risk Analysis) and how to search for those problems effectively (Test Strategy). Finally, we’ll look at how to communicate what we’ve found in a meaningful way (Reporting).</blockquote>
 
-## Part 3: Risk analysis
+How should we test this:
+- [Part 1 - Introduction](/posts/how-should-we-test-this-part1-introduction/){:target="_blank"}
+- [Part 2 - Learning](/posts/how-should-we-test-this-part2-learning-heuristics-models){:target="_blank"}
+- [Part 3 - Product Analysis](/posts/how-should-we-test-this-part3-product-analysis){:target="_blank"}
+
+## Part 4: Risk analysis
 
 Risk‐based testing means organizing test strategy around suspected product risks. This means testers perform risk
 analysis before, during, and after tests are performed.
