@@ -1,7 +1,7 @@
 ---
 title: How should we test this? Part 4 - Risk Analysis
 description: Part 4 in "How should we test this?" on Risk Analysis
-date: 2025-06-29 13:00:00 +0100
+date: 2025-11-22 22:00:00 +0100
 categories: [Test Strategy]
 tags: strategy risk reporting models heuristics learning # TAG names should always be lowercase
 image:
