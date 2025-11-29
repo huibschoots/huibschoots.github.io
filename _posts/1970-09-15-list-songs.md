@@ -24,7 +24,7 @@ image:
 9. [Queen – Somebody to love](https://youtu.be/kijpcUv-b8M){:target="_blank"}
 10. [Pink Floyd – Hey you](https://www.youtube.com/watch?v=jQcBwE6j09U){:target="_blank"}
 11. [Alan Parsons project – Turn of a friendly card](https://youtu.be/pgY7qYaoMWQ){:target="_blank"}
-12. [Ayreon – Day Sixteen: loser](https://youtu.be/9BdKVrNCPl8){:target="_blank"}
+12. [Ayreon – Valley of the Queens](https://youtu.be/TbebO5BZi-I){:target="_blank"}
 13. [Bruce Springsteen – American Land](https://youtu.be/tpeisHYbKdE){:target="_blank"}
 14. [Riverside – Second Life Syndrome](https://youtu.be/QLhLKLLJOnA){:target="_blank"}
 15. [Marillion – King](https://youtu.be/ejdakCEOgTU){:target="_blank"}

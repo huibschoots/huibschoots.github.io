@@ -913,6 +913,7 @@ What to learn more about storytelling? Have a look [here](/Storytelling/){:targe
 -   [Weekend Testers](https://weekendtesting.com/){:target="_blank"}
 -   [BBST – Testing Education](https://www.testingeducation.org/BBST/){:target="_blank"} website (Kaner, Fiedler & Associates)
 -   [BBST – videos](https://www.youtube.com/channel/UCJDGVyPVhuwHiVlFLJ38XPg){:target="_blank"} (Altom & Kaner)
+-   [Testers' Playground: collection of games and exercises for testers](https://yard-drain.unicornplatform.page/testersplayground/){:target="_blank"} by by Ajay Balamurugadas & Rahul Parwal
 -   [The nine forgettings](https://www.youtube.com/watch?v=hNkzZ7zZxE0){:target="_blank"} "The nine forgettings" (video) by Lee Copeland
 -   [Six thinking hats for testers](https://www.youtube.com/watch?v=DasTbFUcmtI){:target="_blank"} (video) by Julian Harty
 -   [How Challenging Each Other Helps the Craft](https://www.satisfice.com/blog/archives/475){:target="_blank"} by James Bach
@@ -1125,6 +1126,16 @@ What to learn more about storytelling? Have a look [here](/Storytelling/){:targe
 
 ### Tools
 
+-   [Tutorial on crafting your own tools](https://www.workroom-productions.com/crafting-custom-tools/){:target="_blank"} by James Lyndsay, Bart Knaack and Huib Schoots
+-   [Testing Tooling Directory](bit.ly/testingtoolsrp){:target="_blank"} by Rahul Parwal
+-   [Heuristics for Evaluating Testing Tools](https://www.developsense.com/resource/RapidSoftwareTestingHeuristicsForEvaluatingTestingTools.pdf){:target="_blank"} by James Bach and Michael Bolton
+-   [Apps & Software Alternatives](https://alternativeto.net/){:target="_blank"}
+-   [Faker - A Python (PHP, Perl or Ruby) package that generates fake data for you](https://faker.readthedocs.io/en/master/){:target="_blank"}
+-   [How to use faker](https://dev.to/ankitmalikg/python-generate-fake-data-with-faker-1ecj){:target="_blank"}
+-   [Test Automation TechRadar: tools, frameworks, and techniques](https://www.testautomationtechradar.com/){:target="_blank"}
+-   [Using Bookmarklets to Supercharge Your Testing Power](https://testingtitbits.com/web-testing-hack-using-bookmarklets-to-supercharge-your-testing-power/){:target="_blank"} by Rahul Parwal
+-   [Web testing bookmarklets](https://github.com/satisfice/web-testing-bookmarklets){:target="_blank"} by James bach
+-   [Tiny Tools](https://www.workroom-productions.com/tag/tiny-tool/){:target="_blank"} by James Lyndsay
 -   [Perlclip by James Bach](https://www.satisfice.com/download/perlclip){:target="_blank"}
 -   [What tools should I learn](https://dojo.ministryoftesting.com/lessons/what-tools-should-i-learn){:target="_blank"} by Mark Winteringham
 -   [Using Bookmarklets to Supercharge Your Testing Power](https://testingtitbits.com/web-testing-hack-using-bookmarklets-to-supercharge-your-testing-power/){:target="_blank"} by Rahul Parwal
@@ -1254,10 +1265,8 @@ What to learn more about storytelling? Have a look [here](/Storytelling/){:targe
 -   [Anne-Marie Charrett](https://www.annemariecharrett.com/)
 -   [Mike Talks](https://medium.com/@MikeTalks){:target="_blank"}
 -   [Testing Thoughts](https://testingthoughts.com/blog){:target="_blank"} – Paul Holland
--   [Thoughts from the test eye](https://thetesteye.com/blog/){:target="_blank"} – Rikard Edgren, Henrik Emilsson,
-    Martin Jansson
--   [The Pain and Gain of Edward Bear](https://thepainandgainofedwardbear.wordpress.com/){:target="_blank"} – Helena
-    Jeret-Mäe
+-   [Thoughts from the test eye](https://thetesteye.com/blog/){:target="_blank"} – Rikard Edgren, Henrik Emilsson, Martin Jansson
+-   [The Pain and Gain of Edward Bear](https://thepainandgainofedwardbear.wordpress.com/){:target="_blank"} – Helena Jeret-Mäe
 -   [Katrina the Tester](https://katrinatester.blogspot.com/){:target="_blank"} – Katrina Clokie
 
 ---
