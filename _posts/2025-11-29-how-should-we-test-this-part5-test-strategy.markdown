@@ -81,7 +81,7 @@ In the [recently published book "Taking Testing Seriously"](https://www.amazon.c
 12. What’s Fun to Do?
     Start starting with something you feel like doing.
 
-Another list which is worth mentioning here is the[FIBLOTS mnemonic](https://scott-barber.blogspot.com/2011/09/model-workloads-for-performance-testing.html){:target="_blank"}. Scott Barber created it years ago: it was created for use in performance testing, but it works in any form of testing.
+Another list which is worth mentioning here is the [FIBLOTS mnemonic](https://scott-barber.blogspot.com/2011/09/model-workloads-for-performance-testing.html){:target="_blank"}. Scott Barber created it years ago: it was created for use in performance testing, but it works in any form of testing.
 
 - **Frequent**: Common application usage
 - **Intensive**: i.e. Resource-heavy activities
