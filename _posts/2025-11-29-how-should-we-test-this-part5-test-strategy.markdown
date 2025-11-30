@@ -94,7 +94,7 @@ Another list which is worth mentioning here is the [FIBLOTS mnemonic](https://sc
 
 Both models help you think about Test Strategy better and faster.
 
-## Documenting Test Strateg
+## Documenting Test Strategy
 A concise way of describing a Test Strategy is to use a table with 2 or 3 columns (an extra column if you want to add risk classification). This table relates risk areas to specific mitigation tasks. Any tasks listed in the second column which are not completed will increase the likelihood of customer dissatisfaction in the associated risk area on the left. A thrid column can be added to indicate in which "test type" the test ideas are covered. This supports team discussion about testing, planning and testability and prevents redundant testing or missing essential coverage. It supports in depth discussion with your team on what will be tested where and by whom. It also helps creating balanced automation in testing because the whole team is involved instead of only testers deciding what need automation. I think “what to automate?” it is an important aspect that should be part of your Test Strategy discussion with your team.
 
 **Example Test Strategy Table: (incomplete)**<br>
@@ -144,7 +144,7 @@ Three great sources to learn more about testability:
 
 -   [Heuristics of Software Testability by James Bach](https://www.satisfice.com/download/heuristics-of-software-testability){:target="_blank"}
 -   [Team Guide to Software Testability by Ash Winter and Rob Meaney](https://leanpub.com/softwaretestability){:target="_blank"}
--   [Rethinking Testabilit series by Maria Kedemo](https://mkedemo.wordpress.com/2025/08/18/testability-is-about-people-not-just-code/){:target="_blank"}
+-   [Rethinking Testability series by Maria Kedemo](https://mkedemo.wordpress.com/2025/08/18/testability-is-about-people-not-just-code/){:target="_blank"}
 
 ## What if I do not have time to create a Test Strategy?
 
