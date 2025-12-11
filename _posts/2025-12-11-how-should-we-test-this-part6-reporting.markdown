@@ -38,7 +38,7 @@ In many teams I see testers refer to their test cases and invite their customer 
 
 Where you can see that this regression test of the App was done on two specific areas are tested with “more than sanity” and “common cases” where the rest of the app was sanity check or not tested at all. This mind map gives great insight in product coverage.
 
-Paul Holland calls it Release Coverage Outlines (RCO). They are similar to Product COverage Outlines (PCO, more about PCO see [part 2 - Product Analysis](/posts/how-should-we-test-this-part2-product-analysis){:target="_blank"}) but with less detail. Using a RCO stakeholders can quickly identify which parts of the product were tested with what intensity. RCOs can be also be used to present proposed test coverage before actual testing. This helps teams to discuss and determine the right and desired coverage.
+Paul Holland calls it Release Coverage Outlines (RCO). They are similar to Product COverage Outlines (PCO, more about PCO see [part 3 - Product Analysis](/posts/how-should-we-test-this-part3-product-analysis){:target="_blank"}) but with less detail. Using a RCO stakeholders can quickly identify which parts of the product were tested with what intensity. RCOs can be also be used to present proposed test coverage before actual testing. This helps teams to discuss and determine the right and desired coverage.
 
 ## To Report on Testing is to Tell a Story
 
