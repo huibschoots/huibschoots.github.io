@@ -10,6 +10,7 @@ I love lists. Here are some:
 -   [Songs](/posts/list-songs/)
 -   [Board & Card Games](/posts/list-boardgames/)
 -   [Books](/posts/list-books/)
+-   [Computer Games](/post/list-computergames/)
 -   [Inspirational videos](/posts/list-video/)
 -   [TV Series](/posts/list-series)
 -   [Movies](/posts/list-movies)
