@@ -1,0 +1,330 @@
+---
+title: The people who lift you - why mentors matter more than we admit
+description: A blogpost about mentors
+date: 2025-01-25 18:16:00 +0100
+categories: [Mentors]
+tags: Support Learning Mentors Coaching Growth # TAG names should always be lowercase
+image:
+    path: /assets/img/mentors.png
+---
+
+When I look back at my career, and honestly my life, there’s a pattern that becomes clearer with every passing year: I didn’t get here alone. None of us do. Every meaningful step forward, every moment where things “clicked,” every leap in confidence or capability… they all have fingerprints on them. The fingerprints of people who helped, nudged, challenged, encouraged, questioned, and inspired me.
+
+We like to tell the story of growth as if it’s something we achieve purely through our own effort. We love the myth of the self‑made professional. But deep down, we know it isn’t true. We are shaped, continually, by the people who walk with us. And some of the most important among them are our mentors.
+
+Mentors don’t just guide your path, they expand it. A good mentor doesn’t necessarily give you answers. Often, they give you better questions. They help you see possibilities that were invisible to you before. They take the map you thought you were navigating, turn it upside down, and show you new routes you didn’t know existed. I’ve had mentors who changed the way I think. Others changed the way I work. Some changed the way I see myself. And a few changed everything. 
+
+## Mentors are not always formal roles
+Some people imagine mentorship as a structured program: scheduled sessions, defined goals, worksheets and frameworks. Sometimes it is like that. But often, it’s far simpler.
+A mentor can be:
+- the colleague who asks one question that shifts your entire perspective
+- the manager who sees potential in you that you haven’t recognised yet
+- the peer who challenges your assumptions with kindness and clarity
+- the friend who listens without fixing
+- the expert who gives you one insight that reorients your thinking
+
+Most of my mentors never introduced themselves with, “I will now be your mentor.” They just showed up at the right moment, consistently, generously, and honestly. Thank you all for being there when I needed you. Mentors accelerate learning in ways nothing else can. You can learn from books, courses, YouTube, certifications, frameworks, articles, and endless scrolling. But mentors? They give you something those things rarely do: context. nuance. experience. humanity. They help you understand how to think, how to decide, how to navigate difficulty. They model the behaviour that theory cannot teach. They also help you notice your blind spots, the things you don’t know you don’t know. Sometimes that’s uncomfortable. But it’s always invaluable.
+
+Sometimes mentors believe in you before you believe in yourself. I’ve had people in my life who gave me opportunities I didn’t think I was ready for. Who pushed me into roles that scared me. Who trusted me with responsibility before I trusted myself. That kind of belief is transformative. There is nothing quite like having someone look at you and say, “You can do more than this. I see it.” You grow into that belief. You start acting like the person they think you can become. And eventually, sometimes suddenly, you realise you are that person.
+
+## Mentorship is not a one‑way street
+One of the most beautiful things is that, over time, the roles start to blur. The people who mentored me have, at different moments, also learned from me. And I’ve found myself mentoring others almost accidentally, simply by being the person they needed at that moment.
+
+That’s how learning moves.
+That’s how knowledge evolves.
+That’s how communities grow.
+
+Mentorship is not a ladder. It’s a web, a network of support, influence, conversations, observations, stories and moments that lift all of us.
+If you’ve had many mentors, you’ve been fortunate and you carry a responsibility. I have been lucky. Truly lucky. I’ve had many mentors across roles, projects, companies, countries, and chapters of life. And the older I get, the more I feel the responsibility that comes with that luck.
+Because every time someone helps you grow, they’re planting seeds. And one day, you become the person who can pass that forward, not by being perfect, but by being present.
+
+## Mentoring
+Mentoring can be simple. You do it by:
+- listening,
+- guiding without controlling
+- challenging without breaking
+- encouraging without falseness
+- sharing without ego
+
+It’s not about being an expert. It’s about being useful. The most generous thing we can do is help someone else rise. We underestimate the impact of a single conversation. A single moment of clarity. A single vote of confidence. A single nudge in the right direction. Most mentors don’t realise how profoundly they help. They’re just being themselves, thoughtful, curious, honest, caring. That’s the magic of it. And one day, when someone thanks you for helping them, you might finally realise you’ve become what you once needed.
+
+## Find people who lift you. Be someone who lifts others
+If you’ve had mentors in your life, take a moment to appreciate them. Maybe even thank them. And then slowly, intentionally, become that kind of person for someone else. Success isn’t built alone. Growth isn’t achieved alone. Quality, in people, in software, in teams is always co‑created. If there’s one thing I know for sure, it’s this: mentors don’t just help you grow. They help you become who you were always capable of being.
+
+My mentors over the years... With the risk (or probably the fact) that I will forget some. 
+I am trully grateful for the conversations we've had, the knowledge we shared, the experiments we did, the books you've recommened, the feedback you gave me, the simple knott I needed to continue. Thank you for being there.
+
+## My mentors list:
+
+**A**
+Aaron Hodder
+Adam White
+Adrian Canlon
+Ajay Balamurugadas
+Alan Page
+Alan Richardson
+Alessandra Moreira
+Alex Schladebeck
+Andrea Schoonheim
+Anko Tijman
+Anne Colder
+Anne-Marie Charrett
+Angie Jones
+Angela van Son
+Anna Royzman
+Ard Kramer
+Arjen Verweij
+Ash Hynie Coleman
+Ashley Hunsberger
+Aty Boers
+
+**B**
+Bart Bouwer
+Bart Broekman
+Bart Knaack
+Bas Hammendorp
+Ben Kelly
+Ben Simo
+Ben ter Horst
+Beren van Daele
+Bernd Beersma
+Bill Matthews
+Bob van der Burgt
+Boyd Kronenberg
+Bram van den Berg
+
+**C**
+Carlo van der Ven
+Carsten Feilberg
+Chris Armstrong
+Chris Noordam
+Christin Wiedemann
+Christina Davidian
+Cirilo Wortel
+
+**D**
+Daan van Osch
+Damian Synadinos
+Dan Ashby
+Daniel Wiersma
+Dawn Hayes
+David Evans
+Dennis Janssen
+Denny van Kleef
+Derk-Jan de Grood
+Dimitri Fioole
+Duncan Nisbet
+Dwayne Green
+
+**E**
+Eddy Bruin
+Eelco Gravendeel
+Ed van Rijckevorsel
+Elisabeth Hendrickson
+Elizabeth Zagroba
+Eric Jacobson
+Eric Proegler
+Eric Schipper
+Erik Boelen
+Erik Brickarp
+Esther Derby
+Ewald Wassink
+
+**F**
+Fiona Charles
+Floor Goedemondt
+Frits Bezemer
+
+**G**
+Geert Hean
+Geert Peeters
+Geoffrey van der Tas
+George Dinwiddie
+Gerard Drijfhout
+Gerben Braakman
+Gertjan Slappendel
+Giebert Schoone
+Gojko Adzic
+Grace Saija
+Griffin Jones
+
+**H**
+Hayo de Vries
+Henrik Andersson
+Henrik Emilsson
+
+**I**
+Iain McCowatt
+IJsbrand Kaper
+Ilari Henrik Aegerter
+Ine ter Horst
+Iris Pinkster
+Ivo van de Heijden
+
+**J**
+Jackie Frank
+Jacco de Weerdt
+Jacob Kleerekoper
+Jan Jaap Cannegieter
+Jan Karel Sindorff
+Jan Sleutjes
+Janet Gregory
+Jan-Willem Ooms
+Janna Loeffler
+Jean-Paul Varwijk
+Jeanne Hofmans
+Jeff Nadelman
+Jeroen Rosink
+Jeroen Smoorenburg
+Jerry Weinberg
+João Proença
+Joep Schuurkes
+Johan Ebbers
+Johan Vink
+John Stevenson
+Joost vd Bovenkamp
+Joris Meerts
+Jon Bach
+Johanna Rothman
+Jose Diaz
+Jurian vd Laar
+
+**K**
+Karen Nicole Johnson
+Karin Guldemond
+Katrina Clokie
+Kees Blokland
+Keith Klain
+Kimo Wesseling
+Kristel van Kollenburg
+Kristofffer Nordstrom
+
+**L**
+Lalitkumar Bhamare
+Laura Bronkhorst
+Lee Hawkins
+Leo van Walen
+Leon Bosma
+Leonie Bezuijen
+Leonard Trimp
+Lilian Nijboer
+Lisa Crispin
+Liz Keogh
+Lynn McKee
+
+**M**
+Maaret Pyhäjärvi
+Maaike Brinkhof
+Manon Marcelis-Penning
+Marcel Berlo
+Marco Jansen van Doorn
+Marco van Harn
+Maria Kedemo
+Marius Francu
+Marit Meulendijks
+Marjana Shammi
+Mark Winteringham
+Markus Gartner
+Martijn Boonstra
+Martijn Ruff
+Martijn vd Haterd
+Martin Hynie
+Martin Jansson
+Martin Pol
+Marlous Joosten
+Matt Heusser
+Meike Mertsch
+Merel Bezuijen
+Michael Bolton
+Michael Kelly
+Michael Larsen
+Michiel Kraaij
+Mike Talks
+
+**N**
+Nanette Aarts
+Nancy Kelln
+Neil Thompson
+Niels Maaswinkel
+Nicole Errante
+
+**O**
+Onno Verdonk
+
+**P**
+Pascal Dufour
+Paul Buskermolen
+Paul Gerard
+Paul Grizzaffi
+Paul Holland
+Peggy Hoogendoorn
+Pekka Marjamaki
+Pete Walen
+Peter Aarts
+Peter Paul Ooms
+Peter Schrier
+Peter Schrijver
+Peter Spelbos
+Petri Hoek
+Pieter Bakker
+Pieter Withaar
+Philip Hoeben
+Philip-Jan Bosch
+
+**R**
+Ralph van Roosmalen
+Ray Oei
+René Hoven
+Richard Bradshaw
+Richard Deuzeman
+Richard Scholtes
+Rien Krol
+Rik Marselis
+Rikard Edgren
+Rob Sabourin
+Rob Schoots
+Rob Soethoudt
+Rob van Steenbergen
+Roelant Schoots
+Rozemarijn Vollebregt
+Rutger van Faasen
+Ruud Cox
+Ruud Teunissen
+
+**S**
+Sabine Scheepstra
+Sami Söderblom
+Sander Ulrich
+Sandro Ibig
+Sandor Penninga
+Santhosh Tuppad
+Sanne Visser
+Scott Barber
+Selena Delesie
+Sigge Birgisson
+Simon Knight
+Sophie Küster
+Steven Smith
+
+**T**
+Tanja Vos
+Theo van Rijn
+Timothy Algera
+Tinus Vellekoop
+Tony Bruce
+Trish Khoo
+
+**U**
+Uwe Gelfert
+
+**V**
+Vincent Wijnen
+
+**W**
+Walter Kraan
+Wayne Roseberry
+Wim Heemskerk
+Wouter Ruigrok
+
+**Z**
+Zeger van Heze
