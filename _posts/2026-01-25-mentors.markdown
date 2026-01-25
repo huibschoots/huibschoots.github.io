@@ -56,275 +56,276 @@ I am trully grateful for the conversations we've had, the knowledge we shared, t
 
 ## My mentors list:
 
-**A**
-Aaron Hodder
-Adam White
-Adrian Canlon
-Ajay Balamurugadas
-Alan Page
-Alan Richardson
-Alessandra Moreira
-Alex Schladebeck
-Andrea Schoonheim
-Anko Tijman
-Anne Colder
-Anne-Marie Charrett
-Angie Jones
-Angela van Son
-Anna Royzman
-Ard Kramer
-Arjen Verweij
-Ash Hynie Coleman
-Ashley Hunsberger
-Aty Boers
+**A**<br>
+- Aaron Hodder
+- Adam White
+- Adrian Canlon
+- Ajay Balamurugadas
+- Alan Page
+- Alan Richardson
+- Alessandra Moreira
+- Alex Schladebeck
+- Andrea Schoonheim
+- Anko Tijman
+- Anne Colder
+- Anne-Marie Charrett
+- Angie Jones
+- Angela van Son
+- Anna Royzman
+- Ard Kramer
+- Arjen Verweij
+- Ash Hynie Coleman
+- Ashley Hunsberger
+- Aty Boers
 
-**B**
-Bart Bouwer
-Bart Broekman
-Bart Knaack
-Bas Hammendorp
-Ben Kelly
-Ben Simo
-Ben ter Horst
-Beren van Daele
-Bernd Beersma
-Bill Matthews
-Bob van der Burgt
-Boyd Kronenberg
-Bram van den Berg
+**B**<br>
+- Bart Bouwer
+- Bart Broekman
+- Bart Knaack
+- as Hammendorp
+- Ben Kelly
+- Ben Simo
+- Ben ter Horst
+- Beren van Daele
+- Bernd Beersma
+- Bill Matthews
+- Bob van der Burgt
+- Boyd Kronenberg
+- Bram van den Berg
 
-**C**
-Carlo van der Ven
-Carsten Feilberg
-Chris Armstrong
-Chris Noordam
-Christin Wiedemann
-Christina Davidian
-Cirilo Wortel
+**C**<br>
+- Carlo van der Ven
+- Carsten Feilberg
+- Chris Armstrong
+- Chris Noordam
+- Christin Wiedemann
+- Christina Davidian
+- Clema van Beurden
+- Cirilo Wortel
 
-**D**
-Daan van Osch
-Damian Synadinos
-Dan Ashby
-Daniel Wiersma
-Dawn Hayes
-David Evans
-Dennis Janssen
-Denny van Kleef
-Derk-Jan de Grood
-Dimitri Fioole
-Duncan Nisbet
-Dwayne Green
+**D**<br>
+- Daan van Osch
+- Damian Synadinos
+- Dan Ashby
+- Daniel Wiersma
+- Dawn Hayes
+- David Evans
+- Dennis Janssen
+- Denny van Kleef
+- Derk-Jan de Grood
+- Dimitri Fioole
+- Duncan Nisbet
+- Dwayne Green
 
-**E**
-Eddy Bruin
-Eelco Gravendeel
-Ed van Rijckevorsel
-Elisabeth Hendrickson
-Elizabeth Zagroba
-Eric Jacobson
-Eric Proegler
-Eric Schipper
-Erik Boelen
-Erik Brickarp
-Esther Derby
-Ewald Wassink
+**E**<br>
+- Eddy Bruin
+- Eelco Gravendeel
+- Ed van Rijckevorsel
+- Elisabeth Hendrickson
+- Elizabeth Zagroba
+- Eric Jacobson
+- Eric Proegler
+- Eric Schipper
+- Erik Boelen
+- Erik Brickarp
+- Esther Derby
+- Ewald Wassink
 
-**F**
-Fiona Charles
-Floor Goedemondt
-Frits Bezemer
+**F**<br>
+- Fiona Charles
+- Floor Goedemondt
+- Frits Bezemer
 
-**G**
-Geert Hean
-Geert Peeters
-Geoffrey van der Tas
-George Dinwiddie
-Gerard Drijfhout
-Gerben Braakman
-Gertjan Slappendel
-Giebert Schoone
-Gojko Adzic
-Grace Saija
-Griffin Jones
+**G**<br>
+- Geert Hean
+- Geert Peeters
+- Geoffrey van der Tas
+- George Dinwiddie
+- Gerard Drijfhout
+- Gerben Braakman
+- Gertjan Slappendel
+- Giebert Schoone
+- Gojko Adzic
+- Grace Saija
+- Griffin Jones
 
-**H**
-Hayo de Vries
-Henrik Andersson
-Henrik Emilsson
+**H**<br>
+- Hayo de Vries
+- Henrik Andersson
+- Henrik Emilsson
 
-**I**
-Iain McCowatt
-IJsbrand Kaper
-Ilari Henrik Aegerter
-Ine ter Horst
-Iris Pinkster
-Ivo van de Heijden
+**I**<br>
+- Iain McCowatt
+- IJsbrand Kaper
+- Ilari Henrik Aegerter
+- Ine ter Horst
+- Iris Pinkster
+- Ivo van de Heijden
 
-**J**
-Jackie Frank
-Jacco de Weerdt
-Jacob Kleerekoper
-Jan Jaap Cannegieter
-Jan Karel Sindorff
-Jan Sleutjes
-Janet Gregory
-Jan-Willem Ooms
-Janna Loeffler
-Jean-Paul Varwijk
-Jeanne Hofmans
-Jeff Nadelman
-Jeroen Rosink
-Jeroen Smoorenburg
-Jerry Weinberg
-João Proença
-Joep Schuurkes
-Johan Ebbers
-Johan Vink
-John Stevenson
-Joost vd Bovenkamp
-Joris Meerts
-Jon Bach
-Johanna Rothman
-Jose Diaz
-Jurian vd Laar
+**J**<br>
+- Jackie Frank
+- Jacco de Weerdt
+- Jacob Kleerekoper
+- Jan Jaap Cannegieter
+- Jan Karel Sindorff
+- Jan Sleutjes
+- Janet Gregory
+- Jan-Willem Ooms
+- Janna Loeffler
+- Jean-Paul Varwijk
+- Jeanne Hofmans
+- Jeff Nadelman
+- Jeroen Rosink
+- Jeroen Smoorenburg
+- Jerry Weinberg
+- João Proença
+- Joep Schuurkes
+- Johan Ebbers
+- Johan Vink
+- John Stevenson
+- Joost vd Bovenkamp
+- Joris Meerts
+- Jon Bach
+- Johanna Rothman
+- Jose Diaz
+- Jurian vd Laar
 
-**K**
-Karen Nicole Johnson
-Karin Guldemond
-Katrina Clokie
-Kees Blokland
-Keith Klain
-Kimo Wesseling
-Kristel van Kollenburg
-Kristofffer Nordstrom
+**K**<br>
+- Karen Nicole Johnson
+- Karin Guldemond
+- Katrina Clokie
+- Kees Blokland
+- Keith Klain
+- Kimo Wesseling
+- Kristel van Kollenburg
+- Kristofffer Nordstrom
 
-**L**
-Lalitkumar Bhamare
-Laura Bronkhorst
-Lee Hawkins
-Leo van Walen
-Leon Bosma
-Leonie Bezuijen
-Leonard Trimp
-Lilian Nijboer
-Lisa Crispin
-Liz Keogh
-Lynn McKee
+**L**<br>
+- Lalitkumar Bhamare
+- Laura Bronkhorst
+- Lee Hawkins
+- Leo van Walen
+- Leon Bosma
+- Leonie Bezuijen
+- Leonard Trimp
+- Lilian Nijboer
+- Lisa Crispin
+- Liz Keogh
+- Lynn McKee
 
-**M**
-Maaret Pyhäjärvi
-Maaike Brinkhof
-Manon Marcelis-Penning
-Marcel Berlo
-Marco Jansen van Doorn
-Marco van Harn
-Maria Kedemo
-Marius Francu
-Marit Meulendijks
-Marjana Shammi
-Mark Winteringham
-Markus Gartner
-Martijn Boonstra
-Martijn Ruff
-Martijn vd Haterd
-Martin Hynie
-Martin Jansson
-Martin Pol
-Marlous Joosten
-Matt Heusser
-Meike Mertsch
-Merel Bezuijen
-Michael Bolton
-Michael Kelly
-Michael Larsen
-Michiel Kraaij
-Mike Talks
+**M**<br>
+- Maaike Brinkhof
+- Maaret Pyhäjärvi
+- Manon Marcelis-Penning
+- Marcel Berlo
+- Marco Jansen van Doorn
+- Marco van Harn
+- Maria Kedemo
+- Marius Francu
+- Marit Meulendijks
+- Marjana Shammi
+- Mark Winteringham
+- Markus Gartner
+- Martijn Boonstra
+- Martijn Ruff
+- Martijn vd Haterd
+- Martin Hynie
+- Martin Jansson
+- Martin Pol
+- Marlous Joosten
+- Matt Heusser
+- Meike Mertsch
+- Merel Bezuijen
+- Michael Bolton
+- Michael Kelly
+- Michael Larsen
+- Michiel Kraaij
+- Mike Talks
 
-**N**
-Nanette Aarts
-Nancy Kelln
-Neil Thompson
-Niels Maaswinkel
-Nicole Errante
+**N**<br>
+- Nanette Aarts
+- Nancy Kelln
+- Neil Thompson
+- Niels Maaswinkel
+- Nicole Errante
 
-**O**
-Onno Verdonk
+**O**<br>
+- Onno Verdonk
 
-**P**
-Pascal Dufour
-Paul Buskermolen
-Paul Gerard
-Paul Grizzaffi
-Paul Holland
-Peggy Hoogendoorn
-Pekka Marjamaki
-Pete Walen
-Peter Aarts
-Peter Paul Ooms
-Peter Schrier
-Peter Schrijver
-Peter Spelbos
-Petri Hoek
-Pieter Bakker
-Pieter Withaar
-Philip Hoeben
-Philip-Jan Bosch
+**P**<br>
+- Pascal Dufour
+- Paul Buskermolen
+- Paul Gerard
+- Paul Grizzaffi
+- Paul Holland
+- Peggy Hoogendoorn
+- Pekka Marjamaki
+- Pete Walen
+- Peter Aarts
+- Peter Paul Ooms
+- Peter Schrier
+- Peter Schrijver
+- Peter Spelbos
+- Petri Hoek
+- Pieter Bakker
+- Pieter Withaar
+- Philip Hoeben
+- Philip-Jan Bosch
 
-**R**
-Ralph van Roosmalen
-Ray Oei
-René Hoven
-Richard Bradshaw
-Richard Deuzeman
-Richard Scholtes
-Rien Krol
-Rik Marselis
-Rikard Edgren
-Rob Sabourin
-Rob Schoots
-Rob Soethoudt
-Rob van Steenbergen
-Roelant Schoots
-Rozemarijn Vollebregt
-Rutger van Faasen
-Ruud Cox
-Ruud Teunissen
+**R**<br>
+- Ralph van Roosmalen
+- Ray Oei
+- René Hoven
+- Richard Bradshaw
+- Richard Deuzeman
+- Richard Scholtes
+- Rien Krol
+- Rik Marselis
+- Rikard Edgren
+- Rob Sabourin
+- Rob Schoots
+- Rob Soethoudt
+- Rob van Steenbergen
+- Roelant Schoots
+- Rozemarijn Vollebregt
+- Rutger van Faasen
+- Ruud Cox
+- Ruud Teunissen
 
-**S**
-Sabine Scheepstra
-Sami Söderblom
-Sander Ulrich
-Sandro Ibig
-Sandor Penninga
-Santhosh Tuppad
-Sanne Visser
-Scott Barber
-Selena Delesie
-Sigge Birgisson
-Simon Knight
-Sophie Küster
-Steven Smith
+**S**<br>
+- Sabine Scheepstra
+- Sami Söderblom
+- Sander Ulrich
+- Sandro Ibig
+- Sandor Penninga
+- Santhosh Tuppad
+- Sanne Visser
+- Scott Barber
+- Selena Delesie
+- Sigge Birgisson
+- Simon Knight
+- Sophie Küster
+- Steven Smith
 
-**T**
-Tanja Vos
-Theo van Rijn
-Timothy Algera
-Tinus Vellekoop
-Tony Bruce
-Trish Khoo
+**T**<br>
+- Tanja Vos
+- Theo van Rijn
+- Timothy Algera
+- Tinus Vellekoop
+- Tony Bruce
+- Trish Khoo
 
-**U**
-Uwe Gelfert
+**U**<br>
+- Uwe Gelfert
 
-**V**
-Vincent Wijnen
+**V**<br>
+- Vincent Wijnen
 
-**W**
-Walter Kraan
-Wayne Roseberry
-Wim Heemskerk
-Wouter Ruigrok
+**W**<br>
+- Walter Kraan
+- Wayne Roseberry
+- Wim Heemskerk
+- Wouter Ruigrok
 
-**Z**
-Zeger van Heze
+**Z**<br>
+- Zeger van Heze
