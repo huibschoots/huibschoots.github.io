@@ -171,6 +171,7 @@ I am trully grateful for the conversations we've had, the knowledge we shared, t
 - Jackie Frank
 - Jacco de Weerdt
 - Jacob Kleerekoper
+- James Bach
 - Jan Jaap Cannegieter
 - Jan Karel Sindorff
 - Jan Sleutjes
@@ -345,4 +346,4 @@ I am trully grateful for the conversations we've had, the knowledge we shared, t
 - Wouter Ruigrok
 
 **Z**<br>
-- Zeger van Heze
+- Zeger van Hese
