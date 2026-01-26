@@ -1,6 +1,6 @@
 ---
 title: The people who lift you - Why mentors matter more than we admit
-description: A blogpost about mentors
+description: A blogpost about mentors, with a list of my mentors.
 date: 2026-01-25 18:16:00 +0100
 categories: [Mentors]
 tags: Support Learning Mentors Coaching Growth # TAG names should always be lowercase
@@ -8,7 +8,7 @@ image:
     path: /assets/img/mentors.png
 ---
 
-When I look back at my career, and honestly my life, there’s a pattern that becomes clearer with every passing year: I didn’t get here alone. None of us do. Every meaningful step forward, every moment where things “clicked,” every leap in confidence or capability… they all have fingerprints on them. The fingerprints of people who helped, nudged, challenged, encouraged, questioned, and inspired me.
+When I look back at my career, and honestly my life, there’s a pattern that becomes clearer with every passing year: I didn’t get here alone. None of us do. Every meaningful step forward, every moment where things “clicked”, every leap in confidence or capability… they all have fingerprints on them. The fingerprints of people who helped, nudged, challenged, encouraged, questioned, and inspired me.
 
 We like to tell the story of growth as if it’s something we achieve purely through our own effort. We love the myth of the self‑made professional. But deep down, we know it isn’t true. We are shaped, continually, by the people who walk with us. And some of the most important among them are our mentors.
 
@@ -30,9 +30,9 @@ Sometimes mentors believe in you before you believe in yourself. I’ve had peop
 ## Mentorship is not a one‑way street
 One of the most beautiful things is that, over time, the roles start to blur. The people who mentored me have, at different moments, also learned from me. And I’ve found myself mentoring others almost accidentally, simply by being the person they needed at that moment.
 
-That’s how learning moves.
-That’s how knowledge evolves.
-That’s how communities grow.
+That’s how learning moves
+That’s how knowledge evolves
+That’s how communities grow
 
 Mentorship is not a ladder. It’s a web, a network of support, influence, conversations, observations, stories and moments that lift all of us.
 If you’ve had many mentors, you’ve been fortunate and you carry a responsibility. I have been lucky. Truly lucky. I’ve had many mentors across roles, projects, companies, countries, and chapters of life. And the older I get, the more I feel the responsibility that comes with that luck.
@@ -40,7 +40,7 @@ Because every time someone helps you grow, they’re planting seeds. And one day
 
 ## Mentoring
 Mentoring can be simple. You do it by:
-- listening,
+- listening
 - guiding without controlling
 - challenging without breaking
 - encouraging without falseness
