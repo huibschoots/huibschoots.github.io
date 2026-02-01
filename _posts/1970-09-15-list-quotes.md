@@ -8,7 +8,7 @@ image:
     path: /assets/img/quotes.jpg
 ---
 
-[Photo by Pixabay](https://pixabay.com/nl/users/viarami-13458823){:target="_blank"}
+[Photo by Pixabay](https://pixabay.com/nl/users/viarami-13458823/){:target="_blank"}
 
 - It's easier to ask forgiveness than it is to get permission. (Grace Hopper)
 - The only person you are destined to become is the person you decide to be. (Ralph Waldo Emerson)
