@@ -7,14 +7,14 @@ order: 7
 I love lists. Here are some:
 
 -   [Albums](/posts/list-albums/)
--   [Songs](/posts/list-songs/)
+-   [Awesome places I have been to and places I want to visit](/posts/list-travel)
 -   [Board & Card Games](/posts/list-boardgames/)
 -   [Books](/posts/list-books/)
 -   [Computer Games](/posts/list-computergames/)
 -   [Inspirational videos](/posts/list-video/)
--   [TV Series](/posts/list-series)
 -   [Movies](/posts/list-movies)
--   [Restuarants & palce to hangout](/posts/list-restaurants)
 -   [Quotes](/posts/list-quotes)
--   [Awesome places I have been to and places I want to visit](/posts/list-travel)
+-   [Restuarants & palce to hangout](/posts/list-restaurants)
+-   [Songs](/posts/list-songs/)
+-   [TV Series](/posts/list-series)
 -   More to come!
