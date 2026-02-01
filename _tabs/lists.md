@@ -14,4 +14,7 @@ I love lists. Here are some:
 -   [Inspirational videos](/posts/list-video/)
 -   [TV Series](/posts/list-series)
 -   [Movies](/posts/list-movies)
+-   [Restuarants & palce to hangout](/posts/list-restaurants)
+-   [Quotes](/posts/list-quotes)
+-   [Awesome places I have been to and places I want to visit](/posts/list-travel)
 -   More to come!
