@@ -1,5 +1,6 @@
 ---
 title: Lists - Albums
+description: A list of my favorite albums
 date: 1970-09-15 00:00:00 +0100
 categories:
 tags: # TAG names should always be lowercase
