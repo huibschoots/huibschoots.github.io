@@ -28,12 +28,12 @@ image:
 
 ## **Card “moves”**
 
-- [Many Techniques](http://artzoneproductions.com/Exclusive_Magic_Main_Menu.html)
-- [Several Techniques](http://www.youtube.com/channel/UC5wq-sdELFcrzxRlK_jLNLw)
-- [The cardtrick teacher](http://www.thecardtrickteacher.com/)
+- [Many Techniques](https://artzoneproductions.com/Exclusive_Magic_Main_Menu.html)
+- [Several Techniques](https://www.youtube.com/channel/UC5wq-sdELFcrzxRlK_jLNLw)
+- [The cardtrick teacher](https://www.thecardtrickteacher.com/)
 - [Tabled Card Riffle Shuffle](https://youtu.be/o-KBNdbJOGk)
 - [In The Hands Riffle Card Shuffle](https://youtu.be/uW8zMwJF5ys)
-- [Double lift](http://rebelmagic.com/card-tricks/double-lift/)
+- [Double lift](https://rebelmagic.com/card-tricks/double-lift/)
 - [Ribbon Spread](https://youtu.be/6T1lYyW_ScA)
 - [Thumb Fan](https://youtu.be/8UpZaK4715o)
 - [Card (dis)appear](https://youtu.be/xAgYJVZAy58)
@@ -91,4 +91,4 @@ https://youtu.be/9NHspj4oWBs
 - Bicycle Color Collection  
 - Tenyo Mystery Doghouse  
 
-http://www.astonish.nl/
+https://www.astonish.nl/
