@@ -9,8 +9,7 @@ image:
 ---
 
 
-## **CARD TRICKS**
-
+## **Card tricks**
 - [Criss Angel Color Changing Deck](https://youtu.be/Edr5XKcX3XM)
 - [They do the work, you get the credit!](https://youtu.be/eOPCLI2t94Q)
 - [4 aces on top](https://youtu.be/SNXbVwW_5-I)
@@ -26,8 +25,7 @@ image:
 
 ---
 
-## **Card “moves”**
-
+## Card Moves
 - [Many Techniques](https://artzoneproductions.com/Exclusive_Magic_Main_Menu.html)
 - [Several Techniques](https://www.youtube.com/channel/UC5wq-sdELFcrzxRlK_jLNLw)
 - [The cardtrick teacher](https://www.thecardtrickteacher.com/)
@@ -47,8 +45,7 @@ image:
 
 ---
 
-## **Money tricks**
-
+## Money tricks
 - [Card through bill](https://youtu.be/npvCM415FVk)
 - [Money through bill](https://youtu.be/Y8aoA7yBG8w)
 - [The Matrix](https://youtu.be/dW-tnkmEdtc)
@@ -56,8 +53,7 @@ image:
 
 ---
 
-## **Coin tricks**
-
+## Coin tricks
 - [French drop Vanish](https://youtu.be/EZ0C2wh5IyE)
 - [Thumb Palm Vanish](https://youtu.be/DEVH30RdjE0)
 - [Retention Coin Vanish](https://youtu.be/ehU7ADJkvNc)
@@ -67,28 +63,20 @@ image:
 
 ---
 
-## **OTHER**
+## Other tricks
+- [Balance bill](https://youtu.be/tWZuOaJwHrA)
+- [Coin through glass](https://youtu.be/yoMXg5eExho)
+- [Rubber band trick](https://youtu.be/Q0fHfTMV6Gc)
+- [Bankbiljetten rollen](https://youtu.be/LVXo3zXOK9Y)
+- [Vanishing Sponge Ball](https://youtu.be/IEjR5Ze6ae8)
+- [Magic Wallet](https://youtu.be/9NHspj4oWBs)
 
-**Balance bill**  
-https://youtu.be/tWZuOaJwHrA
+## Shops ##
+- [Magicshop](https://www.magicshop.nl/)
+- [Dynamite Magic Shop](https://www.dynamitemagic.nl/)
+- [Premium Magic Store](https://www.premiummagic.nl/)
+- [Astonish](https://www.astonish.nl/)
+- [PenguinMagic](https://www.penguinmagic.com/)
+- [Vanishing inc. magic](https://www.vanishingincmagic.com/)
 
-- *Coin through glass:*  
-  https://youtu.be/yoMXg5eExho
-- *Rubber band trick:*  
-  https://youtu.be/Q0fHfTMV6Gc
-- *Bankbiljetten rollen:*  
-  https://youtu.be/LVXo3zXOK9Y
-- *Vanishing Sponge Ball:*  
-  https://youtu.be/IEjR5Ze6ae8
 
-**Magic Wallet**  
-https://youtu.be/9NHspj4oWBs
-
----
-
-## **Wishlist**
-
-- Bicycle Color Collection  
-- Tenyo Mystery Doghouse  
-
-https://www.astonish.nl/
