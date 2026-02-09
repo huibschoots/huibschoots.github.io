@@ -139,6 +139,31 @@ Last update 28 June 2025
 
 ---
 
+### Learning to test : Websites
+
+Note: list below is copied from [Elizabeth Zagroba's website](https://elizabethzagroba.com/pages/resources/)
+
+- [Awesome sitges to test on](https://github.com/BMayhew/awesome-sites-to-test-on)
+- [Evil Tester Applications](https://eviltester.github.io/TestingApp/apps/index.html)
+- [Emily Bache's Strange Characters Test Design Kata](https://github.com/emilybache/StrangeCharacters-TestDesign-Kata)
+- [httpbin](https://httpbin.org/)
+- [Integer Exposed](https://integer.exposed/)
+- [James Lyndsay's Black Box Puzzles](http://blackboxpuzzles.workroomprds.com/)
+- [JSON Placeholder](https://jsonplaceholder.typicode.com/)
+- [Random User Generator](https://randomuser.me/)
+- [React - TodoMVC](https://demo.playwright.dev/todomvc/#/)
+- [Record A Goose Sighting](https://record-a-goose-sighting.herokuapp.com/)
+- [Restful Booker](https://restful-booker.herokuapp.com/)
+- [Selenium Test Pages](https://testpages.herokuapp.com/styled/index.html)
+- [Selenium Think Code](http://selenium.thinkcode.se/)
+- [Testers Playground](https://testersplayground.herokuapp.com/devtools.php)
+- [Testing Challenges](http://testingchallenges.thetestingmap.org/)
+- [Universal Paperclips](https://www.decisionproblem.com/paperclips/)
+- [Welcome to the-internet](https://the-internet.herokuapp.com/)
+- [Zero Bank](http://zero.webappsecurity.com/)
+- [Zippotam.us](https://zippopotam.us/)
+
+---
 ### Hiring (testers)
 
 -   [How to Find, Interview and Hire Great Software Testers](https://www.testrail.com/blog/interview-recruit-testers/){:target="_blank"} by Simon Knight
@@ -1067,6 +1092,7 @@ What to learn more about storytelling? Have a look [here](/Storytelling/){:targe
 -   [Test Automation Canvas](https://katrinatester.blogspot.nl/2017/07/test-automation-canvas.html){:target="_blank"} by Katrina Clokie
 -   [Tackle the hard problems first](https://www.ontestautomation.com/tackle-the-hard-problems-first/){:target="_blank"} by Bas Dijkstra
 -   [Automation – What bugs me](https://beaglesays.blog/2020/06/22/automation-what-bugs-me/){:target="_blank"} by Paul Seaman
+- [Stop Building Test Automation Teams](https://www.linkedin.com/pulse/stop-building-test-automation-teams-robert-meaney-t4mre/)
 
 ---
 
@@ -1164,7 +1190,8 @@ What to learn more about storytelling? Have a look [here](/Storytelling/){:targe
 -   [Publications](https://thetesteye.com/blog/publications/){:target="_blank"} by the Test Eye
 -   [Writing](https://www.developsense.com/publications.html){:target="_blank"} and
     [resources](https://www.developsense.com/resources.html#exploratory){:target="_blank"} by Michael Bolton
--   [Testing quotes websites](https://rvansteenbergen.blogspot.nl/2014/01/testing-quotes-websites.html){:target="_blank"} by Rob van
+- [Elizabeth Zagroba's resources](https://elizabethzagroba.com/pages/resources/)  
+- [Testing quotes websites](https://rvansteenbergen.blogspot.nl/2014/01/testing-quotes-websites.html){:target="_blank"} by Rob van
     Steenbergen
 -   [Challenges, Puzzles & Games](https://katrinatester.blogspot.co.nz/2013/12/challenges-puzzles-games.html){:target="_blank"} by Katrina
     Clokie
@@ -1182,6 +1209,7 @@ What to learn more about storytelling? Have a look [here](/Storytelling/){:targe
 -   [Testing for Non-Testers Pathway](https://katrinatester.blogspot.nl/2015/11/testing-for-non-testers-pathway.html){:target="_blank"} by
     Katrina Clokie
 -   [How they test](https://abhivaikar.github.io/howtheytest/#/){:target="_blank"} (How companies test their software)
+- [Free training by Alan Richardson (Evil Tester)](https://www.linkedin.com/pulse/software-testing-round-up-15th-21st-dec-2025-alan-richardson-8zt4e/)
 
 ---
 
