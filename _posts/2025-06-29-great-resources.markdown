@@ -95,7 +95,7 @@ Last update 28 June 2025
     by Claire Reckless
 -   [Becoming a World-Class Tester](https://www.ebaytechblog.com/2013/01/31/becoming-a-world-class-tester/){:target="_blank"}
     by Ilari Henrik Aegerter
--   [Heuristics for recognizing professional testers](https://huibschoots.nl/posts/heuristics-professional-testers/){:target="_blank"}
+-   [Heuristics for recognizing professional testers](/posts/heuristics-professional-testers){:target="_blank"}
     by Huib Schoots
 -   [Resources for a Beginner Tester](https://docs.google.com/document/d/1-fV3l-XPfjaeuHN0-d67dUi1yKYoyHJI4iMz2FfrwFQ/edit){:target="_blank"}
     by Helena Jeret-Mäe
@@ -168,7 +168,7 @@ Note: list below is copied from [Elizabeth Zagroba's website](https://elizabethz
 
 -   [How to Find, Interview and Hire Great Software Testers](https://www.testrail.com/blog/interview-recruit-testers/){:target="_blank"} by Simon Knight
 -   EuroStar Webinar [Hiring Professional testers](https://testhuddle.com/resource/hiring-professional-testers/){:target="_blank"} by Huib Schoots
--   [Heuristics for recognizing professional testers](https://huibschoots.nl/posts/heuristics-professional-testers/){:target="_blank"} by Huib Schoots
+-   [Heuristics for recognizing professional testers](/posts/heuristics-professional-testers){:target="_blank"} by Huib Schoots
 -   [To The Hiring Managers and Recruiters (of Software Testers)](https://www.ministryoftesting.com/articles/to-the-hiring-managers-and-recruiters-of-software-testers){:target="_blank"} by Rosie Sherry
 -   [Recruiting Software Testers](https://kaner.com/pdfs/QWjobs.pdf){:target="_blank"} by Cem Kaner
 -   [Writing job description for testers - Part I](https://observanttester.blogspot.nl/2011/02/writing-job-description-for-tester-part.html){:target="_blank"} and [Part II](https://observanttester.blogspot.com/2011/02/writing-job-description-for-tester-part_16.html){:target="_blank"} by Thomas Ponnet
@@ -1026,7 +1026,7 @@ What to learn more about storytelling? Have a look [here](/Storytelling/){:targe
 -   [Visual Test Design](https://www.amibugshare.com/workshops/Workshop_Visual_Test_Design.zip){:target="_blank"} by Rob Sabourin
 -   [Whiteboarding for Testers, Developers and Customers too](https://vimeo.com/55845357){:target="_blank"} by Rob Sabourin
 -   [Drawing to learn – Sketching for testers](https://lets-test.com/wp-content/uploads/2014/03/tasting-lets-test-nl-2014-drawing-to-learn-sketching-for-testers-ruud-cox.pdf){:target="_blank"} by Ruud Cox
--   [Visualisation](https://www.huibschoots.nl/wordpress/?p=927){:target="_blank"} by Huib Schoots
+-   [Visualisation](/posts/visualization){:target="_blank"} by Huib Schoots
 -   [Mindmapping 101](https://www.bettertesting.co.uk/content/?p=956){:target="_blank"} by Darren MacMillan
 -   [Thinking and working visually for software testers](/assets/files/Thinking-and-working-visually-for-software-testers-LetsTest2013.pdf){:target="_blank"} Let’s Test 2013 – 1/2 day tutorial by Jean-Paul Varwijk & Huib Schoots
 -   [Thinking and working visually for software testers](/assets/files/Thinking%20and%20Working%20Visually%20for%20Software%20Testers%20-%20NTD%202014%20-%20Ruud%20Cox%20-%20Huib%20Schoots.pdf){:target="_blank"}
@@ -1343,7 +1343,7 @@ testing. [Here](https://www.satisfice.com/download/how-rst-is-different-from-fac
 - [Delivering Information vs. Delivering Meta-Information](https://elizabethzagroba.com/posts/2021/delivering_information_vs_delivering_meta_information/){:target="_blank"} by Elizabeth Zagroba<br>
 - [What is Good Evidence?](https://youtu.be/i8he7Rejn5s){:target="_blank"} video by Griffin Jones
 - [Not “right”, but as good as I can do](https://clarotesting.wordpress.com/2013/09/24/not-right-but-as-good-as-i-can-do/){:target="_blank"} by James Christie
-- Let’s stop talking about testing, let’s start thinking about value. [This blogpost](https://www.huibschoots.nl/wordpress/?p=2763){:target="_blank"} by me and Alex Schladebeck
+- Let’s stop talking about testing, let’s start thinking about value. [This blogpost](/posts/stop-talking-about-testing){:target="_blank"} by me and Alex Schladebeck
 
 # Models
 - [Many models – Better test ideas](https://thetesteye.com/blog/2012/02/many-models-better-test-ideas/){:target="_blank"}
@@ -1423,7 +1423,7 @@ testing. [Here](https://www.satisfice.com/download/how-rst-is-different-from-fac
 
 # Other beauties
 - Michael Bolton identifies problems with the notion of "manual testing" in [this video](https://www.youtube.com/watch?v=DBzz04M01r8){:target="_blank"}
-- [Context-driven Test improvement](https://www.huibschoots.nl/wordpress/?p=2543){:target="_blank"} by Huib Schoots & Joep Schuurkes
+- [Context-driven Test improvement](/posts/test-improvement-in-an-agile-CDT-environment){:target="_blank"} by Huib Schoots & Joep Schuurkes
 - [Pairing (with Developers)](https://www.ministryoftesting.com/articles/c5ea46db?s_id=14583105){:target="_blank"}
 - [Context-driven testing](https://context-driven-testing.com/){:target="_blank"} The official website of Context-driven Testing school of thoughts. It is made and maintained by Cem Kaner, one of the founders of CDT
 
