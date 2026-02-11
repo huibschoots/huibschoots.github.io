@@ -10,14 +10,14 @@ image:
 ## What makes a good tester?
 
 This is the second of a series of three columns. The central themes of the columns is “how do I become a software
-testing expert?” Part 1 can be found [here](https://www.huibschoots.nl/wordpress/?p=373){:target="_blank"}.
+testing expert?” Part 1 can be found [here](/posts/you-can-learn-testing){:target="_blank"}.
 
 <blockquote class="prompt-info">This blog post was originally written as a column for Testtnewsonline (English) and Testnieuws (Dutch).</blockquote>
 
 The question “what makes a good tester?” keeps us busy. This was demonstrated by the attention this subject received at
 different conferences. At EuroSTAR Susan Windsor gave a well attended presentation about this topic called “How to
 Create Good Testers”. During the Agile Testing Days,
-[a group of passionate and renowned agilist and testers got together to discuss various test subjects while enjoying beer and pizza](https://www.huibschoots.nl/wordpress/?p=387){:target="_blank"}.
+[a group of passionate and renowned agilist and testers got together to discuss various test subjects while enjoying beer and pizza](/posts/agile-testing-days-a%20gathering-called-pats){:target="_blank"}.
 After an inventory and a “dot-vote” the topic “Great Testers” received the most votes. That gave great input for this
 column, thanks guys!
 

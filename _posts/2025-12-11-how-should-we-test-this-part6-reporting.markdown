@@ -60,7 +60,7 @@ Stop talking about testing (only), talk about the product, risks, and value. Giv
 ## More on Reporting and storytelling:
 - [Braiding The Stories](https://www.developsense.com/blog/2012/02/braiding-the-stories/){:target="_blank"} - Michael Bolton
 - [Breaking the test case addiction – Test reporting](https://www.developsense.com/blog/2020/06/breaking-the-test-case-addiction-part-10/){:target="_blank"} - Michael Bolton
-- [Let’s stop talking about testing, let’s start thinking about value](https://www.huibschoots.nl/wordpress/?p=2763){:target="_blank"} - Alex Schladebeck & Huib Schoots
+- [Let’s stop talking about testing, let’s start thinking about value](/posts/stop-talking-about-testing){:target="_blank"} - Alex Schladebeck & Huib Schoots
 - [The Science Behind the Art of Storytelling](https://lanipeterson.com/wp-content/uploads/2021/02/The-Science-Behind-teh-Art-of-Storytelling.docx.pdf){:target="_blank"} - Lani Peterson
 
 ## Wrapping Up

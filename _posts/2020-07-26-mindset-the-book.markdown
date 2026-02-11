@@ -23,9 +23,6 @@ growth and fixed mindsets.
 
 ## Summary Mindset
 
-![Mindset - the book](https://www.huibschoots.nl/wordpress/wp-content/uploads/2020/07/mindset-662x1024.jpg){:
-width="300" .right}
-
 Mindset is a way of thinking, a mental attitude and self-conception that you carry with you through your life. People
 are all born with a love of learning, but somehow, somewhere in our lives it gets undone for some. Some people love
 challenges, others hate them. This is caused by their mindset. Carol Dweck researched human motivation. Why do people

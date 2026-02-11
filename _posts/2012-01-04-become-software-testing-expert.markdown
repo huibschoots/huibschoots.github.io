@@ -88,8 +88,8 @@ study and do exercises almost daily for a month. If you really want to learn, yo
 Gladwell claims in his book [Outliers](https://en.wikipedia.org/wiki/Outliers_%28book%29){:target="_blank"} that the key
 to success in any field is practicing 10,000 hours. Try a training that changes your view on testing:
 [Rapid Software Testing](https://www.rapid-software-testing.com){:target="_blank"} for example. This training has
-changed my view of my profession and [inspired me](https://www.huibschoots.nl/wordpress/?p=86) tremendously. Visiting
-[conferences](https://www.huibschoots.nl/wordpress/?p=263) can be very inspiring and instructive. Join
+changed my view of my profession and [inspired me](/posts/rst-rapid-software-testing) tremendously. Visiting
+[conferences](/posts/agile-testing-days-a%20gathering-called-pats) can be very inspiring and instructive. Join
 [TestNet](https://www.testnet.org/){:target="_blank"} or another (online) testing community like
 [Ministry of Testing](https://www.ministryoftesting.com/){:target="_blank"} and get inspired. You have plenty of choice!
 

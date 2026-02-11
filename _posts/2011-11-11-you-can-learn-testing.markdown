@@ -25,7 +25,7 @@ music.
 
 Jos draws the conclusion that testers on average are good. I do not agree with his conclusion (besides from the fact
 that mathematically any population is average). I think testers can do much better! On
-[my weblog](https://www.huibschoots.nl/wordpress/?p=274) I once wrote: “A lot of them claim that they are great testers.
+[my weblog](/posts/preparing-a-talk-so-you-think-you-can-test) I once wrote: “A lot of them claim that they are great testers.
 But are they? I think a lot of testers maybe aren’t that great…”
 
 **Knowledge and skills**  

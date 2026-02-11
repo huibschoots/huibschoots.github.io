@@ -14,7 +14,7 @@ recognizing professional testers in your opinion? I changed “criteria” to he
 leave the term “professionalism” up to you as well – I don’t know exactly what you meant by it.”_
 
 In my talk
-“[How to become a great tester](https://www.huibschoots.nl/downloads/How%20to%20become%20a%20great%20tester%20-%20CopenhagenContext%202014%20-%20Huib%20Schoots.pdf){:target="_blank"}”
+“[How to become a great tester](/assets/files/How-to-become-a-great-tester-EuroSTAR2013-HuibSchoots.pdf){:target="_blank"}”
 at Copenhagen Context Conference last January I talked about testers and their skills. I said that most testers don’t
 know what they’re doing and can’t explain effectively what value they add. I have seen many testers who use the same
 approach over and over again. If I ask them to name test techniques, they can only name a few. If I ask them to explain
@@ -32,15 +32,13 @@ Let me now answer the questions asked, have done enough ranting for now…
 
 Professionalism is what it means to be a professional and what is expected of them. Professional testing is complex and
 diverse and has several dimensions: knowledge, skills, experience, attitude, ethics and values. I wrote a blog post
-“[What makes a good tester?](https://www.huibschoots.nl/wordpress/?p=433){:target="_blank"}” in 2011 on this topic and
+“[What makes a good tester?](/posts/what-makes-a-good-tester){:target="_blank"}” in 2011 on this topic and
 I have a broader view on this topic now although everything I wrote then still counts. In my earlier blog posts I didn’t
 mention values and ethics and I now think they are extremely important. James Bach writes about them in his blog post
 “[Thoughts Toward The Ethics of Testing](https://www.satisfice.com/blog/archives/771){:target="_blank"}”. A great
 practical example of ethics and values is Rapid Testing. Look at the “the premises of Rapid Testing” and “the themes of
 Rapid Testing” both can be found in the
 [slides of Rapid Software Testing](https://www.satisfice.com/rst.pdf){:target="_blank"}.
-
-[![](https://www.huibschoots.nl/wordpress/wp-content/uploads/2014/03/Dilbert.jpg)](https://www.huibschoots.nl/wordpress/wp-content/uploads/2014/03/Dilbert.jpg)
 
 It is hard to recognize professional testers. Every tester is unique and brings different characteristics to the table.
 Every project is different too and to be successful in finding the right professional tester for your project different
@@ -174,8 +172,6 @@ There are many technical skills a tester needs like being able to use tooling, c
 what they need to know about the technical structure of the application they are testing. Test automation skills like
 scripting and SQL skills to work with databases, being able to configure and install software, knowledge and skills to
 work with the platform the system under test is on (Windows, Linux, Mobile, etc.).
-
-[![](https://www.huibschoots.nl/wordpress/wp-content/uploads/2014/03/Dilbert2.jpg)](https://www.huibschoots.nl/wordpress/wp-content/uploads/2014/03/Dilbert2.jpg)
 
 This list is probably not complete. It is very well possible that I have made some mistakes. So please let me know if
 you have any contributions or improvements. Also: being a professional doesn’t mean you are an expert on all mentioned

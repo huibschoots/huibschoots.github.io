@@ -36,14 +36,7 @@ mindset. With this knowledge you can deal with your mindset and take steps to ch
 ## Learn about mindset
 
 First and most important: read the book (or our summary [here](/posts/mindset-the-book/)). The book is easy to read and
-contains many examples that will give insight in how fixed and growth mindsets work. These visuals also give a bit of
-understanding about how fixed and growth mindsets work:
-
-![Growth and Fixed Mindset infographic](https://www.huibschoots.nl/wordpress/wp-content/uploads/2020/08/mindset.jpg)
-_Graph by Nigel Holmes (https://nigelholmes.com/)_
-
-![Mindset characteristics infographic](https://www.huibschoots.nl/wordpress/wp-content/uploads/2020/08/Growth-Mindset-Characteristics-Table.png)
-_Graph by Learner Lab (https://thelearnerlab.com/growth-mindset/)_
+contains many examples that will give insight in how fixed and growth mindsets work.
 
 There are also many videos you can watch. On the website of
 [Mindset Works](https://www.mindsetworks.com/Videos){:target="_blank"} you will find a page full of links to amazing
