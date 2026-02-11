@@ -803,7 +803,7 @@ What to learn more about storytelling? Have a look [here](/Storytelling/){:targe
 
 ### Standards and certification
 
--   [Collected links on ISO 29119 and the STOP 29119 petition](/posts/iso29119-test-standard-or-misguided-path/){:target="_blank"}
+-   [Collected links on ISO 29119 and the STOP 29119 petition](/posts/test-standard-or-misguided-path/){:target="_blank"}
 -   [My Thoughts on Testing Certifications](https://karennicolejohnson.com/2014/08/my-thoughts-on-testing-certifications/){:target="_blank"}
     by Karen N. Johnson
 -   [Agile Certifications Are Actively Destructive](https://www.drdobbs.com/architecture-and-design/agile-certifications-are-actively-destru/240169223){:target="_blank"}
