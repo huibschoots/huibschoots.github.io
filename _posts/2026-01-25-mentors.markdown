@@ -347,3 +347,21 @@ I am trully grateful for the conversations we've had, the knowledge we shared, t
 
 **Z**<br>
 - Zeger van Hese
+
+
+<script src="https://giscus.app/client.js"
+        data-repo="ddev/giscus-comments"
+        data-repo-id="R_kgDON5ODtA"
+        data-category="Add-on registry comments"
+        data-category-id="DIC_kwDON5ODtM4Cm8gG"
+        data-mapping="title"
+        data-strict="0"
+        data-reactions-enabled="1"
+        data-emit-metadata="0"
+        data-input-position="top"
+        data-theme="light"
+        data-lang="en"
+        data-loading="lazy"
+        crossorigin="anonymous"
+        async>
+</script>

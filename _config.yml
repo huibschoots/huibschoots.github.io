@@ -124,7 +124,7 @@ comments:
   giscus:
     repo: huibschoots/huibschoots.github.io
     repo_id: R_kgDOP7uXxA
-    category: Announcements
+    category: General
     category_id: DIC_kwDOP7uXxM4Cw5pN
     mapping: pathname
     strict: 0
