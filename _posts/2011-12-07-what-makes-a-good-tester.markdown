@@ -17,7 +17,7 @@ testing expert?” Part 1 can be found [here](/posts/you-can-learn-testing){:tar
 The question “what makes a good tester?” keeps us busy. This was demonstrated by the attention this subject received at
 different conferences. At EuroSTAR Susan Windsor gave a well attended presentation about this topic called “How to
 Create Good Testers”. During the Agile Testing Days,
-[a group of passionate and renowned agilist and testers got together to discuss various test subjects while enjoying beer and pizza](/posts/agile-testing-days-a%20gathering-called-pats){:target="_blank"}.
+[a group of passionate and renowned agilist and testers got together to discuss various test subjects while enjoying beer and pizza](/posts/agile-testing-days-a-gathering-called-pats){:target="_blank"}.
 After an inventory and a “dot-vote” the topic “Great Testers” received the most votes. That gave great input for this
 column, thanks guys!
 
