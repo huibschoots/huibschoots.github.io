@@ -14,7 +14,10 @@ Please enlighten me and let me know what are the DISadvantages to standards.
 Personally I am a strong believer in standards, given that they are applied in a matter that is suitable to the environment and the problem (so with regards to complexity, size and risk) and that they should be used as a guideline and that issues that are not relevant should be omitted, due to your consideration and specific situation.
 In that respect I would like to refer to the IEEE standards for software test documentation where this idea is phrased explicitly in the text of the standard.“
 
-Much has been said about ISO 29119 the last weeks. For some background, please have a look at the many things said online in [my collection of resources on the controversy](/posts/test-standard-or-misguided-path){:target="_blank"}.
+Much has been said about ISO 29119 the last weeks. For some background, please have a look at the many things said online in 
+
+<!-- [my collection of resources on the controversy](/posts/test-standard-or-misguided-path){:target="_blank"}.
+-->
 
 So what is wrong with this ISO 29119 standard?
 
@@ -64,7 +67,7 @@ Finally, let’s have a look at what the ISO claims on the “[https://www.softw
 
 >“ISO/IEC/IEEE 29119 Software Testing is an internationally agreed set of standards for software testing that can be used within any software development life cycle or organisation. By implementing these standards, you will be adopting the only internationally-recognised and agreed standards for software testing, which will provide your organisation with a high-quality approach to testing that can be communicated throughout the world. ”.
 
-Really? I think it is simply not true. First of all, since [the petition against the standard](https://www.ipetitions.com/petition/stop29119){:target="_blank"} is signed by hundreds of people from all over the world and [over 30 people blogged about it](/posts/test-standard-or-misguided-path){:target="_blank"}, I guess the standard is not really internationally agreed. And second: how will it provide my (clients) organisation with a high-quality approach? Again: the quality of any approach lies in the skills and the mindset of the people doing the actual work.
+Really? I think it is simply not true. First of all, since [the petition against the standard](https://www.ipetitions.com/petition/stop29119){:target="_blank"} is signed by hundreds of people from all over the world and over 30 people blogged about it, I guess the standard is not really internationally agreed. And second: how will it provide my (clients) organisation with a high-quality approach? Again: the quality of any approach lies in the skills and the mindset of the people doing the actual work.
 
 I think this standard is wrong and I signed [the petition](https://www.ipetitions.com/petition/stop29119){:target="_blank"} and [the manifesto](https://karennicolejohnson.com/2014/08/my-thoughts-on-testing-certifications/){:target="_blank"}. I urge you to do the same.
 
