@@ -95,7 +95,7 @@ Last update 28 June 2025
     by Claire Reckless
 -   [Becoming a World-Class Tester](https://www.ebaytechblog.com/2013/01/31/becoming-a-world-class-tester/){:target="_blank"}
     by Ilari Henrik Aegerter
--   [Heuristics for recognizing professional testers](https://www.huibschoots.nl/wordpress/?p=1666){:target="_blank"}
+-   [Heuristics for recognizing professional testers](https://huibschoots.nl/posts/heuristics-professional-testers/){:target="_blank"}
     by Huib Schoots
 -   [Resources for a Beginner Tester](https://docs.google.com/document/d/1-fV3l-XPfjaeuHN0-d67dUi1yKYoyHJI4iMz2FfrwFQ/edit){:target="_blank"}
     by Helena Jeret-Mäe
@@ -168,7 +168,7 @@ Note: list below is copied from [Elizabeth Zagroba's website](https://elizabethz
 
 -   [How to Find, Interview and Hire Great Software Testers](https://www.testrail.com/blog/interview-recruit-testers/){:target="_blank"} by Simon Knight
 -   EuroStar Webinar [Hiring Professional testers](https://testhuddle.com/resource/hiring-professional-testers/){:target="_blank"} by Huib Schoots
--   [Heuristics for recognizing professional testers](https://www.huibschoots.nl/wordpress/?p=1666){:target="_blank"} by Huib Schoots
+-   [Heuristics for recognizing professional testers](https://huibschoots.nl/posts/heuristics-professional-testers/){:target="_blank"} by Huib Schoots
 -   [To The Hiring Managers and Recruiters (of Software Testers)](https://www.ministryoftesting.com/articles/to-the-hiring-managers-and-recruiters-of-software-testers){:target="_blank"} by Rosie Sherry
 -   [Recruiting Software Testers](https://kaner.com/pdfs/QWjobs.pdf){:target="_blank"} by Cem Kaner
 -   [Writing job description for testers - Part I](https://observanttester.blogspot.nl/2011/02/writing-job-description-for-tester-part.html){:target="_blank"} and [Part II](https://observanttester.blogspot.com/2011/02/writing-job-description-for-tester-part_16.html){:target="_blank"} by Thomas Ponnet
@@ -348,8 +348,7 @@ Note: list below is copied from [Elizabeth Zagroba's website](https://elizabethz
 -   [Mind, Map and Strategy](https://www.youtube.com/watch?v=W2eqfcX7Swg){:target="_blank"} (video) by Fiona Charles
 -   [Unburdening Testing – Finding the balance point for test documentation](https://testhuddle.com/resource/unburdening-testing-finding-balance-point-test-documentation/){:target="_blank"}
     (video) by Fiona Charles
--   [Teststrategie met behulp van heuristieken: een praktische aanpak voor iedereen!](https://www.huibschoots.nl/downloads/Teststrategie%20met%20heuristieken%20-%20TestNetNieuws%20-%20Huib%20Schoots.pdf){:target="_blank"}
-    (Dutch) by Huib Schoots
+-   [Teststrategie met behulp van heuristieken: een praktische aanpak voor iedereen!](/assets/files/Teststrategie-met-heuristieken-TestNetNieuws-Huib-Schoots.pdf){:target="_blank"} (Dutch) by Huib Schoots
 -   [Mindmapping: A killer way to increase your test coverage](https://huddle.eurostarsoftwaretesting.com/mindmapping-killer-way-increase-test-coverage/){:target="_blank"} by Prashant Hegde
 -   [How To Use Mind Maps To Develop Clarity With Your Software Testing Strategy](https://dojo.ministryoftesting.com/lessons/mind-maps-made-easy){:target="_blank"} by Elizabeth Zagroba
 -   [RiskStorming – Maping Risks with TestSphere](https://thatsthebuffettable.blogspot.nl/2017/11/riskstorming-maping-risks-with.html){:target="_blank"}
@@ -404,7 +403,7 @@ Note: list below is copied from [Elizabeth Zagroba's website](https://elizabethz
 -   [How Do I know I am Context-driven](https://lets-test.com/wp-content/uploads/2013/06/How-do-I-Know-I-am-Context-Driven.pdf){:target="_blank"}? by James Bach
 -   If it’s not Context-Driven you can’t do it here [part 1](https://youtu.be/XrYyQFtr_Mw){:target="_blank"} –
     [part 2](https://youtu.be/SubI3RFfInY){:target="_blank"} (video) by Michael Bolton
--   [Ik ben een context-driven tester! Joh? Echt waar? Nou en?](https://www.huibschoots.nl/downloads/testkrant20122contextdriventesten.pdf){:target="_blank"} (Dutch) by Huib Schoots
+-   [Ik ben een context-driven tester! Joh? Echt waar? Nou en?](/assets/files/testkrant20122contextdriventesten.pdf){:target="_blank"} (Dutch) by Huib Schoots
 -   [Testing vs Checking](https://www.developsense.com/blog/2009/08/testing-vs-checking){:target="_blank"} by Michael Bolton
 -   [Testing and checking refined](https://www.satisfice.com/blog/archives/856){:target="_blank"} by James Bach
 -   [What being a context-driven tester means to me](https://www.testingreflections.com/node/view/8657){:target="_blank"} by Scott Barber
@@ -804,7 +803,7 @@ What to learn more about storytelling? Have a look [here](/Storytelling/){:targe
 
 ### Standards and certification
 
--   [Collected links on ISO 29119 and the #STOP 29119 petition](https://www.huibschoots.nl/wordpress/?page_id=1771){:target="_blank"}
+-   [Collected links on ISO 29119 and the #STOP 29119 petition](/_posts/2014-08-25-ISO29119-Test-standard-or-misguided-path.markdown){:target="_blank"}
 -   [My Thoughts on Testing Certifications](https://karennicolejohnson.com/2014/08/my-thoughts-on-testing-certifications/){:target="_blank"}
     by Karen N. Johnson
 -   [Agile Certifications Are Actively Destructive](https://www.drdobbs.com/architecture-and-design/agile-certifications-are-actively-destru/240169223){:target="_blank"}
@@ -1026,9 +1025,8 @@ What to learn more about storytelling? Have a look [here](/Storytelling/){:targe
 -   [Drawing to learn – Sketching for testers](https://lets-test.com/wp-content/uploads/2014/03/tasting-lets-test-nl-2014-drawing-to-learn-sketching-for-testers-ruud-cox.pdf){:target="_blank"} by Ruud Cox
 -   [Visualisation](https://www.huibschoots.nl/wordpress/?p=927){:target="_blank"} by Huib Schoots
 -   [Mindmapping 101](https://www.bettertesting.co.uk/content/?p=956){:target="_blank"} by Darren MacMillan
--   [Thinking and working visually for software testers](https://www.huibschoots.nl/downloads/Thinking%20and working
-    visually for software testers - Lets Test 2013 - HS and JPV.pdf){:target="_blank"} Let’s Test 2013 – 1/2 day tutorial by Jean-Paul Varwijk & Huib Schoots
--   [Thinking and working visually for software testers](https://www.huibschoots.nl/downloads/Thinking%20and%20Working%20Visually%20for%20Software%20Testers%20-%20NTD%202014%20-%20Ruud%20Cox%20-%20Huib%20Schoots.pdf){:target="_blank"}
+-   [Thinking and working visually for software testers](/assets/files/Thinking-and-working-visually-for-software-testers-LetsTest2013.pdf){:target="_blank"} Let’s Test 2013 – 1/2 day tutorial by Jean-Paul Varwijk & Huib Schoots
+-   [Thinking and working visually for software testers](/assets/files/Thinking%20and%20Working%20Visually%20for%20Software%20Testers%20-%20NTD%202014%20-%20Ruud%20Cox%20-%20Huib%20Schoots.pdf){:target="_blank"}
     Nordic Testing Days 2014 – full day tutorial by Ruud Cox & Huib Schoots
 -   [Hand-Sketching: Things You Didn’t Know Your Doodles Could Accomplish](https://www.smashingmagazine.com/2013/10/things-you-can-accomplish-with-hand-sketching-doodling/){:target="_blank"}
     by Laura Busche ([Sketchnote](https://twitter.com/ruudcox/status/406353042284363776/photo/1){:target="_blank"} by Ruud Cox)

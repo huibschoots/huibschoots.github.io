@@ -3,8 +3,7 @@ title: ISO29119 – Test standard or misguided path?
 date: 2014-08-25 00:00:00 +0100
 categories: [Standards]
 tags: standard iso29119 context-driven # TAG names should always be lowercase
-image:
-    path: /assets/img/iso29119.png
+image:    path: /assets/img/iso29119.png
 ---
 
 At CAST 2014 [James Christie](https://bsky.app/profile/jamesdchristie.bsky.social){:target="_blank"} gave a presentation called: "[Standards - Promoting quality or restricting competition?](https://youtu.be/A721ltyVw3o?si=Eyf5_hDDag3ykNCa){:target="_blank"}".  James argued that standards are produced by bodies with a commercial interest in seeing them adopted. He analysed the economic forces behind the creation of standards. They should be viewed as optional methods that companies can buy or reject as they see fit. Selling them as standards distorts the market by creating the impression amongst senior managers, lawyers and regulators that there is no valid, responsible alternative. James explained why the auditors and compliance professions are not lined up on the side of the standards lobby. Testers must speak out following the Healthcare.gov website fiasco. This debate is not an academic contest between rival schools of thought. It's a commercial struggle, and James provided compelling arguments against standards.
@@ -13,7 +12,7 @@ During open season [Karen Johnson](https://karennicolejohnson.com/){:target="_bl
 
 This resulted in two initiatives: a [petition}(https://www.ipetitions.com/petition/stop29119){:target="_blank"} made by ISST (International Society for Software Testing (see info frame below) and a [professional Tester's manifesto](https://karennicolejohnson.com/2014/08/my-thoughts-on-testing-certifications/){:target="_blank"} made by Karen (helped by [Iain McCowatt](https://www.linkedin.com/in/imccowatt/){:target="_blank"}, [Fiona Charles](https://www.linkedin.com/in/fionacharles/){:target="_blank"} and James Christie). During the conference both James and Karen where interviewed by CAST Live: [Interview with Karen](https://youtu.be/X907yZeH-Jg?si=MZ98zrZKlPDJLYo9){:target="_blank"} & [Interview with James](https://youtu.be/2GSMKx1jfyE?si=fAbWdvhI2Hwo9ipO){:target="_blank"}.
 
-<blockquote class="prompt-info">Update 24/9/2019: The ISST was founded to advocate for more common sense in testing (see founding message here, but doesn't exist anymore. The website https://www.commonsensetesting.org/ is bought by another agent and has unrelated stuff on it now). For a while there was a website https://professionaltestersmanifesto.org/ but this website is gone too. You can find the manifesto, which I think is still important, here: [professional Tester's manifesto](https://karennicolejohnson.com/2014/08/my-thoughts-on-testing-certifications/){:target="_blank"}.<br>
+<blockquote class="prompt-info">Update 24/9/2019: The ISST was founded to advocate for more common sense in testing (see founding message here, but doesn't exist anymore. The website https://www.commonsensetesting.org/ is bought by another agent and has unrelated stuff on it now). For a while there was a website https://professionaltestersmanifesto.org/ but this website is gone too. You can find the manifesto, which I think is still important, here: https://karennicolejohnson.com/2014/08/my-thoughts-on-testing-certifications/.<br>
 <br>
 Update 11/9/2025: some of the blogs and sites have disappeared. There were many more back in 2014. I have deleted all death links</blockquote>
 
