@@ -1,5 +1,5 @@
 ---
-title: ISO29119 – Test standard or misguided path?
+title: Test standard or misguided path?
 date: 2014-08-25 00:00:00 +0100
 categories: [Standards]
 tags: standard iso29119 context-driven # TAG names should always be lowercase
