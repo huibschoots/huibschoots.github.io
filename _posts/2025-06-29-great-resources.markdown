@@ -863,10 +863,10 @@ What to learn more about storytelling? Have a look [here](/Storytelling/){:targe
 
 ### Science and Social Science
 
--   What testing can learn from social science – Part [1](https://www.huibschoots.nl/wordpress/?p=1173){:target="_blank"},
-    [2](https://www.huibschoots.nl/wordpress/?p=1216){:target="_blank"}, [3](https://www.huibschoots.nl/wordpress/?p=1250){:target="_blank"},
-    [4](https://www.huibschoots.nl/wordpress/?p=1268){:target="_blank"}, [5](https://www.huibschoots.nl/wordpress/?p=1284){:target="_blank"},
-    [Video](https://www.huibschoots.nl/wordpress/?p=1301){:target="_blank"} by Huib Schoots
+-   What testing can learn from social science – Part [1](/posts/What-testing-can-learn-from-social-science-part-1){:target="_blank"},
+    [2](/posts/What-testing-can-learn-from-social-science-part-2){:target="_blank"}, [3](/posts/What-testing-can-learn-from-social-science-part-3){:target="_blank"},
+    [4](/posts/What-testing-can-learn-from-social-science-part-4){:target="_blank"}, [5](/posts/What-testing-can-learn-from-social-science-part-5){:target="_blank"},
+    [Video](/posts/What-testing-can-learn-from-social-science-the-video){:target="_blank"} by Huib Schoots
 -   [The Psychology of Software #Testing](https://leanpub.com/thepsychologyofsoftwaretesting){:target="_blank"} (ebook) by John Stevenson
 -   [Tacit and explicit knowledge](https://www.amazon.com/Tacit-Explicit-Knowledge-Harry-Collins/dp/022600421X){:target="_blank"} (book) –
     Harry Collins
