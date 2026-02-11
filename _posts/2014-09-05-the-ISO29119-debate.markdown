@@ -14,7 +14,7 @@ Please enlighten me and let me know what are the DISadvantages to standards.
 Personally I am a strong believer in standards, given that they are applied in a matter that is suitable to the environment and the problem (so with regards to complexity, size and risk) and that they should be used as a guideline and that issues that are not relevant should be omitted, due to your consideration and specific situation.
 In that respect I would like to refer to the IEEE standards for software test documentation where this idea is phrased explicitly in the text of the standard.“
 
-Much has been said about ISO 29119 the last weeks. For some background, please have a look at the many things said online in [my collection of resources on the controversy](/posts/ISO29119-Test-standard-or-misguided-path){:target="_blank"}.
+Much has been said about ISO 29119 the last weeks. For some background, please have a look at the many things said online in [my collection of resources on the controversy](/posts/test-standard-or-misguided-path){:target="_blank"}.
 
 So what is wrong with this ISO 29119 standard?
 
