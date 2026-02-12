@@ -110,8 +110,6 @@ Last update 28 June 2025
 -   [Responsible tester](https://www.satisfice.com/blog/archives/1364){:target="_blank"} by James Bach
 -   [No More Second Class Testers!](https://www.jrothman.com/articles/2004/01/no-more-second-class-testers/){:target="_blank"}
     by Johanna Rothman
--   [How to get started in software testing – a few resources](https://thesocialtester.co.uk/how-to-get-started-in-software-testing-a-few-resources/){:target="_blank"}
-    by Rob Lambert
 -   [The Difference Between Professionals and Amateurs](https://jamesclear.com/professionals-and-amateurs){:target="_blank"}
     by James Clear
 -   [What I expect from my testers](https://kristjanuba.wordpress.com/2015/02/19/what-i-expect-from-my-testers/){:target="_blank"}
@@ -121,7 +119,6 @@ Last update 28 June 2025
 -   Also see the [Testing Skills](#testing-skills) and [learning](#learning) section on this page
 -   [Testing Education: Curriculum](https://erik.brickarp.se/2015/03/testing-education-curriculum.html){:target="_blank"}
     by Erik Brickarp
--   [Black Ops Testing Videos](https://blackopstesting.com/page/videos/){:target="_blank"} by Tony, Alan, Steve & James
 -   [Why would I need excuses?](https://dancedwiththesoftware.blogspot.nl/2013/01/why-would-i-need-excuses.html){:target="_blank"}
     by Tony Bruce
 -   [How do you become a great tester?](https://katrinatester.blogspot.nl/2015/08/how-do-you-become-great-tester.html){:target="_blank"}
@@ -152,22 +149,16 @@ Note: list below is copied from [Elizabeth Zagroba's website](https://elizabethz
 - [JSON Placeholder](https://jsonplaceholder.typicode.com/)
 - [Random User Generator](https://randomuser.me/)
 - [React - TodoMVC](https://demo.playwright.dev/todomvc/#/)
-- [Record A Goose Sighting](https://record-a-goose-sighting.herokuapp.com/)
 - [Restful Booker](https://restful-booker.herokuapp.com/)
 - [Selenium Test Pages](https://testpages.herokuapp.com/styled/index.html)
-- [Selenium Think Code](https://selenium.thinkcode.se/)
-- [Testers Playground](https://testersplayground.herokuapp.com/devtools.php)
-- [Testing Challenges](https://testingchallenges.thetestingmap.org/)
 - [Universal Paperclips](https://www.decisionproblem.com/paperclips/)
 - [Welcome to the-internet](https://the-internet.herokuapp.com/)
-- [Zero Bank](https://zero.webappsecurity.com/)
 - [Zippotam.us](https://zippopotam.us/)
 
 ---
 ### Hiring (testers)
 
 -   [How to Find, Interview and Hire Great Software Testers](https://www.testrail.com/blog/interview-recruit-testers/){:target="_blank"} by Simon Knight
--   EuroStar Webinar [Hiring Professional testers](https://testhuddle.com/resource/hiring-professional-testers/){:target="_blank"} by Huib Schoots
 -   [Heuristics for recognizing professional testers](/posts/heuristics-professional-testers){:target="_blank"} by Huib Schoots
 -   [To The Hiring Managers and Recruiters (of Software Testers)](https://www.ministryoftesting.com/articles/to-the-hiring-managers-and-recruiters-of-software-testers){:target="_blank"} by Rosie Sherry
 -   [Recruiting Software Testers](https://kaner.com/pdfs/QWjobs.pdf){:target="_blank"} by Cem Kaner
@@ -183,7 +174,7 @@ Note: list below is copied from [Elizabeth Zagroba's website](https://elizabethz
 
 ### Testing Skills
 
--   [WHOSE – Skills book](https://whose.associationforsoftwaretesting.org/index.php?title=Main_Page){:target="_blank"}
+-   [WHOSE – Skills book](https://whose.associationforsoftwaretesting.org/){:target="_blank"}
 -   [Trying to Teach Testing Skills and Judgment](https://www.thetesteye.com/papers/TryingToTeachTestingSkillsAndJudgment.pdf){:target="_blank"} by Rikard Edgren
 -   [A new level of testing?](/posts/a-new-level-of-testing){:target="_blank"} by Huib Schoots
 -   [Heuristics for recognizing professional testers](/posts/heuristics-professional-testers){:target="_blank"} by Huib Schoots
@@ -193,34 +184,28 @@ Note: list below is copied from [Elizabeth Zagroba's website](https://elizabethz
     by Karen Johnson
 -   [Off the top of my head – Some skills & personal qualities that a tester can benefit from](https://quality-intelligence.blogspot.ca/2014/07/off-top-of-my-head-some-skills-personal.html){:target="_blank"}
     by Fiona Charles
--   Exploratory Testing Skills and Dynamics in [RST Appendices](https://www.satisfice.com/rst-appendices.pdf){:target="_blank"} by James
+-   Exploratory Testing Skills and Dynamics in [RST Appendices](https://www.satisfice.com/download/rst-appendices){:target="_blank"} by James
     Bach & Michael Bolton
 -   [A testers syllabus](https://www.satisfice.com/images/testsyllabus.pdf){:target="_blank"} by James Bach
 -   [Responsible tester](https://www.satisfice.com/blog/archives/1364){:target="_blank"} by James Bach
 -   [Breaking the Tyranny of Form – Part 1](https://quality-intelligence.blogspot.ca/2012/06/breaking-tyranny-of-form-part-1.html){:target="_blank"}
     by Fiona Charles
--   [Omega Tester: Testing with a Team of One](https://www.satisfice.com/articles/omega_tester.pdf){:target="_blank"} by James Bach
+-   [Omega Tester: Testing with a Team of One](https://www.satisfice.com/download/omega-tester-testing-with-a-team-of-one){:target="_blank"} by James Bach
 -   [Test Jumpers: One Vision of Agile Testing](https://www.satisfice.com/blog/archives/1372){:target="_blank"} by James Bach
--   [Driving While Driven: The Way of the Skilled Tester – part 1](https://www.youtube.com/watch?v=Px5urpmxZVo){:target="_blank"} –
-    [part 2](https://youtu.be/Aes90rNep8o){:target="_blank"} (video) by James Bach
+-   [Driving While Driven: The Way of the Skilled Tester – part 1](https://youtu.be/NgOOANYt10w){:target="_blank"} –
+    [part 2](https://youtu.be/v2952OvOnVs){:target="_blank"} (video) by James Bach
 -   Modeling: [Many Models – Better Test Ideas](https://thetesteye.com/blog/2012/02/many-models-better-test-ideas/){:target="_blank"} by Rikard Edgren
 -   Modeling:
     [How I use modelling in software testing](https://mavericktester.com/2013/01/25/archive-how-i-use-modelling-in-software-testing/){:target="_blank"}
     by Anne-Marie Charrett
 -   Modeling: [Modeling Testing](https://testerstories.com/2017/12/modeling-testing/){:target="_blank"} by Jeff Nyman
 -   Thinking skills: [Critical Reasoning for Beginner](https://podcasts.ox.ac.uk/series/critical-reasoning-beginners){:target="_blank"}
--   Thinking skills:
-    [Critical Thinking: Basic Questions & Answers](https://www.criticalthinking.org/pages/critical-thinking-basic-questions-amp-answers/409){:target="_blank"}
 -   Thinking skills: [Cynefin for Developers (and testers)](https://lizkeogh.com/cynefin-for-developers/){:target="_blank"} by Liz Keogh
 -   System Thinking: [Russell Ackoff](https://youtu.be/OqEeIG8aPPk){:target="_blank"} (video)
--   Problem solving: [Solve problems with experiments](https://www.cessan.se/2014/12/solve-problems-with-experiments/){:target="_blank"}
 -   Test Framing: [Test framing](https://www.developsense.com/blog/2010/09/test-framing/){:target="_blank"} by Michael Bolton
 -   Note taking:
     [An Exploratory Tester’s Notebook](https://www.developsense.com/presentations/2007-10-PNSQC-AnExploratoryTestersNotebook.pdf){:target="_blank"}
     by Michael Bolton
--   Note taking:
-    [Why Productive People Take Better Notes](https://www.fastcompany.com/3014646/leadership-now/why-productive-people-take-better-notes){:target="_blank"}
-    by Drake Baer
 -   Asking Questions:
     [The Art of Asking Questions](https://dojo.ministryoftesting.com/lessons/the-art-of-asking-questions-karen-johnson){:target="_blank"} (video) by Karen Johnson
 -   Asking Questions:
@@ -268,7 +253,7 @@ Note: list below is copied from [Elizabeth Zagroba's website](https://elizabethz
 
 -   [How to come up with test ideas](https://erik.brickarp.se/2016/08/how-to-come-up-with-test-ideas.html){:target="_blank"} by Erik
     Brickarp
--   [Heuristic test strategy model](https://www.satisfice.com/tools/htsm.pdf){:target="_blank"}
+-   [Heuristic test strategy model](https://www.satisfice.com/download/heuristic-test-strategy-model){:target="_blank"}
 -   [ET dynamics](https://www.developsense.com/resources/et-dynamics3.pdf){:target="_blank"}
 -   [The Little Black Book on Test Design](https://www.thetesteye.com/papers/TheLittleBlackBookOnTestDesign.pdf){:target="_blank"}
 -   [Test Heuristics Cheat Sheet](/assets/files/testheuristicscheatsheetv1.pdf){:target="_blank"} (original by Elisabeth Hendrickson et al.)
@@ -291,12 +276,9 @@ Note: list below is copied from [Elizabeth Zagroba's website](https://elizabethz
     [Software Kwaliteit Kenmerken](https://dewt.files.wordpress.com/2013/03/thetesteye_softwarekwaliteitke{:target="_blank"}nmerken1.pdf)
     (Dutch) or find more translations [here](https://thetesteye.com/blog/publications/){:target="_blank"}
 -   [Testing Mnemonics](https://www.qualityperspectives.ca/resources_mnemonics.html){:target="_blank"}
--   [10 sources of Testing Ideas](https://www.amibugshare.com/articles/Article_10_Sources_of_Testing_Ideas.pdf){:target="_blank"}
 -   [Several Checklists](https://apps.testinsane.com/mindmaps/){:target="_blank"}
 -   [8-layer testing model](https://michaeldkelly.com/blog/2005/9/20/touring-heuristic.html){:target="_blank"}
--   [36 days of web testing](https://thesocialtester.co.uk/wp-content/uploads/2012/10/36DaysOfWebTesting.pdf){:target="_blank"}
 -   [Checklist: How To Generate Test Ideas](https://www.ministryoftesting.com/2013/12/checklist-how-to-generate-test-ideas/){:target="_blank"}
--   [Test Requirement Catalog – Generic Clues, Developer Version](https://www.exampler.com/testing-com/writings/catalog.pdf){:target="_blank"}
 -   [37 Sources for Test Ideas](https://thetesteye.com/posters/TheTestEye_SourcesForTestIdeas.pdf){:target="_blank"}
 
 ---
@@ -304,7 +286,7 @@ Note: list below is copied from [Elizabeth Zagroba's website](https://elizabethz
 ### Heuristics
 
 -   [The Essence of Heuristics](https://www.satisfice.com/blog/archives/462){:target="_blank"} by James Bach
--   [Heuristic Test Strategy Model](https://www.satisfice.com/tools/htsm.pdf){:target="_blank"} by James Bach
+-   [Heuristic Test Strategy Model](https://www.satisfice.com/download/heuristic-test-strategy-model){:target="_blank"} by James Bach
 -   [Heuristics for Understanding Heuristics](https://www.developsense.com/blog/2012/04/heuristics-for-understanding-heuristics/){:target="_blank"} by Michael Bolton
 -   [All Oracles are Heuristic](https://www.developsense.com/blog/2012/04/all-oracles-are-heuristic/){:target="_blank"} by Michael Bolton
 -   [Testing Mnemonics Listing](https://www.qualityperspectives.ca/resources_mnemonics.html){:target="_blank"} by Lynn McKee
@@ -329,10 +311,9 @@ Note: list below is copied from [Elizabeth Zagroba's website](https://elizabethz
 -   [Great example of test analysis to create strategy](https://thetesteye.com/examples/ScreenPluck_TestAnalysis.pdf){:target="_blank"} by
     Rikard Edgren
 -   [DEWT5 Report: test strategy](https://dewt.wordpress.com/2015/01/19/dewt5-report/){:target="_blank"} by DEWT
--   [Heuristic test strategy model](https://www.satisfice.com/tools/htsm.pdf){:target="_blank"} by James Bach
+-   [Heuristic test strategy model](https://www.satisfice.com/download/heuristic-test-strategy-model){:target="_blank"} by James Bach
 -   [Explaining Heuristic Test Strategy Model in Two Minutes](https://www.youtube.com/watch?v=SNHWCD2qg3U){:target="_blank"} by Michael
     Bolton (video)
--   [Test strategy primer](https://testingcurve.wordpress.com/2019/01/29/test-strategy-primer/){:target="_blank"} by Joep Schuurkes
 -   [A new model for test strategies… (An update to the Heuristic Test Strategy Model)](https://danashby.co.uk/2017/12/13/a-new-model-for-test-strategies/){:target="_blank"} by Dan Ashby
 -   [Test Strategy – Next Level](https://thetesteye.com/presentations/Edgren_Tutorial_TestStrategyNextLevel.pdf){:target="_blank"} by
     Rikard Edgren
@@ -341,12 +322,10 @@ Note: list below is copied from [Elizabeth Zagroba's website](https://elizabethz
     Rikard Edgren
 -   [What Should A Test Plan Contain](https://www.satisfice.com/blog/archives/63){:target="_blank"}? by James Bach
 -   [Basics Revisited: Test Strategy](https://www.quality-intelligence.com/articles/BasicsRevisited-TestStrategy.pdf){:target="_blank"} by Fiona Charles
--   [Make Risk Based Testing a Reality](https://testhuddle.com/resource/make-risk-based-testing-reality/){:target="_blank"} (video) by
-    Fiona Charles
--   [Thinking Strategically About Testing](https://testhuddle.com/resource/thinking-strategically-about-testing-with-fiona-charles/){:target="_blank"}
+-   [Thinking Strategically About Testing](https://youtu.be/O4d0Hbtd68s){:target="_blank"}
     (video) by Fiona Charles
 -   [Mind, Map and Strategy](https://www.youtube.com/watch?v=W2eqfcX7Swg){:target="_blank"} (video) by Fiona Charles
--   [Unburdening Testing – Finding the balance point for test documentation](https://testhuddle.com/resource/unburdening-testing-finding-balance-point-test-documentation/){:target="_blank"}
+-   [Unburdening Testing – Finding the balance point for test documentation](https://youtu.be/p7PVJUJI5rg){:target="_blank"}
     (video) by Fiona Charles
 -   [Teststrategie met behulp van heuristieken: een praktische aanpak voor iedereen!](/assets/files/Teststrategie-met-heuristieken-TestNetNieuws-Huib-Schoots.pdf){:target="_blank"} (Dutch) by Huib Schoots
 -   [Mindmapping: A killer way to increase your test coverage](https://huddle.eurostarsoftwaretesting.com/mindmapping-killer-way-increase-test-coverage/){:target="_blank"} by Prashant Hegde
@@ -384,8 +363,6 @@ Note: list below is copied from [Elizabeth Zagroba's website](https://elizabethz
 -   [The Oracle Problem and the Teaching of Software Testing](https://kaner.com/?p=190){:target="_blank"} by Cem Kaner
 -   [Heuristic Test Oracles](https://www.softwarequalitymethods.com/Papers/STQE%20Heuristic.pdf){:target="_blank"} by Doug Hoffman
 -   [BBST – Lectures: Oracles](https://bbst.courses/bbst-foundations-open-course-materials/){:target="_blank"} by Cem Kaner (video)
--   [Recognizing a problem in eBay’s iPad app](https://www.kenst.com/2015/02/recognizing-a-problem-in-ebays-ipad-app/){:target="_blank"} by Chris Kenst
--   [Revealing Oracles](https://blogs.atlassian.com/2012/03/guest-blog-revealing-oracles/){:target="_blank"} by Anne-Marie Charrett
 -   [Collected blogpost on Oracles](https://www.developsense.com/blog/category/oracles/){:target="_blank"} by Michael Bolton
 
 ---
@@ -977,8 +954,6 @@ What to learn more about storytelling? Have a look [here](/Storytelling/){:targe
 -   Models:
     [Mental Models: The Best Way to Make Intelligent Decisions (109 Models Explained)](https://fs.blog/mental-models/#building_a_latticework_of_mental_models){:target="_blank"}
 -   Thinking skills: [Critical Reasoning for Beginner](https://podcasts.ox.ac.uk/series/critical-reasoning-beginners){:target="_blank"}
--   Thinking skills:
-    [Critical Thinking: Basic Questions & Answers](https://www.criticalthinking.org/pages/critical-thinking-basic-questions-amp-answers/409){:target="_blank"}
 -   [A Field Guide to Critical Thinking](https://www.csicop.org/si/show/field_guide_to_critical_thinking/){:target="_blank"} by James Lett
 -   [Critical Thinking For Testers with Michael Bolton](https://www.testthisblog.com/2012/08/critical-thinking-for-testers-with.html){:target="_blank"}
     by Eric Jacobson

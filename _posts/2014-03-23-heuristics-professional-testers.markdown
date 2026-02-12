@@ -163,7 +163,7 @@ mentioned in the list below. As stated earlier it depends on the context which s
 -   Test design / Designing experiments
 -   Observation
 
-Have a look at the [Exploratory Testing Dynamics](https://www.satisfice.com/rst-appendices.pdf){:target="_blank"} in the
+Have a look at the [Exploratory Testing Dynamics](https://www.satisfice.com/download/rst-appendices){:target="_blank"} in the
 RST appendices where several lists of skills are listed.
 
 ## 16) They have sufficient technical skills

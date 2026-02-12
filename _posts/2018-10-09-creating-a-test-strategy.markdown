@@ -44,7 +44,7 @@ To create a Test Strategy, you have to examine the factors mentioned above. This
 
 I like to use to Heuristic Test Strategy Model (HTSM). It reminds me what to think about when if am creating my Test Strategy and tests.
 
-The HTSM is a model which consists of several sets of heuristics (more about heuristics [here](https://www.satisfice.com/blog/archives/462){:target="_blank"} and [here](https://www.developsense.com/blog/2012/04/heuristics-for-understanding-heuristics/){:target="_blank"}).  The full model can be found [here](https://www.satisfice.com/tools/htsm.pdf){:target="_blank"}.
+The HTSM is a model which consists of several sets of heuristics (more about heuristics [here](https://www.satisfice.com/blog/archives/462){:target="_blank"} and [here](https://www.developsense.com/blog/2012/04/heuristics-for-understanding-heuristics/){:target="_blank"}).  The full model can be found [here](https://www.satisfice.com/download/heuristic-test-strategy-model){:target="_blank"}.
 
 - Project Environment helps to understand our context and missons: MIDTESTD (mission, information, developer relations, test team, equipment & tools, schedule, test items, deliverables).
 - Product Elements helps to identify dimensions and factors of the product that could be examined in a test: SFDIPOT (structure, function, data, interfaces, platform, operations, time).
@@ -245,7 +245,7 @@ The pictures and flipcharts from the workshop are [here](https://www.dropbox.com
 - [Rapid Software Testing](https://rapid-software-testing.com/){:target="_blank"} by James Bach and Michael Bolton
 - [Thinking Strategically About Testing](https://youtu.be/O4d0Hbtd68s){:target="_blank"} – EuroSTAR by Fiona Charles
 - [EuroStar tutorial “Test Strategy – Next Level”](https://thetesteye.com/presentations/Edgren_Tutorial_TestStrategyNextLevel.pdf){:target="_blank"} by Rikard Edgren
-- [Heuristic Test Strategy Model](https://www.satisfice.com/tools/htsm.pdf){:target="_blank"} by James Bach
+- [Heuristic Test Strategy Model](https://www.satisfice.com/download/heuristic-test-strategy-model){:target="_blank"} by James Bach
 - [Test Strategy Checklist](https://thetesteye.com/posters/TestStrategyChecklist.pdf){:target="_blank"} by the Test Eye
 - [What is a good test strategy](https://thetesteye.com/blog/2013/09/what-is-a-good-test-strategy){:target="_blank"} by Rikard Edgren
 - [Heuristic Risk-Based Testing](https://www.satisfice.com/articles/hrbt.pdf){:target="_blank"} by James Bach
