@@ -361,7 +361,6 @@ Note: list below is copied from [Elizabeth Zagroba's website](https://elizabethz
     [part 2](https://www.developsense.com/blog/2012/12/whats-comparable-part2/){:target="_blank"} by Michael Bolton
 -   [Testing without a map](https://www.developsense.com/articles/2005-01-TestingWithoutAMap.pdf){:target="_blank"} by Michael Bolton
 -   [The Oracle Problem and the Teaching of Software Testing](https://kaner.com/?p=190){:target="_blank"} by Cem Kaner
--   [Heuristic Test Oracles](https://www.softwarequalitymethods.com/Papers/STQE%20Heuristic.pdf){:target="_blank"} by Doug Hoffman
 -   [BBST – Lectures: Oracles](https://bbst.courses/bbst-foundations-open-course-materials/){:target="_blank"} by Cem Kaner (video)
 -   [Collected blogpost on Oracles](https://www.developsense.com/blog/category/oracles/){:target="_blank"} by Michael Bolton
 
@@ -469,7 +468,6 @@ Note: list below is copied from [Elizabeth Zagroba's website](https://elizabethz
     [Part 2](https://www.developsense.com/blog/2010/04/coding-qa-podcast-on-exploratory-testing-part-2/){:target="_blank"} by Michael Bolton
 -   [Interviewing the program](https://www.developsense.com/blog/2008/11/interviewing-program/){:target="_blank"}
     by Michael Bolton
--   [Documenting exploratory testing](https://www.stickyminds.com/better-software-magazine/documenting-exploratory-testing){:target="_blank"} by Jonathan Kohl
 -   [Exploratory testing on agile teams](https://www.informit.com/articles/article.asp?p=405514){:target="_blank"} by Jonathan Kohl
 -   [10 ways to do ET badly](https://dancedwiththetester.blogspot.com/2011/04/10-ways-to-do-exploratory-testing-badly.html){:target="_blank"} by Tony Bruce
 -   [Both Sides of the Coin – Exploratory Testing vs Scripted Checking](https://youtu.be/5lE5RH_PsgI){:target="_blank"} (video) by Rosie Hamilton
@@ -792,8 +790,6 @@ What to learn more about storytelling? Have a look [here](/Storytelling/){:targe
     Hominem,” “Strawman” & Other Fallacies Explained in 2-Minute Videos
 -   [The invisible Gorilla](https://www.amazon.com/Invisible-Gorilla-How-Intuitions-Deceive/dp/0307459667){:target="_blank"} (book) by
     Christopher Chabris & Daniel Simons
--   [Cognitive bias cheat sheet](https://betterhumans.coach.me/cognitive-bias-cheat-sheet-55a472476b18#.5q3u387fg){:target="_blank"} by
-    Buster Benson
 -   [Qualitative Data Analysis: a userfriendly guide for social scientists](https://www.amazon.com/Qualitative-Data-Analysis-Friendly-Scientists/dp/041505852X){:target="_blank"}
     (book) by Ian Dey
 -   [Critical Thinking: a user’s manual](https://www.amazon.com/Critical-Thinking-Manual-Debra-Jackson/dp/0495814075){:target="_blank"}
@@ -811,9 +807,7 @@ What to learn more about storytelling? Have a look [here](/Storytelling/){:targe
 -   [Danger: confirmation bias](https://steveo1967.blogspot.com/2010/07/danger-confirmation-bias.html){:target="_blank"} by John Stevenson
 -   [Combining Qualitative & Quantitative Research](https://usersknow.blogspot.ca/2013/02/combining-qualitative-quantitative.html){:target="_blank"}
     by Laura Klein
--   [Research Methods: Participant observation](https://www.sociology.org.uk/){:target="_blank"}
 -   [Qualitative Evaluation checklist](https://www.wmich.edu/evalctr/checklists){:target="_blank"} by Michael Quinn Patton
--   [Critical & creative thinking](https://www.engin.umich.edu/~cre/probsolv/index.htm){:target="_blank"}
 -   [Software Testing a Social Science](https://www.kaner.com/pdfs/KanerSocialScienceSTEP.pdf){:target="_blank"} (slides) by Cem Kaner
 -   [Testing Through The Qualitative Lens](https://www.developsense.com/presentations/2012-04-STAREast-EvaluatingTestingTheQualitativeWay.pdf){:target="_blank"}
     (slides) by Michael Bolton
@@ -823,13 +817,10 @@ What to learn more about storytelling? Have a look [here](/Storytelling/){:targe
 -   [Reponse to How many test cases by James Christie](https://steveo1967.blogspot.com/2010/07/reponse-to-how-many-test-cases-by-james.html){:target="_blank"}
     by John Stevenson
 -   [The human element](https://steveo1967.blogspot.com/2010/12/human-element.html){:target="_blank"} by John Stevenson
--   [The coding manual for qualitative researchers](https://stevescollection.weebly.com/uploads/1/3/8/6/13866629/saldana_2009_the-coding-manual-for-qualitative-researchers.pdf){:target="_blank"}
-    by Johnny Saldana
 -   [What we can learn from Russel L. Ackhoff](https://flowoftesting.wordpress.com/2012/07/06/what-we-can-learn-from-russell-l-ackoff/){:target="_blank"}
     by Aleksis Tulonen
 -   [Predictably Irrational: The Hidden Forces that Shape Our Decisions](https://www.amazon.co.uk/Predictably-Irrational-Hidden-Forces-Decisions/dp/0007256531){:target="_blank"} (book) by Dan Ariel
 -   [The Upside of Irrationality: The Unexpected Benefits of Defying Logic at Work and at Home](https://www.amazon.co.uk/The-Upside-Irrationality-Unexpected-Benefits/dp/0007354789/){:target="_blank"} (book) by Dan Ariel
--   [The Machinery of the mind](https://ww3.tvo.org/video/174354/daniel-kahneman-machinery-mind){:target="_blank"} "The Machinery of the Mind" (video) by Daniel Kahneman
 -   [Making Smarter Decisions](https://www.inc.com/daniel-kahneman/idea-lab-making-smarter-decisions.html){:target="_blank"} (video) by
     Daniel Kahneman
 -   [Nassim Taleb and Daniel Kahneman discuss Antifragility](https://www.youtube.com/watch?v=MMBclvY_EMA){:target="_blank"} (video)
@@ -845,15 +836,13 @@ What to learn more about storytelling? Have a look [here](/Storytelling/){:targe
 
 ### Learning
 
--   [Secrets of a Buchaneer Scholar](https://www.amazon.com/Secrets-Buccaneer-Scholar-Self-Education-Pursuit-Lifetime-){:target="_blank"}
+-   [Secrets of a Buchaneer Scholar](https://www.amazon.com/Secrets-Buccaneer-Scholar-Self-Education-Pursuit-Passion/dp/1439109095){:target="_blank"}
     (book) by James Bach
 -   [Becoming a Software Testing Expert](https://www.youtube.com/watch?v=3FTwaojNkXw&feature=relmfu){:target="_blank"} "Becoming a Software Testing Expert" (video) by James Bach
--   [11 Steps Towards Deliberate Practice](https://expertenough.com/2327/deliberate-practice-steps){:target="_blank"} by Lukas Kyska
 -   [Testing Dojo’s](https://www.testingdojo.org/tiki-index.php){:target="_blank"} by Markus Gärtner
 -   [Testing Challenges](https://www.testing-challenges.org){:target="_blank"} (helpful in testing dojo’s)
 -   [Black Box Puzzles](https://blackboxpuzzles.workroomprds.com/){:target="_blank"} by James Lyndsay
 -   [Weekend Testers](https://weekendtesting.com/){:target="_blank"}
--   [BBST – Testing Education](https://www.testingeducation.org/BBST/){:target="_blank"} website (Kaner, Fiedler & Associates)
 -   [BBST – videos](https://www.youtube.com/channel/UCJDGVyPVhuwHiVlFLJ38XPg){:target="_blank"} (Altom & Kaner)
 -   [Testers' Playground: collection of games and exercises for testers](https://yard-drain.unicornplatform.page/testersplayground/){:target="_blank"} by by Ajay Balamurugadas & Rahul Parwal
 -   [The nine forgettings](https://www.youtube.com/watch?v=hNkzZ7zZxE0){:target="_blank"} "The nine forgettings" (video) by Lee Copeland
@@ -901,7 +890,6 @@ What to learn more about storytelling? Have a look [here](/Storytelling/){:targe
 -   [Systems thinking made clear](https://growthcycle.typepad.com/positive_structures/2011/04/systems-thinking-made-clear.html){:target="_blank"}"Systems thinking made clear" (video) by Russell Ackoff
 -   [Think 101x, The Science of Everyday Thinking](https://think101.org/){:target="_blank"} (Online course)
 -   [Think 101x](https://www.youtube.com/user/xTHINK101/playlists){:target="_blank"} (video collection)
--   [Critical & creative thinking](https://www.engin.umich.edu/~cre/probsolv/index.htm){:target="_blank"}
 -   [Thinking fast and slow](https://www.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman/dp/0374275637){:target="_blank"} (book) – Daniel
     Kahneman
 -   [Tacit and explicit knowledge](https://press.uchicago.edu/ucp/books/book/chicago/T/bo8461024.html){:target="_blank"} (book) – Harry
@@ -935,8 +923,6 @@ What to learn more about storytelling? Have a look [here](/Storytelling/){:targe
     Clokie
 -   [That’s not the map I had in mind](https://www.testingcircus.com/testing-trapeze-2015-june-edition/){:target="_blank"} Meaning,
     imprecision and taxonomy of visual test models by Aaron Hodder
--   [Visual Test Models](https://www.inspiredtester.com/inspired-tester-blog/visual-test-models){:target="_blank"} by Leah Stockley
--   [Visual Test Design](https://www.amibugshare.com/workshops/Workshop_Visual_Test_Design.zip){:target="_blank"} by Rob Sabourin
 -   [Whiteboarding for Testers, Developers and Customers too](https://vimeo.com/55845357){:target="_blank"} by Rob Sabourin
 -   [Visualisation](/posts/visualization){:target="_blank"} by Huib Schoots
 -   [Mindmapping 101](https://www.bettertesting.co.uk/content/?p=956){:target="_blank"} by Darren MacMillan
@@ -957,15 +943,13 @@ What to learn more about storytelling? Have a look [here](/Storytelling/){:targe
 -   [What’s Wrong with Manual Testing](https://www.youtube.com/watch?v=DBzz04M01r8){:target="_blank"}? (video) by Michael Bolton
 -   [Three free programming courses for testers](https://thefriendlytester.co.uk/2017/08/three-free-programming-courses-for-testers){:target="_blank"}
     by Richard Bradshaw
--   [A Context-Driven Approach to Automation in Testing](https://www.satisfice.com/articles/cdt-automation.pdf){:target="_blank"} by James
+-   [A Context-Driven Approach to Automation in Testing](https://www.satisfice.com/download/a-context-driven-approach-to-automation-in-testing){:target="_blank"} by James
     Bach & Michael Bolton
 -   [On Green](https://www.developsense.com/blog/2015/07/on-green/){:target="_blank"} by Michael Bolton
 -   [On Red](https://www.developsense.com/blog/2015/06/on-red/){:target="_blank"} by Michael Bolton
 -   [Why I still like pyramids](https://thatsthebuffettable.blogspot.nl/2016/03/why-i-still-like-pyramids.html){:target="_blank"} by
     Marcel Gehlen
 -   [Software Test Automation: A Real World Problem](https://www.kaner.com/pdfs/allegheny.pdf){:target="_blank"} by Cem Kaner
--   [Cost Benefits Analysis of Test Automation](https://www.softwarequalitymethods.com/Papers/Star99%20model%20Paper.pdf){:target="_blank"}
-    by Douglas Hoffman
 -   [Can Automation Aid Manual Testing? An Interview](https://dzone.com/articles/interview-jonathan-kohl-can-au){:target="_blank"} with
     Jonathan Kohl
 -   [Test Automation Snake Oil](https://www.satisfice.com/articles/test_automation_snake_oil.pdf){:target="_blank"} by James Bach
