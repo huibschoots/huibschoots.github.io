@@ -223,7 +223,7 @@ Note: list below is copied from [Elizabeth Zagroba's website](https://elizabethz
     [The Rapid Software Testing Guide to What You Meant To Say](https://dojo.ministryoftesting.com/lessons/the-rapid-software-testing-guide-to-what-you-meant-to-say-michael-bolton){:target="_blank"}
     (video) by Michael Bolton
 -   [Vince Lombardi on the Hidden Power of Mastering the Fundamentals](https://jamesclear.com/vince-lombardi-fundamentals?__vid=cb9eea706be80132187922000b2a88d7){:target="_blank"} by James Clear
--   [Technical and Non-Technical Testing Skills](https://www.steveo1967.blogspot.nl/2015/05/technical-and-non-technical-testing.html){:target="_blank"}
+-   [Technical and Non-Technical Testing Skills](https://steveo1967.blogspot.com/2015/05/technical-and-non-technical-testing.html){:target="_blank"}
     by John Stevenson
 -   [Getting Ahead By Being Inefficient](https://fs.blog/2019/01/getting-ahead-inefficient/){:target="_blank"} on Farnam Street
 -   Also see the [Science and Social Science](#science-and-social-science){:target="_blank"} section on this page
@@ -376,14 +376,13 @@ Note: list below is copied from [Elizabeth Zagroba's website](https://elizabethz
     An Interview with Keith Klain
 -   [Lessons Learned in Software Testing](https://www.amazon.com/Lessons-Learned-Software-Testing-Context-Driven/dp/0471081124){:target="_blank"}
     (book) by Cem Kaner, James Bach, Brett Pettichord
--   [The Dual Nature of Context-Driven Testing](https://www.satisfice.com/blog/archives/565){:target="_blank"} by James Bach
--   [How Do I know I am Context-driven](https://lets-test.com/wp-content/uploads/2013/06/How-do-I-Know-I-am-Context-Driven.pdf){:target="_blank"}? by James Bach
+-   [The Dual Nature of Context-Driven Testing](https://www.satisfice.com/blog/archives/5215){:target="_blank"} by James Bach
+-   [How Do I know I am Context-driven](https://www.satisfice.com/download/how-do-i-know-i-am-context-driven){:target="_blank"}? by James Bach
 -   If it’s not Context-Driven you can’t do it here [part 1](https://youtu.be/XrYyQFtr_Mw){:target="_blank"} –
     [part 2](https://youtu.be/SubI3RFfInY){:target="_blank"} (video) by Michael Bolton
 -   [Ik ben een context-driven tester! Joh? Echt waar? Nou en?](/assets/files/testkrant20122contextdriventesten.pdf){:target="_blank"} (Dutch) by Huib Schoots
 -   [Testing vs Checking](https://www.developsense.com/blog/2009/08/testing-vs-checking){:target="_blank"} by Michael Bolton
 -   [Testing and checking refined](https://www.satisfice.com/blog/archives/856){:target="_blank"} by James Bach
--   [What being a context-driven tester means to me](https://www.testingreflections.com/node/view/8657){:target="_blank"} by Scott Barber
 -   [The “Jedi Knights” of Context-Driven Software Testing](https://blog.utest.com/the-jedi-knights-of-context-driven-software-testing/2011/02/){:target="_blank"} by Mike Brown
 -   [CAST 2011 keynote “Context-Driven Testing”](https://www.developsense.com/presentations/2011-08-CAST-ContextDrivenTesting.pdf){:target="_blank"} by Michael Bolton
 -   [The Thinking Tester, Evolved](https://www.youtube.com/watch?v=hANmIC9JqUA){:target="_blank"} (Video of CAST 2012
@@ -396,8 +395,6 @@ Note: list below is copied from [Elizabeth Zagroba's website](https://elizabethz
 ### Rapid Software Testing
 
 - [Rapid Software Testing Website](https://rapid-software-testing.com/){:target="_blank"}
--   [Rapid Software Testing](https://www.satisfice.com/info_rst.shtml){:target="_blank"} by Satisfice
--   [Rapid Software Testing](https://www.developsense.com/courses.html){:target="_blank"} by Developsense
 -   Premises of Rapid Software Testing by Michael Bolton –
     [Part 1](https://www.developsense.com/blog/2012/09/premises-of-rapid-software-testing-part-1/){:target="_blank"} –
     [Part 2](https://www.developsense.com/blog/2012/09/premises-of-rapid-software-testing-part-2/){:target="_blank"} –
@@ -437,8 +434,7 @@ Note: list below is copied from [Elizabeth Zagroba's website](https://elizabethz
     [part 11](https://developsense.com/blog/2020/07/breaking-the-test-case-addiction-part-11){:target="_blank"} -
     [part 12](https://developsense.com/blog/2020/07/breaking-the-test-case-addiction-part-12){:target="_blank"}
 -   [Expected Results](https://developsense.com/blog/2020/08/expected-results){:target="_blank"}
--   [Exploratory Testing Explained](https://www.satisfice.com/articles/et-article.pdf){:target="_blank"} by James Bach
--   [What is Exploratory Testing?](https://www.satisfice.com/articles/what_is_et.shtml){:target="_blank"} by James Bach
+-   [Exploratory Testing](https://www.satisfice.com/exploratory-testing){:target="_blank"} by James Bach
 -   [Understanding Exploratory Testing](https://www.youtube.com/watch?v=I-ItEKt_N_s){:target="_blank"} (video) by James Bach
 -   [Exploratory Testing Index](https://maaretp.com/ETI.html){:target="_blank"} by Maaret Pyhäjärvi
 -   [No more Fooling around](https://vimeo.com/41696681){:target="_blank"} (video) by Michael Bolton
@@ -448,9 +444,7 @@ Note: list below is copied from [Elizabeth Zagroba's website](https://elizabethz
     Marcel Gehlen
 -   [Exploratory Testing is not a test technique](https://thetesteye.com/blog/2010/04/exploratory-testing-is-not-a-test-technique/){:target="_blank"}
     by Henrik Emilsson
--   [What is Exploratory Testing?](https://swtester.blogspot.sg/2012/05/what-is-exploratory-testing.html){:target="_blank"} by Paul
-    Carvalho
--   [Exploring Exploratory Testing](https://www.testingeducation.org/a/explore.pdf){:target="_blank"} by Andy Tinkham and Cem Kaner
+-   [What is Exploratory Testing?](https://swtester.blogspot.sg/2012/05/what-is-exploratory-testing.html){:target="_blank"} by Paul Carvalho
 -   [Exploratory Testing Dynamics](https://www.developsense.com/resources/et-dynamics3.pdf){:target="_blank"} by James Bach, Jon Bach and
     Michael Bolton
 -   [Resources on Exploratory Testing, Metrics and Other Stuff](https://www.developsense.com/resources.html#exploratory){:target="_blank"}
@@ -460,51 +454,31 @@ Note: list below is copied from [Elizabeth Zagroba's website](https://elizabethz
     by James Lyndsay
 -   [There are Plenty of Ways to Manage Exploratory Testing](https://workroomprds.blogspot.nl/2011/12/there-are-plenty-of-ways-to-manage.html){:target="_blank"}
     by James Lyndsay ([webinar](https://www.youtube.com/watch?v=WQnU2NkiIOwhttps://){:target="_blank"})
--   [Exploratory testing in an agile context](https://www.qualitytree.com/ebooks/et.pdf){:target="_blank"} by Elisabeth Hendrickson
+-   [Exploratory testing in an agile context](https://www.slideshare.net/slideshow/exploratory-testing-in-an-agile-context/8967929){:target="_blank"} by Elisabeth Hendrickson
 -   [Breaking Down (and building up) Exploratory Testing Skill](https://www.quardev.com/content/whitepapers/ET_dynamics_Google_3_06.pdf){:target="_blank"} by Jon Bach
--   [Tacit and Explicit Knowledge and Exploratory Testing](https://www.steveo1967.blogspot.co.uk/2013/06/tacit-and-explicit-knowledge-and.html){:target="_blank"} by John Stevenson
+-   [Tacit and Explicit Knowledge and Exploratory Testing](https://steveo1967.blogspot.com/2013/06/tacit-and-explicit-knowledge-and.html){:target="_blank"} by John Stevenson
 -   [Papers on ET](https://www.workroom-productions.com/Exploratory_Testing.html){:target="_blank"} by James Lyndsay
--   [Demystifying Exploratory Testing](https://www.stickyminds.com/BetterSoftware/magazine.asp?fn=cifea&ac=439){:target="_blank"} by
-    Jonathan Kohl
 -   [Structures of exploratory testing](https://www.developsense.com/blog/2009/12/structures-of-exploratory-testing/){:target="_blank"} by Michael Bolton
 -   [An exploratory tester’s notebook](https://www.developsense.com/presentations/etnotebook.pdf){:target="_blank"} by Michael Bolton
 -   [Evolving Understanding of Exploratory Testing](https://www.developsense.com/blog/2008/09/evolving-understanding-about/){:target="_blank"} by Michael Bolton
 -   [Testing, Checking, and Convincing the Boss](https://www.developsense.com/blog/2009/11/testing-checking-and-convinc...){:target="_blank"} by Michael Bolton
--   [Telling your exploratory story](https://agile2010.agilealliance.org/files/Telling Your Exploratory Story
-    Agile2010.pdf){:target="_blank"} by Jon Bach
-    ([video](https://www.youtube.com/watch?v=uUdWm7ddgfU){:target="_blank"})
+-   [Telling your exploratory story](https://www.youtube.com/watch?v=uUdWm7ddgfU){:target="_blank"} by Jon Bach
 -   [Tips for writing better charters](https://www.youtube.com/watch?v=dOQuzQNvaCU){:target="_blank"} by Michael D Kelly (video)
--   [Rigorous exploratory testing](https://testobsessed.com/2006/04/rigorous-exploratory-testing/){:target="_blank"} by Elisabeth
-    Hendrickson
 -   Coding QA Podcast on Exploratory Testing
     [Part 1](https://www.developsense.com/blog/2010/03/coding-qa-podcast-on-exploratory-testing/){:target="_blank"} and
-    [Part 2](https://www.developsense.com/blog/2010/04/coding-qa-podcast-on-exploratory-testing-part-2/){:target="_blank"} by Michael
-    Bolton
--   Getting started with exploratory testing
-    [part 1](https://www.kohl.ca/2007/getting-started-with-exploratory-testing-part-1/){:target="_blank"} –
-    [part 2](https://www.kohl.ca/2007/getting-started-with-exploratory-testing-part-2/){:target="_blank"} –
-    [part 3](https://www.kohl.ca/2007/getting-started-with-exploratory-testing-part-3/){:target="_blank"} –
-    [part 4](https://www.kohl.ca/2007/getting-started-with-exploratory-testing-part-4/){:target="_blank"} by Jonathan Kohl
+    [Part 2](https://www.developsense.com/blog/2010/04/coding-qa-podcast-on-exploratory-testing-part-2/){:target="_blank"} by Michael Bolton
 -   [Interviewing the program](https://www.developsense.com/blog/2008/11/interviewing-program/){:target="_blank"}
     by Michael Bolton
 -   [Documenting exploratory testing](https://www.stickyminds.com/better-software-magazine/documenting-exploratory-testing){:target="_blank"} by Jonathan Kohl
--   [User profiles and exploratory testing](https://www.kohl.ca/2005/user-profiles-and-exploratory-testing/){:target="_blank"} by Jonathan
-    Kohl
 -   [Exploratory testing on agile teams](https://www.informit.com/articles/article.asp?p=405514){:target="_blank"} by Jonathan Kohl
--   [Does Exploratory Testing Have A Place On Agile Teams?](https://www.stickyminds.com/sitewide.asp?Function=edetail&ObjectType=COL&ObjectId=13860){:target="_blank"} by Johanna Rothman
 -   [10 ways to do ET badly](https://dancedwiththetester.blogspot.com/2011/04/10-ways-to-do-exploratory-testing-badly.html){:target="_blank"} by Tony Bruce
--   [BBST stuff on ET](https://testingeducation.org/BBST/exploratory/){:target="_blank"} by Cem Kaner
 -   [Both Sides of the Coin – Exploratory Testing vs Scripted Checking](https://youtu.be/5lE5RH_PsgI){:target="_blank"} (video) by Rosie Hamilton
--   [Exploratory Testing](https://www.ministryoftesting.com/resources/exploratory-testing){:target="_blank"}
-    – Collected resources by Ministry of Testing
 -   [Logging: Exploratory Tester’s Friend](https://www.satisfice.com/blog/archives/401){:target="_blank"} by James Bach
 -   [Exploratory Testing IS Accountable](https://www.developsense.com/blog/2010/01/exploratory-testing-is-accountable/){:target="_blank"} by Michael Bolton
 -   [ET with subtitles](https://www.youtube.com/watch?v=Vy0I2SB5OLo){:target="_blank"} (video) by James and Jon Bach
--   [The test case – an deconstruction](https://testingcurve.wordpress.com/2015/02/01/the-test-case-an-epistemological-deconstruction/){:target="_blank"} by Joep Schuurkes
+-   [The test case – an deconstruction](https://smallsheds.garden/blog/2015/the-test-case-an-epistemological-deconstruction/){:target="_blank"} by Joep Schuurkes
 -   [What is this Exploratory Testing Thing?](https://www.slideshare.net/tonybruce/ltgw2014-exploratory-testing-session){:target="_blank"} by Tony Bruce
--   [Exploratory Testing for Complex Software; Lessons from Cloud Foundry](https://youtu.be/ylWjw9iPWg0){:target="_blank"} by Elisabeth
-    Hendrickson
--   [Tree-Type Notes in Exploratory Testing](https://www.taixiaomei.com/et07.php){:target="_blank"} by Xiaomei Tai
+-   [Exploratory Testing for Complex Software; Lessons from Cloud Foundry](https://youtu.be/ylWjw9iPWg0){:target="_blank"} by Elisabeth Hendrickson
 -   [A retrospective critique of an exploratory testing session](https://blog.eviltester.com/2016/11/a-retrospective-critique-of-exploratory.html){:target="_blank"} by Alan Richardson
 -   [Of Testing Tours and Dashboards](https://www.developsense.com/blog/2009/04/of-testing-tours-and-dashboards/){:target="_blank"} by
     Michael Bolton
@@ -524,15 +498,13 @@ Note: list below is copied from [Elizabeth Zagroba's website](https://elizabethz
         [Quick Tests](https://www.developsense.com/blog/2011/12/what-exploratory-testing-is-not-part-4-quick-tests/){:target="_blank"}
     -   Part 5:
         [Undocumented Testing](https://www.developsense.com/blog/2011/12/what-exploratory-testing-is-not-part-5-undocumented-testing/){:target="_blank"}
--   [What Exploratory Testing Is Not](https://www.satisfice.com/blog/archives/678){:target="_blank"} by James Bach
+-   [What Exploratory Testing Is Not](https://www.satisfice.com/blog/archives/5224){:target="_blank"} by James Bach
 
 ---
 
 ### Session Based Test Management
 
--   [Session Based Test Management](https://www.satisfice.com/sbtm/index.shtml){:target="_blank"} by James Bach
--   [Session Based Test Management](https://www.satisfice.com/articles/sbtm.pdf){:target="_blank"} by Jon Bach
--   [Lessons Learned in Session-Based Exploratory Testing](https://staqs.com/docs/sbtm/){:target="_blank"} by Paul Carvalho
+-   [Session Based Test Management](https://www.satisfice.com/download/session-based-test-management){:target="_blank"} by James Bach
 -   [Session-Based Test Management and How We Made it Work](https://youtu.be/tAoqScOGD-M){:target="_blank"} (video) by Djuka Selendic
 -   [A Journey in Test Engineering Leadership: Applying Session-Based Test Management](https://www.infoq.com/articles/session-based-test-management/){:target="_blank"}
     by Djuka Selendic
@@ -540,11 +512,7 @@ Note: list below is copied from [Elizabeth Zagroba's website](https://elizabethz
 -   [Adventures in Session-Based Testing](https://www.workroom-productions.com/papers/AiSBTv1.2.pdf){:target="_blank"} by James Lyndsay
 -   [You can use the Session Based Test Approach all the time](https://simonsaysnomore.wordpress.com/2014/03/14/you-can-use-the-session-based-test-approach-all-the-time){:target="_blank"}
     by Peter “Simon” Schrijver
--   Session Based Test Management –
-    [The MindMap](https://www.ministryoftesting.com/2012/06/session-based-test-management-the-mindmap/){:target="_blank"} by Ministry of Testing
--   Session Based Test Management –
-    [Collected resources](https://www.ministryoftesting.com/resources/session-based-test-management/){:target="_blank"} by
-    Ministry of Testing
+-   [Session Based Test Management](https://www.ministryoftesting.com/software-testing-glossary/session-based-test-management-sbtm?s_id=19035151){:target="_blank"} by Ministry of Testing
 -   [Managing Heuristic Exploratory Testing Based on MindMap](https://how-do-i-test.blogspot.nl/2012/01/managing-heuristic-exploratory-testing.html){:target="_blank"}
     by Pekka Marjamäki
 -   [Benefits of session-based test management](https://katrinatester.blogspot.co.uk/2014/03/benefits-of-session-based-test.html){:target="_blank"}
@@ -621,15 +589,12 @@ Note: list below is copied from [Elizabeth Zagroba's website](https://elizabethz
 -   [Agile Testing & Test Management](https://vimeo.com/47652583){:target="_blank"} (video) by Johanna
     Rothman
 -   [AST Webinar: Growing Specialist Skills in Agile Teams](https://youtu.be/xyUNVeCHJUM){:target="_blank"} by Katrina Clokie
--   [Agile testing activity checklist](https://steveo1967.blogspot.nl/2014/09/agile-testing-activity-checklist.html){:target="_blank"} –
+-   [Agile testing activity checklist](https://steveo1967.blogspot.com/2014/09/agile-testing-activity-checklist.html){:target="_blank"} –
     John Stevenson
 -   [Test Jumpers: One Vision of Agile Testing](https://www.satisfice.com/blog/archives/1372){:target="_blank"} by James Bach
--   [I Prefer This Over That](https://testobsessed.com/2015/05/i-prefer-this-over-that/){:target="_blank"} by Elisabeth Hendrickson
 -   [Generic Testing Personas](https://katrinatester.blogspot.ch/2015/01/generic-testing-personas.html){:target="_blank"} by Katrina
     Clokie
 -   [Pair Testing](https://katrinatester.blogspot.co.uk/2015/05/pair-testing.html){:target="_blank"} by Katrina Clokie
--   [Sharing testing with non-testers in an agile team](https://nordictestingdays.eu/files/files/katrina_clokie-sharing_testing_with_nontesters_in_an_agile_team.pdf){:target="_blank"}
-    by Katrina Clokie
 -   [Test Strategy Retrospective](https://katrinatester.blogspot.co.nz/2014/04/test-strategy-retrospective.html){:target="_blank"} by
     Katrina Clokie
 -   [Agile à la Spotify](https://labs.spotify.com/2013/03/20/agile-a-la-spotify/){:target="_blank"} by Joakim Sundén
@@ -639,10 +604,7 @@ Note: list below is copied from [Elizabeth Zagroba's website](https://elizabethz
 -   [Beyond Method – Using Systems Thinking to Deepen Your Mastery of Agile](https://oredev.org/2011/sessions/beyond-method--using-systems-thinking-to-deepen-your-mastery-of-agile){:target="_blank"}
     by Tobias Fors
 -   [Making Sense of Complexity](https://youtu.be/y6RfqmTZejU){:target="_blank"} by Dave Snowden
--   [Role of testers in Agile Environment](https://www.stickyminds.com/article/role-testers-agile-environment){:target="_blank"} by John
-    Stevenson
--   [How to help your agile team succeed](https://www.cio.com.au/article/581883/how-help-your-agile-team-succeed/){:target="_blank"} by
-    Sharon Florentine
+-   [Role of testers in Agile Environment](https://www.stickyminds.com/article/role-testers-agile-environment){:target="_blank"} by John Stevenson
 -   [Pitfalls of Agile Transformations](https://www.leanessays.com/2015/07/pitfalls-of-agile-transformations-were.html){:target="_blank"}
     by Mary Poppendieck
 -   [Why People Don’t Instantly Buy Into Agile Methods: A Catch-22](https://secretsofconsulting.blogspot.nl/2012/10/why-people-dont-instantly-buy-into.html){:target="_blank"}
@@ -651,11 +613,7 @@ Note: list below is copied from [Elizabeth Zagroba's website](https://elizabethz
     Kristian Karl
 -   [Continuous Delivery Testing Pathway](https://katrinatester.blogspot.co.uk/2015/09/continuous-delivery-testing-pathway.html){:target="_blank"}
     by Katrina Clokie
--   [Agile Impressions and Errors with Jerry Weinberg](https://ryanripley.com/agile-impressions-and-errors-with-jerry-weinberg/){:target="_blank"}
-    by Agile for Humans
 -   [Agile Impressions](https://leanpub.com/jerrysblog){:target="_blank"} (book) by Jerry Weinberg
--   [Six Rules for Change](https://vimeo.com/127958083){:target="_blank"} (video) + [podcast](https://youtu.be/Eq1G-a4hSUQ){:target="_blank"} by Esther
-    Derby
 -   [Improve Team Collaboration by Co-creating a Team Poster](https://xebia.com/blog/improve-team-collaboration-by-co-creating-a-team-poster/){:target="_blank"}
     by Bart Bouwers
 -   Product Owners and Learning by Johanna Rothman –
@@ -672,18 +630,14 @@ Note: list below is copied from [Elizabeth Zagroba's website](https://elizabethz
     (video) by Trish Khoo
 -   [Tester in an agile team: a necessity or dispensable?](https://blog.xebia.com/tester-in-an-agile-team-a-necessity-or-dispensable){:target="_blank"}
     by Maaike Brinkhof
--   [Is BDD testing? Outside in development and testers](https://www.mwtestconsultancy.co.uk/bdd-testing-part-3/){:target="_blank"} by
-    Mark Winteringham
+-   [Is BDD testing? Outside in development and testers](https://www.mwtestconsultancy.co.uk/bdd-testing-part-3/){:target="_blank"} by Mark Winteringham
 -   [My perfect Agile Team (or, how agile \*can\* work)](https://www.nicola-sedgwick.com/2017/12/my-perfect-agile-team-or-how-agile-can-work/){:target="_blank"}
     by Nicola Sedgwick
--   [The 8 Stances of a Scrum Master](https://www.linkedin.com/pulse/video-8-stances-scrum-master-barry-overeem/) (video
-    is [here](https://youtu.be/Ts2Tl82fcXQ)){:target="_blank"} by Barry Overeem
--   [Why This Opportunity Solution Tree is Changing the Way Product Teams Work](https://www.producttalk.org/2016/08/opportunity-solution-tree/){:target="_blank"}
-    by Teresa Torres
--   [Spotify doesn’t use “the Spotify model” and neither should you](https://www.jeremiahlee.com/posts/failed-squad-goals/){:target="_blank"}
-    by Jeremiah Lee
+-   [The 8 Stances of a Scrum Master](https://www.linkedin.com/pulse/video-8-stances-scrum-master-barry-overeem/) (video is [here](https://youtu.be/Ts2Tl82fcXQ)){:target="_blank"} by Barry Overeem
+-   [Why This Opportunity Solution Tree is Changing the Way Product Teams Work](https://www.producttalk.org/2016/08/opportunity-solution-tree/){:target="_blank"} by Teresa Torres
+-   [Spotify doesn’t use “the Spotify model” and neither should you](https://www.jeremiahlee.com/posts/failed-squad-goals/){:target="_blank"} by Jeremiah Lee
 -   Story slicing:
-    -   [The Story Slicing Workshop](https://www.barryovereem.com/the-story-slicing-workshop/){:target="_blank"}
+    -   [The Story Slicing Workshop](https://www.linkedin.com/pulse/story-slicing-workshop-barry-overeem/){:target="_blank"}
     -   [How to Split a User Story](https://agileforall.com/resources/how-to-split-a-user-story/){:target="_blank"}
 
 ---
@@ -691,7 +645,7 @@ Note: list below is copied from [Elizabeth Zagroba's website](https://elizabethz
 ### Testability
 
 -   [Heuristics of testability](https://oredev.org/oredev2013/2013/wed-fri-conference/heuristics-of-testability.html){:target="_blank"}(video) by James Bach
--   [Heuristics of software testability](https://www.satisfice.com/tools/testable.pdf){:target="_blank"} by James Bach
+-   [Heuristics of software testability](https://www.satisfice.com/download/heuristics-of-software-testability){:target="_blank"} by James Bach
 -   [Testability](https://www.developsense.com/blog/2009/07/testability/){:target="_blank"} by Michael Bolton
 -   [Testability Problems Are Caused By Design Problems](https://youtu.be/cG0HHZZoIcI) by Dave Farley
 -   [Testability vs. Wtf’s per minute](https://www.shino.de/2009/07/10/testability-vs-wtfs-per-minute/){:target="_blank"} by Markus Gärtner
@@ -733,8 +687,6 @@ Note: list below is copied from [Elizabeth Zagroba's website](https://elizabethz
     [5](https://www.developsense.com/blog/2010/10/project-estimation-and-black-swans-part-5-test-estimation/){:target="_blank"})
 -   [Thoughts around test estimation](https://testerkiwi.blogspot.co.nz/2013/12/thoughts-around-test-estimation-irony.html){:target="_blank"}
     by Aaron Hodder
--   [Test Estimation and the Art of Negotiation](https://www.qualityperspectives.ca/documents/STARWest_TestEstimationArtofNegotiation_V1.1.pdf){:target="_blank"}
-    by Lynn McKee & Nancy Kelln
 -   [Estimating projects history of failure](https://secretsofconsulting.blogspot.nl/2006/04/estimating-projects-history-of-failure.html){:target="_blank"}
     by Jerry Weinberg
 -   [Predicting the Unpredictable: Pragmatic Approaches to Estimating Cost or Schedule](https://www.jrothman.com/books/predicting-the-unpredictable-pragmatic-approaches-to-estimating-cost-or-schedule/){:target="_blank"}
@@ -760,10 +712,8 @@ Note: list below is copied from [Elizabeth Zagroba's website](https://elizabethz
 -   [Testers Tell A Compelling Story](https://pixelgrill.com/testers-tell-a-compelling-story/){:target="_blank"} by Connor Roberts
 -   [Delivering Information vs. Delivering Meta-Information](https://elizabethzagroba.com/posts/2021/delivering_information_vs_delivering_meta_information/){:target="_blank"}
     by Elizabeth Zagroba
--   [A low tech testing dashboard](https://www.satisfice.com/presentations/dashboard.pdf){:target="_blank"} by James Bach
--   [How to give a professional test report](https://lets-test.com/wp-content/uploads/2013/06/Professional-Test-Reporting.pdf){:target="_blank"}
-    by James Bach
--   [I think we have an issue – Delivering Unwelcome Messages](https://testhuddle.com/resource/think-issue-delivering-unwelcome-messages-fiona-charles/){:target="_blank"}
+-   [A low tech testing dashboard](https://www.satisfice.com/download/low-tech-testing-dashboard){:target="_blank"} by James Bach
+-   [I think we have an issue – Delivering Unwelcome Messages](https://huddle.eurostarsoftwaretesting.com/resources/test-management/think-issue-delivering-unwelcome-messages-fiona-charles/){:target="_blank"}
     (video) by Fiona Charles
 -   [Bug Severity vs. Priority](https://quality-intelligence.blogspot.ca/2010/08/bug-severity-vs-priority.html){:target="_blank"} by Fiona
     Charles
@@ -783,11 +733,9 @@ What to learn more about storytelling? Have a look [here](/Storytelling/){:targe
 -   [Collected links on ISO29119 and the stop 29119 petition](/posts/test-standard-or-misguided-path){:target="_blank"}
 -   [My Thoughts on Testing Certifications](https://karennicolejohnson.com/2014/08/my-thoughts-on-testing-certifications/){:target="_blank"}
     by Karen N. Johnson
--   [Agile Certifications Are Actively Destructive](https://www.drdobbs.com/architecture-and-design/agile-certifications-are-actively-destru/240169223){:target="_blank"}
-    by Allen Holub
 -   [Testing standards? Can we do better?](https://clarotesting.wordpress.com/2013/11/12/testing-standards-can-we-do-better/){:target="_blank"}
     by James Christie
--   [Why I am not certified](https://www.satisfice.com/presentations/certified.pdf){:target="_blank"} by James Bach
+-   [Why I am not certified](https://www.satisfice.com/download/why-i-am-not-certified){:target="_blank"} by James Bach
 -   [Against certification](https://www.satisfice.com/blog/archives/36){:target="_blank"} by James Bach
 -   [What the certification sales lady said…](https://www.satisfice.com/blog/archives/130){:target="_blank"} by James Bach
 -   [Common Languages Ain’t So Common](https://www.developsense.com/blog/2011/06/common-languages-aint-so-common/){:target="_blank"} by
@@ -798,7 +746,7 @@ What to learn more about storytelling? Have a look [here](/Storytelling/){:targe
     by Michael Bolton
 -   [Certifiable – Fighting the fights worth fighting…](https://qualityremarks.com/certifiable-fighting-the-fights-worth-fighting/#more-1138){:target="_blank"}
     by Keith Klain
--   [Testing Qualifications – Certification revisited](https://steveo1967.blogspot.com.es/2013/04/testing-qualifications-certification.html){:target="_blank"}
+-   [Testing Qualifications – Certification revisited](https://steveo1967.blogspot.com/2013/04/testing-qualifications-certification.html){:target="_blank"}
     by John Stevenson
 -   [The Cost Of Certification And Professional Exlusion](https://www.duncannisbet.co.uk/the-cost-of-certification-and-professional-exlusion){:target="_blank"}
     by Duncan Nisbet
@@ -811,23 +759,16 @@ What to learn more about storytelling? Have a look [here](/Storytelling/){:targe
 
 ### Complexity & Cynefin
 
--   [Cynefin and Software Testing](https://testjutsu.com/2017/04/cynefin-and-software-testing/){:target="_blank"} by Ben Kelly
-    -   [Cynefin and Software Testing – The Obvious](https://testjutsu.com/2017/04/cynefin-and-software-testing-the-obvious/){:target="_blank"}
-    -   [Cynefin and Software Testing – The Complicated Domain](https://testjutsu.com/2017/06/cynefin-and-software-testing-the-complicated-domain/){:target="_blank"}
-    -   [Cynefin and Software Testing – The Complex Domain](https://testjutsu.com/2017/08/cynefin-and-software-testing-the-complex-domain/){:target="_blank"}
-    -   [Cynefin and Software Testing – Chaos](https://testjutsu.com/2017/07/cynefin-and-software-testing-chaos/){:target="_blank"}
-    -   [Cynefin and Software Testing – Disorder](https://testjutsu.com/2017/06/cynefin-and-software-testing-disorder/){:target="_blank"}
--   [Introduction to Cynefin](https://cognitive-edge.com/videos/cynefin-framework-introduction){:target="_blank"} by Dave Snowden
--   [Cynefin for Software Testers](https://www.associationforsoftwaretesting.org/2017/06/11/cynefin-and-software-testing-part-1-james-christie/){:target="_blank"}
-    by James Christie
+-   [Introduction to Cynefin](https://thecynefin.co/about-us/about-cynefin-framework/){:target="_blank"} by Dave Snowden
+-   [Cynefin for Software Testers](https://www.associationforsoftwaretesting.org/2017/06/11/cynefin-and-software-testing-part-1-james-christie/){:target="_blank"} by James Christie
 -   [Cynefin In Software Testing](https://www.duncannisbet.co.uk/cynefin-in-software-testing){:target="_blank"} by Duncan Nisbet
 -   [Software Testing and Cynefin](https://brokedbeta.blogspot.nl/2010/12/software-testing-and-cynefin.html){:target="_blank"} by Joseph
     Larson
 -   [Cynefin for Developers](https://lizkeogh.com/cynefin-for-developers/){:target="_blank"} by Liz Keogh
 -   [Using Cynefin to Solve Problems While Navigating Uncertainty](https://www.lean.org/LeanPost/Posting.cfm?LeanPostId=444){:target="_blank"}
     by Kim Ballestrin
--   [Cynefin Dynamics](https://cognitive-edge.com/blog/cynefin-dynamics){:target="_blank"} – Dave Snowden
--   [Freedom Through Constraints](https://cognitive-edge.com/blog/freedom-through-constraints){:target="_blank"} – Dave Snowden
+-   [Cynefin Dynamics](https://thecynefin.co/cynefin-dynamics/){:target="_blank"} – Dave Snowden
+-   [Freedom Through Constraints](https://thecynefin.co/freedom-through-constraints){:target="_blank"} – Dave Snowden
 -   [Embrace Complexity, Scale Agility](https://youtu.be/lYlqhvzI_VQ){:target="_blank"} (video) by Dave Snowden
 -   [Navigating Project Uncertainty – An Explorer’s Toolkit](https://vimeo.com/143063775){:target="_blank"} (video) by Kim Ballestrin
 -   [Codefin, or the fine art of knowing what to do and when and why](https://www.ustream.tv/recorded/102857981){:target="_blank"} (video)
@@ -865,7 +806,7 @@ What to learn more about storytelling? Have a look [here](/Storytelling/){:targe
     Donella Meadows
 -   [Are testers ethnographic researchers?](https://www.steveo1967.blogspot.com/2011/01/are-testers-ethnographic-researchers.html){:target="_blank"}
     by John Stevenson
--   [What You Believe Might Not Be True (Part 1)](https://steveo1967.blogspot.nl/2011/01/what-you-believe-might-not-be-true-part.html){:target="_blank"}
+-   [What You Believe Might Not Be True (Part 1)](https://steveo1967.blogspot.com/2011/01/what-you-believe-might-not-be-true-part.html){:target="_blank"}
     by John Stevenson
 -   [Danger: confirmation bias](https://steveo1967.blogspot.com/2010/07/danger-confirmation-bias.html){:target="_blank"} by John Stevenson
 -   [Combining Qualitative & Quantitative Research](https://usersknow.blogspot.ca/2013/02/combining-qualitative-quantitative.html){:target="_blank"}
@@ -879,9 +820,9 @@ What to learn more about storytelling? Have a look [here](/Storytelling/){:targe
 -   [Curing Our Binary Disease](https://www.thetesteye.com/presentations/REdgren_CuringOurBinaryDisease.pdf){:target="_blank"} (slides) by
     Rikard Edgren
 -   [But how many test cases?](https://clarotesting.wordpress.com/2010/07/21/but-how-many-test-cases/){:target="_blank"} by James Christie
--   [Reponse to How many test cases by James Christie](https://steveo1967.blogspot.nl/2010/07/reponse-to-how-many-test-cases-by-james.html){:target="_blank"}
+-   [Reponse to How many test cases by James Christie](https://steveo1967.blogspot.com/2010/07/reponse-to-how-many-test-cases-by-james.html){:target="_blank"}
     by John Stevenson
--   [The human element](https://steveo1967.blogspot.co.uk/2010/12/human-element.html){:target="_blank"} by John Stevenson
+-   [The human element](https://steveo1967.blogspot.com/2010/12/human-element.html){:target="_blank"} by John Stevenson
 -   [The coding manual for qualitative researchers](https://stevescollection.weebly.com/uploads/1/3/8/6/13866629/saldana_2009_the-coding-manual-for-qualitative-researchers.pdf){:target="_blank"}
     by Johnny Saldana
 -   [What we can learn from Russel L. Ackhoff](https://flowoftesting.wordpress.com/2012/07/06/what-we-can-learn-from-russell-l-ackoff/){:target="_blank"}
@@ -997,7 +938,6 @@ What to learn more about storytelling? Have a look [here](/Storytelling/){:targe
 -   [Visual Test Models](https://www.inspiredtester.com/inspired-tester-blog/visual-test-models){:target="_blank"} by Leah Stockley
 -   [Visual Test Design](https://www.amibugshare.com/workshops/Workshop_Visual_Test_Design.zip){:target="_blank"} by Rob Sabourin
 -   [Whiteboarding for Testers, Developers and Customers too](https://vimeo.com/55845357){:target="_blank"} by Rob Sabourin
--   [Drawing to learn – Sketching for testers](https://lets-test.com/wp-content/uploads/2014/03/tasting-lets-test-nl-2014-drawing-to-learn-sketching-for-testers-ruud-cox.pdf){:target="_blank"} by Ruud Cox
 -   [Visualisation](/posts/visualization){:target="_blank"} by Huib Schoots
 -   [Mindmapping 101](https://www.bettertesting.co.uk/content/?p=956){:target="_blank"} by Darren MacMillan
 -   [Thinking and working visually for software testers](/assets/files/Thinking-and-working-visually-for-software-testers-LetsTest2013.pdf){:target="_blank"} Let’s Test 2013 – 1/2 day tutorial by Jean-Paul Varwijk & Huib Schoots
