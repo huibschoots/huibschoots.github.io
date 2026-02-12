@@ -491,7 +491,6 @@ Note: list below is copied from [Elizabeth Zagroba's website](https://elizabethz
 -   [User profiles and exploratory testing](https://www.kohl.ca/2005/user-profiles-and-exploratory-testing/){:target="_blank"} by Jonathan
     Kohl
 -   [Exploratory testing on agile teams](https://www.informit.com/articles/article.asp?p=405514){:target="_blank"} by Jonathan Kohl
--   [Explaining Exploratory Testing Relies On Good Notes](https://thesocialtester.co.uk/explaining-exploratory-testing-relies-on-good-notes/){:target="_blank"} by Robert Lambert
 -   [Does Exploratory Testing Have A Place On Agile Teams?](https://www.stickyminds.com/sitewide.asp?Function=edetail&ObjectType=COL&ObjectId=13860){:target="_blank"} by Johanna Rothman
 -   [10 ways to do ET badly](https://dancedwiththetester.blogspot.com/2011/04/10-ways-to-do-exploratory-testing-badly.html){:target="_blank"} by Tony Bruce
 -   [BBST stuff on ET](https://testingeducation.org/BBST/exploratory/){:target="_blank"} by Cem Kaner
