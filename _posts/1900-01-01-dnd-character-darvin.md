@@ -24,10 +24,9 @@ Eldric became his companion, his support, and sometimes his conscience. Together
 
 ## Years at the Front
 ![Soldier](/assets/img/Darvin as a soldier.png){: width="200" .right}
-On the frontlines, Darvin quickly learned the brutal truth of war: the greatest danger often came not from the enemy, but from human mistakes and cruelty. He found brotherhood among fellow soldiers, but every victory felt hollow when innocents paid the price.
+On the frontlines, Darvin quickly learned the brutal truth of war: the greatest danger often came not from the enemy, but from human mistakes and cruelty. He found brotherhood among fellow soldiers, but every victory felt hollow when innocents paid the price. Because he lost so many people before, he did not make friends in the army being afraid to loose them again.
 
 ![Eldric dies](/assets/img/Eldric dies.png){: width="200" .right}
-
 His life changed forever during a bloody battle. Mercenaries and his own regiment attacked villages at the same time. Eldric tried to save a child and was cut down by Captain Bront Karsek for not charging forward. Darvin held his brother in his arms as the life drained from him. That moment and the guilt that he couldn’t save him, still burns in Darvin’s heart.
 
 ## The Call of Ilmater
