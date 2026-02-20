@@ -14,7 +14,8 @@ image:
 ![Darvin Zonvloek](/assets/img/Portrait_square.jpg){: width="200" .right}
 Darvin Zonvloek (Solbane in English) was born in a small border village where war and raiding were part of everyday life. His childhood was not a time of play, but of survival. Every plume of smoke on the horizon could mean disaster, and he learned early that caution mattered more than dreams.
 
-The village lived in constant uncertainty. His parents were simple farmers, hard working and full of love for their children. They taught him compassion, courage, and justice, even in a world that rarely offered any.
+![With his bro](/assets/img/With Eldric.png){: width="200" .right}
+The village lived in constant uncertainty. His parents were simple farmers, hard working and full of love for their children. Darvin loved working on the farm with his brother. They taught them compassion, courage, and justice, even in a world that rarely offered any.
 
 When war finally reached their home, his parents were killed during a raid. Darvin and his older brother Eldric survived, but the loss weighed heavily on them both.
 
@@ -30,7 +31,7 @@ On the frontlines, Darvin quickly learned the brutal truth of war: the greatest 
 His life changed forever during a bloody battle. Mercenaries and his own regiment attacked villages at the same time. Eldric tried to save a child and was cut down by Captain Bront Karsek for not charging forward. Darvin held his brother in his arms as the life drained from him. That moment and the guilt that he couldn’t save him, still burns in Darvin’s heart.
 
 ## The Call of Ilmater
-![Teaching](/assets/img/Aelira teaches Darvin.png){: width="300" .right}
+![Teaching](/assets/img/Aelira teaches Darvin.png){: width="200" .right}
 Darvin was overwhelmed by chaos, Priestess Aelira Dawnwhisper found him among the fallen. She tended to his wounds. Darvin left the army and took Aelira as a teacher. Under her guidance, Darvin learned the teachings of Ilmater: that true strength lies not in domination, but in endurance. Not in winning, but in healing.
 
 Returning to the ruins of his childhood, Darvin discovered a broken shrine to Ilmater, the god who carries the world’s suffering. The walls were cracked, the altar shattered, yet the silence was powerful. There he knelt. No thunderous voice. No blinding vision. Only a quiet truth settling in his heart:
@@ -46,9 +47,12 @@ Darvin fears the day he must again choose between obedience and saving a life. T
 ---
 
 ## His Mission
-Darvin now travels the land as a servant of Ilmater. He still carries his old shield—not as a weapon, but as a promise. His military experience helps him foresee danger and protect others. His hands, once hardened by war, now exist to heal.
+![Healing](/assets/img/Healing.png){: width="200" .right}
+Darvin now travels the land as a servant of Ilmater. He still carries his old shield—not as a weapon, but as a promise. His military experience helps him foresee danger and protect others. His hands, once hardened by war, now exist to heal.<br>
+
 **He fights only when necessary.
 He heals whenever possible.**
+<br>
 His mission is clear: protect those who cannot protect themselves, bring relief where pain reigns, and watch over the weak and innocent. Each life saved mends a small part of the damage he once witnessed or caused.
 
 ---
@@ -90,7 +94,6 @@ A group of healers Darvin worked with for a short time.
 They respect him deeply and see him as someone who brought hope to soldiers.
 
 ## Rivals / Enemies
-
 ![Bront Karsek](/assets/img/Bront Karsek.png){: width="200" .right}
 — Captain Bront Karsek<br>
 To Bront mercy is a sickness to be cut from the ranks. He and Darvin crossed blades of will at every turn. On the killing fields, as Eldric paused to save a child, Bront’s judgment was swift and final. After that Bront branded Darvin a deserter, abandoning his post, a lie etched into the rolls like a scar. Their fates are now knotted in blood, and Bront waits at the edge of the story, ready to return like a shadow that never truly left.
@@ -152,3 +155,7 @@ Holy Symbol of Ilmater – divine focus
 - Torn between military discipline and compassion
 
 These conflicts fuel dramatic moments, moral dilemmas, and rich role‑playing opportunities.
+
+
+![Party in the Tavern](/assets/img/Tavern.png){: width="300"}
+![Study](/assets/img/Study.png){: width="300"}
