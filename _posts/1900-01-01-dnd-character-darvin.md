@@ -64,7 +64,7 @@ Around his neck hangs the symbol of Ilmater, a constant reminder of his calling 
 Darvin Zonvloek once fought to survive.
 Now he lives to help others survive.
 His sword is no longer meant to kill but to protect. His strength lies not in destruction, but in healing.
-With every wound he mends, he honors the brothers and friends he lost—and carries their memory into the world.
+With every wound he mends, he honors the brothers and friends he lost and carries their memory into the world.
 
 ---
 
@@ -169,9 +169,9 @@ Defensive, only attacks to protect others.
 ---
 
 ## Tools
-Shield – symbol of protection
-Eldric’s dagger – practical and emotional
-Holy Symbol of Ilmater – divine focus
+Shield: symbol of protection
+Eldric’s dagger: practical and emotional
+Holy Symbol of Ilmater: divine focus
 
 ---
 
