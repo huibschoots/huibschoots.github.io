@@ -66,12 +66,18 @@ Now he lives to help others survive.
 His sword is no longer meant to kill but to protect. His strength lies not in destruction, but in healing.
 With every wound he mends, he honors the brothers and friends he lost—and carries their memory into the world.
 
+---
+
 ## Personality & Behavior
 Core Values: compassion, protection, patience
+
+---
 
 ### Ideals
 “Everyone deserves healing and protection, no matter who they are.”
 “Victory means nothing if innocents suffer.”
+
+---
 
 ## Allies
 Darvin feels a deep responsibility to protect his companions, sometimes at his own expense.
@@ -93,6 +99,8 @@ Later, Darvin discovered the ruined Ilmater sanctuary from his childhood—where
 A group of healers Darvin worked with for a short time.
 They respect him deeply and see him as someone who brought hope to soldiers.
 
+---
+
 ## Rivals / Enemies
 ![Bront Karsek](/assets/img/Bront Karsek.png){: width="200" .right}
 — Captain Bront Karsek<br>
@@ -106,19 +114,27 @@ Uncle Garrick’s sellswords, steel for hire and loyalty for sale, once lured Da
 — The Night Preacher<br>
 He moves like a shadow at the edge of campfires, a prophet of midnight promising strength wrapped in chains. Soldiers bent the knee to his honeyed poison, Darvin did not. Refusal is a beacon to men like him. The Preacher carries Darvin’s name like a thorn under the skin, and the night is patient.
 
+---
+
 ## Quirks
 - Quiet and observant in groups
 - Speaks only when he has something meaningful to say
+
+---
 
 ## Weaknesses
 - Fear of failing again
 - Overprotective of the weak
 - Avoids violence even when tactically unwise
 
+---
+
 ## Motivations & Goals
 - Short‑term: saving lives during adventures; keeping the group alive
 - Long‑term: healing the world where he can; honoring Eldric and fallen comrades
 - Personal Mission: perhaps one day rebuild or defend a temple or sanctuary of Ilmater
+
+---
 
 ## Relationships
 ### Family
@@ -133,21 +149,31 @@ Chose violence and betrayal, joining the mercenaries known as The Red Sickle, le
 Darvin grew up with Lyra, a girl as pure as the fields where they played. He secretly loved her. Sh secretly loves him too. During the attack on their village, they were separated. Lyra survived and was taken in by traveling healers. Darvin hopes to find her again someday, marry her, and protect her as he once promised.
 - All his other friends were killed in the same attack on the village as his parents.
 
+---
+
 ## Mechanical Style & Combat Approach
 Class: Cleric
 Regilion: Ilmater
 Domain: Life Domain (top-tier healer, strong support)
 
+---
+
 ## Strategy
 Combines military tactics with healing. Predicts danger, uses cover, heals at critical moments.
 
+---
+
 ## Fighting Style
 Defensive, only attacks to protect others.
+
+---
 
 ## Tools
 Shield – symbol of protection
 Eldric’s dagger – practical and emotional
 Holy Symbol of Ilmater – divine focus
+
+---
 
 ## Inner Conflicts
 - Guilt over his brother and fallen comrades
@@ -155,7 +181,6 @@ Holy Symbol of Ilmater – divine focus
 - Torn between military discipline and compassion
 
 These conflicts fuel dramatic moments, moral dilemmas, and rich role‑playing opportunities.
-
 
 ![Party in the Tavern](/assets/img/Tavern.png){: width="300"}
 ![Study](/assets/img/Study.png){: width="300"}
