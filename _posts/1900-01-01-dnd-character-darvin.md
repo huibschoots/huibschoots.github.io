@@ -70,7 +70,7 @@ Darvin feels a deep responsibility to protect his companions, sometimes at his o
 
 ![Maera Tovak](/assets/img/Sergeant Maera Tovak.png){: width="200" .right}
 - Sergeant Maera Tovak
-His former sergeant. Harsh, but fair. She always sensed something good in Darvin and often gave him extra responsibility. She is still alive, though disappointed that Darvin left the army—yet deep down she understands why he did.
+His former sergeant. Harsh, but fair. She always sensed something good in Darvin and often gave him extra responsibility. She taught him everything a soldier needs to know. She is still alive, though disappointed that Darvin left the army, yet deep down she understands why he did. They haven't seen each other for a while now. Their paths will cross again.
 
 ![Aelira Dawnwhisper](/assets/img/Aelira comforts Darvin.png){: width="200" .right}
 - Priestess Aelira Dawnwhisper
@@ -100,52 +100,52 @@ Uncle Garrick’s sellswords, steel for hire and loyalty for sale, once lured Da
 — The Night Preacher
 He moves like a shadow at the edge of campfires, a prophet of midnight promising strength wrapped in chains. Soldiers bent the knee to his honeyed poison, Darvin did not. Refusal is a beacon to men like him. The Preacher carries Darvin’s name like a thorn under the skin, and the night is patient.
 
-### Quirks
+## Quirks
+- Quiet and observant in groups
+- Speaks only when he has something meaningful to say
 
-Quiet and observant in groups
-Speaks only when he has something meaningful to say
+## Weaknesses
+- Fear of failing again
+- Overprotective of the weak
+- Avoids violence even when tactically unwise
 
-Weaknesses
+## Motivations & Goals
+- Short‑term: saving lives during adventures; keeping the group alive
+- Long‑term: healing the world where he can; honoring Eldric and fallen comrades
+- Personal Mission: perhaps one day rebuild or defend a temple or sanctuary of Ilmater
 
-Fear of failing again
-Overprotective of the weak
-Avoids violence even when tactically unwise
+## Relationships
+### Family
+- His brother Eldric is dead, but his memory guides Darvin’s moral compass. His parents were also killed in war.
+- The rest of his extended family was scattered—some may still be alive, but he knows he will never see them as they once were.
+- Uncle Garrick Zonvloek
+Chose violence and betrayal, joining the mercenaries known as The Red Sickle, leaving fear and death in his wake. A living reminder of the darkness people willingly embrace and a challenge to Darvin’s ideals.
 
+### Others
+![Lyra](/assets/img/With Lyra.png){: width="200" .right}
+- Lyra
+Darvin grew up with Lyra, a girl as pure as the fields where they played. He secretly loved her. Sh secretly loves him too. During the attack on their village, they were separated. Lyra survived and was taken in by traveling healers. Darvin hopes to find her again someday, marry her, and protect her as he once promised.
+- All his other friends were killed in the same attack on the village as his parents.
 
-Motivations & Goals
-Short‑term: saving lives during adventures; keeping the group alive
-Long‑term: healing the world where he can; honoring Eldric and fallen comrades
-Personal Mission: perhaps one day rebuild or defend a temple or sanctuary of Ilmater
+## Mechanical Style & Combat Approach
+Class: Cleric
+Regilion: Ilmater
+Domain: Life Domain (top-tier healer, strong support)
 
-Relationships
-Family
-His brother Eldric is dead, but his memory guides Darvin’s moral compass. His parents were also killed in war.
-The rest of his extended family was scattered—some may still be alive, but he knows he will never see them as they once were.
-Uncle Garrick Zonvloek
-Chose violence and betrayal, joining the mercenaries known as The Red Sickle, leaving fear and death in his wake.
-A living reminder of the darkness people willingly embrace—and a challenge to Darvin’s ideals.
-Lyra
-Darvin grew up with Lyra, a girl as pure as the fields where they played. He secretly loved her.
-During the attack on their village, they were separated. Lyra survived and was taken in by traveling healers.
-Darvin hopes to find her again someday, marry her, and protect her as he once promised.
+## Strategy
+Combines military tactics with healing. Predicts danger, uses cover, heals at critical moments.
 
-Mechanical Style & Combat Approach
-Class: Cleric – Life Domain (top-tier healer, strong support)
-Strategy
-Combines military tactics with healing; predicts danger, uses cover, heals at critical moments.
-Fighting Style
+## Fighting Style
 Defensive, only attacks to protect others.
-Tools
 
+## Tools
 Shield – symbol of protection
 Eldric’s dagger – practical and emotional
 Holy Symbol of Ilmater – divine focus
 
-
-Inner Conflicts
-
-Guilt over his brother and fallen comrades
-Fear of repeating past failures
-Torn between military discipline and compassion
+## Inner Conflicts
+- Guilt over his brother and fallen comrades
+- Fear of repeating past failures
+- Torn between military discipline and compassion
 
 These conflicts fuel dramatic moments, moral dilemmas, and rich role‑playing opportunities.
