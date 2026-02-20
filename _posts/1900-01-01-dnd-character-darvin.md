@@ -110,7 +110,7 @@ To Bront mercy is a sickness to be cut from the ranks. He and Darvin crossed bla
 — The Red Sickle<br>
 Uncle Garrick’s sellswords, steel for hire and loyalty for sale, once lured Darvin’s unit into a slaughtering ground. He crawled from the trap with life and rage, most never rose again. The Red Sickle marches beneath banners painted in cruelty, quick to betray and quicker to kill. They remember faces, they remember debts, and they would know Darvin anywhere.
 
-![The Night Preacher](/assets/img/The Night Preacher.jpeg){: width="200" .right}
+![The Night Preacher](/assets/img/The Night Preacher.jpeg){: width="100" .right}
 — The Night Preacher<br>
 He moves like a shadow at the edge of campfires, a prophet of midnight promising strength wrapped in chains. Soldiers bent the knee to his honeyed poison, Darvin did not. Refusal is a beacon to men like him. The Preacher carries Darvin’s name like a thorn under the skin, and the night is patient.
 
