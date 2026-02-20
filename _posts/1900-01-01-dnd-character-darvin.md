@@ -18,17 +18,23 @@ The village lived in constant uncertainty. His parents were simple farmers, hard
 
 When war finally reached their home, his parents were killed during a raid. Darvin and his older brother Eldric survived, but the loss weighed heavily on them both.
 
-![Loss of parents](/assets/img/Brothers mourning.png){: width="300" .right}
+![Loss of parents](/assets/img/Brothers mourning.png){: width="200" .right}
 
 Eldric became his companion, his support, and sometimes his conscience. Together they navigated the chaos, protecting each other in the shadow of violence. They joined the army, not out of pride or ambition, but out of necessity. The uniform offered food, shelter, and protection in a world that otherwise offered only chaos.
 
 ## Years at the Front
+![Soldier](/assets/img/Darvin as a soldier.png){: width="200" .right}
 On the frontlines, Darvin quickly learned the brutal truth of war: the greatest danger often came not from the enemy, but from human mistakes and cruelty. He found brotherhood among fellow soldiers, but every victory felt hollow when innocents paid the price.
+
+![Eldric dies](/assets/img/Eldric dies.png){: width="200" .right}
 
 His life changed forever during a bloody battle. Mercenaries and his own regiment attacked villages at the same time. Eldric tried to save a child and was cut down by Captain Bront Karsek for not charging forward. Darvin held his brother in his arms as the life drained from him. That moment and the guilt that he couldn’t save him, still burns in Darvin’s heart.
 
 ## The Call of Ilmater
-Returning to the ruins of his childhood, Darvin discovered a broken shrine to Ilmater—the god who carries the world’s suffering. The walls were cracked, the altar shattered, yet the silence was powerful. There he knelt. No thunderous voice. No blinding vision. Only a quiet truth settling in his heart:
+![Teaching](/assets/img/Aelira teaches Darvin.png){: width="300" .right}
+Darvin was overwhelmed by chaos, Priestess Aelira Dawnwhisper found him among the fallen. She tended to his wounds. Darvin left the army and took Aelira as a teacher. Under her guidance, Darvin learned the teachings of Ilmater: that true strength lies not in domination, but in endurance. Not in winning, but in healing.
+
+Returning to the ruins of his childhood, Darvin discovered a broken shrine to Ilmater, the god who carries the world’s suffering. The walls were cracked, the altar shattered, yet the silence was powerful. There he knelt. No thunderous voice. No blinding vision. Only a quiet truth settling in his heart:
 “Carry their pain. Ease their burdens. Do not let others suffer where you can act.”
 
 Darvin understood that true strength lies not in domination, but in endurance. Not in victory, but in healing. He chose Ilmater because he wanted to make a difference where once he could not.
@@ -61,7 +67,6 @@ With every wound he mends, he honors the brothers and friends he lost—and carr
 Core Values: compassion, protection, patience
 
 ### Ideals
-
 “Everyone deserves healing and protection, no matter who they are.”
 “Victory means nothing if innocents suffer.”
 
@@ -69,35 +74,34 @@ Core Values: compassion, protection, patience
 Darvin feels a deep responsibility to protect his companions, sometimes at his own expense.
 
 ![Maera Tovak](/assets/img/Sergeant Maera Tovak.png){: width="200" .right}
-- Sergeant Maera Tovak
+- Sergeant Maera Tovak<br>
 His former sergeant. Harsh, but fair. She always sensed something good in Darvin and often gave him extra responsibility. She taught him everything a soldier needs to know. She is still alive, though disappointed that Darvin left the army, yet deep down she understands why he did. They haven't seen each other for a while now. Their paths will cross again.
 
 ![Aelira Dawnwhisper](/assets/img/Aelira comforts Darvin.png){: width="200" .right}
-- Priestess Aelira Dawnwhisper
-During the siege, when Eldric died and Darvin was nearly overwhelmed by chaos, Priestess Aelira Dawnwhisper found him among the fallen. She tended to his wounds—not just of the body, but also of the spirit.
-Under her guidance, Darvin learned the teachings of Ilmater: that true strength lies not in domination, but in endurance. Not in winning, but in healing.
+- Priestess Aelira Dawnwhisper<br>
+During the siege, when Eldric died and Darvin was nearly overwhelmed by chaos, Priestess Aelira Dawnwhisper found him among the fallen. She tended to his wounds, not just of the body, but also of the spirit. Under her guidance, Darvin learned the teachings of Ilmater: that true strength lies not in domination, but in endurance. Not in winning, but in healing.
 
 Aelira became his mentor, the guiding voice when he felt he had lost everything.
 Before he left on his own path, she gave him a personal mission that still drives him today: “Bring light where you once brought darkness.”
 Later, Darvin discovered the ruined Ilmater sanctuary from his childhood—where the quiet truth settled in his heart and his calling became permanent.
 
 ![White flame](/assets/img/The White Flame.jpeg){: width="200" .right}
-- The Mobile Field Hospital Unit “The White Flame”
+- The Mobile Field Hospital Unit “The White Flame”<br>
 A group of healers Darvin worked with for a short time.
 They respect him deeply and see him as someone who brought hope to soldiers.
 
 ## Rivals / Enemies
 
 ![Bront Karsek](/assets/img/Bront Karsek.png){: width="200" .right}
-— Captain Bront Karsek
+— Captain Bront Karsek<br>
 To Bront mercy is a sickness to be cut from the ranks. He and Darvin crossed blades of will at every turn. On the killing fields, as Eldric paused to save a child, Bront’s judgment was swift and final. After that Bront branded Darvin a deserter, abandoning his post, a lie etched into the rolls like a scar. Their fates are now knotted in blood, and Bront waits at the edge of the story, ready to return like a shadow that never truly left.
 
 ![The Red Sickle](/assets/img/The Red Sickle.jpeg){: width="200" .right}
-— The Red Sickle
+— The Red Sickle<br>
 Uncle Garrick’s sellswords, steel for hire and loyalty for sale, once lured Darvin’s unit into a slaughtering ground. He crawled from the trap with life and rage, most never rose again. The Red Sickle marches beneath banners painted in cruelty, quick to betray and quicker to kill. They remember faces, they remember debts, and they would know Darvin anywhere.
 
 ![The Night Preacher](/assets/img/The Night Preacher.jpeg){: width="200" .right}
-— The Night Preacher
+— The Night Preacher<br>
 He moves like a shadow at the edge of campfires, a prophet of midnight promising strength wrapped in chains. Soldiers bent the knee to his honeyed poison, Darvin did not. Refusal is a beacon to men like him. The Preacher carries Darvin’s name like a thorn under the skin, and the night is patient.
 
 ## Quirks
