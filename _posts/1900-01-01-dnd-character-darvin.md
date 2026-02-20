@@ -1,7 +1,7 @@
 ---
 title: Darvin Zonvloek
 description: My D&D Clerc character!
-date: 1900-01-01 00:00:01 +0100
+date: 1970-05-06 00:00:01 +0100
 categories:
 tags: # TAG names should always be lowercase
 image:
