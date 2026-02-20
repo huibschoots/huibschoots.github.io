@@ -182,5 +182,5 @@ Holy Symbol of Ilmater: divine focus
 
 These conflicts fuel dramatic moments, moral dilemmas, and rich role‑playing opportunities.
 
-![Party in the Tavern](/assets/img/Tavern.png){: width="300"}
-![Study](/assets/img/Study.png){: width="300"}
+![Party in the Tavern](/assets/img/Tavern.png)<br>
+![Study](/assets/img/Study.png)
