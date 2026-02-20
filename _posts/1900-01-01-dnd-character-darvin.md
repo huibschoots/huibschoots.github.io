@@ -102,7 +102,7 @@ They respect him deeply and see him as someone who brought hope to soldiers.
 ---
 
 ## Rivals / Enemies
-![Bront Karsek](/assets/img/Bront Karsek.png){: width="200" .right}
+![Bront Karsek](/assets/img/Bront Karsek.png){: width="100" .right}
 — Captain Bront Karsek<br>
 To Bront mercy is a sickness to be cut from the ranks. He and Darvin crossed blades of will at every turn. On the killing fields, as Eldric paused to save a child, Bront’s judgment was swift and final. After that Bront branded Darvin a deserter, abandoning his post, a lie etched into the rolls like a scar. Their fates are now knotted in blood, and Bront waits at the edge of the story, ready to return like a shadow that never truly left.
 
