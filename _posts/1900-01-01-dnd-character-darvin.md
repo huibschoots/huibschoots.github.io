@@ -10,61 +10,83 @@ image:
 
 
 
-##The Beginning
-![Darvin Zonvloek](/assets/img/Portrait_square.jpg){: width="400" .right}
+## The Beginning
+![Darvin Zonvloek](/assets/img/Portrait_square.jpg){: width="200" .right}
 Darvin Zonvloek (Solbane in English) was born in a small border village where war and raiding were part of everyday life. His childhood was not a time of play, but of survival. Every plume of smoke on the horizon could mean disaster, and he learned early that caution mattered more than dreams.
 
 The village lived in constant uncertainty. His parents were simple farmers, hard working and full of love for their children. They taught him compassion, courage, and justice, even in a world that rarely offered any.
 
 When war finally reached their home, his parents were killed during a raid. Darvin and his older brother Eldric survived, but the loss weighed heavily on them both.
 
-![Loss of parents](/assets/img/Brothers mourning.png){: width="400" .right}
+![Loss of parents](/assets/img/Brothers mourning.png){: width="300" .right}
 
-Eldric became his companion, his support, and sometimes his conscience. Together they navigated the chaos, protecting each other in the shadow of violence.
-They joined the army—not out of pride or ambition, but out of necessity. The uniform offered food, shelter, and protection in a world that otherwise offered only chaos.
+Eldric became his companion, his support, and sometimes his conscience. Together they navigated the chaos, protecting each other in the shadow of violence. They joined the army, not out of pride or ambition, but out of necessity. The uniform offered food, shelter, and protection in a world that otherwise offered only chaos.
 
-Years at the Front
+## Years at the Front
 On the frontlines, Darvin quickly learned the brutal truth of war: the greatest danger often came not from the enemy, but from human mistakes and cruelty. He found brotherhood among fellow soldiers, but every victory felt hollow when innocents paid the price.
-His life changed forever during a bloody battle. Mercenaries and his own regiment attacked villages at the same time. Eldric tried to save a child and was cut down by Captain Bront Karsek for not charging forward. Darvin held his brother in his arms as the life drained from him.
-That moment—and the guilt that he couldn’t save him—still burns in Darvin’s heart.
 
-The Call of Ilmater
+His life changed forever during a bloody battle. Mercenaries and his own regiment attacked villages at the same time. Eldric tried to save a child and was cut down by Captain Bront Karsek for not charging forward. Darvin held his brother in his arms as the life drained from him. That moment and the guilt that he couldn’t save him, still burns in Darvin’s heart.
+
+## The Call of Ilmater
 Returning to the ruins of his childhood, Darvin discovered a broken shrine to Ilmater—the god who carries the world’s suffering. The walls were cracked, the altar shattered, yet the silence was powerful. There he knelt. No thunderous voice. No blinding vision. Only a quiet truth settling in his heart:
 “Carry their pain. Ease their burdens. Do not let others suffer where you can act.”
-Darvin understood that true strength lies not in domination, but in endurance. Not in victory, but in healing.
-He chose Ilmater because he wanted to make a difference where once he could not.
 
-Inner Struggle
+Darvin understood that true strength lies not in domination, but in endurance. Not in victory, but in healing. He chose Ilmater because he wanted to make a difference where once he could not.
+
+---
+
+## Inner Struggle
 Darvin fears the day he must again choose between obedience and saving a life. The guilt of losing his brother haunts him, and he fears he can never make up for the deaths he has seen—some even caused by his own hand. Yet this drives him forward. Every life he saves is a small redemption.
 
-His Mission
+---
+
+## His Mission
 Darvin now travels the land as a servant of Ilmater. He still carries his old shield—not as a weapon, but as a promise. His military experience helps him foresee danger and protect others. His hands, once hardened by war, now exist to heal.
-He fights only when necessary.
-He heals whenever possible.
+**He fights only when necessary.
+He heals whenever possible.**
 His mission is clear: protect those who cannot protect themselves, bring relief where pain reigns, and watch over the weak and innocent. Each life saved mends a small part of the damage he once witnessed or caused.
 
-Symbols of His Past
+---
 
+## Symbols of His Past
 He always carries Eldric’s dagger, a tangible reminder and a personal oath.
 Around his neck hangs the symbol of Ilmater, a constant reminder of his calling and the strength of compassion.
 
-
-Conclusion
 Darvin Zonvloek once fought to survive.
 Now he lives to help others survive.
 His sword is no longer meant to kill but to protect. His strength lies not in destruction, but in healing.
 With every wound he mends, he honors the brothers and friends he lost—and carries their memory into the world.
 
-Personality & Behavior
+## Personality & Behavior
 Core Values: compassion, protection, patience
-Ideals
+
+### Ideals
 
 “Everyone deserves healing and protection, no matter who they are.”
 “Victory means nothing if innocents suffer.”
 
-Allies
+## Allies
 Darvin feels a deep responsibility to protect his companions, sometimes at his own expense.
-Quirks
+
+![Maera Tovak](/assets/img/Sergeant Maera Tovak.png){: width="200" .right}
+- Sergeant Maera Tovak
+His former sergeant. Harsh, but fair. She always sensed something good in Darvin and often gave him extra responsibility. She is still alive, though disappointed that Darvin left the army—yet deep down she understands why he did.
+
+![Aelira Dawnwhisper](/assets/img/Aelira comforts Darvin.png){: width="200" .right}
+- Priestess Aelira Dawnwhisper
+During the siege, when Eldric died and Darvin was nearly overwhelmed by chaos, Priestess Aelira Dawnwhisper found him among the fallen. She tended to his wounds—not just of the body, but also of the spirit.
+Under her guidance, Darvin learned the teachings of Ilmater: that true strength lies not in domination, but in endurance. Not in winning, but in healing.
+
+Aelira became his mentor, the guiding voice when he felt he had lost everything.
+Before he left on his own path, she gave him a personal mission that still drives him today: “Bring light where you once brought darkness.”
+Later, Darvin discovered the ruined Ilmater sanctuary from his childhood—where the quiet truth settled in his heart and his calling became permanent.
+
+![White flame](/assets/img/The White Flame.jpeg){: width="200" .right}
+- The Mobile Field Hospital Unit “The White Flame”
+A group of healers Darvin worked with for a short time.
+They respect him deeply and see him as someone who brought hope to soldiers.
+
+### Quirks
 
 Quiet and observant in groups
 Speaks only when he has something meaningful to say
