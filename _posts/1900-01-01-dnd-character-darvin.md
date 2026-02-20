@@ -11,7 +11,7 @@ image:
 
 
 ## The Beginning
-![Darvin Zonvloek](/assets/img/Portrait_square.jpg){: width="200" .right}
+![Darvin Zonvloek](/assets/img/Portrait_square.jpg){: width="100" .right}
 Darvin Zonvloek (Solbane in English) was born in a small border village where war and raiding were part of everyday life. His childhood was not a time of play, but of survival. Every plume of smoke on the horizon could mean disaster, and he learned early that caution mattered more than dreams.
 
 ![With his bro](/assets/img/With Eldric.png){: width="200" .right}
