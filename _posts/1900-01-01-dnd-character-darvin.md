@@ -86,6 +86,20 @@ Later, Darvin discovered the ruined Ilmater sanctuary from his childhood—where
 A group of healers Darvin worked with for a short time.
 They respect him deeply and see him as someone who brought hope to soldiers.
 
+## Rivals / Enemies
+
+![Bront Karsek](/assets/img/Bront Karsek.png){: width="200" .right}
+— Captain Bront Karsek
+To Bront mercy is a sickness to be cut from the ranks. He and Darvin crossed blades of will at every turn. On the killing fields, as Eldric paused to save a child, Bront’s judgment was swift and final. After that Bront branded Darvin a deserter, abandoning his post, a lie etched into the rolls like a scar. Their fates are now knotted in blood, and Bront waits at the edge of the story, ready to return like a shadow that never truly left.
+
+![The Red Sickle](/assets/img/The Red Sickle.jpeg){: width="200" .right}
+— The Red Sickle
+Uncle Garrick’s sellswords, steel for hire and loyalty for sale, once lured Darvin’s unit into a slaughtering ground. He crawled from the trap with life and rage, most never rose again. The Red Sickle marches beneath banners painted in cruelty, quick to betray and quicker to kill. They remember faces, they remember debts, and they would know Darvin anywhere.
+
+![The Night Preacher](/assets/img/The Night Preacher.jpeg){: width="200" .right}
+— The Night Preacher
+He moves like a shadow at the edge of campfires, a prophet of midnight promising strength wrapped in chains. Soldiers bent the knee to his honeyed poison, Darvin did not. Refusal is a beacon to men like him. The Preacher carries Darvin’s name like a thorn under the skin, and the night is patient.
+
 ### Quirks
 
 Quiet and observant in groups
@@ -114,18 +128,6 @@ Lyra
 Darvin grew up with Lyra, a girl as pure as the fields where they played. He secretly loved her.
 During the attack on their village, they were separated. Lyra survived and was taken in by traveling healers.
 Darvin hopes to find her again someday, marry her, and protect her as he once promised.
-Mentors
-
-Sergeant Maera Tovak – his mentor during his soldier years
-Priestess Aelira Dawnwhisper – his guide in the faith
-
-Rivals / Enemies
-
-Captain Bront Karsek
-Uncle Garrick Zonvloek
-The Red Sickle (his uncle’s band)
-The Night Preacher
-
 
 Mechanical Style & Combat Approach
 Class: Cleric – Life Domain (top-tier healer, strong support)
