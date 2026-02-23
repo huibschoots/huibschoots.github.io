@@ -350,18 +350,17 @@ I am trully grateful for the conversations we've had, the knowledge we shared, t
 
 
 <script src="https://giscus.app/client.js"
-        data-repo="ddev/giscus-comments"
-        data-repo-id="R_kgDON5ODtA"
-        data-category="Add-on registry comments"
-        data-category-id="DIC_kwDON5ODtM4Cm8gG"
-        data-mapping="title"
-        data-strict="0"
+        data-repo="huibschoots/huibschoots.github.io"
+        data-repo-id="R_kgDOQSZ_8w"
+        data-category="General"
+        data-category-id="DIC_kwDOQSZ_884C2OCH"
+        data-mapping="pathname"
+        data-strict="1"
         data-reactions-enabled="1"
         data-emit-metadata="0"
-        data-input-position="top"
-        data-theme="light"
+        data-input-position="bottom"
+        data-theme="preferred_color_scheme"
         data-lang="en"
-        data-loading="lazy"
         crossorigin="anonymous"
         async>
 </script>
