@@ -800,7 +800,7 @@ What to learn more about storytelling? Have a look [here](/Storytelling/){:targe
     (book) by Jerry Weinberg
 -   [Thinking in systems: a primer](https://www.amazon.com/Thinking-Systems-Donella-H-Meadows/dp/1603580557){:target="_blank"} (book) by
     Donella Meadows
--   [Are testers ethnographic researchers?](https://www.steveo1967.blogspot.com/2011/01/are-testers-ethnographic-researchers.html){:target="_blank"}
+-   [Are testers ethnographic researchers?](https://www.logigear.com/blogs/software-testing/Are-Testers-Ethnographic-Researchers){:target="_blank"}
     by John Stevenson
 -   [What You Believe Might Not Be True (Part 1)](https://steveo1967.blogspot.com/2011/01/what-you-believe-might-not-be-true-part.html){:target="_blank"}
     by John Stevenson
@@ -845,7 +845,6 @@ What to learn more about storytelling? Have a look [here](/Storytelling/){:targe
 -   [Weekend Testers](https://weekendtesting.com/){:target="_blank"}
 -   [BBST – videos](https://www.youtube.com/channel/UCJDGVyPVhuwHiVlFLJ38XPg){:target="_blank"} (Altom & Kaner)
 -   [Testers' Playground: collection of games and exercises for testers](https://yard-drain.unicornplatform.page/testersplayground/){:target="_blank"} by by Ajay Balamurugadas & Rahul Parwal
--   [The nine forgettings](https://www.youtube.com/watch?v=hNkzZ7zZxE0){:target="_blank"} "The nine forgettings" (video) by Lee Copeland
 -   [Six thinking hats for testers](https://www.youtube.com/watch?v=DasTbFUcmtI){:target="_blank"} (video) by Julian Harty
 -   [How Challenging Each Other Helps the Craft](https://www.satisfice.com/blog/archives/475){:target="_blank"} by James Bach
 -   [Transpection Session: Inputs and Expected Results](https://www.developsense.com/blog/2010/05/a-transpection-session-inputs-and-expected-results/){:target="_blank"}
@@ -864,12 +863,9 @@ What to learn more about storytelling? Have a look [here](/Storytelling/){:targe
 -   [Learning how to learn](https://youtu.be/O96fE1E-rf8){:target="_blank"} (video) by Barbara Oakley
 -   [Learning How to Learn: Powerful mental tools to help you master tough subjects](https://www.coursera.org/learn/learning-how-to-learn){:target="_blank"}
     (MOOC)
--   8 Lessons on Learning: How to Develop a New Skill (Without Giving Up) by Yoni Dina –
-    [Part 1](https://theartofcharm.com/productivity/8-lessons-learning-develop-new-skill-without-giving-part-1/){:target="_blank"} –
-    [Part 2](https://theartofcharm.com/productivity/8-lessons-learning-develop-new-skill-without-giving-part-2/){:target="_blank"}
+- [8 Tips for Learning a New Skill](8-lessons-learning-develop-new-skill-without-giving-part-1/){:target="_blank"}
 -   [How to Acquire Any New Skill in 20 Hours or Less](https://www.iwillteachyoutoberich.com/blog/how-to-acquire-any-new-skill-in-20-hours-or-less/){:target="_blank"}
     by Josh Kaufman
--   [How To Become An Expert](https://www.entrepreneurs-journey.com/7706/how-to-become-an-expert/){:target="_blank"} by Dr. Mani
 -   [30 Tips for Learning Any Skill Faster](https://daringtolivefully.com/how-to-learn-any-skill-faster){:target="_blank"} by Marelisa
     Fabrega
 -   [ROI on learning hour](https://www.slideshare.net/llewellynfalco/roi-on-learning-hour){:target="_blank"} by Llewellyn Falco
@@ -884,11 +880,8 @@ What to learn more about storytelling? Have a look [here](/Storytelling/){:targe
     [Mental Models: The Best Way to Make Intelligent Decisions (109 Models Explained)](https://fs.blog/mental-models/#building_a_latticework_of_mental_models){:target="_blank"}
 -   Thinking skills: [Critical Reasoning for Beginner](https://podcasts.ox.ac.uk/series/critical-reasoning-beginners){:target="_blank"}
 -   [A Field Guide to Critical Thinking](https://www.csicop.org/si/show/field_guide_to_critical_thinking/){:target="_blank"} by James Lett
--   [Critical Thinking For Testers with Michael Bolton](https://www.testthisblog.com/2012/08/critical-thinking-for-testers-with.html){:target="_blank"}
-    by Eric Jacobson
 -   System Thinking: [Russell Ackoff](https://youtu.be/OqEeIG8aPPk){:target="_blank"} (video)
 -   [Systems thinking made clear](https://growthcycle.typepad.com/positive_structures/2011/04/systems-thinking-made-clear.html){:target="_blank"}"Systems thinking made clear" (video) by Russell Ackoff
--   [Think 101x, The Science of Everyday Thinking](https://think101.org/){:target="_blank"} (Online course)
 -   [Think 101x](https://www.youtube.com/user/xTHINK101/playlists){:target="_blank"} (video collection)
 -   [Thinking fast and slow](https://www.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman/dp/0374275637){:target="_blank"} (book) – Daniel
     Kahneman
@@ -902,13 +895,12 @@ What to learn more about storytelling? Have a look [here](/Storytelling/){:targe
 -   [You’re not so smart](https://www.amazon.com/You-Are-Not-So-Smart/dp/1592407366){:target="_blank"} (book) – David McRaney
 -   [A Guide to Logical Fallacies](https://www.openculture.com/2015/03/a-guide-to-logical-fallacies.html){:target="_blank"}: The “Ad
     Hominem,” “Strawman” & Other Fallacies Explained in 2-Minute Videos
--   [Cognitive bias cheat sheet](https://betterhumans.coach.me/cognitive-bias-cheat-sheet-55a472476b18#.5q3u387fg){:target="_blank"} by
-    Buster Benson
+-   [Cognitive bias cheat sheet](https://buster.medium.com/cognitive-bias-cheat-sheet-55a472476b18){:target="_blank"} by Buster Benson
 -   [An Introduction to General Systems Thinking](https://www.amazon.com/Introduction-General-Systems-Thinking-Anniversary/dp/0932633498){:target="_blank"}
     (book) by Jerry Weinberg
 -   [Cynefin for Developers (and testers)](https://lizkeogh.com/cynefin-for-developers/){:target="_blank"} by Liz Keogh
 -   [Calling Bullshit](https://callingbullshit.org/videos.html){:target="_blank"} (videos)
--   [Fundamental Concepts for Better Problem Solving](https://www.ineffable-solutions.com/single-post/Fundamental-Concepts-for-Better-Problem-Solving){:target="_blank"} by Damian Synadinos
+-   [Fundamental Concepts for Better Problem Solving](https://www.ineffable-solutions.com/post/fundamental-concepts-for-better-problem-solving){:target="_blank"} by Damian Synadinos
 
 ---
 
@@ -950,42 +942,26 @@ What to learn more about storytelling? Have a look [here](/Storytelling/){:targe
 -   [Why I still like pyramids](https://thatsthebuffettable.blogspot.nl/2016/03/why-i-still-like-pyramids.html){:target="_blank"} by
     Marcel Gehlen
 -   [Software Test Automation: A Real World Problem](https://www.kaner.com/pdfs/allegheny.pdf){:target="_blank"} by Cem Kaner
--   [Can Automation Aid Manual Testing? An Interview](https://dzone.com/articles/interview-jonathan-kohl-can-au){:target="_blank"} with
-    Jonathan Kohl
--   [Test Automation Snake Oil](https://www.satisfice.com/articles/test_automation_snake_oil.pdf){:target="_blank"} by James Bach
--   [Using strong-style pairing and a coding dojo for test automation training](https://katrinatester.blogspot.co.nz/2015/11/using-strong-style-pairing-and-coding.html){:target="_blank"}
-    by Katrina Clokie
+-   [Test Automation Snake Oil](https://www.satisfice.com/download/test-automation-snake-oil){:target="_blank"} by James Bach
+-   [Using strong-style pairing and a coding dojo for test automation training](https://katrinatester.blogspot.co.nz/2015/11/using-strong-style-pairing-and-coding.html){:target="_blank"} by Katrina Clokie
 -   [The Digital Divide and Test Automation](https://youtu.be/YhQHgYZyt1U){:target="_blank"} (video) by Katrina Clokie
 -   [Your Tests Aren’t Flaky, You Are!](https://youtu.be/XnkWkrbzMh0){:target="_blank"} (video) by Richard Bradshaw
 -   [Flawed Approach to Regression Testing (F.A.R.T) Model](https://youtu.be/P2PUXqasvGI){:target="_blank"} by Richard Bradshaw
 -   [Why was this check created?](https://www.thefriendlytester.co.uk/2016/02/why-was-this-check-created.html){:target="_blank"} by
     Richard Bradshaw
 -   [Who tests the checks?](https://www.thefriendlytester.co.uk/2014/03/who-tests-checks.html){:target="_blank"} by Richard Bradshaw
--   [How Often Do You Really Fix A “Failing” Automated Check](https://www.thefriendlytester.co.uk/2015/06/how-often-do-you-really-fix-failing.html){:target="_blank"}
-    by Richard Bradshaw
--   [How To Get Started With Automation in Testing with Richard Bradshaw](https://dojo.ministryoftesting.com/lessons/podcast-richard-bradshaw-test-automation){:target="_blank"}
-    (Podcast)
--   [Automation in Testing with Richard Bradshaw](https://www.softwaretestpro.com/Item/5955/Richard-Bradshaw-Automation-in-Testing/Automation-Testing-podcast){:target="_blank"}
-    (Podcast)
--   [Can Automation Do Actual Testing with Richard Bradshaw](https://joecolantonio.com/testtalks/47-richard-bradshaw-can-automation-do-actual-testing/){:target="_blank"}
-    (Podcast)
--   [Test automation – the bitter truth](https://mrslavchev.com/2016/06/14/test-automation-the-bitter-truth/){:target="_blank"} by Viktor
-    Slavchev
--   [Tester Augmentation, Not Test Automation](https://medium.com/salesforce-engineering/tester-augmentation-not-test-automation-1de28269c9a4#.6ay4lf5l6){:target="_blank"}
-    by Josh Meier
+-   [How Often Do You Really Fix A “Failing” Automated Check](https://www.thefriendlytester.co.uk/2015/06/how-often-do-you-really-fix-failing.html){:target="_blank"} by Richard Bradshaw
+-   [Can Automation Do Actual Testing with Richard Bradshaw](https://joecolantonio.com/testtalks/47-richard-bradshaw-can-automation-do-actual-testing/){:target="_blank"} (Podcast)
+-   [Test automation – the bitter truth](https://mrslavchev.com/2016/06/14/test-automation-the-bitter-truth/){:target="_blank"} by Viktor Slavchev
+-   [Tester Augmentation, Not Test Automation](https://medium.com/salesforce-engineering/tester-augmentation-not-test-automation-1de28269c9a4#.6ay4lf5l6){:target="_blank"} by Josh Meier
 -   [A Model of Automating](https://blog.eviltester.com/2016/09/a-model-of-automating.html){:target="_blank"} by Alan Richardson
--   [When do we prefer manual testing over automated testing?](https://blog.eviltester.com/2016/10/q-when-do-we-prefer-manual-testing-over.html){:target="_blank"}
-    By Alan Richardson
--   [Some thoughts on the future of test automation](https://www.ontestautomation.com/some-thoughts-on-the-future-of-test-automation/){:target="_blank"}
-    by Bas Dijkstra
--   [On becoming a test automation craftsman](https://www.ontestautomation.com/on-becoming-a-test-automation-craftsman/){:target="_blank"}
-    by Bas Dijkstra
+-   [When do we prefer manual testing over automated testing?](https://blog.eviltester.com/2016/10/q-when-do-we-prefer-manual-testing-over.html){:target="_blank"} By Alan Richardson
+-   [Some thoughts on the future of test automation](https://www.ontestautomation.com/some-thoughts-on-the-future-of-test-automation/){:target="_blank"} by Bas Dijkstra
+-   [On becoming a test automation craftsman](https://www.ontestautomation.com/on-becoming-a-test-automation-craftsman/){:target="_blank"} by Bas Dijkstra
 -   [So What Do You Do If You Don’t Do Testing?!](https://youtu.be/L-WOJmCcA9g){:target="_blank"} (video) by Sally Goble
 -   [Integrated Tests Are A Scam](https://vimeo.com/80533536){:target="_blank"} (video) by J.B. Rainsberger
--   [How I would approach creating automated user interface-driven tests](https://www.ontestautomation.com/how-i-would-approach-creating-automated-user-interface-driven-tests/){:target="_blank"}
-    by Bas Dijkstra
--   [Implication of emphasis on automation in CI](https://thetesteye.com/blog/2017/03/implication-of-emphasis-on-automation-in-ci/){:target="_blank"}
-    by Martin Jansson
+-   [How I would approach creating automated user interface-driven tests](https://www.ontestautomation.com/how-i-would-approach-creating-automated-user-interface-driven-tests/){:target="_blank"} by Bas Dijkstra
+-   [Implication of emphasis on automation in CI](https://thetesteye.com/blog/2017/03/implication-of-emphasis-on-automation-in-ci/){:target="_blank"} by Martin Jansson
 -   [Test Automation Canvas](https://katrinatester.blogspot.nl/2017/07/test-automation-canvas.html){:target="_blank"} by Katrina Clokie
 -   [Tackle the hard problems first](https://www.ontestautomation.com/tackle-the-hard-problems-first/){:target="_blank"} by Bas Dijkstra
 -   [Automation – What bugs me](https://beaglesays.blog/2020/06/22/automation-what-bugs-me/){:target="_blank"} by Paul Seaman
@@ -1002,7 +978,6 @@ What to learn more about storytelling? Have a look [here](/Storytelling/){:targe
     -   [Learn to Program: The Fundamentals](https://www.coursera.org/course/programming1){:target="_blank"}
     -   [Code Yourself! An Introduction to Programming](https://www.coursera.org/learn/intro-programming){:target="_blank"}
 -   Learn coding by playing a game: [CodeCombat](https://codecombat.com/){:target="_blank"}
--   [Selenium Documentation](https://docs.seleniumhq.org/docs/){:target="_blank"}
 -   [Selenium WebDriver API Introduction in Java](https://dojo.ministryoftesting.com/series/selenium-webdriver-api-introduction-in-java-richard-bradshaw){:target="_blank"}
     – Richard Bradshaw
 -   [Three free programming courses for testers](https://thefriendlytester.co.uk/2017/08/three-free-programming-courses-for-testers){:target="_blank"}
@@ -1016,10 +991,6 @@ What to learn more about storytelling? Have a look [here](/Storytelling/){:targe
 -   [Speak Easy](https://speaking-easy.com/){:target="_blank"} – Speaker mentoring
 -   [How to get started with conference speaking](https://cultivatedmanagement.com/how-to-get-started-with-conference-speaking/)
     by Rob Lambert
--   [How to write a compelling proposal](https://weareallaweso.me/for_speakers/how-to-write-a-compelling-proposal.html){:target="_blank"}
-    by WAAA (We Are All Awesome)
--   [A View from the Chair](https://conference.eurostarsoftwaretesting.com/2013/a-view-from-the-chair-with-michael-bolton-volume-4/){:target="_blank"}
-    by Michael Bolton
 -   [Speaking at Conferences](https://www.lisihocke.com/p/speaking-at-conferences.html?m=1){:target="_blank"} by Lisi Hocke
 -   [Conference Submissions – a Personal View](https://gerrardconsulting.com/?q=node/640){:target="_blank"} by Paul Gerrard
 -   [A Four Week Approach to Creating Abstracts](https://www.thefriendlytester.co.uk/2016/02/a-four-week-approach-to-creating.html){:target="_blank"}
@@ -1031,7 +1002,6 @@ What to learn more about storytelling? Have a look [here](/Storytelling/){:targe
     Schoots & Derk-Jan de Grood
 -   [Guidelines For Submitting Talks & Workshops To TestBash](https://www.ministryoftesting.com/2015/08/guidelines-for-submitting-talks-workshops-to-testbash/){:target="_blank"}
     by Rosie Sherry
--   Tips for new speakers: [Part 1](https://rethink-testing.co.uk/?p=158){:target="_blank"} [Part 2](https://rethink-testing.co.uk/?p=163){:target="_blank"} [Part 3](https://rethink-testing.co.uk/?p=164){:target="_blank"} by Bill Matthews
 -   [An extensive list of what helped me present](https://erik.brickarp.se/2014/07/an-extensive-list-of-what-helped-me.html){:target="_blank"}
     by Erik Brickarp
 -   [Tapir Fever: A heuristic on conference speaking](https://www.houseoftest.se/2015/02/tapir-fever-heuristic-conference-speaking/){:target="_blank"}
@@ -1083,7 +1053,6 @@ What to learn more about storytelling? Have a look [here](/Storytelling/){:targe
 -   [Testing Feeds](https://www.ministryoftesting.com/testing-feeds/){:target="_blank"} by Ministry of Testing
 -   [Free Learning Resources For Software Testers](https://github.com/PaulWaltersDev/FreeLearningResourcesForSoftwareTesters#free-learning-resources-for-software-testers){:target="_blank"}
     by Paul Walters
--   [Software Testing Hotlist – Resources for Professional Software Testers](https://www.prismnet.com/~wazmo/qa/){:target="_blank"}
 -   [Publications](https://thetesteye.com/blog/publications/){:target="_blank"} by the Test Eye
 -   [Writing](https://www.developsense.com/publications.html){:target="_blank"} and
     [resources](https://www.developsense.com/resources.html#exploratory){:target="_blank"} by Michael Bolton
@@ -1122,8 +1091,6 @@ What to learn more about storytelling? Have a look [here](/Storytelling/){:targe
 -   [How to Think about Efficiency in Software Testing](https://vimeo.com/10715536){:target="_blank"} (video) by James Bach
 -   [Zappos is offering severance to employees who aren’t all in with Holacracy](https://qz.com/370616/internal-memo-zappos-is-offering-severance-to-employees-who-arent-all-in-with-holacracy/){:target="_blank"}
     by Quartz
--   [What Agile Teams Can Learn From World of Warcraft](https://testhuddle.com/resource/what-agile-teams-can-learn-from-world-of-warcraft-with-alexandra-schladebeck/){:target="_blank"}
-    (video) by Alexandra Schladebeck
 -   [Still No Silver Bullets](https://vimeo.com/106788838){:target="_blank"} (video) by Esther Derby
 -   [Change by attraction – Listening](https://changebyattraction.simplecast.com/episodes/listening){:target="_blank"} by Esther Derby
 -   [Making testing fun](https://youtu.be/IfXVEz_mMHI){:target="_blank"} (video) by Andy Zaidman
@@ -1131,14 +1098,12 @@ What to learn more about storytelling? Have a look [here](/Storytelling/){:targe
 -   [The 5 dysfunctions of a team](https://youtu.be/inftqUOLFaM){:target="_blank"} by Patrick Lencioni (video)
 -   [The power of vulnerability](https://www.ted.com/talks/brene_brown_on_vulnerability){:target="_blank"} (video) by Brené Brown
 -   [Practical Tools for Playing Well with Others](https://vimeo.com/78917211){:target="_blank"} (video) by J. B. Rainsberger
--   [Myths And Patterns Of Organizational Change](https://vimeo.com/123616200){:target="_blank"} (video) by Linda Rising
 -   [3 pearls of entrepreneurial storytelling](https://www.youtube.com/watch?v=kPXdTYt6u4E){:target="_blank"} (video) by Michael Margolis
--   [The tribes we lead](https://www.ted.com/talks/seth_godin_on_the_tribes_we_lead.html){:target="_blank"} (video) by Seth Godin
--   [Re-thinking IT](https://player.vimeo.com/video/19122939){:target="_blank"} (video) by John Seddon (also see:
-    [https://www.systemsthinking.co.uk/](https://www.systemsthinking.co.uk/){:target="_blank"})
+-   [The tribes we lead](https://www.ted.com/talks/seth_godin_the_tribes_we_lead){:target="_blank"} (video) by Seth Godin
+-   [Re-thinking IT](https://player.vimeo.com/video/19122939){:target="_blank"} (video) by John Seddon
 -   [Antifragile](https://www.youtube.com/watch?v=S3REdLZ8Xis){:target="_blank"} (video) by Nassim Nicholas Taleb
 -   [Drive – The Surprising Truth About What Motivates Us](https://www.youtube.com/watch?v=LFlvor6ZHdY){:target="_blank"} by Daniel Pink
--   [Autonomy, Mastery & Purpose](https://www.youtube.com/watch?v=wdzHgN7_Hs8){:target="_blank"} by Daniel Pink
+-   [Autonomy, Mastery & Purpose](https://youtu.be/MzXXC4MZZnY){:target="_blank"} by Daniel Pink
 -   [What is leadership](https://youtu.be/pYKH2uSax8U){:target="_blank"}? (video) by David Marquet
 -   [Why Executives See Software Testing as #EpicFail](https://www.youtube.com/watch?v=YkCLzNBPOmU){:target="_blank"} By Scott Barber
 -   [50+ Book Summaries To Help You Stay Relevant](https://www.tobysinclair.com/book-summaries){:target="_blank"} by Toby Sinclair
@@ -1151,11 +1116,9 @@ What to learn more about storytelling? Have a look [here](/Storytelling/){:targe
 -   [How to truly listen](https://www.ted.com/talks/evelyn_glennie_shows_how_to_listen){:target="_blank"} (video) by Evelyn Glennie
 -   [Want To Improve? Start With Respect](https://www.gilzilberfeld.com/2015/07/want-to-improve-start-with-respect.html){:target="_blank"}
     by Gil Zilberfeld
--   [No Estimates, Let’s Explore the Possibilities](https://vimeo.com/131194136){:target="_blank"} (video) by Woody Zuill
+-   [No Estimates, Let’s Explore the Possibilities](https://youtu.be/oHFKNvMQq8c){:target="_blank"} (video) by Woody Zuill
 -   [What Are You Measuring In Your Life?](https://jamesclear.com/measuring){:target="_blank"} by James Clear
 -   [A Culture of Trust](https://www.arielitovsky.com/blog/a-culture-of-trust/?utm_content=buffer3dcbb){:target="_blank"} by Arie Litovsky
--   [Systems Thinking in Seven Images](https://blog.cabreraresearch.org/systems-thinking-in-a-7-images){:target="_blank"} by Derek & Laura
-    Cabrera
 -   [10 top writing tips and the psychology behind them](https://withoutbullshit.com/blog/10-top-writing-tips-psychology/){:target="_blank"}
     by without bullshit
 -   [Talks on how games can improve your life](https://www.ted.com/playlists/274/talks_on_how_games_can_improve){:target="_blank"} by TED
@@ -1178,7 +1141,7 @@ What to learn more about storytelling? Have a look [here](/Storytelling/){:targe
 -   [A Tester’s Journey](https://www.lisihocke.com/){:target="_blank"} – Lisi Hocke
 -   [Hiccupps](https://qahiccupps.blogspot.com/){:target="_blank"} – James Thomas
 -   [Friendly Tester](https://thefriendlytester.co.uk/){:target="_blank"} – Richard Bradshaw
--   [The testing curve](https://j19sch.github.io/blog/){:target="_blank"} – Joep Schuurkes
+-   [The testing curve](https://smallsheds.garden/){:target="_blank"} – Joep Schuurkes
 -   [Rhythm of Testing](https://rhythmoftesting.blogspot.com/){:target="_blank"} – Pete Whalen
 -   [How do I test?](https://how-do-i-test.blogspot.com/){:target="_blank"} – Pekka Marjamäki
 -   [Toby Sinclair](https://www.tobysinclair.com/blog){:target="_blank"}
@@ -1260,8 +1223,8 @@ testing. [Here](https://www.satisfice.com/download/how-rst-is-different-from-fac
 - [Ask me anything: Test Strategy](https://club.ministryoftesting.com/t/ask-me-anything-test-strategies/36305){:target="_blank"}(Questions answered at the MoT club)
 - Two great examples of how to do analysis and create a thorough Test Strategy by Rikard Edgren: [WorkRave Test Strategy](https://thetesteye.com/examples/Example_WorkRaveTestStrategy.pdf){:target="_blank"} and [Screen Pluck Test Analysis](https://thetesteye.com/examples/ScreenPluck_TestAnalysis.pdf){:target="_blank"}
 - How to create a product coverage outline? In [this video](https://youtu.be/NUojNfDjIjw){:target="_blank"} I explain and show how you can create a PCO.
-- How to conduct [heuristic risk analysis](https://www.satisfice.com/articles/hrbt.pdf){:target="_blank"} by James Bach
-- [Reasons to Repeat tests](https://www.satisfice.com/repeatable.shtml){:target="_blank"} by James Bach
+- How to conduct [heuristic risk analysis](https://www.satisfice.com/download/heuristic-risk-based-software-testing){:target="_blank"} by James Bach
+- [Reasons to Repeat tests](https://www.satisfice.com/reasons-to-repeat-tests){:target="_blank"} by James Bach
 - [When do we stop? Are we there yet?](https://www.annemariecharrett.com/yet/){:target="_blank"} by Anne-Marie Charrett
 - [When do we stop a test?](https://developsense.com/blog/2009/09/when-do-we-stop-test){:target="_blank"} by Michael Bolton
 
