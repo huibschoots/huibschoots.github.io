@@ -273,7 +273,7 @@ Note: list below is copied from [Elizabeth Zagroba's website](https://elizabethz
 -   [Checklists](https://testingtitbits.com/category/checklist/){:target="_blank"} by Rahul Parwal
 -   [Software Quality Characteristics](https://thetesteye.com/posters/TheTestEye_SoftwareQualityCharacteristics.pdf){:target="_blank"}
     (UK) or
-    [Software Kwaliteit Kenmerken](https://dewt.files.wordpress.com/2013/03/thetesteye_softwarekwaliteitke{:target="_blank"}nmerken1.pdf)
+    [Software Kwaliteit Kenmerken](https://dewt.wordpress.com/2013/03/21/software-quality-characteristics-of-the-test-eye-translated-into-dutch/)
     (Dutch) or find more translations [here](https://thetesteye.com/blog/publications/){:target="_blank"}
 -   [Testing Mnemonics](https://www.qualityperspectives.ca/resources_mnemonics.html){:target="_blank"}
 -   [Several Checklists](https://apps.testinsane.com/mindmaps/){:target="_blank"}
@@ -405,7 +405,6 @@ Note: list below is copied from [Elizabeth Zagroba's website](https://elizabethz
 -   [Rapid Software Testing Visualisation](https://www.linkedin.com/pulse/rapid-software-testing-visualisation-edwin-kwan){:target="_blank"} by Edwin Kwan
 -   [Rapid Software Testing, Under starters orders](https://blog.scottlogic.com/2014/05/08/rapid-software-testing.html){:target="_blank"} by Daniel McNamee
 -   [We Attended RST because we Want to Grow our Testing Skills at eBay](https://www.ilari.com/blog/files/RST.html){:target="_blank"} by Ilari Hendrik Aegerter
--   [More Thoughts on My Rapid Software Testing Class with James Bach](https://bouldertester.blogspot.nl/2013/07/more-thoughts-on-my-rapid-software.html){:target="_blank"} by Teri Charles
 -   [Rapid Software Testing – a Review](https://www.pqatesting.com/our_ideas/blog/rapid_software_testing_a_review/){:target="_blank"} by Kevin McKay
 -   [James Bach geeft Rapid Software Testing-training](https://www.computable.nl/artikel/expertverslag/development/4748732/1277180/james-bach-geeft-rapid-software-testingtraining.html){:target="_blank"} by Robert Lourens (Dutch)
 
@@ -576,11 +575,9 @@ Note: list below is copied from [Elizabeth Zagroba's website](https://elizabethz
     by Johanna Rothman
 -   The RST agile testing quadrants – [Part 1](https://youtu.be/WYZDvSOW8lw){:target="_blank"} – [Part 2](https://youtu.be/N3eWh4A1K-c){:target="_blank"} –
     [Part 3](https://youtu.be/eVyYyAsG8x4){:target="_blank"} (video) by Michael Bolton
--   [A tester’s view on James Bach’s presentation ‘The REAL Agile Testing Quadrants’](https://assurity.co.nz/community/big-thoughts/a-testers-view-on-james-bachs-presentation-the-real-agile-testing-quadrants/){:target="_blank"}
-    by Calum McHaffie
 -   [What’s More Important: Being Agile or Creating Value?](https://www.youtube.com/watch?v=Xvg8Lnh2tXE&feature=share&list=UUKoNN5nhBF3p9L0NkxQpz5g){:target="_blank"}
     (video) by Johathan Kohl
--   [Testing in an agile software development team?](https://youtu.be/vqwyMaHcjQ){:target="_blank"} (video) by James Bach
+-   [Testing in an agile software development team?](https://youtu.be/vqwyMaHcjQE){:target="_blank"} (video) by James Bach
 -   [Agile Testing](https://www.youtube.com/watch?v=bqrOnIECCSg){:target="_blank"} (video) by Elisabeth Hendrickson
 -   [Testing Lessons from Extreme Programmers](https://www.youtube.com/watch?v=iu5WB-NvHFc&feature=share&list=UUKoNN5nhBF3p9L0NkxQpz5g){:target="_blank"}
     (video) by Elisabeth Hendrickson
@@ -1247,7 +1244,6 @@ testing. [Here](https://www.satisfice.com/download/how-rst-is-different-from-fac
 [Dutch](https://dewt.files.wordpress.com/2013/03/thetesteye_softwarekwaliteitkenmerken1.pdf){:target="_blank"}
 
 # Exploring
-- [All roads lead to Exploratory Testing](https://www.womentesters.com/all_roads_lead_to_et/){:target="_blank"} by Alex Schladebeck
 - [Explore It? Explore It!](https://youtu.be/9FKY1Is0lgs){:target="_blank"} video by Elisabeth Hendrickson
 - [Exploratory Testing Index](https://maaretp.com/ETI.html){:target="_blank"} by Maaret Pyhäjärvi
 - [Session-based testing](https://www.satisfice.com/download/session-based-test-management){:target="_blank"} by Jon Bach
@@ -1270,7 +1266,7 @@ testing. [Here](https://www.satisfice.com/download/how-rst-is-different-from-fac
 [why Is Testing Taking So Long?](https://www.developsense.com/blog/2009/11/why-is-testing-t{:target="_blank"}aking-so-long-part-1/) by Michael Bolton
 
 # Tools
-- [Perlclip](https://www.satisfice.com/tools.shtml){:target="_blank"} by James Bach
+- [Perlclip](https://www.satisfice.com/download/perlclip){:target="_blank"} by James Bach
 - More tools [here](#tools){:target="_blank"} 
 
 # Getting better
