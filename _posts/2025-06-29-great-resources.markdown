@@ -863,7 +863,6 @@ What to learn more about storytelling? Have a look [here](/Storytelling/){:targe
 -   [Learning how to learn](https://youtu.be/O96fE1E-rf8){:target="_blank"} (video) by Barbara Oakley
 -   [Learning How to Learn: Powerful mental tools to help you master tough subjects](https://www.coursera.org/learn/learning-how-to-learn){:target="_blank"}
     (MOOC)
-- [8 Tips for Learning a New Skill](8-lessons-learning-develop-new-skill-without-giving-part-1/){:target="_blank"}
 -   [How to Acquire Any New Skill in 20 Hours or Less](https://www.iwillteachyoutoberich.com/blog/how-to-acquire-any-new-skill-in-20-hours-or-less/){:target="_blank"}
     by Josh Kaufman
 -   [30 Tips for Learning Any Skill Faster](https://daringtolivefully.com/how-to-learn-any-skill-faster){:target="_blank"} by Marelisa
