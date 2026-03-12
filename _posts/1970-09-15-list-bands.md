@@ -10,7 +10,7 @@ image:
 
 [Photo by Pexels](https://pixabay.com/users/pexels-2286921/){:target="_blank"}
 
-Prog rock:
+**Prog rock:**
 - Marillion
 - Fish
 - Procupine Tree
@@ -50,7 +50,7 @@ Prog rock:
 - Flying Colors
 - Peter Gabriel
 
-Prog Metal:
+**Prog Metal:**
 - Nightwish
 - Symphony X
 - Rhapsody of Fire
@@ -68,7 +68,7 @@ Prog Metal:
 - Katatonia
 - Stratovarius
 
-Rock:
+**Rock:**
 - Queen
 - Muse
 - Prince
@@ -91,7 +91,7 @@ Rock:
 - Anouk
 - The Scene
 
-Metal:
+**Metal:**
 - Iron Maiden
 - Guin 'n' Roses
 - Metallica
@@ -102,7 +102,7 @@ Metal:
 - Bruce Dickinson
 - AC/DC
 
-Poppy:
+**Poppy:**
 - The Beatles
 - Simon & Garfunkel
 - Phil Collins
