@@ -8,6 +8,7 @@ I love lists. Here are some:
 
 -   [Albums](/posts/list-albums/)
 -   [Awesome places I have been to and places I want to visit](/posts/list-travel)
+-   [Bands I like](/posts/lists-bands/)  
 -   [Board & Card Games](/posts/list-boardgames/)
 -   [Books](/posts/list-books/)
 -   [Computer Games](/posts/list-computergames/)
@@ -18,3 +19,4 @@ I love lists. Here are some:
 -   [Songs](/posts/list-songs/)
 -   [TV Series](/posts/list-series)
 -   More to come!
+  
