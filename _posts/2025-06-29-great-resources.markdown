@@ -13,7 +13,7 @@ image:
 
 <blockquote class="prompt-info">On this page you will find Great Resources on Software Testing and Quality Engineering I recommend. Do you know a great resource that should be here? Let me know via LinkedIn or e-mail. Contacts are at the bottom of the left sidebar.</blockquote>
     
-Last update 28 June 2025
+Last update 20 March 2026
 
 ### Testing & What is Testing
 
@@ -1017,6 +1017,7 @@ What to learn more about storytelling? Have a look [here](/Storytelling/){:targe
 
 -   [Tutorial on crafting your own tools](https://www.workroom-productions.com/crafting-custom-tools/){:target="_blank"} by James Lyndsay, Bart Knaack and Huib Schoots
 -   [Testing Tooling Directory](https://docs.google.com/spreadsheets/d/1RWq7Zt10Xa2C6rigdwLrSEcMNURMzI_3XLeAnwUvjN8/edit?gid=0#gid=0){:target="_blank"} by Rahul Parwal
+-   [Rapid Reporter - A great tool to log Exploratory notes](https://github.com/deefex/rapid-reporter) by Del Dewar
 -   [Heuristics for Evaluating Testing Tools](https://www.developsense.com/resource/RapidSoftwareTestingHeuristicsForEvaluatingTestingTools.pdf){:target="_blank"} by James Bach and Michael Bolton
 -   [Apps & Software Alternatives](https://alternativeto.net/){:target="_blank"}
 -   [Faker - A Python (PHP, Perl or Ruby) package that generates fake data for you](https://faker.readthedocs.io/en/master/){:target="_blank"}
