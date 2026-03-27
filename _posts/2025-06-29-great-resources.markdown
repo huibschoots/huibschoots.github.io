@@ -13,7 +13,7 @@ image:
 
 <blockquote class="prompt-info">On this page you will find Great Resources on Software Testing and Quality Engineering I recommend. Do you know a great resource that should be here? Let me know via LinkedIn or e-mail. Contacts are at the bottom of the left sidebar.</blockquote>
     
-Last update 20 March 2026
+Last update 27 March 2026
 
 ### Testing & What is Testing
 
@@ -138,24 +138,36 @@ Last update 20 March 2026
 
 ### Learning to test : Websites
 
-Note: list below is copied from [Elizabeth Zagroba's website](https://elizabethzagroba.com/pages/resources/)
+Note: list below is copied from [Elizabeth Zagroba's website](https://elizabethzagroba.com/pages/resources/){:target="_blank"}
 
-- [Awesome sitges to test on](https://github.com/BMayhew/awesome-sites-to-test-on)
+- [Awesome sitges to test on](https://github.com/BMayhew/awesome-sites-to-test-on){:target="_blank"}
 - [Evil Tester Applications](https://eviltester.github.io/TestingApp/apps/index.html)
-- [Emily Bache's Strange Characters Test Design Kata](https://github.com/emilybache/StrangeCharacters-TestDesign-Kata)
-- [httpbin](https://httpbin.org/)
-- [Integer Exposed](https://integer.exposed/)
-- [James Lyndsay's Black Box Puzzles](https://blackboxpuzzles.workroomprds.com/)
-- [JSON Placeholder](https://jsonplaceholder.typicode.com/)
-- [Random User Generator](https://randomuser.me/)
-- [React - TodoMVC](https://demo.playwright.dev/todomvc/#/)
-- [Restful Booker](https://restful-booker.herokuapp.com/)
-- [Selenium Test Pages](https://testpages.herokuapp.com/styled/index.html)
-- [Universal Paperclips](https://www.decisionproblem.com/paperclips/)
-- [Welcome to the-internet](https://the-internet.herokuapp.com/)
-- [Zippotam.us](https://zippopotam.us/)
+- [Emily Bache's Strange Characters Test Design Kata](https://github.com/emilybache/StrangeCharacters-TestDesign-Kata){:target="_blank"}
+- [httpbin](https://httpbin.org/){:target="_blank"}
+- [Integer Exposed](https://integer.exposed/){:target="_blank"}
+- [James Lyndsay's Black Box Puzzles](https://blackboxpuzzles.workroomprds.com/){:target="_blank"}
+- [JSON Placeholder](https://jsonplaceholder.typicode.com/){:target="_blank"}
+- [Random User Generator](https://randomuser.me/){:target="_blank"}
+- [React - TodoMVC](https://demo.playwright.dev/todomvc/#/){:target="_blank"}
+- [Restful Booker](https://restful-booker.herokuapp.com/){:target="_blank"}
+- [Selenium Test Pages](https://testpages.herokuapp.com/styled/index.html){:target="_blank"}
+- [Universal Paperclips](https://www.decisionproblem.com/paperclips/){:target="_blank"}
+- [Welcome to the-internet](https://the-internet.herokuapp.com/){:target="_blank"}
+- [Zippotam.us](https://zippopotam.us/){:target="_blank"}
 
 ---
+
+### Great Examples
+
+- [RST Artifacts: The Student Work of Cristina Sipos](https://www.satisfice.com/rst-artifacts-the-student-work-of-cristina-sipos){:target="_blank"}
+- Two great examples by Rikard Edgren:
+    - [WorkRave Test Strategy](https://thetesteye.com/examples/Example_WorkRaveTestStrategy.pdf){:target="_blank"}
+    - [Screen Pluck Test Analysis](https://thetesteye.com/examples/ScreenPluck_TestAnalysis.pdf){:target="_blank"}
+- [RST Appendices](https://www.satisfice.com/download/rst-appendices){:target="_blank"} is full of (sometimes old but still useful) examples and articles.
+
+---
+
+
 ### Hiring (testers)
 
 -   [How to Find, Interview and Hire Great Software Testers](https://www.testrail.com/blog/interview-recruit-testers/){:target="_blank"} by Simon Knight
@@ -526,6 +538,7 @@ Note: list below is copied from [Elizabeth Zagroba's website](https://elizabethz
     -   [Analyses Sessions](https://simonsaysnomore.wordpress.com/2016/10/02/session-based-test-analysis-session/){:target="_blank"}
     -   [Deep Coverage Sessions](https://simonsaysnomore.wordpress.com/2016/11/27/session-based-test-deep-coverage-session/){:target="_blank"}
     -   [Closure Sessions](https://simonsaysnomore.wordpress.com/2016/12/27/session-based-test-closure-session/){:target="_blank"}
+- [Exploratory Testing Charters](https://www.kenst.com/exploratory-testing-charters/){:target="_blank"} by Chris Kenst
 
 ---
 
