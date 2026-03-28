@@ -62,7 +62,9 @@ Critical thinking is fragile. Fatigue, group pressure, overconfidence, tool wors
 
 In the end, critical thinking is not about being negative, slow, or difficult. It is about being honest in complex situations where easy answers are seductive and often wrong.
 
-[^1]: - [Generative AI and misinformation: a scoping review of the role 
+[^1]: Studies:
+
+- [Generative AI and misinformation: a scoping review of the role 
 of generative AI in the generation, detection, mitigation, and impact 
 of misinformation](https://link.springer.com/content/pdf/10.1007/s00146-025-02620-3.pdf){:target="_blank"}
 - [Can LLM-Generated Misinformation Be Detected?](https://arxiv.org/abs/2309.13788){:target="_blank"}
@@ -70,7 +72,9 @@ of misinformation](https://link.springer.com/content/pdf/10.1007/s00146-025-0262
 - [What psychological factors make people susceptible to believe and act on misinformation?](https://www.apa.org/topics/journalism-facts/misinformation-belief-action){:target="_blank"}
 - [Large language models and misinformation](https://www.thelancet.com/journals/landig/article/PIIS2589-7500%2825%2900157-8/fulltext){:target="_blank"}
 
-[^2]: - [Humans and automation: Use, misuse, disuse, abuse](https://web.mit.edu/16.459/www/parasuraman.pdf){:target="_blank"}
+[^2]: Research:
+
+- [Humans and automation: Use, misuse, disuse, abuse](https://web.mit.edu/16.459/www/parasuraman.pdf){:target="_blank"}
 - [The Impact of Generative AI on Critical Thinking: Self-Reported
 Reductions in Cognitive Effort and Confidence Effects From a
 Survey of Knowledge Workers](https://www.microsoft.com/en-us/research/wp-content/uploads/2025/01/lee_2025_ai_critical_thinking_survey.pdf){:target="_blank"}
