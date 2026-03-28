@@ -37,9 +37,9 @@ Critical thinking also helps learning. Instead of repeating information or follo
 ## Critical thinking and AI
 With the rise of AI, critical thinking has become even more important, not less. Modern AI systems can produce fluent, confident, and persuasive outputs at massive scale. They generate text, images, and analyses that often look authoritative, even when they are incomplete, biased, or wrong. This increases the risk that people confuse plausibility with correctness and outsource judgment rather than exercising it themselves.
 
-AI also accelerates the spread of misinformation. Studies[^1] show that generative systems can amplify misleading narratives by exploiting human cognitive biases and emotional triggers, while making falsehoods harder to distinguish from well‑supported claims. In such an environment, the ability to critically evaluate sources, question outputs, and verify claims becomes a form of cognitive self‑defense.
+AI also accelerates the spread of misinformation. Studies (see (1) Studies in [sources](/posts/critical%20thinking#sources) below) show that generative systems can amplify misleading narratives by exploiting human cognitive biases and emotional triggers, while making falsehoods harder to distinguish from well‑supported claims. In such an environment, the ability to critically evaluate sources, question outputs, and verify claims becomes a form of cognitive self‑defense.
 
-Another risk introduced by AI is over‑reliance. Research[^2] in education and cognitive science indicates that when people trust AI too readily, they are less likely to engage in reflective reasoning themselves. The more confident the system appears, the easier it becomes to skip the effortful work of thinking—leading to weaker judgment, reduced learning, and diminished intellectual independence.
+Another risk introduced by AI is over‑reliance. Research (see (2) Research in [sources](/posts/critical%20thinking#sources) below in education and cognitive science indicates that when people trust AI too readily, they are less likely to engage in reflective reasoning themselves. The more confident the system appears, the easier it becomes to skip the effortful work of thinking—leading to weaker judgment, reduced learning, and diminished intellectual independence.
 
 In the age of AI, critical thinking shifts from producing answers to evaluating answers. Humans increasingly act as judges of outputs rather than generators of raw content. This requires stronger, not weaker, skills in skepticism, contextual reasoning, and self‑regulation. Without critical thinking, AI becomes a persuasive authority. With it, AI becomes a powerful but fallible tool that can be questioned, corrected, and used responsibly. 
 
@@ -62,7 +62,9 @@ Critical thinking is fragile. Fatigue, group pressure, overconfidence, tool wors
 
 In the end, critical thinking is not about being negative, slow, or difficult. It is about being honest in complex situations where easy answers are seductive and often wrong.
 
-[^1]: Studies:
+## Sources
+
+** (1) Studies:**
 
 - [Generative AI and misinformation: a scoping review of the role 
 of generative AI in the generation, detection, mitigation, and impact 
@@ -72,7 +74,7 @@ of misinformation](https://link.springer.com/content/pdf/10.1007/s00146-025-0262
 - [What psychological factors make people susceptible to believe and act on misinformation?](https://www.apa.org/topics/journalism-facts/misinformation-belief-action){:target="_blank"}
 - [Large language models and misinformation](https://www.thelancet.com/journals/landig/article/PIIS2589-7500%2825%2900157-8/fulltext){:target="_blank"}
 
-[^2]: Research:
+** (2) Research:**
 
 - [Humans and automation: Use, misuse, disuse, abuse](https://web.mit.edu/16.459/www/parasuraman.pdf){:target="_blank"}
 - [The Impact of Generative AI on Critical Thinking: Self-Reported
