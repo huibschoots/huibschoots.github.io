@@ -83,6 +83,7 @@ Survey of Knowledge Workers](https://www.microsoft.com/en-us/research/wp-content
 Future of Critical Thinking](https://traindy.io/wp-content/uploads/2025/01/2025-AI-and-Critical-Thinking.pdf){:target="_blank"}
 
 
+
 <script src="https://giscus.app/client.js"
         data-repo="huibschoots/huibschoots.github.io"
         data-repo-id="R_kgDOQSZ_8w"
