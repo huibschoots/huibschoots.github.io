@@ -1,7 +1,7 @@
 ---
 title: Creating a Test Strategy
 date: 2018-10-9 00:00:00 +0100
-categories: [test strategy]
+categories: [Test Strategy]
 tags: rapidtesting productanalysis strategy riskanalysis reporting    # TAG names should always be lowercase
 <!-- pin: true -->
 image:

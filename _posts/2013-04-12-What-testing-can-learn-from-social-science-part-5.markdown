@@ -1,7 +1,7 @@
 ---
 title: What testing can learn from social science – Part 5
 date: 2013-04-12 00:00:00 +0100
-categories: [socialscience]
+categories: [Social Science]
 tags: context-driven exploratorytesting rapidtesting socialscience # TAG names should always be lowercase
 image:
     path: /assets/img/anthropologist.png

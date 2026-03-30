@@ -1,7 +1,7 @@
 ---
 title: Context-driven (presentation) heuristics
 date: 2013-12-06 00:00:00 +0100
-categories: [presenting]
+categories: [Context-driven]
 tags: conference contextdriven presenting DEWT # TAG names should always be lowercase
 image:
     path: /assets/img/cdt-heuristics.png

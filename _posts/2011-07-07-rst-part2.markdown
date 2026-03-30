@@ -1,7 +1,7 @@
 ---
 title: RST – Part 2
 date: 2011-07-07 00:00:00 +0100
-categories: [skills]
+categories: [RST]
 tags: skills # TAG names should always be lowercase
 image:
     path: /assets/img/rst2.png

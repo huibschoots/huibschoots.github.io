@@ -1,7 +1,7 @@
 ---
 title: Considerations when testing a software application in a context-driven way
 date: 2018-10-29 00:00:00 +0100
-categories: [Strategy]
+categories: [Test Strategy]
 tags: agile conference rapidtesting skills strategy pco reporting    # TAG names should always be lowercase
 <!-- pin: true -->
 image:

@@ -1,7 +1,7 @@
 ---
 title: On the scale of Context-driven…
 date: 2013-01-07 00:00:00 +0100
-categories: [context-driven]
+categories: [Context-driven]
 tags: contextdriven ideas thoughts visualization # TAG names should always be lowercase
 image:
     path: /assets/img/cdtcont.png

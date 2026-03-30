@@ -1,7 +1,7 @@
 ---
 title: 7 Rules for Positive, Productive Change – a book review?
 date: 2020-05-17 00:00:00 +0100
-categories: [Change]
+categories: [Books]
 tags: change experiment agile coaching learning organisation skills # TAG names should always be lowercase
 <!-- pin: false -->
 image:

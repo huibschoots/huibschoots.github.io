@@ -1,7 +1,7 @@
 ---
 title: Context Driven Clichés
 date: 2016-07-04 00:00:00 +0100
-categories: [Skills]
+categories: [Context-driven]
 tags: skills learning training growth   # TAG names should always be lowercase
 <!-- pin: true -->
 image:

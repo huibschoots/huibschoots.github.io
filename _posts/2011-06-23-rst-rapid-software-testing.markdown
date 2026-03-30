@@ -1,7 +1,7 @@
 ---
 title: RST – Rapid Software Testing
 date: 2011-06-23 00:00:00 +0100
-categories: [skills]
+categories: [RST]
 tags: skills # TAG names should always be lowercase
 image:
     path: /assets/img/rst.png
