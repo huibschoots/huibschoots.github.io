@@ -108,6 +108,6 @@ The in next blog we will dive into learning.
     Source: [Rapid Software Testing Website](https://rapid-software-testing.com/){:target="_blank"}
 
 [^2]:
-    (Daniel Kahneman)[https://en.wikipedia.org/wiki/Daniel_Kahneman]{:target="_blank"} was an Israeli-American psychologist best known for his work on the psychology of judgment and decision-making as well as behavioral economics, for which he was awarded the 2002 Nobel Memorial Prize in Economic Sciences together with Vernon L. Smith.
+    Daniel Kahneman was an Israeli-American psychologist best known for his work on the psychology of judgment and decision-making as well as behavioral economics, for which he was awarded the 2002 Nobel Memorial Prize in Economic Sciences together with Vernon L. Smith.
 
-    In (Thinking, Fast and Slow)[https://en.wikipedia.org/wiki/Thinking,_Fast_and_Slow]{:target="_blank"}, Daniel Kahneman describes two distinct modes of thinking: System 1, which is fast, intuitive, and emotional, and System 2, which is slower, effortful, and logical.
+    In his book "Thinking, Fast and Slow" Daniel Kahneman describes two distinct modes of thinking: System 1, which is fast, intuitive, and emotional, and System 2, which is slower, effortful, and logical.
