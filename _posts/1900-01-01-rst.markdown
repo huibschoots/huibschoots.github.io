@@ -10,7 +10,7 @@ image:
 
 
 - 1.4 Test & Check<br>
-(https://www.centraalbeheer.nl/verzekeringen/autoverzekering)[https://www.centraalbeheer.nl/verzekeringen/autoverzekering]{:target="_blank"}
+[https://www.centraalbeheer.nl/verzekeringen/autoverzekering](https://www.centraalbeheer.nl/verzekeringen/autoverzekering){:target="_blank"}
 
 - 3.3 Test Ideas<br>
     - Car insurance<br>
