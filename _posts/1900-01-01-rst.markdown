@@ -1,0 +1,43 @@
+---
+title: Rapid Software Testing
+description: RST link list for training purposes
+date: 1970-05-06 00:00:02 +0100
+categories:
+tags: # TAG names should always be lowercase
+image:
+    path: /assets/img/links.png
+---
+
+
+- 1.4 Test & Check
+(https://www.centraalbeheer.nl/verzekeringen/autoverzekering)[https://www.centraalbeheer.nl/verzekeringen/autoverzekering]{:target="_blank"}
+
+- 3.3 Test Ideas
+    - Car insurance
+    (https://www.centraalbeheer.nl/verzekeringen/autoverzekering)[https://www.centraalbeheer.nl/verzekeringen/autoverzekering]{:target="_blank"}
+    - Web shop
+    (https://www.demoblaze.com/)[https://www.demoblaze.com/]{:target="_blank"}
+    - Online Gantt
+    (https://www.onlinegantt.com/)[https://www.onlinegantt.com/]{:target="_blank"}
+    - HRM Software
+    (https://opensource-demo.orangehrmlive.com/)[https://opensource-demo.orangehrmlive.com/]{:target="_blank"}
+    - Hotel
+    (https://hotel-example-site.takeyaqa.dev/en-US/)[https://hotel-example-site.takeyaqa.dev/en-US/]{:target="_blank"}
+    - Bank
+    (https://demo.testfire.net/)[https://demo.testfire.net/]{:target="_blank"}
+
+- 4.3 Product Coverage Outline
+(https://demowebshop.tricentis.com/)[https://demowebshop.tricentis.com/]{:target="_blank"}
+
+- 4.5 Risk Analysis
+(https://demowebshop.tricentis.com/)[https://demowebshop.tricentis.com/]{:target="_blank"}
+
+- 5.1 Test Strategy
+(https://demowebshop.tricentis.com/)[https://demowebshop.tricentis.com/]{:target="_blank"}
+
+- 5.4 When to Stop
+(https://www.shino.de/parkcalc/)[https://www.shino.de/parkcalc/]{:target="_blank"}
+
+- 6.3 Bug Reports
+(https://www.shino.de/parkcalc/)[https://www.shino.de/parkcalc/]{:target="_blank"}
+
