@@ -13,7 +13,7 @@ image:
 
 <blockquote class="prompt-info">On this page you will find Great Resources on Software Testing and Quality Engineering I recommend. Do you know a great resource that should be here? Let me know via LinkedIn or e-mail. Contacts are at the bottom of the left sidebar.</blockquote>
     
-Last update 27 March 2026
+Last update 22 April 2026
 
 ### Testing & What is Testing
 
@@ -767,6 +767,7 @@ What to learn more about storytelling? Have a look [here](/Storytelling/){:targe
 
 ### Complexity & Cynefin
 
+-   [Making sense of Software Testing using Cynefin](https://sensing-ontologies.com/making-sense-of-software-testing-using-cynefin/){:target="_blank"} by Marius Frâncu 
 -   [Introduction to Cynefin](https://thecynefin.co/about-us/about-cynefin-framework/){:target="_blank"} by Dave Snowden
 -   [Cynefin for Software Testers](https://www.associationforsoftwaretesting.org/2017/06/11/cynefin-and-software-testing-part-1-james-christie/){:target="_blank"} by James Christie
 -   [Cynefin In Software Testing](https://www.duncannisbet.co.uk/cynefin-in-software-testing){:target="_blank"} by Duncan Nisbet
