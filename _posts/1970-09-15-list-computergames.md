@@ -17,18 +17,19 @@ image:
 - Far Cry series
 - Horizon Zero Down
 - Gran Turismo series
+- The Last of Us series
 - Hitman series
-- Hogwarts Legacy
-- Warcraft
 - World of Warcraft
+- Warcraft
+- Company of heroes
 - Counter strike
 - Civilazation
-- Company of heroes
 - LEGO Star Wars
-- The Last of Us series
 - Red Dead Redemption
 - Call of Duty
 - Battlefield
+- Hogwarts Legacy
+- Uncharted series
 - Duke Nukem
 - Wolfenstein
 - The Sims
@@ -36,7 +37,6 @@ image:
 - Command & Conquer
 - Dune
 - Donkey Kong
-- Uncharted series
 - Hyper Olympics
 - Mario Kart
 - Super Mario Series
