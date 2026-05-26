@@ -13,7 +13,7 @@ image:
 
 <blockquote class="prompt-info">On this page you will find Great Resources on Software Testing and Quality Engineering I recommend. Do you know a great resource that should be here? Let me know via LinkedIn or e-mail. Contacts are at the bottom of the left sidebar.</blockquote>
     
-Last update 22 April 2026
+Last update 26 Mei 2026
 
 ### Testing & What is Testing
 
