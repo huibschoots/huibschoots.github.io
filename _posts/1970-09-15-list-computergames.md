@@ -30,18 +30,30 @@ image:
 - Battlefield
 - Hogwarts Legacy
 - Uncharted series
+- The Sims
+
+
+Old School:
 - Duke Nukem
 - Wolfenstein
-- The Sims
+- Doom
+- Max Payne
 - The eye of the beholder
 - Command & Conquer
 - Dune
 - Donkey Kong
+- Ms Pacman
 - Hyper Olympics
+- SimCity
 - Mario Kart
 - Super Mario Series
 - Football Manager
+- Mortal Kombat
+- Tekken
 - International Karate
 - Worms
 - Prison Architect
 - Rollercoaster Tycoon
+- Sonic The Hedgehog
+- Leisure Suit Larry
+- Pong
