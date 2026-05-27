@@ -52,320 +52,320 @@ My mentors over the years... With the risk (or probably the fact) that I will fo
 
 ## My mentors list:
 
-A
----
-Aaron Hodder
-Abby Bangser
-Adam White
-Adrian Canlon
-Ajay Balamurugadas
-Alan Page
-Alan Richardson
-Alessandra Moreira
-Alex Schladebeck
-Amanda van der Meeren
-Andrea Schoonheim
-Anko Tijman
-Anne Colder
-Anne-Marie Charrett
-Angie Jones
-Angela van Son
-Anna Royzman
-Ard Kramer
-Arjen Verweij
-Ash Hynie Coleman
-Ashley Hunsberger
-Ash Winter
-Aty Boers
+A<br>
+---<br>
+Aaron Hodder<br>
+Abby Bangser<br>
+Adam White<br>
+Adrian Canlon<br>
+Ajay Balamurugadas<br>
+Alan Page<br>
+Alan Richardson<br>
+Alessandra Moreira<br>
+Alex Schladebeck<br>
+Amanda van der Meeren<br>
+Andrea Schoonheim<br>
+Anko Tijman<br>
+Anne Colder<br>
+Anne-Marie Charrett<br>
+Angie Jones<br>
+Angela van Son<br>
+Anna Royzman<br>
+Ard Kramer<br>
+Arjen Verweij<br>
+Ash Hynie Coleman<br>
+Ashley Hunsberger<br>
+Ash Winter<br>
+Aty Boers<br>
 
-B
----
-Bart Bouwers
-Bart Broekman
-Bart Knaack
-Bas Dijkstra
-Bas Hammendorp
-Ben Kelly
-Ben Simo
-Ben ter Horst
-Beren van Daele
-Bernd Beersma
-Bill Matthews
-Bob van der Burgt
-Boyd Kronenberg
-Bram van den Berg
+B<br>
+---<br>
+Bart Bouwers<br>
+Bart Broekman<br>
+Bart Knaack<br>
+Bas Dijkstra<br>
+Bas Hammendorp<br>
+Ben Kelly<br>
+Ben Simo<br>
+Ben ter Horst<br>
+Beren van Daele<br>
+Bernd Beersma<br>
+Bill Matthews<br>
+Bob van der Burgt<br>
+Boyd Kronenberg<br>
+Bram van den Berg<br>
 
-C
----
-Carlo van der Ven
-Carsten Feilberg
-Chris Armstrong
-Chris Noordam
-Christin Wiedemann
-Christina Davidian
-Clema van Beurden
-Cirilo Wortel
+C<br>
+---<br>
+Carlo van der Ven<br>
+Carsten Feilberg<br>
+Chris Armstrong<br>
+Chris Noordam<br>
+Christin Wiedemann<br>
+Christina Davidian<br>
+Clema van Beurden<br>
+Cirilo Wortel<br>
 
-D
----
-Daan van Osch
-Damian Synadinos
-Dan Ashby
-Daniel Wiersma
-Dawn Hayes
-David Evans
-Dennis Janssen
-Denny van Kleef
-Derk-Jan de Grood
-Dimitri Fioole
-Duncan Nisbet
-Dwayne Green
+D<br>
+---<br>
+Daan van Osch<br>
+Damian Synadinos<br>
+Dan Ashby<br>
+Daniel Wiersma<br>
+Dawn Hayes<br>
+David Evans<br>
+Dennis Janssen<br>
+Denny van Kleef<br>
+Derk-Jan de Grood<br>
+Dimitri Fioole<br>
+Duncan Nisbet<br>
+Dwayne Green<br>
 
-E
----
-Eddy Bruin
-Eelco Gravendeel
-Ed van Rijckevorsel
-Elisabeth Hendrickson
-Elizabeth Zagroba
-Eric Jacobson
-Eric Proegler
-Eric Schipper
-Erik Boelen
-Erik Brickarp
-Esther Derby
-Ewald Wassink
+E<br>
+---<br>
+Eddy Bruin<br>
+Eelco Gravendeel<br>
+Ed van Rijckevorsel<br>
+Elisabeth Hendrickson<br>
+Elizabeth Zagroba<br>
+Eric Jacobson<br>
+Eric Proegler<br>
+Eric Schipper<br>
+Erik Boelen<br>
+Erik Brickarp<br>
+Esther Derby<br>
+Ewald Wassink<br>
 
-F
----
-Fiona Charles
-Floor Goedemondt
-Frits Bezemer
+F<br>
+---<br>
+Fiona Charles<br>
+Floor Goedemondt<br>
+Frits Bezemer<br>
 
-G
----
-Geert Hean
-Geert Peeters
-Geoffrey van der Tas
-George Dinwiddie
-Gerard Drijfhout
-Gerben Braakman
-Gertjan Slappendel
-Giebert Schoone
-Gojko Adzic
-Grace Saija
-Griffin Jones
+G<br>
+---<br>
+Geert Haen<br>
+Geert Peeters<br>
+Geoffrey van der Tas<br>
+George Dinwiddie<br>
+Gerard Drijfhout<br>
+Gerben Braakmanv<br>
+Gertjan Slappendel<br>
+Giebert Schoone<br>
+Gojko Adzic<br>
+Grace Saija<br>
+Griffin Jones<br>
 
-H
----
-Hayo de Vries
-Helena Jeret-Mae
-Henrik Andersson
-Henrik Emilsson
+H<br>
+---<br>
+Hayo de Vries<br>
+Helena Jeret-Mae<br>
+Henrik Andersson<br>
+Henrik Emilsson<br>
 
-I
----
-Iain McCowatt
-IJsbrand Kaper
-Ilari Henrik Aegerter
-Ine ter Horst
-Iris Pinkster
-Ivo van de Heijden
+I<br>
+---<br>
+Iain McCowatt<br>
+IJsbrand Kaper<br>
+Ilari Henrik Aegerter<br>
+Ine ter Horst<br>
+Iris Pinkster<br>
+Ivo van de Heijden<br>
 
-J
----
-Jackie Frank
-Jacco de Weerdt
-Jacob Kleerekoper
-James Bach
-Jan Jaap Cannegieter
-Jan Karel Sindorff
-Jan Sleutjes
-Janet Gregory
-Janna Loeffler
-Jan-Willem Ooms
-Jean-Paul Varwijk
-Jeanne Hofmans
-Jeff Nadelman
-Jeroen Rosink
-Jeroen Smoorenburg
-Jerry Weinberg
-João Proença
-Joep Schuurkes
-Johan Ebbers
-Johan Vink
-Johanna Rothman
-John Stevenson
-Jon Bach
-Joost vd Bovenkamp
-Joost Voskuil
-Joris Meerts
-Jose Diaz
-Jurian vd Laar
+J<br>
+---<br>
+Jackie Frank<br>
+Jacco de Weerdt<br>
+Jacob Kleerekoper<br>
+James Bach<br>
+Jan Jaap Cannegieter<br>
+Jan Karel Sindorff<br>
+Jan Sleutjes<br>
+Janet Gregory<br>
+Janna Loeffler<br>
+Jan-Willem Ooms<br>
+Jean-Paul Varwijk<br>
+Jeanne Hofmans<br>
+Jeff Nadelman<br>
+Jeroen Rosink<br>
+Jeroen Smoorenburg<br>
+Jerry Weinberg<br>
+João Proença<br>
+Joep Schuurkes<br>
+Johan Ebbers<br>
+Johan Vink<br>
+Johanna Rothman<br>
+John Stevenson<br>
+Jon Bach<br>
+Joost vd Bovenkamp<br>
+Joost Voskuil<br>
+Joris Meerts<br>
+Jose Diaz<br>
+Jurian vd Laar<br>
 
-K
----
-Karen Nicole Johnson
-Karin Guldemond
-Katrina Clokie
-Kees Blokland
-Keith Klain
-Kimo Wesseling
-Kristel van Kollenburg
-Kristofffer Nordstrom
+K<br>
+---<br>
+Karen Nicole Johnson<br>
+Karin Guldemond<br>
+Katrina Clokie<br>
+Kees Blokland<br>
+Keith Klain<br>
+Kimo Wesseling<br>
+Kristel van Kollenburg<br>
+Kristofffer Nordstrom<br>
 
-L
----
-Lalitkumar Bhamare
-Laura Bronkhorst
-Lee Hawkins
-Leo van Walen
-Leon Bosma
-Leonie Bezuijen
-Leonard Trimp
-Lilian Nijboer
-Linda de Zwart
-Lisa Crispin
-Lisi Hocke
-Liz Keogh
-Lynn McKee
+L<br>
+---<br>
+Lalitkumar Bhamare<br>
+Laura Bronkhorst<br>
+Lee Hawkins<br>
+Leo van Walen<br>
+Leon Bosma<br>
+Leonie Bezuijen<br>
+Leonard Trimp<br>
+Lilian Nijboer<br>
+Linda de Zwart<br>
+Lisa Crispin<br>
+Lisi Hocke<br>
+Liz Keogh<br>
+Lynn McKee<br>
 
-M
----
-Maaike Brinkhof
-Maaret Pyhäjärvi
-Manon Marcelis-Penning
-Marcel Berlo
-Marco Jansen van Doorn
-Marco van Harn
-Maria Kedemo
-Marius Francu
-Marit Meulendijks
-Marjana Shammi
-Mark Tomlinson
-Mark Winteringham
-Markus Gartner
-Martijn Boonstra
-Martijn Ruff
-Martijn vd Haterd
-Martin Hynie
-Martin Jansson
-Martin Pol
-Marlous Joosten
-Matt Heusser
-Meike Mertsch
-Merel Bezuijen
-Michael Bolton
-Michael Kelly
-Michael Larsen
-Michiel Kraaij
-Mike Lyles
-Mike Talks
+M<br>
+---<br>
+Maaike Brinkhof<br>
+Maaret Pyhäjärvi<br>
+Manon Marcelis-Penning<br>
+Marcel Berlo<br>
+Marco Jansen van Doorn<br>
+Marco van Harn<br>
+Maria Kedemo<br>
+Marius Francu<br>
+Marit Meulendijks<br>
+Marjana Shammi<br>
+Mark Tomlinson<br>
+Mark Winteringham<br>
+Markus Gartner<br>
+Martijn Boonstra<br>
+Martijn Ruff<br>
+Martijn vd Haterd<br>
+Martin Hynie<br>
+Martin Jansson<br>
+Martin Pol<br>
+Marlous Joosten<br>
+Matt Heusser<br>
+Meike Mertsch<br>
+Merel Bezuijen<br>
+Michael Bolton<br>
+Michael Kelly<br>
+Michael Larsen<br>
+Michiel Kraaij<br>
+Mike Lyles<br>
+Mike Talks<br>
 
 N
 ---
-Nanette Aarts
-Nancy Kelln
-Neil Thompson
-Niels Maaswinkel
-Nicole Errante
+Nanette Aarts<br>
+Nancy Kelln<br>
+Neil Thompson<br>
+Niels Maaswinkel<br>
+Nicole Errante<br>
 
 O
 ---
-Onno Verdonk
+Onno Verdonk<br>
 
 P
 ---
-Pascal Dufour
-Paul Buskermolen
-Paul Gerard
-Paul Grizzaffi
-Paul Holland
-Peggy Hoogendoorn
-Pekka Marjamaki
-Pete Walen
-Peter Aarts
-Peter Paul Ooms
-Peter Schrier
-Peter Schrijver
-Peter Spelbos
-Petri Hoek
-Pieter Bakker
-Pieter Bas van den Berg
-Pieter Withaar
-Philip Hoeben
-Philip-Jan Bosch
-Prapeed Soundararajan
+Pascal Dufour<br>
+Paul Buskermolen<br>
+Paul Gerard<br>
+Paul Grizzaffi<br>
+Paul Holland<br>
+Peggy Hoogendoorn<br>
+Pekka Marjamaki<br>
+Pete Walen<br>
+Peter Aarts<br>
+Peter Paul Ooms<br>
+Peter Schrier<br>
+Peter Schrijver<br>
+Peter Spelbos<br>
+Petri Hoek<br>
+Pieter Bakker<br>
+Pieter Bas van den Berg<br>
+Pieter Withaar<br>
+Philip Hoeben<br>
+Philip-Jan Bosch<br>
+Prapeed Soundararajan<br>
 
 R
 ---
-Ralph van Roosmalen
-Ray Oei
-René Hoven
-Richard Bradshaw
-Richard Deuzeman
-Richard Scholtes
-Rien Krol
-Rik Marselis
-Rikard Edgren
-Rob Meaney
-Rob Sabourin
-Rob Schoots
-Rob Soethoudt
-Rob van Steenbergen
-Roelant Schoots
-Rozemarijn Vollebregt
-Rutger van Faasen
-Ruud Cox
-Ruud Teunissen
+Ralph van Roosmalen<br>
+Ray Oei<br>
+René Hoven<br>
+Richard Bradshaw<br>
+Richard Deuzeman<br>
+Richard Scholtes<br>
+Rien Krol<br>
+Rik Marselis<br>
+Rikard Edgren<br>
+Rob Meaney<br>
+Rob Sabourin<br>
+Rob Schoots<br>
+Rob Soethoudt<br>
+Rob van Steenbergen<br>
+Roelant Schoots<br>
+Rozemarijn Vollebregt<br>
+Rutger van Faasen<br>
+Ruud Cox<br>
+Ruud Teunissen<br>
 
 S
 ---
-Sabine Scheepstra
-Sami Söderblom
-Santhosh Tuppad
-Sander Ulrich
-Sandro Ibig
-Sandor Penninga
-Santhosh Tuppad
-Sanne Visser
-Scott Barber
-Selena Delesie
-Sigge Birgisson
-Simon Knight
-Sophie Küster
-Steve Green
-Steven Smith
-Suzanne Kraaij
+Sabine Scheepstra<br>
+Sami Söderblom<br>
+Santhosh Tuppad<br>
+Sander Ulrich<br>
+Sandro Ibig<br>
+Sandor Penninga<br>
+Santhosh Tuppad<br>
+Sanne Visser<br>
+Scott Barber<br>
+Selena Delesie<br>
+Sigge Birgisson<br>
+Simon Knight<br>
+Sophie Küster<br>
+Steve Green<br>
+Steven Smith<br>
+Suzanne Kraaij<br>
 
 T
 ---
-Tanja Vos
-Theo van Rijn
-Timothy Algera
-Tinus Vellekoop
-Tony Bruce
-Trish Khoo
+Tanja Vos<br>
+Theo van Rijn<br>
+Timothy Algera<br>
+Tinus Vellekoop<br>
+Tony Bruce<br>
+Trish Khoo<br>
 
 U
 ---
-Uwe Gelfert
+Uwe Gelfert<br>
 
 V
 ---
-Vernon Richards
-Vincent Wijnen
+Vernon Richards<br>
+Vincent Wijnen<br>
 
 W
 ---
-Walter Kraan
-Wayne Roseberry
-Wim Heemskerk
-Wouter Ruigrok
+Walter Kraan<br>
+Wayne Roseberry<br>
+Wim Heemskerk<br>
+Wouter Ruigrok<br>
 
 Z
 ---
-Zeger van Hese
+Zeger van Hese<br>
 
 <script src="https://giscus.app/client.js"
         data-repo="huibschoots/huibschoots.github.io"
