@@ -969,7 +969,7 @@ What to learn more about storytelling? Have a look [here](/Storytelling/){:targe
 -   [Some thoughts on the future of test automation](https://www.ontestautomation.com/some-thoughts-on-the-future-of-test-automation/){:target="_blank"} by Bas Dijkstra
 -   [On becoming a test automation craftsman](https://www.ontestautomation.com/on-becoming-a-test-automation-craftsman/){:target="_blank"} by Bas Dijkstra
 -   [So What Do You Do If You Don’t Do Testing?!](https://youtu.be/L-WOJmCcA9g){:target="_blank"} (video) by Sally Goble
--   [Integrated Tests Are A Scam](https://vimeo.com/80533536){:target="_blank"} (video) by J.B. Rainsberger
+-   [Integrated Tests Are A Scam](https://youtu.be/fhFa4tkFUFw?si=8kWjYhWSe6qoocj2){:target="_blank"} (video) by J.B. Rainsberger
 -   [How I would approach creating automated user interface-driven tests](https://www.ontestautomation.com/how-i-would-approach-creating-automated-user-interface-driven-tests/){:target="_blank"} by Bas Dijkstra
 -   [Implication of emphasis on automation in CI](https://thetesteye.com/blog/2017/03/implication-of-emphasis-on-automation-in-ci/){:target="_blank"} by Martin Jansson
 -   [Test Automation Canvas](https://katrinatester.blogspot.nl/2017/07/test-automation-canvas.html){:target="_blank"} by Katrina Clokie
