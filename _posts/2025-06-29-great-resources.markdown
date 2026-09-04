@@ -292,6 +292,7 @@ Note: list below is copied from [Elizabeth Zagroba's website](https://elizabethz
 -   [8-layer testing model](https://michaeldkelly.com/blog/2005/9/20/touring-heuristic.html){:target="_blank"}
 -   [Checklist: How To Generate Test Ideas](https://www.ministryoftesting.com/2013/12/checklist-how-to-generate-test-ideas/){:target="_blank"}
 -   [37 Sources for Test Ideas](https://thetesteye.com/posters/TheTestEye_SourcesForTestIdeas.pdf){:target="_blank"}
+-   [Big list of naughty strings](https://github.com/minimaxir/){:target="_blank"}
 
 ---
 
