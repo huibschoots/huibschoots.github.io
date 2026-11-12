@@ -2,7 +2,7 @@
 title: Lists - Inspirational Videos
 description: A list of my favorite online videos
 date: 1970-09-15 00:00:04 +0100
-categories: [lists]
+categories: [Lists]
 tags: lists 
 image:
     path: /assets/img/video.jpg

@@ -2,7 +2,7 @@
 title: ATD Scavenger List
 description: ATD Ultimate Team Game List
 date: 1970-05-06 00:00:03 +0100
-categories: [stuff]
+categories: [Stuff]
 tags: # TAG names should always be lowercase
 image:
     path: /assets/img/atd.png

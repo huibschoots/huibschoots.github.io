@@ -1,7 +1,7 @@
 ---
 title: DEWT2 was awesome!!
 date: 2012-10-09 00:00:00 +0100
-categories: [skills]
+categories: [Skills]
 tags: skills learning # TAG names should always be lowercase
 image:
     path: /assets/img/dewt2.png

@@ -1,7 +1,7 @@
 ---
 title: A new level of testing?
 date: 2015-01-24 00:00:00 +0100
-categories: [skills]
+categories: [Skills]
 tags: heuristics learning skills # TAG names should always be lowercase
 image:
     path: /assets/img/archer.png

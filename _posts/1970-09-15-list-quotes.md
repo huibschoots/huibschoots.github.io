@@ -2,7 +2,7 @@
 title: Lists - Quotes
 description: A list of my favorite quotes
 date: 1970-09-15 00:00:09 +0100
-categories: [lists]
+categories: [Lists]
 tags: lists 
 image:
     path: /assets/img/quotes.jpg

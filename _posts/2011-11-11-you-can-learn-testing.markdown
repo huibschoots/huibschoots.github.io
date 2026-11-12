@@ -1,7 +1,7 @@
 ---
 title: You can learn testing!
 date: 2011-11-11 00:00:00 +0100
-categories: [skills]
+categories: [Skills]
 tags: skills learning # TAG names should always be lowercase
 image:
     path: /assets/img/greattester2.png

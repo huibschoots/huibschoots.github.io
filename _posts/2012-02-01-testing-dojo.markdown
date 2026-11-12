@@ -1,7 +1,7 @@
 ---
 title: Testing Dojo
 date: 2012-02-01 00:00:00 +0100
-categories: [skills]
+categories: [Skills]
 tags: skills # TAG names should always be lowercase
 image:
     path: /assets/img/dojo.png

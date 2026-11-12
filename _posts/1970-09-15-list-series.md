@@ -2,7 +2,7 @@
 title: Lists - TV series
 description: A list of my favorite TV series (series, Dutch, good ol'days)
 date: 1970-09-15 00:00:05 +0100
-categories: [lists]
+categories: [Lists]
 tags: lists 
 image:
     path: /assets/img/series.jpg

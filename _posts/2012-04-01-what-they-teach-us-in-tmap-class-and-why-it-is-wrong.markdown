@@ -1,7 +1,7 @@
 ---
 title: What they teach us in TMap Class and why it is wrong!
 date: 2012-04-01 00:00:00 +0100
-categories: [skills]
+categories: [Skills]
 tags: skills # TAG names should always be lowercase
 image:
     path: /assets/img/jamestmap.png

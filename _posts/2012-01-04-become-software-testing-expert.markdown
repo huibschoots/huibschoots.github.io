@@ -1,7 +1,7 @@
 ---
 title: How to become a software testing expert?
 date: 2012-01-04 00:00:00 +0100
-categories: [skills]
+categories: [Skills]
 tags: skills # TAG names should always be lowercase
 image:
     path: /assets/img/greattester.png

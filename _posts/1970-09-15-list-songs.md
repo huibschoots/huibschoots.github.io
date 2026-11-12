@@ -2,7 +2,7 @@
 title: Lists - Songs
 description: A list of my favorite songs (International & Dutch)
 date: 1970-09-15 00:00:01 +0100
-categories: [lists]
+categories: [Lists]
 tags: lists 
 image:
     path: /assets/img/vinyl.png

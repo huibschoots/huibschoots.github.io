@@ -2,7 +2,7 @@
 title: Lists - Travel
 description: A list of my favorite destinations and a bucketlist
 date: 1970-09-15 00:00:08 +0100
-categories: [lists]
+categories: [Lists]
 tags: lists 
 image:
     path: /assets/img/travel.jpg

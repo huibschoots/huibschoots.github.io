@@ -2,7 +2,7 @@
 title: Lists - Computergames
 description: A list of my favorite computergames
 date: 1970-09-15 00:00:07 +0100
-categories: [lists]
+categories: [Lists]
 tags: lists 
 image:
     path: /assets/img/ps5.jpg

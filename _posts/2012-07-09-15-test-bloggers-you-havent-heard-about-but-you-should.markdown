@@ -1,7 +1,7 @@
 ---
 title: 15 test bloggers you haven’t heard about, but you should…
 date: 2012-07-09 00:00:00 +0100
-categories: [skills]
+categories: [Skills]
 tags: skills learning # TAG names should always be lowercase
 image:
     path: /assets/img/15blogs.png

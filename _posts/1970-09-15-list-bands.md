@@ -2,7 +2,7 @@
 title: Lists - Bands
 description: A list of bands I like
 date: 1970-09-15 00:00:11 +0100
-categories: [lists]
+categories: [Lists]
 tags: lists 
 image:
     path: /assets/img/bands.jpg

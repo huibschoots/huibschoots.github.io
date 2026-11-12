@@ -1,7 +1,7 @@
 ---
 title: What makes a good tester?
 date: 2011-12-07 00:00:00 +0100
-categories: [skills]
+categories: [Skills]
 tags: skills # TAG names should always be lowercase
 image:
     path: /assets/img/greattester3.png

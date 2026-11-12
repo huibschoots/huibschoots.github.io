@@ -1,7 +1,7 @@
 ---
 title: Adaptability vs Context-Driven
 date: 2012-06-29 00:00:00 +0100
-categories: [skills]
+categories: [Skills]
 tags: skills # TAG names should always be lowercase
 image:
     path: /assets/img/adaptorcdt.png

@@ -1,7 +1,7 @@
 ---
 title: A blog about testing? Magnifiant!
 date: 2011-06-16 00:00:00 +0100
-categories: [skills]
+categories: [Skills]
 tags: skills # TAG names should always be lowercase
 image:
     path: /assets/img/magnifiant1.png
