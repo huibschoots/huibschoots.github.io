@@ -9,6 +9,18 @@ image:
 ---
 
 
+⚠️ Scavenger Hunt Rules
+
+- No stealing. Ask before taking something that belongs to someone.
+- No breaking or dismantling things to get an item.
+- No hotel-room items. Towels, hangers, remote controls and pillows stay where they are. 😄
+- No dangerous items. Use some common sense.
+- No buying items. Finding is the whole point.
+- One item can only count once.
+- Items must physically be brought to the finish. Photos don’t count.
+- Return borrowed items to their owner afterwards.
+- When in doubt: ask the game master.
+
 1. Foreign banknote
 2. Sticky note
 3. Guitar pick
