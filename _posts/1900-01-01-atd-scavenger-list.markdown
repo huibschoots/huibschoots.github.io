@@ -9,7 +9,7 @@ image:
 ---
 
 
-⚠️ Scavenger Hunt Rules
+## Scavenger Hunt Rules ⚠️ 
 
 - No stealing. Ask before taking something that belongs to someone.
 - No breaking or dismantling things to get an item.
@@ -20,6 +20,8 @@ image:
 - Items must physically be brought to the finish. Photos don’t count.
 - Return borrowed items to their owner afterwards.
 - When in doubt: ask the game master.
+
+## The list of items to collect:
 
 1. Foreign banknote
 2. Sticky note
