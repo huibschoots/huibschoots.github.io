@@ -2,8 +2,8 @@
 title: Lists - Books
 description: A list of my favorite books (work/literature, International/Dutch)
 date: 1970-09-15 00:00:03 +0100
-categories:
-tags: # TAG names should always be lowercase
+categories: [lists]
+tags: lists 
 image:
     path: /assets/img/books.jpg
 ---

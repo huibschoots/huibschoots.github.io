@@ -2,13 +2,14 @@
 title: Lists - Travel
 description: A list of my favorite destinations and a bucketlist
 date: 1970-09-15 00:00:08 +0100
-categories:
-tags: # TAG names should always be lowercase
+categories: [lists]
+tags: lists 
 image:
     path: /assets/img/travel.jpg
 ---
 
 ## Beautiful places I have been to:
+- Namibia, Botswana, Zimbabwe
 - USA (Grand Canyon, Bryce Canyon, Death Valley)
 - Egypt & Red Sea
 - Lapland
@@ -22,10 +23,11 @@ image:
 - Portugal
 
 ## Cities:
-- New York
-- San Francisco
+- Oeteldonk
 - Sydney
 - Havana
+- New York
+- San Francisco
 - Bangkok
 - Paris
 - Berlin
@@ -41,7 +43,7 @@ image:
 - Borneo: Orangutans
 - Iceland
 - Canada: RV road trip
-- Africa: South Africa / Namibia – 4WD rooftop (going October 2026)
+- Africa: Mountain Gorillas, The Great Migration
 - New Zealand
 - Sweden & Norway – Fjords
 - Northern Australia – Camper

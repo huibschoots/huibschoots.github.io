@@ -2,7 +2,7 @@
 title: Darvin Zonvloek
 description: My D&D Clerc character!
 date: 1970-05-06 00:00:01 +0100
-categories:
+categories: [stuff]
 tags: # TAG names should always be lowercase
 image:
     path: /assets/img/Darvin as a soldier.png

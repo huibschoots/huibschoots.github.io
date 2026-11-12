@@ -2,8 +2,8 @@
 title: Lists - Restaurants & places to hang out
 description: A list of my favorite places to eat & drink
 date: 1970-09-15 00:00:10 +0100
-categories:
-tags: # TAG names should always be lowercase
+categories: [lists]
+tags: lists 
 image:
     path: /assets/img/hangout.jpg
 ---

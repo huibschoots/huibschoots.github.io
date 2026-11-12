@@ -2,8 +2,8 @@
 title: Lists - Movies
 description: A list of my favorite movies (movies & for good ol'sake)
 date: 1970-09-15 00:00:06 +0100
-categories:
-tags: # TAG names should always be lowercase
+categories: [lists]
+tags: lists 
 image:
     path: /assets/img/movies.jpg
 ---
